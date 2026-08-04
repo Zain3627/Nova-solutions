@@ -1,22 +1,20 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useActionState, useState } from "react";
+import { signupAction } from "./actions";
+import { LEAGUES } from "@/lib/leagues";
 
 type Role = "fan" | "pro";
 type Strength = "" | "weak" | "fair" | "good" | "strong";
 
 export default function SignupPage() {
-  const router = useRouter();
+  const [state, formAction, pending] = useActionState(signupAction, undefined);
 
   const [role, setRole] = useState<Role>("fan");
-  const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-  const [confirm, setConfirm] = useState("");
   const [showPw, setShowPw] = useState(false);
   const [showConfirm, setShowConfirm] = useState(false);
-  const [error, setError] = useState("");
 
   const strengthScore = (val: string) => {
     let score = 0;
@@ -30,28 +28,6 @@ export default function SignupPage() {
   const score = strengthScore(password);
   const levels: Strength[] = ["weak", "fair", "good", "strong"];
   const activeClass: Strength = score > 0 ? levels[score - 1] : "";
-
-  const handleSubmit = () => {
-    setError("");
-    if (!email.trim()) {
-      setError("Please enter your email.");
-      return;
-    }
-    if (password.length < 6) {
-      setError("Password must be at least 6 characters.");
-      return;
-    }
-    if (password !== confirm) {
-      setError("Passwords do not match.");
-      return;
-    }
-
-    // TODO: replace with a real signup API call
-    alert(
-      `Welcome aboard, ${role === "fan" ? "Casual Fan" : "Professional"}! 🎉\nAccount created for ${email}`
-    );
-    router.push("/login");
-  };
 
   return (
     <div className="signup-root">
@@ -76,90 +52,120 @@ export default function SignupPage() {
         <h1>CREATE ACCOUNT</h1>
         <p className="subtitle">Join the pitch. Choose your role below.</p>
 
-        <div className="role-label">I am a</div>
-        <div className="role-toggle">
-          <div
-            className={`role-btn ${role === "fan" ? "active" : ""}`}
-            onClick={() => setRole("fan")}
-          >
-            <span className="role-icon">🏟️</span>
-            <span className="role-title">Casual Fan</span>
-            <span className="role-desc">Follow &amp; enjoy</span>
-          </div>
-          <div
-            className={`role-btn ${role === "pro" ? "active" : ""}`}
-            onClick={() => setRole("pro")}
-          >
-            <span className="role-icon">⚽</span>
-            <span className="role-title">Professional</span>
-            <span className="role-desc">Player / Coach</span>
-          </div>
-        </div>
+        <form action={formAction} noValidate>
+          <input type="hidden" name="role" value={role} />
 
-        <div className="field">
-          <label>Email Address</label>
-          <div className="input-wrap">
-            <span className="ico">✉</span>
-            <input
-              type="email"
-              placeholder="you@example.com"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-            />
-          </div>
-        </div>
-
-        <div className="field">
-          <label>Password</label>
-          <div className="input-wrap">
-            <span className="ico">🔒</span>
-            <input
-              type={showPw ? "text" : "password"}
-              placeholder="Create a strong password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-            />
-            <button className="toggle-pw" type="button" onClick={() => setShowPw((v) => !v)}>
-              {showPw ? "🙈" : "👁"}
-            </button>
-          </div>
-          <div className="strength-bar">
-            {[0, 1, 2, 3].map((i) => (
-              <div
-                key={i}
-                className={`strength-seg ${i < score ? activeClass : ""}`}
-              />
-            ))}
-          </div>
-        </div>
-
-        <div className="field">
-          <label>Confirm Password</label>
-          <div className="input-wrap">
-            <span className="ico">🔒</span>
-            <input
-              type={showConfirm ? "text" : "password"}
-              placeholder="Re-enter your password"
-              value={confirm}
-              onChange={(e) => setConfirm(e.target.value)}
-            />
-            <button
-              className="toggle-pw"
-              type="button"
-              onClick={() => setShowConfirm((v) => !v)}
+          <div className="role-label">I am a</div>
+          <div className="role-toggle">
+            <div
+              className={`role-btn ${role === "fan" ? "active" : ""}`}
+              onClick={() => setRole("fan")}
             >
-              {showConfirm ? "🙈" : "👁"}
-            </button>
+              <span className="role-icon">🏟️</span>
+              <span className="role-title">Casual Fan</span>
+              <span className="role-desc">Follow &amp; enjoy</span>
+            </div>
+            <div
+              className={`role-btn ${role === "pro" ? "active" : ""}`}
+              onClick={() => setRole("pro")}
+            >
+              <span className="role-icon">⚽</span>
+              <span className="role-title">Professional</span>
+              <span className="role-desc">Player / Coach</span>
+            </div>
           </div>
-        </div>
 
-        {error && (
-          <p style={{ color: "#e05050", fontSize: "12.5px", marginTop: "4px" }}>{error}</p>
-        )}
+          <div className="field">
+            <label>Email Address</label>
+            <div className="input-wrap">
+              <span className="ico">✉</span>
+              <input type="email" name="email" placeholder="you@example.com" />
+            </div>
+          </div>
 
-        <button className="cta" onClick={handleSubmit}>
-          JOIN THE GAME →
-        </button>
+          {role === "pro" && (
+            <>
+              <div className="field">
+                <label>Club Name</label>
+                <div className="input-wrap">
+                  <span className="ico">🏛️</span>
+                  <input type="text" name="club_name" placeholder="e.g. FC Barcelona" />
+                </div>
+              </div>
+
+              <div className="field">
+                <label>League</label>
+                <div className="input-wrap">
+                  <span className="ico">🏆</span>
+                  <select name="league" defaultValue="">
+                    <option value="" disabled>
+                      Select a league
+                    </option>
+                    {LEAGUES.map((l) => (
+                      <option key={l.value} value={l.value}>
+                        {l.label}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+              </div>
+            </>
+          )}
+
+          <div className="field">
+            <label>Password</label>
+            <div className="input-wrap">
+              <span className="ico">🔒</span>
+              <input
+                type={showPw ? "text" : "password"}
+                name="password"
+                placeholder="Create a strong password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+              />
+              <button className="toggle-pw" type="button" onClick={() => setShowPw((v) => !v)}>
+                {showPw ? "🙈" : "👁"}
+              </button>
+            </div>
+            <div className="strength-bar">
+              {[0, 1, 2, 3].map((i) => (
+                <div
+                  key={i}
+                  className={`strength-seg ${i < score ? activeClass : ""}`}
+                />
+              ))}
+            </div>
+          </div>
+
+          <div className="field">
+            <label>Confirm Password</label>
+            <div className="input-wrap">
+              <span className="ico">🔒</span>
+              <input
+                type={showConfirm ? "text" : "password"}
+                name="confirm"
+                placeholder="Re-enter your password"
+              />
+              <button
+                className="toggle-pw"
+                type="button"
+                onClick={() => setShowConfirm((v) => !v)}
+              >
+                {showConfirm ? "🙈" : "👁"}
+              </button>
+            </div>
+          </div>
+
+          {state?.error && (
+            <div className="form-error" role="alert">
+              <span className="ico">⚠</span> {state.error}
+            </div>
+          )}
+
+          <button className="cta" type="submit" disabled={pending}>
+            {pending ? "JOINING…" : "JOIN THE GAME →"}
+          </button>
+        </form>
 
         <p className="signin-link">
           Already have an account? <Link href="/login">Sign in</Link>
@@ -418,6 +424,26 @@ export default function SignupPage() {
           opacity: 0.7;
         }
 
+        .form-error {
+          display: flex;
+          align-items: flex-start;
+          gap: 8px;
+          margin-top: 6px;
+          padding: 11px 13px;
+          background: rgba(224, 80, 80, 0.1);
+          border: 1px solid rgba(224, 80, 80, 0.35);
+          border-radius: 10px;
+          color: #ff8a8a;
+          font-size: 12.5px;
+          line-height: 1.4;
+          animation: fadeUp 0.25s ease both;
+        }
+
+        .form-error .ico {
+          flex-shrink: 0;
+          font-size: 13px;
+        }
+
         .cta {
           margin-top: 22px;
           width: 100%;
@@ -441,6 +467,11 @@ export default function SignupPage() {
         }
         .cta:active {
           transform: translateY(0);
+        }
+        .cta:disabled {
+          opacity: 0.6;
+          cursor: not-allowed;
+          transform: none;
         }
 
         .signin-link {

@@ -41,6 +41,6 @@ yarn-error.log*
 next-env.d.ts
 
 
-# agent files 
+# agent files
 AGENTS.md
 CLAUDE.md

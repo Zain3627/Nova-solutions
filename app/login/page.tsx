@@ -1,32 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useActionState, useState } from "react";
+import { loginAction } from "./actions";
 
 export default function LoginPage() {
-  const router = useRouter();
-
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
+  const [state, formAction, pending] = useActionState(loginAction, undefined);
   const [showPw, setShowPw] = useState(false);
-  const [error, setError] = useState("");
-
-  const handleSubmit = () => {
-    setError("");
-    if (!email.trim()) {
-      setError("Please enter your email.");
-      return;
-    }
-    if (!password) {
-      setError("Please enter your password.");
-      return;
-    }
-
-    // TODO: replace with a real login API call
-    alert(`Welcome back!\nSigned in as ${email}`);
-    router.push("/");
-  };
 
   return (
     <div className="login-root">
@@ -51,47 +31,45 @@ export default function LoginPage() {
         <h1>WELCOME BACK</h1>
         <p className="subtitle">Sign in to your tactical command center.</p>
 
-        <div className="field">
-          <label>Email Address</label>
-          <div className="input-wrap">
-            <span className="ico">✉</span>
-            <input
-              type="email"
-              placeholder="you@example.com"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-            />
+        <form action={formAction} noValidate>
+          <div className="field">
+            <label>Email Address</label>
+            <div className="input-wrap">
+              <span className="ico">✉</span>
+              <input type="email" name="email" placeholder="you@example.com" />
+            </div>
           </div>
-        </div>
 
-        <div className="field">
-          <div className="field-row">
-            <label>Password</label>
-            <a className="forgot" href="#">
-              Forgot password?
-            </a>
+          <div className="field">
+            <div className="field-row">
+              <label>Password</label>
+              <a className="forgot" href="#">
+                Forgot password?
+              </a>
+            </div>
+            <div className="input-wrap">
+              <span className="ico">🔒</span>
+              <input
+                type={showPw ? "text" : "password"}
+                name="password"
+                placeholder="Enter your password"
+              />
+              <button className="toggle-pw" type="button" onClick={() => setShowPw((v) => !v)}>
+                {showPw ? "🙈" : "👁"}
+              </button>
+            </div>
           </div>
-          <div className="input-wrap">
-            <span className="ico">🔒</span>
-            <input
-              type={showPw ? "text" : "password"}
-              placeholder="Enter your password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-            />
-            <button className="toggle-pw" type="button" onClick={() => setShowPw((v) => !v)}>
-              {showPw ? "🙈" : "👁"}
-            </button>
-          </div>
-        </div>
 
-        {error && (
-          <p style={{ color: "#e05050", fontSize: "12.5px", marginTop: "4px" }}>{error}</p>
-        )}
+          {state?.error && (
+            <div className="form-error" role="alert">
+              <span className="ico">⚠</span> {state.error}
+            </div>
+          )}
 
-        <button className="cta" onClick={handleSubmit}>
-          SIGN IN →
-        </button>
+          <button className="cta" type="submit" disabled={pending}>
+            {pending ? "SIGNING IN…" : "SIGN IN →"}
+          </button>
+        </form>
 
         <p className="signin-link">
           Don&apos;t have an account? <Link href="/signup">Create one</Link>
@@ -305,6 +283,26 @@ export default function LoginPage() {
           opacity: 0.7;
         }
 
+        .form-error {
+          display: flex;
+          align-items: flex-start;
+          gap: 8px;
+          margin-top: 6px;
+          padding: 11px 13px;
+          background: rgba(224, 80, 80, 0.1);
+          border: 1px solid rgba(224, 80, 80, 0.35);
+          border-radius: 10px;
+          color: #ff8a8a;
+          font-size: 12.5px;
+          line-height: 1.4;
+          animation: fadeUp 0.25s ease both;
+        }
+
+        .form-error .ico {
+          flex-shrink: 0;
+          font-size: 13px;
+        }
+
         .cta {
           margin-top: 22px;
           width: 100%;
@@ -328,6 +326,11 @@ export default function LoginPage() {
         }
         .cta:active {
           transform: translateY(0);
+        }
+        .cta:disabled {
+          opacity: 0.6;
+          cursor: not-allowed;
+          transform: none;
         }
 
         .signin-link {
