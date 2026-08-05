@@ -1,0 +1,592 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+253369,Simone Perilli,simone-perilli,2701,Hellas Verona,8.1,0,0.0,0,0,0,42.86
+135700,Hakan Çalhanoğlu,hakan-calhanoglu,2697,Inter,7.68,13,10.15,7,66,3,92.37
+233252,Davide Biraschi,davide-biraschi,2713,Genoa,7.6,1,0.1,1,3,0,83.33
+301162,Raffaele Di Gennaro,raffaele-di-gennaro,2697,Inter,7.6,0,,0,0,0,92.31
+587126,Nicolas Haas,nicolas-haas,2705,Empoli,7.6,0,0.1,0,5,0,90.2
+793986,Mile Svilar,mile-svilar,2702,AS Roma,7.51,0,,1,0,0,85.04
+823984,Lautaro Martínez,lautaro-martinez,2697,Inter,7.5,24,17.64,19,22,3,79.08
+889259,Khvicha Kvaratskhelia,khvicha-kvaratskhelia,2714,SSC Napoli,7.48,11,11.15,101,42,6,85.67
+844609,Michele Di Gregorio,michele-di-gregorio,2729,Monza,7.45,0,0.0,3,1,0,74.39
+253367,Domenico Berardi,domenico-berardi,2793,Sassuolo,7.42,9,6.54,11,17,3,69.95
+256219,Paulo Dybala,paulo-dybala,2702,AS Roma,7.42,13,10.59,28,22,9,84.26
+851284,Rafael Leão,rafael-leao,2692,AC Milan,7.42,9,10.02,77,16,9,79.96
+284361,Federico Dimarco,federico-dimarco,2697,Inter,7.35,5,2.9,6,42,6,85.24
+826188,Alessandro Bastoni,alessandro-bastoni,2697,Inter,7.35,1,1.23,10,46,3,89.83
+111416,Luis Alberto,luis-alberto,2699,Lazio,7.31,5,4.74,25,35,7,83.71
+791702,Marcus Thuram,marcus-thuram,2697,Inter,7.3,13,14.31,33,23,7,73.93
+960441,Charles De Ketelaere,charles-de-ketelaere,2686,Atalanta,7.28,10,7.08,40,33,8,75.62
+124992,Danilo,danilo,2687,Juventus,7.27,1,1.34,8,60,1,87.13
+1082406,Matías Soulé,matias-soule,2801,Frosinone,7.26,11,10.46,102,41,3,81.49
+824200,Ademola Lookman,ademola-lookman,2686,Atalanta,7.25,11,9.21,39,20,7,80.16
+817957,Christian Pulišić,christian-pulisic,2692,AC Milan,7.25,12,8.04,47,35,8,82.36
+98059,Nicola Leali,nicola-leali,2713,Genoa,7.25,0,0.0,0,0,0,53.62
+822471,Victor Osimhen,victor-osimhen,2714,SSC Napoli,7.25,15,15.4,16,9,3,71.0
+787505,Benjamin Pavard,benjamin-pavard,2697,Inter,7.25,0,0.7,2,34,2,91.64
+235672,Matteo Politano,matteo-politano,2714,SSC Napoli,7.25,8,7.15,31,19,7,83.05
+153257,Giovanni Di Lorenzo,giovanni-di-lorenzo,2714,SSC Napoli,7.24,1,3.09,18,58,6,87.08
+804909,Albert Guðmundsson,albert-gudmundsson,2713,Genoa,7.24,14,9.89,42,23,4,81.58
+947954,Elia Caprile,elia-caprile,2705,Empoli,7.23,0,0.0,0,1,0,62.44
+250737,Adrien Rabiot,adrien-rabiot,2687,Juventus,7.23,5,3.48,28,58,3,84.43
+37151,Henrikh Mkhitaryan,henrikh-mkhitaryan,2697,Inter,7.22,2,3.62,19,62,8,88.02
+901325,Nicolás González,nicolas-gonzalez,2693,Fiorentina,7.21,12,10.42,34,28,2,74.09
+807301,Gianluca Scamacca,gianluca-scamacca,2686,Atalanta,7.2,12,6.54,15,15,6,69.03
+27982,Antonio Candreva,antonio-candreva,2710,Salernitana,7.19,6,4.86,15,18,6,81.68
+36784,Giacomo Bonaventura,giacomo-bonaventura,2693,Fiorentina,7.19,8,5.66,30,26,3,84.96
+957602,Riccardo Calafiori,riccardo-calafiori,2685,Bologna,7.19,2,1.4,13,47,5,89.85
+803033,Teun Koopmeiners,teun-koopmeiners,2686,Atalanta,7.19,12,6.53,19,39,5,81.57
+907152,Lewis Ferguson,lewis-ferguson,2685,Bologna,7.19,6,5.3,14,37,3,88.89
+191210,Mike Maignan,mike-maignan,2692,AC Milan,7.19,0,0.0,1,1,1,82.22
+38162,Duván Zapata,duvan-zapata,2696,Torino,7.19,13,11.31,38,18,4,70.27
+1069244,Tijjani Noslin,tijjani-noslin,2701,Hellas Verona,7.18,5,3.63,8,18,4,71.74
+293581,Mattia Zaccagni,mattia-zaccagni,2699,Lazio,7.18,6,4.74,54,27,1,84.12
+788027,Theo Hernández,theo-hernandez,2692,AC Milan,7.18,5,4.94,37,30,4,87.73
+555540,Lorenzo Pellegrini,lorenzo-pellegrini,2702,AS Roma,7.17,8,4.8,19,35,3,82.62
+356160,Vanja Milinković-Savić,vanja-milinkovic-savic,2696,Torino,7.16,0,0.0,0,1,0,60.1
+39070,Olivier Giroud,olivier-giroud,2692,AC Milan,7.16,15,14.17,3,17,8,69.42
+126816,Francesco Acerbi,francesco-acerbi,2697,Inter,7.16,3,1.61,2,22,1,91.15
+16206,Yann Sommer,yann-sommer,2697,Inter,7.15,0,0.0,0,2,0,86.27
+136856,Pietro Terracciano,pietro-terracciano,2693,Fiorentina,7.15,0,0.0,0,1,0,77.69
+865646,Marco Carnesecchi,marco-carnesecchi,2686,Atalanta,7.14,0,0.0,0,0,0,65.53
+885197,Bremer,bremer,2687,Juventus,7.14,3,1.62,10,58,0,86.32
+363860,Manuel Locatelli,manuel-locatelli,2687,Juventus,7.14,1,1.37,13,69,4,86.12
+850952,Federico Ravaglia,federico-ravaglia,2685,Bologna,7.13,0,,1,0,0,78.69
+176301,Marco Sportiello,marco-sportiello,2692,AC Milan,7.13,0,0.0,0,0,0,84.54
+870263,Alessandro Buongiorno,alessandro-buongiorno,2696,Torino,7.13,3,1.58,0,70,0,85.35
+845386,Federico Chiesa,federico-chiesa,2687,Juventus,7.12,9,6.43,35,20,2,77.29
+917007,Joshua Zirkzee,joshua-zirkzee,2685,Bologna,7.12,11,9.01,52,32,4,78.0
+308182,Ivan Provedel,ivan-provedel,2699,Lazio,7.12,0,0.0,1,1,0,80.09
+794927,Arthur,arthur,2693,Fiorentina,7.12,2,1.05,11,45,3,92.09
+906275,Yann Bisseck,yann-bisseck,2697,Inter,7.11,2,0.9,5,14,0,92.53
+324353,Aleksey Miranchuk,aleksey-miranchuk,2686,Atalanta,7.11,3,5.37,17,12,5,77.99
+255389,Leandro Paredes,leandro-paredes,2702,AS Roma,7.11,3,3.33,8,57,5,90.9
+818481,Jhon Lucumí,jhon-lucumi,2685,Bologna,7.11,0,0.84,8,48,0,93.63
+795297,Lucas Martínez Quarta,lucas-martinez-quarta,2693,Fiorentina,7.1,5,2.74,13,75,1,82.25
+138605,Piotr Zieliński,piotr-zielinski,2714,SSC Napoli,7.1,3,2.58,16,23,2,87.54
+46420,Carlo Pinsoglio,carlo-pinsoglio,2687,Juventus,7.1,0,,0,0,0,65.0
+186855,Bryan Cristante,bryan-cristante,2702,AS Roma,7.09,3,3.98,17,72,4,83.08
+805078,Mathías Olivera,mathias-olivera,2714,SSC Napoli,7.09,1,0.55,11,50,1,87.59
+122848,Cristiano Biraghi,cristiano-biraghi,2693,Fiorentina,7.09,2,1.6,4,47,5,82.66
+946888,Éderson,ederson,2686,Atalanta,7.09,6,3.51,22,83,1,84.41
+893549,Tijjani Reijnders,tijjani-reijnders,2692,AC Milan,7.09,3,3.23,35,46,3,91.65
+233856,Lautaro Giannetti,lautaro-giannetti,2695,Udinese,7.09,1,0.39,1,9,0,88.22
+35656,Etrit Berisha,etrit-berisha,2705,Empoli,7.09,0,0.0,0,0,0,64.1
+332155,Amir Rrahmani,amir-rrahmani,2714,SSC Napoli,7.08,3,2.18,10,33,0,90.22
+928122,Andrea Colpani,colpani-andrea,2729,Monza,7.08,8,4.84,28,25,4,82.69
+256667,Wladimiro Falcone,wladimiro-falcone,2689,Lecce,7.08,0,0.0,0,0,0,63.03
+152276,Felipe Anderson,felipe-anderson,2699,Lazio,7.08,5,4.4,43,78,6,78.53
+363856,Nicolò Barella,nicolo-barella,2697,Inter,7.08,2,5.1,29,46,3,86.44
+913762,Christos Mandas,christos-mandas,2699,Lazio,7.08,0,,2,0,0,63.75
+859024,Yacine Adli,yacine-adli,2692,AC Milan,7.07,1,0.3,22,34,2,88.8
+845291,Josep Martínez,josep-martinez,2713,Genoa,7.07,0,0.0,3,0,0,69.25
+891656,Maduka Okoye,maduka-okoye,2695,Udinese,7.07,0,,0,0,0,57.21
+793645,Riccardo Orsolini,riccardo-orsolini,2685,Bologna,7.06,10,7.62,31,23,2,74.0
+246319,Ondrej Duda,ondrej-duda,2701,Hellas Verona,7.06,1,2.23,21,59,4,78.57
+965828,Mario Gila,mario-gila,2699,Lazio,7.06,0,0.54,9,32,0,90.19
+50490,Wojciech Szczęsny,wojciech-szczesny,2687,Juventus,7.06,0,0.0,1,0,0,74.65
+253391,Lorenzo Montipò,lorenzo-montipo,2701,Hellas Verona,7.06,0,0.0,0,1,1,58.3
+823733,Ismaël Bennacer,ismael-bennacer,2692,AC Milan,7.05,2,1.66,17,29,2,89.97
+918440,Morten Frendrup,morten-frendrup,2713,Genoa,7.05,2,1.7,16,133,5,80.98
+100389,Marten de Roon,marten-de-roon,2686,Atalanta,7.04,0,0.6,3,80,5,85.07
+832208,Dušan Vlahović,dusan-vlahovic,2687,Juventus,7.04,16,16.67,18,9,4,71.64
+889785,Johan Vásquez,johan-vasquez,2713,Genoa,7.04,1,1.86,10,51,1,78.31
+980624,Lazar Samardžić,lazar-samardzic,2695,Udinese,7.04,6,3.58,47,40,2,81.03
+932643,Armand Laurienté,armand-lauriente,2793,Sassuolo,7.04,5,5.73,63,31,4,78.39
+870211,Alberto Dossena,alberto-dossena,2719,Cagliari,7.03,2,2.21,5,55,4,80.02
+357596,Nikola Vlašić,nikola-vlasic,2696,Torino,7.03,3,2.41,28,28,2,82.93
+190437,Mario Pašalić,mario-pasalic,2686,Atalanta,7.03,6,7.11,12,28,6,87.17
+1137431,Michael Kayode,michael-kayode,2693,Fiorentina,7.03,1,0.51,22,53,1,87.04
+901891,Alexis Saelemaekers,alexis-saelemaekers,2685,Bologna,7.03,4,2.63,40,32,2,83.11
+78893,Romelu Lukaku,romelu-lukaku,2702,AS Roma,7.03,13,9.83,11,6,3,72.38
+901850,Nicolò Fagioli,nicolo-fagioli,2687,Juventus,7.03,0,0.38,3,5,2,91.04
+76132,Milan Đurić,milan-uric,2729,Monza,7.02,9,7.53,4,6,2,53.15
+284441,Ruben Loftus-Cheek,ruben-loftus-cheek,2692,AC Milan,7.02,6,3.68,30,28,1,85.77
+794338,Daichi Kamada,daichi-kamada,2699,Lazio,7.02,2,1.82,14,53,2,89.05
+152420,Alessandro Florenzi,alessandro-florenzi,2692,AC Milan,7.02,1,1.67,1,43,4,87.49
+34120,Alexis Sánchez,alexis-sanchez,2697,Inter,7.02,2,3.24,12,7,5,80.9
+826185,Raoul Bellanova,raoul-bellanova,2696,Torino,7.02,1,2.06,43,36,7,85.37
+91046,Stefan de Vrij,stefan-de-vrij,2697,Inter,7.02,1,0.57,2,18,0,92.36
+21608,Nicolas Viola,nicolas-viola,2719,Cagliari,7.02,5,3.4,16,13,2,74.35
+788255,Fikayo Tomori,fikayo-tomori,2692,AC Milan,7.02,4,3.71,2,42,0,91.34
+1128063,Federico Gatti,federico-gatti,2687,Juventus,7.01,4,5.5,9,33,0,86.07
+115516,Remo Freuler,remo-freuler,2685,Bologna,7.01,1,1.22,8,78,1,91.06
+842709,Rémi Oudin,remi-oudin,2689,Lecce,7.01,3,1.78,4,26,2,69.01
+84854,Alex Sandro,alex-sandro,2687,Juventus,7.01,1,0.39,3,13,0,87.93
+1012176,Giorgio Scalvini,giorgio-scalvini,2686,Atalanta,7.01,1,1.43,15,53,3,81.74
+350210,Matteo Pessina,matteo-pessina,2729,Monza,7.0,6,6.3,14,44,3,89.04
+893640,Riccardo Sottil,riccardo-sottil,2693,Fiorentina,7.0,2,2.62,21,10,3,85.29
+320979,Federico Di Francesco,federico-di-francesco,2689,Lecce,7.0,1,0.09,0,1,0,85.71
+1099371,Chaka Traorè,chaka-traore,2692,AC Milan,7.0,1,0.08,0,2,0,81.82
+881931,Weston McKennie,weston-mckennie,2687,Juventus,7.0,0,2.97,18,48,7,80.77
+1085555,Nicola Bagnolini,nicola-bagnolini,2685,Bologna,7.0,0,,0,0,0,66.67
+318603,Emil Audero,emil-audero,2697,Inter,7.0,0,,0,0,0,82.63
+971005,Nicolò Cambiaghi,cambiaghi-nicolo,2705,Empoli,6.99,1,3.87,29,51,1,81.23
+151003,Berat Djimsiti,berat-djimsiti,2686,Atalanta,6.99,0,0.8,1,42,1,87.78
+369866,Luca Mazzitelli,luca-mazzitelli,2801,Frosinone,6.99,5,2.28,11,45,0,76.95
+132704,Leonardo Pavoletti,leonardo-pavoletti,2719,Cagliari,6.99,4,2.61,0,1,1,56.21
+886930,Jaka Bijol,jaka-bijol,2695,Udinese,6.99,0,1.89,0,43,0,78.8
+787941,Frank Anguissa,frank-anguissa,2714,SSC Napoli,6.99,0,3.43,25,61,2,87.95
+845802,Jovane Cabral,jovane-cabral,2710,Salernitana,6.98,1,1.16,21,13,0,78.13
+913401,Nehuén Pérez,nehuen-perez,2695,Udinese,6.98,0,1.34,9,72,0,80.33
+346676,Patrick Ciurria,patrick-ciurria,2729,Monza,6.98,0,1.52,9,30,1,79.03
+877037,Cyril Ngonge,cyril-ngonge,2714,SSC Napoli,6.98,7,5.25,37,19,2,72.43
+865651,Giacomo Raspadori,giacomo-raspadori,2714,SSC Napoli,6.98,5,5.88,14,21,3,79.87
+611210,Gianluca Mancini,gianluca-mancini,2702,AS Roma,6.98,4,1.91,4,34,1,87.82
+28378,Vincenzo Fiorillo,vincenzo-fiorillo,2710,Salernitana,6.98,0,,0,0,0,37.61
+997103,Radu Drăguşin,radu-dragusin,2713,Genoa,6.97,2,1.02,0,16,1,82.8
+791566,Grigoris Kastanos,grigoris-kastanos,2710,Salernitana,6.97,3,2.87,13,23,3,75.18
+970978,Andrea Carboni,andrea-carboni,2729,Monza,6.97,1,1.2,3,38,0,86.86
+972886,Fabiano Parisi,fabiano-parisi,2693,Fiorentina,6.97,0,0.94,24,30,1,85.61
+877371,Ivan Ilić,ivan-ilic,2696,Torino,6.97,3,2.14,18,22,2,86.05
+287057,Roberto Gagliardini,roberto-gagliardini,2729,Monza,6.97,1,2.93,8,61,2,90.6
+877201,Gabriel Strefezza,gabriel-strefezza,2689,Lecce,6.97,1,2.49,15,24,0,78.15
+232224,Alfred Duncan,alfred-duncan,2693,Fiorentina,6.97,2,1.49,20,35,5,81.13
+150383,Stanislav Lobotka,stanislav-lobotka,2714,SSC Napoli,6.97,0,0.6,15,61,1,91.66
+812829,Giangiacomo Magnani,giangiacomo-magnani,2701,Hellas Verona,6.97,0,0.55,8,33,0,80.31
+44906,Łukasz Skorupski,ukasz-skorupski,2685,Bologna,6.97,0,0.0,0,2,0,75.48
+217784,Patric,patric,2699,Lazio,6.97,2,1.36,0,13,0,88.69
+227864,Alessio Romagnoli,alessio-romagnoli,2699,Lazio,6.96,0,0.55,0,25,0,91.49
+929199,Carlos Augusto,carlos-augusto,2697,Inter,6.96,0,1.02,12,29,3,87.46
+826195,Matteo Gabbia,matteo-gabbia,2692,AC Milan,6.96,2,1.58,2,29,1,90.41
+930189,Samuele Ricci,samuele-ricci,2696,Torino,6.95,1,1.29,9,33,2,88.52
+839156,Nikola Krstović,nikola-krstovic,2689,Lecce,6.95,7,11.62,29,17,1,67.45
+355486,Stefan Posch,stefan-posch,2685,Bologna,6.95,1,1.17,11,77,2,82.46
+220223,Andrea Belotti,andrea-belotti,2693,Fiorentina,6.94,6,6.09,8,16,2,70.72
+47743,Juan Cuadrado,juan-cuadrado,2697,Inter,6.94,0,0.19,1,4,2,91.56
+848287,Evan Ndicka,evan-ndicka,2702,AS Roma,6.94,0,1.01,2,32,3,91.13
+305278,Diego Llorente,diego-llorente,2702,AS Roma,6.94,1,0.36,3,31,1,91.43
+126588,Filip Kostić,filip-kostic,2687,Juventus,6.93,0,0.68,6,37,4,80.64
+996820,Kristjan Asllani,kristjan-asllani,2697,Inter,6.93,1,0.58,3,7,2,93.05
+826198,Andrea Pinamonti,andrea-pinamonti,2793,Sassuolo,6.93,11,8.93,12,13,1,66.34
+263651,Juan Musso,juan-musso,2686,Atalanta,6.93,0,0.0,0,1,0,69.9
+1214992,Jan-Carlo Simić,jan-carlo-simic,2692,AC Milan,6.93,1,0.62,1,1,0,92.19
+67769,Ricardo Rodríguez,ricardo-rodriguez,2696,Torino,6.92,1,0.3,8,45,2,85.38
+363792,Rick Karsdorp,rick-karsdorp,2702,AS Roma,6.92,0,0.45,3,25,2,82.06
+964154,Tomáš Suslov,tomas-suslov,2701,Hellas Verona,6.92,3,3.52,38,42,5,79.14
+45925,Stephan El Shaarawy,stephan-el-shaarawy,2702,AS Roma,6.92,3,2.54,22,21,4,83.75
+879746,Leo Østigård,leo-ostigard,2714,SSC Napoli,6.92,1,0.63,2,24,0,88.08
+917048,Andrea Cambiaso,cambiaso-andrea,2687,Juventus,6.92,2,2.19,26,47,3,87.62
+39482,Milan Badelj,milan-badelj,2713,Genoa,6.92,1,1.46,17,51,3,81.38
+807295,Alessandro Vogliacco,alessandro-vogliacco,2713,Genoa,6.92,0,0.38,3,23,1,79.72
+208988,Pablo Marí,pablo-mari,2729,Monza,6.92,0,0.39,5,41,0,91.28
+279563,Răzvan Marin,razvan-marin,2705,Empoli,6.92,0,1.09,15,40,3,79.88
+759520,Denzel Dumfries,denzel-dumfries,2697,Inter,6.92,4,2.27,14,22,4,80.91
+1092409,Victor Kristiansen,victor-kristiansen,2685,Bologna,6.92,0,0.27,11,52,3,86.12
+352736,Sebastiano Luperto,sebastiano-luperto,2705,Empoli,6.91,1,1.69,7,37,1,82.99
+888219,Junior Messias,junior-messias,2713,Genoa,6.91,1,1.64,16,26,0,76.92
+831677,Perr Schuurs,perr-schuurs,2696,Torino,6.91,1,0.71,2,20,0,88.75
+847467,Marin Pongračić,marin-pongracic,2689,Lecce,6.91,0,1.16,15,43,0,84.79
+928104,Nadir Zortea,zortea-nadir,2801,Frosinone,6.91,2,0.53,22,26,5,75.5
+944899,Valentin Gendrey,valentin-gendrey,2689,Lecce,6.91,2,1.64,16,55,3,76.8
+139228,M'Baye Niang,mbaye-niang,2705,Empoli,6.91,6,5.45,5,3,1,64.71
+575852,Sandi Lovrić,sandi-lovric,2695,Udinese,6.91,1,3.54,17,25,3,81.16
+911350,Lameck Banda,lameck-banda,2689,Lecce,6.9,2,3.67,42,27,4,82.46
+838907,Dany Mota,dany-mota,2729,Monza,6.9,4,3.55,16,13,3,79.84
+119242,Luis Muriel,luis-muriel,2686,Atalanta,6.9,2,1.53,7,3,1,75.37
+139273,Daniele Rugani,daniele-rugani,2687,Juventus,6.9,2,1.62,0,11,0,88.94
+1141167,Alessandro Dellavalle,dellavalle-alessandro,2696,Torino,6.9,0,,0,0,0,83.33
+165583,Armando Izzo,armando-izzo,2729,Monza,6.9,0,0.68,0,27,0,91.18
+987489,Beto,beto,2695,Udinese,6.9,0,0.0,2,1,0,90.91
+124318,Diego Demme,diego-demme,2714,SSC Napoli,6.9,0,0.0,0,1,0,86.3
+924973,Kristian Thorstvedt,kristian-thorstvedt,2793,Sassuolo,6.9,6,4.36,15,40,1,74.08
+148824,Florian Thauvin,florian-thauvin,2695,Udinese,6.9,5,4.71,35,7,3,77.75
+186845,Alberto Grassi,alberto-grassi,2705,Empoli,6.9,0,1.11,5,30,1,81.6
+99546,Mário Rui,mario-rui,2714,SSC Napoli,6.9,0,0.15,3,27,2,82.67
+915812,Abdou Harroui,abdou-harroui,2801,Frosinone,6.89,3,3.11,19,23,3,81.72
+108484,Juan Jesus,juan-jesus,2714,SSC Napoli,6.89,1,1.32,1,42,0,90.83
+158615,Matías Vecino,matias-vecino,2699,Lazio,6.89,6,3.71,10,32,1,83.95
+329175,Pierluigi Gollini,pierluigi-gollini,2714,SSC Napoli,6.89,0,0.02,0,1,0,80.25
+886243,Sebastian Walukiewicz,sebastian-walukiewicz,2705,Empoli,6.89,0,0.15,8,39,0,83.1
+852404,Mattéo Guendouzi,matteo-guendouzi,2699,Lazio,6.88,2,1.64,7,34,3,85.5
+330705,Antonín Barák,antonin-barak,2693,Fiorentina,6.88,2,1.55,4,6,3,86.2
+318607,Davide Calabria,davide-calabria,2692,AC Milan,6.88,1,1.31,6,70,3,86.99
+937324,Nicolò Rovella,nicolo-rovella,2699,Lazio,6.88,0,0.59,10,46,2,88.96
+965264,Emil Holm,emil-holm,2686,Atalanta,6.88,1,2.74,18,28,1,69.0
+798002,Toma Bašić,toma-basic,2710,Salernitana,6.88,0,0.59,10,20,0,84.58
+914501,Mateo Retegui,mateo-retegui,2713,Genoa,6.88,7,5.84,14,17,2,68.39
+21535,Simon Kjær,simon-kjaer,2692,AC Milan,6.87,0,0.49,0,24,1,88.43
+802142,Jonathan Ikoné,jonathan-ikone,2693,Fiorentina,6.87,3,4.62,21,22,1,82.93
+965011,Matteo Ruggeri,matteo-ruggeri,2686,Atalanta,6.87,0,0.53,21,29,4,82.3
+836168,Nikola Milenković,nikola-milenkovic,2693,Fiorentina,6.87,0,0.4,2,41,0,84.84
+988037,Juan Cabal,juan-cabal,2701,Hellas Verona,6.87,0,0.52,12,36,0,71.1
+79645,Mattia Perin,mattia-perin,2687,Juventus,6.87,0,0.0,0,0,0,78.95
+962029,Lucas Beltrán,lucas-beltran,2693,Fiorentina,6.87,6,3.79,12,27,2,79.6
+17737,Rui Patrício,rui-patricio,2702,AS Roma,6.87,0,0.0,0,0,0,74.95
+978562,Reinier,reinier,2801,Frosinone,6.86,2,1.27,9,21,2,81.25
+1050692,Diego Coppola,diego-coppola,2701,Hellas Verona,6.86,2,1.22,0,36,0,77.51
+15497,Guillermo Ochoa,guillermo-ochoa,2710,Salernitana,6.86,0,0.0,0,0,0,55.46
+970928,Daniel Maldini,daniel-maldini,2729,Monza,6.86,4,1.58,16,7,1,81.92
+1149011,Kenan Yıldız,yildiz-kenan,2687,Juventus,6.86,2,1.62,23,13,0,84.19
+250547,Mattia Bani,mattia-bani,2713,Genoa,6.86,2,1.26,1,26,0,83.86
+111487,Simone Romagnoli,simone-romagnoli,2801,Frosinone,6.86,1,1.22,0,35,1,85.99
+902019,Gianluca Gaetano,gianluca-gaetano,2719,Cagliari,6.86,5,1.9,11,11,1,79.66
+840414,Ardian Ismajli,ardian-ismajli,2705,Empoli,6.85,0,0.31,0,26,0,84.7
+877013,Valentín Castellanos,valentin-castellanos,2699,Lazio,6.85,4,7.35,11,22,3,62.3
+1154617,Zanos Savva,zanos-savva,2696,Torino,6.85,1,0.16,0,1,0,50.0
+107936,Danilo D'Ambrosio,danilo-dambrosio,2729,Monza,6.85,0,0.67,7,57,0,90.09
+76178,Dario D'Ambrosio,dario-dambrosio,2729,Monza,6.85,0,0.67,7,57,0,90.09
+155449,Rade Krunić,rade-krunic,2692,AC Milan,6.85,0,0.14,2,10,0,90.57
+79680,José Luis Palomino,jose-luis-palomino,2686,Atalanta,6.85,0,0.0,0,2,0,78.13
+139235,Adrien Tameze,adrien-tameze,2696,Torino,6.85,0,0.71,12,35,2,87.85
+1067204,Giovanni Fabbian,giovanni-fabbian,2685,Bologna,6.85,5,4.16,12,17,2,79.36
+148899,Leonardo Spinazzola,leonardo-spinazzola,2702,AS Roma,6.85,1,0.24,20,15,2,82.75
+58351,Christian Kabasele,christian-kabasele,2695,Udinese,6.85,1,1.18,0,10,1,84.35
+21927,Marko Arnautović,marko-arnautovic,2697,Inter,6.84,5,5.01,1,10,3,77.1
+798147,Mërgim Vojvoda,mergim-vojvoda,2696,Torino,6.84,0,0.36,7,17,3,83.0
+1153083,Valentín Carboni,valentin-carboni,2729,Monza,6.84,2,2.32,24,25,3,85.21
+592794,Alex Meret,alex-meret,2714,SSC Napoli,6.84,0,0.0,1,1,0,82.3
+14718,Lorenzo De Silvestri,lorenzo-de-silvestri,2685,Bologna,6.84,2,0.21,0,10,0,87.9
+1063373,Thomas Kristensen,thomas-kristensen,2695,Udinese,6.84,0,1.1,10,35,1,79.5
+360396,Yerry Mina,yerry-mina,2719,Cagliari,6.84,2,1.34,2,21,0,80.17
+233826,Valentino Lazaro,valentino-lazaro,2696,Torino,6.84,0,1.76,20,18,4,81.96
+1000150,Zito Luvumbo,zito-luvumbo,2719,Cagliari,6.84,4,4.01,30,9,5,72.85
+838232,Eljif Elmas,eljif-elmas,2714,SSC Napoli,6.84,2,0.48,6,4,0,90.06
+309156,Caleb Ekuban,caleb-ekuban,2713,Genoa,6.83,4,2.88,10,8,1,66.67
+122701,Roberto Pereyra,roberto-pereyra,2695,Udinese,6.83,4,3.54,16,19,3,81.69
+32040,Davide Faraoni,davide-faraoni,2693,Fiorentina,6.83,0,0.51,4,22,2,78.83
+856062,Martin Hongla,martin-hongla,2701,Hellas Verona,6.83,0,0.14,9,24,0,83.62
+849274,Youssef Maleh,youssef-maleh,2705,Empoli,6.83,0,1.59,8,74,1,79.69
+195850,Ruslan Malinovskyi,ruslan-malinovskyi,2713,Genoa,6.83,4,1.08,10,35,1,81.59
+848355,Angeliño,angelino,2702,AS Roma,6.83,0,0.19,6,21,1,79.68
+142148,Sead Kolašinac,sead-kolasinac,2686,Atalanta,6.83,1,1.34,7,44,0,84.89
+553686,Walace,walace,2695,Udinese,6.83,2,0.82,16,66,0,80.44
+273405,Manuel Lazzari,manuel-lazzari,2699,Lazio,6.83,0,1.05,11,26,2,88.5
+795926,Boris Radunović,boris-radunovic,2719,Cagliari,6.83,0,0.0,0,0,0,72.77
+1397168,Patrick Dorgu,dorgu-patrick,2689,Lecce,6.83,2,1.98,15,43,0,83.87
+295973,Andrea Petagna,andrea-petagna,2719,Cagliari,6.83,1,1.62,11,4,1,71.49
+893998,Luca Ranieri,luca-ranieri,2693,Fiorentina,6.83,2,0.92,4,14,1,84.8
+856065,Pontus Almqvist,pontus-almqvist,2689,Lecce,6.83,2,2.3,37,45,1,75.77
+996919,Samuel Iling Junior,samuel-iling-junior,2687,Juventus,6.83,1,0.73,7,23,2,79.25
+1116577,Santiago Castro,santiago-castro,2685,Bologna,6.83,1,0.95,2,2,1,84.0
+1087316,Enzo Barrenechea,enzo-barrenechea,2801,Frosinone,6.83,0,0.61,8,65,1,85.54
+132318,Davide Zappacosta,davide-zappacosta,2686,Atalanta,6.82,2,2.27,17,30,1,88.06
+962364,Lorenzo Lucca,lorenzo-lucca,2695,Udinese,6.82,8,7.84,12,19,4,61.14
+288321,Paweł Dawidowicz,pawe-dawidowicz,2701,Hellas Verona,6.82,0,0.51,4,53,0,83.19
+796443,Jaime Báez,jaime-baez,2801,Frosinone,6.82,1,0.47,5,4,0,73.86
+945616,Antonino Gallo,antonino-gallo,2689,Lecce,6.82,0,0.54,19,43,3,75.42
+800408,Suat Serdar,suat-serdar,2701,Hellas Verona,6.82,0,1.01,18,51,2,75.0
+19352,Matteo Darmian,matteo-darmian,2697,Inter,6.82,2,1.2,5,48,1,85.62
+27569,Federico Fazio,federico-fazio,2710,Salernitana,6.82,1,0.44,2,18,0,75.35
+812946,Christian Kouamé,christian-kouame,2693,Fiorentina,6.82,2,1.94,9,13,1,76.39
+856729,Samuele Birindelli,samuele-birindelli,2729,Monza,6.82,0,1.07,12,28,2,83.05
+850891,Michel Aebischer,michel-aebischer,2685,Bologna,6.82,0,1.1,14,35,1,91.93
+284363,Federico Bonazzoli,federico-bonazzoli,2701,Hellas Verona,6.82,3,2.85,6,4,1,79.54
+45923,Ciro Immobile,ciro-immobile,2699,Lazio,6.82,7,9.77,8,11,1,74.61
+860435,Szymon Żurkowski,szymon-zurkowski,2705,Empoli,6.82,4,0.97,4,15,0,80.67
+846081,Houssem Aouar,houssem-aouar,2702,AS Roma,6.81,4,2.34,11,16,0,84.1
+1017392,Carlos Alcaraz,carlos-alcaraz,2687,Juventus,6.81,0,0.38,3,6,1,87.65
+333261,Antonio Sanabria,antonio-sanabria,2696,Torino,6.81,5,9.46,14,18,0,79.71
+835600,Davide Frattesi,davide-frattesi,2697,Inter,6.81,6,7.11,7,10,3,80.9
+898815,Sam Beukema,sam-beukema,2685,Bologna,6.81,1,1.9,4,27,1,90.11
+882592,Daniel Boloca,daniel-boloca,2793,Sassuolo,6.81,1,0.52,28,48,0,90.43
+147368,Gianluca Lapadula,gianluca-lapadula,2719,Cagliari,6.81,3,4.89,4,1,1,72.39
+351434,Hassane Kamara,hassane-kamara,2695,Udinese,6.81,1,1.95,30,45,1,77.78
+848185,Giulio Maggiore,giulio-maggiore,2710,Salernitana,6.81,4,2.3,6,49,2,78.53
+912786,Matheus Henrique,matheus-henrique,2793,Sassuolo,6.81,2,2.28,20,43,2,83.15
+917485,Walid Cheddira,walid-cheddira,2801,Frosinone,6.81,7,9.01,12,12,1,69.05
+352802,Maxime López,maxime-lopez,2693,Fiorentina,6.81,0,0.19,2,20,0,90.15
+1093695,Vitinha,vitinha,2713,Genoa,6.8,2,1.14,2,2,0,61.7
+587628,Gaetano Castrovilli,gaetano-castrovilli,2693,Fiorentina,6.8,1,0.34,3,3,2,69.23
+944327,Dan Ndoye,dan-ndoye,2685,Bologna,6.8,1,4.86,34,30,1,83.52
+596736,Tommaso Augello,tommaso-augello,2719,Cagliari,6.8,1,0.46,15,26,1,74.65
+986352,Edoardo Bove,edoardo-bove,2702,AS Roma,6.8,0,1.96,9,60,2,84.46
+1001828,Koni De Winter,de-winter-koni,2713,Genoa,6.8,0,0.79,7,44,1,88.93
+294313,Stefano Sensi,stefano-sensi,2697,Inter,6.8,0,0.09,1,1,1,90.2
+892735,Tiago Djaló,tiago-djalo,2687,Juventus,6.8,0,,1,0,0,92.31
+137667,Mattia De Sciglio,mattia-de-sciglio,2687,Juventus,6.8,0,,0,0,0,88.24
+80074,Francesco Rossi,francesco-rossi,2686,Atalanta,6.8,0,,0,0,0,0.0
+1136819,Axel Guessand,axel-guessand,2695,Udinese,6.8,0,0.01,0,1,0,77.78
+38618,Andrea Consigli,andrea-consigli,2793,Sassuolo,6.8,0,0.0,0,0,0,63.94
+1012383,Kacper Urbański,kacper-urbanski,2685,Bologna,6.8,0,1.15,20,16,1,83.84
+893752,Stefano Turati,stefano-turati,2801,Frosinone,6.79,0,0.0,0,0,0,68.89
+1012179,Jacopo Fazzini,jacopo-fazzini,2705,Empoli,6.79,1,1.25,20,49,1,74.26
+1004505,Loum Tchaouna,loum-tchaouna,2710,Salernitana,6.79,4,2.63,16,20,3,71.62
+34221,Kevin Strootman,kevin-strootman,2713,Genoa,6.79,0,0.08,5,34,2,82.92
+876259,Hans Nicolussi Caviglia,hans-nicolussi-caviglia,2687,Juventus,6.79,0,0.11,0,5,1,84.62
+41234,Konstantinos Manolas,konstantinos-manolas,2710,Salernitana,6.79,0,0.14,1,9,0,91.06
+284349,Simone Scuffet,simone-scuffet,2719,Cagliari,6.79,0,0.0,0,1,0,62.0
+984184,Nicola Zalewski,nicola-zalewski,2702,AS Roma,6.79,0,0.84,16,20,1,78.57
+834597,Jesper Karlsson,jesper-karlsson,2685,Bologna,6.79,0,0.42,5,3,0,76.8
+967722,Caleb Okoli,caleb-okoli,2801,Frosinone,6.79,0,0.62,2,56,1,82.11
+976381,Gustav Isaksen,gustav-isaksen,2699,Lazio,6.79,3,1.59,15,4,1,71.18
+1009363,Ilario Monterisi,ilario-monterisi,2801,Frosinone,6.79,2,1.11,5,23,2,81.3
+862697,Nicolò Casale,nicolo-casale,2699,Lazio,6.79,0,0.86,2,15,0,91.78
+589620,Nahitan Nández,nahitan-nandez,2719,Cagliari,6.78,2,3.73,28,59,3,65.95
+822470,Samuel Chukwueze,samuel-chukwueze,2692,AC Milan,6.78,1,1.69,21,18,3,81.68
+189135,Karol Linetty,karol-linetty,2696,Torino,6.78,0,0.51,8,30,0,86.85
+1014286,Malick Thiaw,malick-thiaw,2692,AC Milan,6.78,0,0.6,8,34,1,91.6
+826064,Jens Odgaard,jens-odgaard,2685,Bologna,6.78,2,1.47,4,4,0,73.81
+875295,Matías Viña,matias-vina,2793,Sassuolo,6.78,0,0.32,12,34,3,74.94
+1001847,Giorgio Cittadini,giorgio-cittadini,2713,Genoa,6.78,0,,0,6,0,64.71
+317301,Danilo Cataldi,danilo-cataldi,2699,Lazio,6.78,1,0.36,6,24,0,87.92
+921789,Rasmus Kristensen,rasmus-kristensen,2702,AS Roma,6.77,1,0.54,7,36,1,80.55
+841977,Ylber Ramadani,ylber-ramadani,2689,Lecce,6.77,1,1.04,23,68,0,80.03
+576438,Karol Świderski,karol-swiderski,2701,Hellas Verona,6.77,2,1.75,3,7,0,72.81
+98212,Charalampos Lykogiannis,charalampos-lykogiannis,2685,Bologna,6.77,2,1.26,2,10,1,81.96
+357598,Josip Brekalo,josip-brekalo,2693,Fiorentina,6.77,1,0.4,8,8,0,86.74
+928796,Tommaso Pobega,tommaso-pobega,2692,AC Milan,6.77,0,0.22,3,16,0,78.03
+548178,Rolando Mandragora,rolando-mandragora,2693,Fiorentina,6.77,3,3.53,6,26,3,82.27
+1015287,Natan,natan,2714,SSC Napoli,6.77,0,0.42,2,14,0,87.58
+267619,Adam Marušić,adam-marusic,2699,Lazio,6.77,1,0.43,14,45,0,84.66
+170887,Gian Marco Ferrari,gian-marco-ferrari,2793,Sassuolo,6.77,1,1.56,3,22,0,83.46
+869795,Michael Folorunsho,michael-folorunsho,2701,Hellas Verona,6.77,5,3.96,22,50,1,64.76
+1127191,Oussama El Azzouzi,oussama-el-azzouzi,2685,Bologna,6.77,2,0.47,0,12,2,90.46
+319129,Luka Jović,luka-jovic,2692,AC Milan,6.77,6,4.92,7,6,1,74.58
+825861,Nedim Bajrami,nedim-bajrami,2793,Sassuolo,6.76,2,2.49,17,13,2,82.21
+100580,Nicola Sansone,nicola-sansone,2689,Lecce,6.76,2,2.81,11,11,2,80.16
+891346,Emanuele Valeri,emanuele-valeri,2801,Frosinone,6.76,0,0.87,12,19,1,67.22
+893008,Zeki Çelik,zeki-celik,2702,AS Roma,6.76,0,0.16,6,23,0,87.17
+356352,Hans Hateboer,hans-hateboer,2686,Atalanta,6.76,0,0.35,6,12,1,85.77
+865523,Noah Okafor,noah-okafor,2692,AC Milan,6.76,6,3.81,14,6,2,69.88
+1137730,Joan González,joan-gonzalez,2689,Lecce,6.76,1,1.2,19,31,1,76.63
+802665,Nemanja Radonjić,nemanja-radonjic,2696,Torino,6.76,3,1.71,10,1,0,70.67
+1157713,Isak Hien,isak-hien,2686,Atalanta,6.76,0,0.63,5,35,1,85.53
+791355,Eldor Shomurodov,eldor-shomurodov,2719,Cagliari,6.76,3,3.53,10,11,3,67.73
+610766,Tammy Abraham,tammy-abraham,2702,AS Roma,6.76,1,0.6,2,3,0,51.35
+377302,Georgios Kyriakopoulos,georgios-kyriakopoulos,2729,Monza,6.76,0,1.2,18,19,3,85.9
+814882,Nikola Moro,nikola-moro,2685,Bologna,6.76,1,0.71,5,21,0,83.54
+934238,Filippo Ranocchia,filippo-ranocchia,2705,Empoli,6.76,0,0.23,6,16,0,73.04
+150998,Sardar Azmoun,sardar-azmoun,2702,AS Roma,6.75,3,2.95,4,8,0,69.28
+982615,El Bilal Touré,el-bilal-toure,2686,Atalanta,6.75,2,1.24,3,1,0,74.19
+595900,Francesco Gelli,francesco-gelli,2801,Frosinone,6.75,0,0.69,13,19,0,85.38
+895592,Martín Payero,martin-payero,2695,Udinese,6.75,2,1.51,24,54,2,77.91
+100565,Luca Caldirola,luca-caldirola,2729,Monza,6.75,1,0.47,1,25,1,91.08
+1111640,Matteo Prati,matteo-prati,2719,Cagliari,6.75,1,2.02,4,45,1,75.45
+1154898,Luca Lipani,luca-lipani,2793,Sassuolo,6.75,0,0.1,2,9,0,78.71
+822518,Dodô,dodo,2693,Fiorentina,6.75,0,0.08,10,5,0,84.7
+1017372,Juan Manuel Cruz,juan-manuel-cruz,2701,Hellas Verona,6.75,0,0.04,1,2,0,69.23
+111802,Paul Pogba,paul-pogba,2687,Juventus,6.75,0,0.0,1,1,0,79.41
+161325,Arkadiusz Milik,arkadiusz-milik,2687,Juventus,6.75,4,5.14,5,9,1,81.06
+788061,M'bala Nzola,mbala-nzola,2693,Fiorentina,6.75,3,4.53,14,11,3,82.74
+41157,Darko Lazović,darko-lazovic,2701,Hellas Verona,6.75,3,2.84,5,26,2,70.24
+1010223,Fabio Miretti,fabio-miretti,2687,Juventus,6.75,1,1.18,21,18,1,80.15
+965014,Lorenzo Pirola,lorenzo-pirola,2710,Salernitana,6.75,1,0.92,0,39,0,83.45
+789234,Martin Erlić,martin-erlic,2793,Sassuolo,6.74,1,0.95,4,37,0,80.5
+930191,Lorenzo Colombo,lorenzo-colombo,2729,Monza,6.74,4,3.65,12,17,1,70.27
+603738,Junior Sambia,junior-sambia,2710,Salernitana,6.74,1,0.54,5,12,2,80.94
+992912,Berkan Kutlu,berkan-kutlu,2713,Genoa,6.73,0,0.15,0,6,0,78.85
+158235,Koffi Djidji,koffi-djidji,2696,Torino,6.73,0,0.05,3,14,0,87.11
+869888,Alessio Zerbin,alessio-zerbin,2729,Monza,6.73,0,0.63,15,23,1,82.48
+35428,Pedro,pedro,2699,Lazio,6.73,1,1.51,14,16,1,85.85
+385330,Simone Bastoni,simone-bastoni,2705,Empoli,6.73,1,0.39,4,22,0,71.07
+1106257,Anthony Oyono,anthony-oyono,2801,Frosinone,6.73,0,0.18,12,37,1,82.23
+1017649,Matteo Cancellieri,matteo-cancellieri,2705,Empoli,6.73,4,4.69,37,35,2,65.55
+1127590,Mohamed Kaba,mohamed-kaba,2689,Lecce,6.73,0,1.18,14,39,0,80.99
+1012172,Tommaso Baldanzi,tommaso-baldanzi,2702,AS Roma,6.73,2,2.96,15,13,0,85.27
+341143,Giovanni Simeone,giovanni-simeone,2714,SSC Napoli,6.73,1,3.37,5,12,0,72.63
+857671,Jens-Lys Cajuste,jens-lys-cajuste,2714,SSC Napoli,6.73,0,1.47,17,36,2,85.95
+897594,Domagoj Bradarić,domagoj-bradaric,2710,Salernitana,6.73,0,0.77,20,29,3,81.57
+43905,Francesco Caputo,francesco-caputo,2705,Empoli,6.73,3,3.43,5,2,0,76.06
+830858,Keinan Davis,keinan-davis,2695,Udinese,6.73,1,0.51,3,0,0,72.0
+945798,Djed Spence,djed-spence,2713,Genoa,6.73,0,0.17,11,16,0,79.78
+1034303,Filippo Terracciano,filippo-terracciano,2692,AC Milan,6.72,0,0.32,13,32,1,75.48
+983815,Yunus Musah,yunus-musah,2692,AC Milan,6.72,0,0.59,22,25,2,89.02
+976401,João Ferreira,joao-ferreira,2695,Udinese,6.72,0,0.13,18,58,1,75.92
+1142248,Arijon Ibrahimović,arijon-ibrahimovic,2801,Frosinone,6.72,1,0.8,4,7,1,73.68
+857772,Hamza Rafia,hamza-rafia,2689,Lecce,6.72,1,0.82,12,44,0,75.49
+148458,Gianluca Caprari,gianluca-caprari,2729,Monza,6.72,0,0.69,3,2,0,82.3
+170499,Simy,simy,2710,Salernitana,6.71,3,2.67,1,6,0,62.6
+884980,Brenner,brenner,2695,Udinese,6.71,0,0.39,2,8,0,88.68
+609206,Kingsley Ehizibue,kingsley-ehizibue,2695,Udinese,6.71,0,1.28,11,22,1,70.39
+984998,Santiago Pierotti,santiago-pierotti,2689,Lecce,6.71,0,0.49,7,8,2,75.81
+892924,Hamed Junior Traorè,hamed-junior-traore,2714,SSC Napoli,6.71,0,0.86,5,4,0,87.83
+190933,Mirko Marić,mirko-maric,2729,Monza,6.71,1,0.86,1,4,0,73.33
+1155625,Cristian Volpato,cristian-volpato,2793,Sassuolo,6.71,1,0.5,25,16,0,71.31
+970938,Niccolò Pierozzi,niccolo-pierozzi,2710,Salernitana,6.71,1,0.25,1,17,0,78.1
+855810,Timothy Weah,tim-weah,2687,Juventus,6.71,0,1.52,5,27,1,84.69
+259995,Adam Masina,adam-masina,2696,Torino,6.71,0,0.3,1,21,0,86.61
+1000366,Warren Bondo,warren-bondo,2729,Monza,6.7,1,0.95,13,29,1,90.21
+105905,Sulemana,sulemana,2719,Cagliari,6.7,2,0.76,9,36,0,82.34
+973290,Tajon Buchanan,tajon-buchanan,2697,Inter,6.7,1,0.2,4,1,0,93.22
+807291,Pedro Pereira,pedro-pereira,2729,Monza,6.7,0,0.19,5,19,2,82.81
+786175,Federico Baschirotto,federico-baschirotto,2689,Lecce,6.7,0,1.75,0,21,1,84.1
+580512,Tyronne Ebuehi,tyronne-ebuehi,2705,Empoli,6.7,0,0.27,4,14,1,75.0
+1100840,Andrea Ferraris,ferraris-andrea,2729,Monza,6.7,0,,0,1,0,100.0
+26965,Benoît Costil,benoit-costil,2710,Salernitana,6.7,0,,0,2,0,55.91
+295133,Edoardo Goldaniga,edoardo-goldaniga,2719,Cagliari,6.7,0,0.55,0,12,0,80.97
+188405,Samu Castillejo,samu-castillejo,2793,Sassuolo,6.7,0,0.26,9,12,0,82.86
+792308,José Machín,jose-machin,2729,Monza,6.7,0,0.15,1,6,0,82.22
+1183625,Giovanni Bonfanti,giovanni-bonfanti,2686,Atalanta,6.7,0,0.09,1,4,0,80.77
+47741,Chris Smalling,chris-smalling,2702,AS Roma,6.7,0,0.05,0,1,0,86.4
+1525367,Ebenezer Akinsanmiro,ebenezer-akinsanmiro,2697,Inter,6.7,0,0.0,0,0,0,87.5
+338099,Przemysław Szymiński,przemysaw-szyminski,2801,Frosinone,6.7,0,0.0,0,0,0,50.0
+33381,Papu Gómez,papu-gomez,2729,Monza,6.7,0,0.0,0,0,0,84.62
+842582,Domingos Quina,domingos-quina,2695,Udinese,6.7,0,0.0,0,1,0,100.0
+1210848,Pietro Comuzzo,comuzzo-pietro,2693,Fiorentina,6.7,0,0.0,0,1,0,71.05
+844480,Pol Lirola,pol-lirola,2801,Frosinone,6.7,2,1.32,6,30,1,78.61
+109461,Bartosz Bereszyński,bartosz-bereszynski,2705,Empoli,6.7,0,0.06,13,41,1,78.71
+280991,Morten Thorsby,morten-thorsby,2713,Genoa,6.7,2,1.81,4,19,2,62.62
+839909,Uroš Račić,uros-racic,2793,Sassuolo,6.7,1,0.84,6,10,1,81.68
+359640,Isaac Success,isaac-success,2695,Udinese,6.69,1,2.72,20,6,1,64.68
+43970,Marco Silvestri,marco-silvestri,2695,Udinese,6.69,0,0.0,0,0,0,67.28
+148566,Grégoire Defrel,gregoire-defrel,2793,Sassuolo,6.68,1,1.01,4,17,2,85.51
+960080,Boulaye Dia,boulaye-dia,2710,Salernitana,6.68,4,3.9,14,4,0,84.3
+927304,Gabriele Zappa,gabriele-zappa,2719,Cagliari,6.68,1,1.46,9,54,3,73.53
+905264,Liberato Cacace,liberato-cacace,2705,Empoli,6.68,0,0.42,23,40,1,77.5
+1119364,Samuele Vignato,samuele-vignato,2729,Monza,6.68,1,1.68,5,6,0,86.55
+149606,Jeremy Toljan,jeremy-toljan,2793,Sassuolo,6.68,0,0.57,6,13,5,77.85
+383314,Paulo Azzi,paulo-azzi,2719,Cagliari,6.68,0,1.23,13,19,0,71.67
+947929,Jesper Lindstrøm,jesper-lindstrom,2714,SSC Napoli,6.68,0,0.69,11,8,0,84.36
+920391,Antoine Makoumbou,antoine-makoumbou,2719,Cagliari,6.68,1,0.86,21,41,0,88.86
+983059,Festy Ebosele,festy-ebosele,2695,Udinese,6.68,0,0.75,49,33,0,71.43
+569556,Jakub Jankto,jakub-jankto,2719,Cagliari,6.68,1,1.52,1,12,2,69.41
+187121,Alberto Cerri,alberto-cerri,2705,Empoli,6.68,1,1.17,1,3,0,50.75
+1030829,Gvidas Gineitis,gineitis-gvidas,2696,Torino,6.68,0,0.43,3,11,0,83.91
+826186,Luca Pellegrini,luca-pellegrini,2699,Lazio,6.67,1,0.24,14,18,0,76.63
+928800,Marco Brescianini,marco-brescianini,2801,Frosinone,6.67,4,2.3,22,28,2,79.92
+1096210,Jackson Tchatchoua,jackson-tchatchoua,2701,Hellas Verona,6.67,0,0.0,6,39,2,77.26
+184421,Stefano Sabelli,stefano-sabelli,2713,Genoa,6.67,0,0.76,8,50,1,63.43
+287659,Viktor Kovalenko,viktor-kovalenko,2705,Empoli,6.67,1,0.93,2,5,1,73.5
+958982,Roberto Piccoli,roberto-piccoli,2689,Lecce,6.67,5,6.48,13,11,0,61.48
+797286,Aarón Martín,aaron-martin,2713,Genoa,6.67,0,0.15,6,21,1,78.26
+286087,Mateusz Wieteska,mateusz-wieteska,2719,Cagliari,6.67,0,0.34,3,14,1,82.0
+862373,Emanuel Vignato,emanuel-vignato,2710,Salernitana,6.67,0,0.03,1,10,1,75.21
+856216,Ahmed Touba,ahmed-touba,2689,Lecce,6.67,0,0.03,0,6,0,83.94
+1176744,Dean Huijsen,dean-huijsen,2702,AS Roma,6.66,2,0.44,1,10,0,87.63
+97410,Davy Klaassen,davy-klaassen,2697,Inter,6.66,0,0.09,1,4,0,86.32
+831290,David Okereke,david-okereke,2696,Torino,6.66,0,0.25,1,3,0,80.46
+318657,Alexis Blin,alexis-blin,2689,Lecce,6.66,0,1.09,5,33,2,87.55
+136322,Elseid Hysaj,elseid-hysaj,2699,Lazio,6.66,0,0.24,2,24,0,84.82
+814589,Giuseppe Pezzella,giuseppe-pezzella,2705,Empoli,6.66,0,0.17,10,25,0,77.78
+946985,Giuseppe Caso,giuseppe-caso,2801,Frosinone,6.66,0,0.29,15,4,0,86.24
+824584,Emil Bohinen,emil-bohinen,2713,Genoa,6.66,0,0.07,5,9,0,79.06
+1137366,Tommaso Corazza,corazza-tommaso,2685,Bologna,6.66,0,0.1,0,10,0,80.37
+792311,Riccardo Marchizza,riccardo-marchizza,2801,Frosinone,6.65,0,0.4,3,7,4,76.16
+965009,Gaetano Oristanio,gaetano-oristanio,2719,Cagliari,6.65,2,1.99,32,20,1,74.52
+1009268,Mattia Viti,mattia-viti,2793,Sassuolo,6.65,1,0.96,2,24,0,84.7
+802034,Fabien Centonze,fabien-centonze,2701,Hellas Verona,6.65,0,0.02,11,14,1,66.67
+27955,Antonio Mirante,antonio-mirante,2692,AC Milan,6.65,0,,0,0,0,73.47
+1100207,Lorenzo Amatucci,amatucci-lorenzo,2693,Fiorentina,6.65,0,0.01,0,0,0,88.0
+82943,Rafael Tolói,rafael-toloi,2686,Atalanta,6.65,0,0.05,4,20,0,83.37
+224456,Norbert Gyömbér,norbert-gyomber,2710,Salernitana,6.65,0,0.17,5,36,0,84.17
+990050,Bruno Amione,bruno-amione,2701,Hellas Verona,6.64,0,0.29,1,11,0,80.0
+1471569,Kingstone Mutandwa,mutandwa-kingstone,2719,Cagliari,6.64,1,0.07,1,1,0,33.33
+804621,Lassana Coulibaly,lassana-coulibaly,2710,Salernitana,6.64,0,0.6,15,47,1,85.43
+856638,Mitchel Bakker,mitchel-bakker,2686,Atalanta,6.64,1,0.2,7,7,0,81.37
+46799,Pedro Obiang,pedro-obiang,2793,Sassuolo,6.64,0,0.04,2,8,0,81.28
+790817,Shon Weissman,shon-weissman,2710,Salernitana,6.64,1,1.02,0,4,0,72.73
+984926,Agustín Martegani,agustin-martegani,2710,Salernitana,6.63,1,0.58,12,13,0,85.47
+1142149,Medon Berisha,medon-berisha,2689,Lecce,6.63,0,0.17,1,3,0,86.32
+933263,Emil Konradsen Ceide,emil-konradsen-ceide,2793,Sassuolo,6.63,0,0.1,13,2,0,72.22
+991416,Alessandro Sorrentino,alessandro-sorrentino,2729,Monza,6.63,0,0.0,1,0,0,72.56
+1142825,Stiven Shpendi,stiven-shpendi,2705,Empoli,6.63,0,0.43,2,0,1,75.68
+250501,Ridgeciano Haps,ridgeciano-haps,2713,Genoa,6.63,0,0.11,3,7,1,75.96
+1101751,Saba Sazonov,saba-sazonov,2696,Torino,6.63,0,0.16,0,9,0,88.11
+1431516,Trivante Stewart,stewart-trivante,2710,Salernitana,6.63,0,0.07,2,0,0,72.0
+963084,David Zima,david-zima,2696,Torino,6.63,0,0.0,0,1,0,83.72
+1012248,Demba Seck,demba-seck,2801,Frosinone,6.62,0,1.47,11,12,0,79.08
+963211,Brandon Soppy,brandon-soppy,2696,Torino,6.62,0,0.01,3,2,0,70.59
+964119,Jordan Zemura,jordan-zemura,2695,Udinese,6.62,1,0.81,13,24,0,72.14
+989276,Josh Doig,josh-doig,2793,Sassuolo,6.62,0,0.4,14,41,2,73.27
+934409,Marcus Pedersen,marcus-pedersen,2793,Sassuolo,6.62,0,0.1,11,36,2,80.08
+1009661,Oier Zarraga,oier-zarraga,2695,Udinese,6.61,2,0.57,1,3,0,83.49
+795541,Thomas Henry,thomas-henry,2701,Hellas Verona,6.61,3,3.27,1,0,0,50.79
+982601,Matteo Lovato,matteo-lovato,2696,Torino,6.6,0,0.06,0,37,0,84.96
+541578,Emmanuel Gyasi,emmanuel-gyasi,2705,Empoli,6.6,1,3.54,3,34,2,77.96
+839226,Pietro Pellegri,pietro-pellegri,2696,Torino,6.6,1,1.03,5,5,1,64.89
+328109,Alessandro Deiola,alessandro-deiola,2719,Cagliari,6.6,1,2.51,5,33,0,71.4
+352728,Nikita Contini,nikita-contini,2714,SSC Napoli,6.6,0,,0,0,0,100.0
+17756,Simone Aresti,simone-aresti,2719,Cagliari,6.6,0,,0,0,0,0.0
+1492729,Andres Șfaiț,andres-sfait,2710,Salernitana,6.6,0,,0,1,0,75.0
+1019892,Stefan Mitrović,stefan-mitrovic,2701,Hellas Verona,6.6,0,0.45,6,6,0,85.23
+929631,Elayis Tavsan,elayis-tavsan,2701,Hellas Verona,6.6,0,0.1,1,0,0,85.71
+1105138,Riccardo Pagano,pagano-riccardo,2702,AS Roma,6.6,0,0.06,1,2,0,86.36
+796673,Marcin Listkowski,marcin-listkowski,2689,Lecce,6.6,0,0.04,0,0,0,100.0
+190405,Leander Dendoncker,leander-dendoncker,2714,SSC Napoli,6.6,0,0.03,0,0,0,85.19
+386230,Pablo Galdames,pablo-galdames,2713,Genoa,6.6,0,0.03,0,0,0,91.3
+1389689,Reda Belahyane,reda-belahyane,2701,Hellas Verona,6.6,0,0.03,0,1,0,92.0
+920744,Ola Solbakken,ola-solbakken,2702,AS Roma,6.6,0,0.0,1,0,0,85.71
+98058,Simone Verdi,simone-verdi,2696,Torino,6.6,0,0.0,0,0,0,100.0
+1136034,Giacomo Corona,giacomo-corona,2705,Empoli,6.6,0,0.0,0,0,0,100.0
+283851,Karlo Lulić,karlo-lulic,2801,Frosinone,6.6,0,0.0,0,0,0,66.67
+860306,Oliver Christensen,oliver-christensen,2693,Fiorentina,6.6,0,0.0,0,0,0,74.86
+922928,Alessandro Zanoli,alessandro-zanoli,2710,Salernitana,6.6,0,0.17,6,17,2,79.4
+946006,Marvin Çuni,marvin-cuni,2801,Frosinone,6.59,1,1.31,3,8,0,75.23
+826003,Jordi Mboula,jordi-mboula,2701,Hellas Verona,6.59,0,0.2,2,4,1,73.77
+1445228,Farès Ghedjemis,fares-ghedjemis,2801,Frosinone,6.58,0,0.11,2,2,0,87.04
+1390489,Davide Bartesaghi,davide-bartesaghi,2692,AC Milan,6.58,0,0.0,0,2,0,75.0
+927030,Samuele Mulattieri,samuele-mulattieri,2793,Sassuolo,6.58,0,1.6,4,1,0,70.43
+974863,Dani Silva,dani-silva,2701,Hellas Verona,6.58,0,0.06,3,6,0,83.26
+943595,Sydney van Hooijdonk,sydney-van-hooijdonk,2685,Bologna,6.58,0,0.62,2,3,0,82.35
+822163,Pantelis Hatzidiakos,pantelis-hatzidiakos,2719,Cagliari,6.58,0,0.38,1,22,0,84.0
+100570,Mattia Destro,mattia-destro,2705,Empoli,6.57,0,1.16,1,2,0,66.13
+1143547,Chukwubuikem Ikwuemesi,chukwubuikem-ikwuemesi,2710,Salernitana,6.57,1,2.44,15,3,1,67.07
+19382,Jérôme Boateng,jerome-boateng,2710,Salernitana,6.57,0,,0,0,0,84.8
+964153,Adam Obert,adam-obert,2719,Cagliari,6.56,0,0.14,3,17,0,78.98
+1177401,Alan Matturro,alan-matturro,2713,Genoa,6.56,0,0.07,1,1,0,62.5
+1086992,Gino Infantino,gino-infantino,2693,Fiorentina,6.56,0,0.02,3,1,0,88.64
+1121184,Filippo Missori,filippo-missori,2793,Sassuolo,6.56,0,0.28,1,6,0,78.31
+844292,Erik Botheim,erik-botheim,2710,Salernitana,6.56,0,0.11,1,2,0,75.0
+914487,Ruan,ruan,2793,Sassuolo,6.56,0,0.51,2,25,0,85.27
+965330,Pierre Kalulu,pierre-kalulu,2692,AC Milan,6.56,0,0.06,0,5,0,90.12
+901885,Flavius Daniliuc,flavius-daniliuc,2710,Salernitana,6.55,0,0.25,1,19,0,86.24
+1184308,Álex Jiménez,alex-jimenez,2692,AC Milan,6.55,0,0.0,0,2,0,88.24
+869273,Michele Cerofolini,michele-cerofolini,2801,Frosinone,6.55,0,0.0,0,0,0,53.59
+280087,Luca Garritano,luca-garritano,2801,Frosinone,6.55,0,0.7,0,10,0,71.36
+126236,Riccardo Saponara,riccardo-saponara,2701,Hellas Verona,6.54,0,0.1,4,3,0,75.22
+979593,Iron Gomis,iron-gomis,2710,Salernitana,6.54,0,0.57,0,4,0,89.71
+164511,Jean Daniel Akpa-Akpro,jean-akpa,2729,Monza,6.54,0,0.55,3,20,0,83.97
+1164381,Seydou Fini,fini-seydou,2713,Genoa,6.53,0,0.14,0,0,0,72.73
+846441,Rúben Vinagre,ruben-vinagre,2701,Hellas Verona,6.53,0,0.03,3,4,0,71.88
+148740,Alessio Cragno,alessio-cragno,2793,Sassuolo,6.53,0,0.0,0,0,0,65.17
+835601,Moise Kean,moise-kean,2687,Juventus,6.53,0,2.28,14,7,0,69.89
+954888,Kaio Jorge,kaio-jorge,2801,Frosinone,6.51,3,5.47,5,6,0,73.55
+318967,Renato Sanches,renato-sanches,2702,AS Roma,6.5,1,0.08,4,2,0,90.41
+1175821,Niccolò Pisilli,niccolo-pisilli,2702,AS Roma,6.5,0,,0,0,0,83.33
+1169409,Alphadjo Cissè,alphadjo-cisse,2701,Hellas Verona,6.5,0,,0,0,0,100.0
+1397756,Tommaso Martinelli,martinelli-tommaso,2693,Fiorentina,6.5,0,,0,0,0,73.91
+1462307,Christos Papadopoulos,papadopoulos-christos,2713,Genoa,6.5,0,,0,0,0,0.0
+967510,Yayah Kallon,yayah-kallon,2701,Hellas Verona,6.5,0,,0,0,0,33.33
+595572,Daniele Sommariva,daniele-sommariva,2713,Genoa,6.5,0,,0,0,0,0.0
+1858820,Gerardo Fusco,gerardo-fusco,2710,Salernitana,6.5,0,,0,0,0,83.33
+1466543,Charlys,charlys,2701,Hellas Verona,6.5,0,,0,0,0,83.33
+1397478,João Costa,joao-costa,2702,AS Roma,6.5,0,,0,0,0,85.71
+362222,Mattia Caldara,mattia-caldara,2692,AC Milan,6.5,0,0.21,0,1,0,83.33
+1414275,Vivaldo,vivaldo,2695,Udinese,6.5,0,0.0,0,0,0,0.0
+287573,Liam Henderson,liam-henderson,2705,Empoli,6.5,0,0.0,0,0,0,50.0
+1068581,Leonardo Cerri,leonardo-cerri,2687,Juventus,6.5,0,0.0,0,0,0,0.0
+874481,Mamadou Coulibaly,mamadou-coulibaly,2710,Salernitana,6.5,0,0.0,0,0,0,33.33
+348088,Luigi Canotto,luigi-canotto,2801,Frosinone,6.5,0,0.0,1,0,0,66.67
+1167928,Andrea Sodero,sodero-andrea,2705,Empoli,6.5,0,0.0,0,0,0,0.0
+871765,Nicolás Domínguez,nicolas-dominguez,2685,Bologna,6.5,0,0.0,0,1,0,90.11
+335887,Filip Jagiełło,filip-jagieo,2713,Genoa,6.5,0,0.0,0,0,0,88.24
+377512,Pasquale Mazzocchi,pasquale-mazzocchi,2714,SSC Napoli,6.49,0,0.49,23,30,2,76.97
+802149,Yann Karamoh,yann-karamoh,2696,Torino,6.49,0,0.15,6,1,0,71.43
+1457821,David Ankeye,david-ankeye,2713,Genoa,6.48,0,,2,1,0,100.0
+859266,Triantafyllos Pasalidis,triantafyllos-pasalidis,2710,Salernitana,6.48,0,0.02,0,11,0,81.87
+1064080,Mateusz Łęgowski,mateusz-legowski,2710,Salernitana,6.47,0,0.24,6,23,0,78.32
+893642,Marash Kumbulla,marash-kumbulla,2793,Sassuolo,6.47,0,,0,3,0,78.3
+928777,Michel Adopo,michel-ndary-adopo,2686,Atalanta,6.46,0,0.07,2,4,1,84.09
+1397348,Kevin Zeroli,zeroli-kevin,2692,AC Milan,6.45,0,,0,1,0,40.0
+1095023,Marco Pellegrino,pellegrino-marco,2710,Salernitana,6.45,0,0.07,1,9,0,84.25
+1140001,Giorgi Kvernadze,kvernadze-giorgi,2801,Frosinone,6.45,0,0.0,3,3,0,87.1
+365992,Kevin Bonifazi,kevin-bonifazi,2801,Frosinone,6.45,0,0.0,1,9,0,85.65
+1032022,Luka Romero,luka-romero,2692,AC Milan,6.43,0,0.09,1,0,0,88.89
+357756,Lorenzo Venuti,lorenzo-venuti,2689,Lecce,6.42,0,0.1,2,6,0,79.53
+25522,Marco Mancosu,marco-mancosu,2719,Cagliari,6.4,0,1.29,3,3,0,66.67
+98003,Mehdi Bourabia,mehdi-bourabia,2801,Frosinone,6.4,0,0.11,0,5,0,78.13
+1133119,Simone Pafundi,simone-pafundi,2695,Udinese,6.4,0,0.0,0,0,0,100.0
+979479,Gennaro Borrelli,gennaro-borrelli,2801,Frosinone,6.4,0,0.0,0,0,0,0.0
+988839,Marley Aké,ake-marley,2695,Udinese,6.4,0,0.0,0,0,0,0.0
+1000015,Emmanuel Ekong,emmanuel-ekong,2705,Empoli,6.4,0,0.0,0,0,0,100.0
+826189,Davide Bettella,davide-bettella,2729,Monza,6.4,0,0.0,0,0,0,60.0
+1387352,Jeppe Corfitzen,corfitzen-jeppe,2689,Lecce,6.4,0,0.0,0,1,0,66.67
+794784,Samuele Perisan,samuele-perisan,2705,Empoli,6.4,0,0.0,0,0,0,73.08
+190319,George Pușcaș,george-puscas,2713,Genoa,6.38,0,2.12,1,0,0,55.74
+845271,Dylan Bronn,dylan-bronn,2710,Salernitana,6.38,0,0.03,0,0,0,66.67
+928814,Alessandro Di Pardo,alessandro-di-pardo,2719,Cagliari,6.35,0,0.09,1,4,0,71.09
+876235,Luca Gemello,luca-gemello,2696,Torino,6.35,0,,0,0,0,80.56
+103156,Giulio Donati,giulio-donati,2729,Monza,6.35,0,0.02,0,0,0,89.19
+1520771,Francesco Camarda,camarda-francesco,2692,AC Milan,6.35,0,0.0,0,0,0,0.0
+1525361,Mateus Lusuardi,mateus-lusuardi,2801,Frosinone,6.33,0,0.07,1,2,0,89.05
+983575,Nikola Sekulov,sekulov-nikola,2687,Juventus,6.3,0,0.0,0,0,0,50.0
+814214,Silvan Hefti,silvan-hefti,2713,Genoa,6.28,0,0.0,0,6,0,64.29
+1137268,Kevin Miranda,miranda-kevin,2793,Sassuolo,6.2,0,0.0,1,0,0,90.0
+1149138,Joseph Nonge,joseph-nonge-boende,2687,Juventus,6.05,0,,1,0,0,77.78
+1136325,Rareș Burnete,rares-catalin-burnete,2689,Lecce,0.0,0,0.0,0,0,1,100.0
+1141168,Lapo Nava,lapo-nava,2692,AC Milan,0.0,0,,0,0,0,100.0
+1154189,Antonio Tikvić,antonio-tikvic,2695,Udinese,0.0,0,,0,0,0,0.0
+1489949,Leonardo Mendicino,mendicino-leonardo,2686,Atalanta,0.0,0,,0,0,0,0.0
+960006,Lucien Agoumé,lucien-agoume,2697,Inter,0.0,0,0.0,0,0,0,100.0
+848279,Enzo Ebosse,enzo-ebosse,2695,Udinese,0.0,0,0.0,0,1,0,80.0
+1137256,Justin Kumi,justin-kumi,2793,Sassuolo,0.0,0,0.0,0,0,0,100.0

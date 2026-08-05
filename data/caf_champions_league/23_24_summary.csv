@@ -1,0 +1,397 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+970755,Mehdi Maftah,mehdi-maftah,36268,Wydad Casablanca,9.0,0,,0,0,0,53.13
+1444568,Sankara Karamoko,sankara-karamoko,42360,ASEC Mimosas,7.7,4,,4,0,1,80.95
+1607191,Ladaki Chasambi,ladaki-chasambi,212409,Simba SC,7.7,1,,0,2,0,100.0
+990666,Kitso Mangolo,kitso-mangolo,297712,Jwaneng Galaxy FC,7.7,0,,8,10,0,76.6
+1183552,Pacôme Zouzoua,pacome-zouzoua,134320,Young Africans SC,7.58,3,,17,13,1,82.05
+1048378,Mostafa Shobeir,mostafa-shobeir,6910,Al Ahly FC,7.58,0,,0,0,0,63.67
+18113,Saidi Ntibazonkiza,saidi-ntibazonkiza,212409,Simba SC,7.57,2,,6,13,2,78.95
+881117,Teboho Mokoena,teboho-mokoena,7665,Mamelodi Sundowns,7.51,1,,4,12,1,83.99
+918920,Salah Mohsen,salah-mohsen,6910,Al Ahly FC,7.5,1,,0,0,0,40.0
+784637,Sofiane Bouchar,sofiane-bouchar,42207,CR Belouizdad,7.5,0,,0,9,0,90.12
+1008616,Franck Zouzou,franck-zouzou,42360,ASEC Mimosas,7.43,0,,8,15,0,77.22
+796371,Djigui Diarra,djigui-diarra,134320,Young Africans SC,7.41,0,,0,1,0,58.04
+1049219,Karim El Debes,karim-eldbees,6910,Al Ahly FC,7.4,0,,0,0,0,85.0
+972811,Houcine Benayada,houcine-benayada,42207,CR Belouizdad,7.4,0,,1,4,0,78.42
+1015009,Goitseone Phoko,goitseone-phoko,297712,Jwaneng Galaxy FC,7.38,0,,1,0,0,73.54
+332547,Ali Maâloul,ali-maaloul,6910,Al Ahly FC,7.37,0,,6,15,3,76.86
+865473,Stephane Aziz Ki,stephane-aziz-ki,134320,Young Africans SC,7.36,1,,14,8,2,78.5
+958738,Clatous Chama,clatous-chama,212409,Simba SC,7.36,1,,14,4,1,85.29
+926506,Mohamed Abdelmonem,mohamed-abdelmonem,6910,Al Ahly FC,7.35,1,,1,13,0,87.66
+1183549,Kouassi Yao,kouassi-attohoula,134320,Young Africans SC,7.33,0,,10,19,0,85.02
+898741,Yassine Meriah,yassine-meriah,59628,Espérance Sportive De Tunis,7.33,2,,5,18,0,84.0
+1196789,Ibrahima Keita,ibrahima-keita,38873,Tout Puissant Mazembe,7.32,0,,10,35,2,73.53
+944125,Divine Lunga,divine-lunga,7665,Mamelodi Sundowns,7.32,0,,3,13,0,81.52
+59783,Hugo Marques,hugo-marques,148072,Atlético Petróleos de Luanda,7.31,0,,1,0,0,74.17
+822446,Marcelo Allende,marcelo-allende,7665,Mamelodi Sundowns,7.31,0,,4,15,2,87.19
+295339,Rami Rabia,rami-rabia,6910,Al Ahly FC,7.31,0,,1,16,0,85.83
+882322,Badr Gaddarine,badr-gaddarine,36268,Wydad Casablanca,7.3,1,,0,1,0,80.0
+75486,Raïs M'Bolhi,rais-mbolhi,42207,CR Belouizdad,7.3,0,,0,0,0,60.87
+1048755,Zuko Mdunyelwa,zuko-mdunyelwa,7665,Mamelodi Sundowns,7.3,0,,3,2,0,87.5
+970761,Jamal Harkass,jamal-harkass,36268,Wydad Casablanca,7.3,0,,3,8,0,87.21
+1009188,Amine Aboulfath,amine-aboulfath,36268,Wydad Casablanca,7.3,0,,1,8,0,70.62
+871736,Akram Tawfik,akram-tawfik,6910,Al Ahly FC,7.29,1,,6,35,0,84.91
+919642,Mohamed Chibi,chibi-mohamed,175002,Pyramids FC,7.28,0,,3,8,1,74.92
+1457239,Felix Kyei,felix-kyei,81951,Medeama SC,7.28,0,,0,2,0,78.82
+1187209,Anthony Tra Bi Tra,anthony-tra-bi-tra,42360,ASEC Mimosas,7.28,0,,2,9,0,81.84
+845607,Abdelraouf Benguit,abdelraouf-benguit,42207,CR Belouizdad,7.27,3,,2,16,0,82.89
+1407653,Khadim Diaw,khadim-diaw,69322,Al-Hilal Omdurman,7.27,0,,5,15,0,68.4
+864640,Wonlo Coulibaly,wonlo-coulibaly,42360,ASEC Mimosas,7.26,0,,3,14,1,81.34
+1018018,Mohamed Tougai,mohamed-tougai,59628,Espérance Sportive De Tunis,7.24,0,,2,14,0,86.66
+985960,Mudathir Yahya,mudathir-yahya,134320,Young Africans SC,7.22,2,,4,10,0,76.0
+918606,Hussein El Shahat,hussein-el-shahat,6910,Al Ahly FC,7.2,3,,12,8,0,76.72
+895067,Rushine De Reuck,de-reuck-rushine,7665,Mamelodi Sundowns,7.2,0,,0,2,0,92.86
+1104517,Vidinho,vidinho,148072,Atlético Petróleos de Luanda,7.2,0,,1,0,0,92.31
+1459292,Ande Cirille Koffi,ande-habib-cirille,42360,ASEC Mimosas,7.2,0,,0,3,0,90.0
+1410412,Amanallah Memmiche,amanallah-memmiche,59628,Espérance Sportive De Tunis,7.2,0,,1,0,0,59.18
+919749,Ayoub Lakred,lakred-ayoub,212409,Simba SC,7.19,0,,1,1,0,71.86
+967316,Houssem Teka,houssem-teka,59628,Espérance Sportive De Tunis,7.18,0,,12,28,1,85.15
+1612108,Beugré Gbakré,beugre-gbakre,42360,ASEC Mimosas,7.17,0,,5,12,1,81.51
+1004526,Saifeddine Bouhra,bouhra-saifeddine,36268,Wydad Casablanca,7.17,0,,11,1,2,80.0
+1112763,Amine Farhane,amine-farhane,36268,Wydad Casablanca,7.17,0,,0,3,0,88.57
+1469648,Kamaradini Mamudu,kamaradini-mamudu,81951,Medeama SC,7.16,1,,3,5,1,75.15
+919712,Yahya Jabrane,jabrane-yahya,36268,Wydad Casablanca,7.16,0,,8,6,0,81.96
+973053,Mohamed Hussein,mohamed-husseini,212409,Simba SC,7.15,0,,2,27,1,78.21
+1612113,Sacko Seydou,sacko-seydou,42360,ASEC Mimosas,7.15,0,,3,4,0,86.96
+918506,Mohanad Lasheen,mohanad-lasheen,175002,Pyramids FC,7.15,0,,5,26,0,81.4
+1064821,Kinito,kinito,148072,Atlético Petróleos de Luanda,7.14,0,,3,6,0,87.26
+1159839,Alioune Badara Faty,alioune-badara-faty,38873,Tout Puissant Mazembe,7.14,0,,1,1,0,55.88
+919194,Houssem Ben Ali,houssem-ben-ali,35188,Etoile Sportive Du Sahel,7.13,0,,2,6,0,60.0
+995696,Jonathan Toro,jonathan-toro,148072,Atlético Petróleos de Luanda,7.13,2,,4,18,0,77.4
+919677,Yahia Attiyat Allah,yahia-attiyat-allah,36268,Wydad Casablanca,7.13,0,,0,10,0,74.34
+1008191,Mahmoud Mbodj,mahmoud-mbodj,134304,FC Nouadhibou,7.13,0,,0,0,0,47.48
+1000809,Amine Ben Hmida,amine-ben-hamida,59628,Espérance Sportive De Tunis,7.13,0,,4,23,0,80.16
+1584851,Essomba Onana,essomba-onana,212409,Simba SC,7.12,2,,4,4,0,82.95
+841943,Mostafa Fathy,mostafa-fathy,175002,Pyramids FC,7.12,0,,11,3,0,66.67
+1018589,Youcef Amine Laouafi,youcef-amine-laouafi,42207,CR Belouizdad,7.12,0,,7,15,0,82.63
+826545,Mohamed Hany,mohamed-hany,6910,Al Ahly FC,7.12,0,,5,19,0,79.14
+845790,Inacio Miguel,inacio-miguel,148072,Atlético Petróleos de Luanda,7.11,1,,1,8,0,83.38
+539792,Ronwen Williams,ronwen-williams,7665,Mamelodi Sundowns,7.11,0,,0,0,0,84.62
+866162,Khalid Aucho,khalid-aucho,134320,Young Africans SC,7.1,0,,0,16,1,87.87
+1536805,Junior Mendy,junior-mendy,69322,Al-Hilal Omdurman,7.1,0,,0,1,0,77.68
+871735,Mohamed El-Shenawy,mohamed-el-shenawy,6910,Al Ahly FC,7.1,0,,0,0,0,80.0
+921022,Neo Maema,maema-neo,7665,Mamelodi Sundowns,7.1,0,,1,1,0,92.68
+970572,Ayoub El Amloud,el-amloud-ayoub,36268,Wydad Casablanca,7.1,0,,2,3,0,80.71
+927648,Glody Likonza,glody-likonza,38873,Tout Puissant Mazembe,7.09,2,,6,6,1,80.25
+333441,Yasser Ibrahim,yasser-ibrahim,6910,Al Ahly FC,7.08,0,,0,8,0,87.11
+894581,Grant Kekana,grant-kekana,7665,Mamelodi Sundowns,7.08,1,,1,8,0,89.39
+934079,Fabrice Ngoma,fabrice-ngoma,212409,Simba SC,7.08,1,,4,18,0,80.51
+1004248,Anas Serrhat,anas-serrhat,36268,Wydad Casablanca,7.08,0,,1,5,0,85.47
+845605,Abderrahmane Meziane,abderrahmane-meziane,42207,CR Belouizdad,7.07,1,,5,3,1,77.84
+1013427,Mountassir Lahtimi,mountassir-lahtimi,36268,Wydad Casablanca,7.07,1,,16,6,0,75.68
+894949,Mosa Lebusa,mosa-lebusa,7665,Mamelodi Sundowns,7.07,0,,0,2,0,91.21
+1083236,Salifou Diarrassouba,salifou-diarrassouba,42360,ASEC Mimosas,7.06,0,,7,8,0,75.33
+1013699,Marwan Attia,attia-marwan,6910,Al Ahly FC,7.06,0,,1,28,0,84.11
+1387408,Julinho,julinho,148072,Atlético Petróleos de Luanda,7.05,1,,0,1,0,57.14
+1094525,Mohamed Islam Belkhir,mohamed-islam-belkhir,42207,CR Belouizdad,7.05,0,,6,4,1,84.09
+1018804,Terrence Mashego,terrence-mashego,7665,Mamelodi Sundowns,7.05,0,,1,3,0,85.15
+872349,Kévin Mondeko,kevin-mondeko,38873,Tout Puissant Mazembe,7.04,0,,1,8,0,74.34
+918592,Ahmed Samy,ahmed-samy,175002,Pyramids FC,7.03,0,,0,5,0,80.0
+1089447,Steve Ebuela,steve-ebuela,69322,Al-Hilal Omdurman,7.02,0,,2,24,1,66.52
+954688,Lucas Ribeiro,lucas-ribeiro,7665,Mamelodi Sundowns,7.0,1,,21,4,1,65.24
+864641,Essis Beaudeleire Aka,essis-beaudeleire-aka,42360,ASEC Mimosas,7.0,1,,6,5,0,84.45
+787466,Rivaldo Coetzee,rivaldo-coetzee,7665,Mamelodi Sundowns,7.0,0,,0,0,0,84.35
+1469685,Ibrahim Hamad,ibrahim-hamad-bacca,134320,Young Africans SC,7.0,0,,2,16,0,81.25
+936047,Khuliso Mudau,khuliso-mudau,7665,Mamelodi Sundowns,7.0,0,,4,7,0,87.57
+251845,Pedro Pinto,pedro-pinto,148072,Atlético Petróleos de Luanda,7.0,0,,3,6,0,87.1
+1199299,Che Malone,che-malone,212409,Simba SC,6.99,0,,1,13,0,81.35
+1416346,Charles Ayayi,charles-ayayi,42360,ASEC Mimosas,6.99,0,,0,1,0,56.52
+848083,Yan Sasse,yan-sasse,59628,Espérance Sportive De Tunis,6.98,3,,12,9,1,82.24
+1004434,Joseph Guede Gnadou,guede-gnadou-joseph,134320,Young Africans SC,6.98,1,,2,5,0,80.56
+1540054,Hamidu Fatawu,hamidu-fatawu,81951,Medeama SC,6.98,0,,3,5,0,80.56
+898070,Anderson Cruz,anderson-cruz,148072,Atlético Petróleos de Luanda,6.98,0,,2,14,0,73.76
+1459304,Sidi Amar Bouna,sidi-amar-bouna,134304,FC Nouadhibou,6.97,1,,9,2,0,72.34
+1008212,Oumar Mangane,oumar-mangane,134304,FC Nouadhibou,6.97,0,,1,8,1,69.07
+1021121,Ishak Talal Boussouf,ishak-talal-boussouf,42207,CR Belouizdad,6.97,0,,4,5,0,85.07
+918773,Mohamed Reda,mohamed-reda,175002,Pyramids FC,6.97,0,,3,4,0,56.82
+1182641,Jaredi,jaredi,148072,Atlético Petróleos de Luanda,6.96,0,,15,4,1,69.3
+1018477,Chouaib Keddad,chouaib-keddad,42207,CR Belouizdad,6.96,0,,0,7,0,80.62
+1102949,Magloire Ntambwe,magloire-ntambwe,38873,Tout Puissant Mazembe,6.96,0,,0,12,0,73.66
+985958,Shomari Kapombe,shomari-kapombe,212409,Simba SC,6.96,0,,2,7,0,70.28
+880642,Kennedy Musonda,kennedy-musonda,134320,Young Africans SC,6.95,1,,5,4,2,74.5
+1410424,Raed Gazzeh,gazzeh-raed,35188,Etoile Sportive Du Sahel,6.95,0,,0,0,0,80.95
+892988,Osah Bernardinho Tetteh,osah-bernardinho-tetteh,81951,Medeama SC,6.95,0,,5,1,0,71.88
+1008607,Soze Zemanga,soze-zemanga,38873,Tout Puissant Mazembe,6.95,0,,13,12,0,81.97
+1018478,Housseyn Selmi,housseyn-selmi,42207,CR Belouizdad,6.95,0,,8,12,0,86.89
+982240,Karim Fouad,karim-fouad,6910,Al Ahly FC,6.94,0,,6,9,0,70.8
+788834,Lamin Jallow,jallow-lamin,42207,CR Belouizdad,6.94,2,,4,2,0,78.38
+1126243,Akram Bouras,akram-bouras,42207,CR Belouizdad,6.94,0,,5,3,1,82.09
+1100192,Philippe Kinzumbi,philippe-kinzumbi,38873,Tout Puissant Mazembe,6.94,1,,8,8,1,72.57
+1006431,Bakari Mwamnyeto,bakari-nondo,134320,Young Africans SC,6.93,1,,1,9,0,83.69
+1101288,Albert Kangwanda,albert-kangwanda,69322,Al-Hilal Omdurman,6.93,0,,2,6,0,78.79
+934080,Ernest Luzolo Sita,ernest-luzolo-sita,38873,Tout Puissant Mazembe,6.92,0,,8,18,0,69.15
+918723,Mohamed Hamdi,mohamed-hamdi,175002,Pyramids FC,6.92,0,,0,13,0,83.22
+990652,Walieldin Khidir,walieldin-khidir,69322,Al-Hilal Omdurman,6.92,0,,5,13,0,81.94
+898740,Ghayléne Chaaleli,ghaylene-chaaleli,59628,Espérance Sportive De Tunis,6.91,0,,7,7,0,78.9
+1410423,Raed Bouchniba,raed-bouchniba,59628,Espérance Sportive De Tunis,6.91,1,,0,4,0,85.63
+919149,Mohamed Ben Ali,mohamed-ben-ali,59628,Espérance Sportive De Tunis,6.91,0,,4,14,0,74.42
+1017984,Joel Beya,joel-beya,38873,Tout Puissant Mazembe,6.9,2,,4,4,0,68.12
+894744,Thembinkosi Lorch,thembinkosi-lorch,7665,Mamelodi Sundowns,6.9,1,,5,2,0,78.57
+825413,Bessam Ahmed,bessam-ahmed,134304,FC Nouadhibou,6.9,1,,5,9,0,78.26
+973037,Aishi Manula,aishi-manula,212409,Simba SC,6.9,0,,0,0,0,36.84
+1018821,Zinedine Boutmène,zinedine-boutmene,42207,CR Belouizdad,6.9,0,,0,0,0,84.62
+872048,Malik Zola,arsene-zola,36268,Wydad Casablanca,6.9,0,,1,1,0,83.33
+1587006,David Boison Frimpong,david-boison-frimpong,81951,Medeama SC,6.9,0,,1,1,0,71.43
+1008171,Ibrahim Adel,ibrahim-adel,175002,Pyramids FC,6.9,0,,7,1,0,80.0
+327833,Erivaldo,erivaldo,148072,Atlético Petróleos de Luanda,6.9,0,,2,6,0,64.29
+866128,Mokhtar Belkhiter,mokhtar-belkhiter,42207,CR Belouizdad,6.9,0,,0,6,0,77.84
+1089437,Atibu Radjabu,atibu-radjabu,38873,Tout Puissant Mazembe,6.9,0,,0,10,0,75.18
+1476367,Trésor Mofossé,tresor-mofosse,42360,ASEC Mimosas,6.89,0,,4,7,2,80.63
+1008217,Roger Aholou,roger-aholou,59628,Espérance Sportive De Tunis,6.89,0,,2,9,0,88.56
+125020,William Soares,william-soares,148072,Atlético Petróleos de Luanda,6.89,0,,3,4,0,88.12
+1462886,Maxi Mpia Nzengeli,maxi-mpia-nzengeli,134320,Young Africans SC,6.89,0,,8,7,0,83.14
+1107565,Pape Abdou Ndiaye,pape-abdou-ndiaye,69322,Al-Hilal Omdurman,6.88,2,,4,1,0,74.24
+845612,Zakaria Draoui,zakaria-draoui,36268,Wydad Casablanca,6.88,1,,3,9,0,85.71
+1407650,Issa Fofana,issa-fofana,69322,Al-Hilal Omdurman,6.88,0,,1,0,0,68.55
+1457340,Baba Abdulai Musah,baba-abdulai-musah,81951,Medeama SC,6.88,0,,2,12,0,86.11
+943962,Peter Shalulile,peter-shalulile,7665,Mamelodi Sundowns,6.88,2,,6,4,0,80.2
+851433,Alexis Guendouz,alexis-guendouz,42207,CR Belouizdad,6.88,0,,0,0,0,64.0
+1100195,Jean Othos Baleke,jean-othos-baleke,212409,Simba SC,6.88,0,,7,2,0,74.47
+1140849,Charki El Bahri,charki-el-bahri,36268,Wydad Casablanca,6.88,0,,1,0,0,58.62
+1099451,Henoc Inonga,henoc-inonga,212409,Simba SC,6.88,0,,0,17,0,76.21
+863249,Thapelo Morena,thapelo-morena,7665,Mamelodi Sundowns,6.87,0,,2,3,1,75.61
+1185674,Josaphat Arthur Bada,josaphat-arthur-bada,42360,ASEC Mimosas,6.87,0,,7,10,0,78.29
+1007556,Fiston Mayele,fiston-mayele,175002,Pyramids FC,6.86,2,,6,6,1,76.92
+577736,Karim Hafez,karim-hafez,175002,Pyramids FC,6.86,0,,0,4,0,83.58
+898739,Hamza Jelassi,hamza-jelassi,35188,Etoile Sportive Du Sahel,6.86,0,,1,5,0,66.51
+1476335,Cheick Fofana,cheick-fofana,38873,Tout Puissant Mazembe,6.85,2,,4,6,0,72.57
+1098556,Pa Omar Jobe,pa-omar-jobe,212409,Simba SC,6.85,1,,3,1,0,57.69
+839719,Wessam Abou Ali,wessam-abou-ali,6910,Al Ahly FC,6.85,1,,4,1,0,48.98
+880019,Mohamed Abdelrahman,mohamed-abdelrahman,69322,Al-Hilal Omdurman,6.85,1,,3,1,0,72.28
+1102389,Amr El-Solia,amr-el-solia,6910,Al Ahly FC,6.85,1,,4,9,0,75.62
+21931,Anthony Modeste,anthony-modeste,6910,Al Ahly FC,6.85,0,,2,1,2,70.15
+1490960,Moise Kaboré,moise-kabore,42360,ASEC Mimosas,6.85,0,,1,2,0,76.47
+45989,Adlène Guédioura,adlene-guedioura,42207,CR Belouizdad,6.85,0,,2,0,0,76.47
+855858,Hicham Boussefiane,hicham-boussefiane,36268,Wydad Casablanca,6.85,0,,2,2,0,81.25
+1457126,Godknows Dzakpasu,godknows-dzakpasu,81951,Medeama SC,6.85,0,,0,1,0,80.0
+933780,Aliou Dieng,aliou-dieng,6910,Al Ahly FC,6.85,0,,2,3,0,85.96
+990898,Salaheldin Adil,salaheldin-adil,69322,Al-Hilal Omdurman,6.85,0,,3,6,0,71.21
+1000815,Louay Ben Hassine,louay-ben-hassine,35188,Etoile Sportive Du Sahel,6.85,0,,4,10,0,73.41
+1102811,Mouad Haddad,mouad-haddad,42207,CR Belouizdad,6.85,0,,1,8,0,89.58
+1180586,Lesego Kereedilwe,lesego-kereedilwe,297712,Jwaneng Galaxy FC,6.85,0,,2,15,0,65.43
+877228,Eddie Afonso,eddie-afonso,148072,Atlético Petróleos de Luanda,6.85,0,,3,10,0,78.25
+895951,Fagrie Lakay,fagrie-lakay,175002,Pyramids FC,6.84,1,,5,4,0,65.56
+989091,Rodrigo Rodrigues,rodrigo-rodrigues,59628,Espérance Sportive De Tunis,6.84,0,,1,7,2,64.66
+1140796,Youssef El Motie,youssef-el-motie,36268,Wydad Casablanca,6.84,0,,1,0,0,56.52
+880502,Mohamed Abuaagla,mohamed-abuaagla,69322,Al-Hilal Omdurman,6.84,0,,0,13,0,75.57
+872050,Christian Koffi,christian-koffi,42360,ASEC Mimosas,6.84,0,,1,5,0,90.2
+1191372,Serge Pokou,serge-pokou,42360,ASEC Mimosas,6.83,1,,9,2,1,78.57
+904540,Jacques Mbé,jacques-mbe,35188,Etoile Sportive Du Sahel,6.83,1,,1,8,0,73.15
+1457355,Nurudeen Abdulai,nurudeen-abdulai,81951,Medeama SC,6.83,0,,3,6,0,79.25
+918914,Mohamed Magdy Afsha,mohamed-magdy-afsha,6910,Al Ahly FC,6.82,0,,2,1,1,88.83
+873544,Osama Galal,osama-galal,175002,Pyramids FC,6.82,0,,2,11,0,82.4
+806244,Ibrahim Blati Tourè,ibrahim-blati-toure,175002,Pyramids FC,6.82,0,,4,5,0,81.99
+1004433,Reda Slim,slim-reda,6910,Al Ahly FC,6.81,0,,5,0,0,86.0
+967032,Emam Ashour,emam-ashour,6910,Al Ahly FC,6.81,0,,10,9,2,77.78
+818845,Gastón Sirino,gaston-sirino,7665,Mamelodi Sundowns,6.8,1,,1,8,0,83.52
+1092709,Ahmed Nabil Koka,koka-ahmed-nabil,6910,Al Ahly FC,6.8,1,,1,10,0,82.47
+845608,Oussama Darfalou,oussama-darfalou,42207,CR Belouizdad,6.8,0,,2,1,1,63.33
+1089785,Kwadwo Amoako,kwadwo-amoako,81951,Medeama SC,6.8,0,,0,3,1,74.04
+1585738,Mor Talla Mbaye,mor-talla-mbaye,38873,Tout Puissant Mazembe,6.8,0,,0,1,0,76.92
+1568202,Ruben Yélo,ruben-yelo,42360,ASEC Mimosas,6.8,0,,0,0,0,86.96
+804430,Ali Gabr,ali-gabr,175002,Pyramids FC,6.8,0,,0,1,0,80.49
+1612112,Mohamed Koné,mohamed-kone,42360,ASEC Mimosas,6.8,0,,2,0,0,100.0
+837099,Aubrey Modiba,aubrey-modiba,7665,Mamelodi Sundowns,6.8,0,,4,6,0,82.86
+1444497,Nouh Mohamed El Abd,nouh-mohamed-el-abd,134304,FC Nouadhibou,6.8,0,,1,0,0,73.72
+990612,Gilbert Baruti,gilbert-baruti,297712,Jwaneng Galaxy FC,6.8,0,,3,3,0,67.98
+1457380,Manuel Mantey,manuel-mantey,81951,Medeama SC,6.8,0,,1,16,0,81.42
+994213,Tiago Azulão,tiago-azulao,148072,Atlético Petróleos de Luanda,6.8,0,,0,1,0,68.79
+941633,Houssameddine Ghacha,houssameddine-ghacha,59628,Espérance Sportive De Tunis,6.79,0,,23,17,0,71.91
+863251,Percy Tau,percy-tau,6910,Al Ahly FC,6.79,1,,5,6,0,81.94
+798904,André Bukia,andre-bukia,59628,Espérance Sportive De Tunis,6.78,0,,3,2,0,90.8
+1444578,Fily Traore,fily-traore,38873,Tout Puissant Mazembe,6.78,0,,5,5,2,72.13
+1125405,Denis Kibu,denis-kibu,212409,Simba SC,6.78,1,,8,8,1,77.01
+299914,Alexandre Guedes,alexandre-guedes,148072,Atlético Petróleos de Luanda,6.77,2,,2,1,0,50.0
+1435399,Gilberto,gilberto,148072,Atlético Petróleos de Luanda,6.77,0,,11,6,2,81.89
+333439,Mahmoud Kahraba,kahraba,6910,Al Ahly FC,6.77,2,,2,1,0,75.76
+867194,Joyce Lomalisa Mtambala,joyce-lomalisa-mtambala,134320,Young Africans SC,6.77,0,,2,7,1,73.83
+198472,Abdallah El-Said,abdallah-el-said,175002,Pyramids FC,6.77,0,,0,1,0,77.61
+845079,Mothobi Mvala,mothobi-mvala,7665,Mamelodi Sundowns,6.77,0,,0,2,0,83.09
+350358,Bongani Zungu,bongani-zungu,7665,Mamelodi Sundowns,6.77,0,,2,2,0,78.9
+1099258,Sadio Kanoute,sadio-kanoute,212409,Simba SC,6.77,0,,3,3,0,75.97
+1585739,Kebba Sowe,kebba-sowe,59628,Espérance Sportive De Tunis,6.76,1,,1,0,0,73.53
+844763,Ramadan Sobhi,ramadan-sobhi,175002,Pyramids FC,6.76,0,,8,3,0,81.13
+1008614,Jean Vital Ourega,jean-vital-ourega,81951,Medeama SC,6.76,0,,2,9,0,78.72
+1005401,Sipho Mbule,sipho-mbule,7665,Mamelodi Sundowns,6.75,0,,0,0,0,89.29
+1102942,Babacar Sarr,babacar-sarr,212409,Simba SC,6.75,0,,2,5,0,81.94
+879566,Mohamed Ounajem,mohamed-ounajem,36268,Wydad Casablanca,6.75,0,,3,1,0,75.0
+1118595,Oussama Abid,oussama-abid,35188,Etoile Sportive Du Sahel,6.75,0,,4,7,0,63.95
+1089444,Mercey Ngimbi,mercey-ngimbi,38873,Tout Puissant Mazembe,6.74,0,,1,6,0,83.13
+1005838,Augustine Oladapo,augustine-oladapo,38873,Tout Puissant Mazembe,6.74,0,,0,18,0,81.18
+559504,Themba Zwane,themba-zwane,7665,Mamelodi Sundowns,6.74,0,,5,5,0,87.81
+895060,Lebohang Maboe,lebohang-maboe,7665,Mamelodi Sundowns,6.73,0,,2,1,0,89.04
+1187135,Patient Mwamba,patient-mwamba,38873,Tout Puissant Mazembe,6.73,1,,0,5,0,75.0
+1470538,Onuche Ogbelu,onuche-ogbelu,59628,Espérance Sportive De Tunis,6.73,0,,3,11,0,82.99
+1121419,Bouly Junior Sambou,sambou-bouly-junior,36268,Wydad Casablanca,6.73,0,,0,1,0,62.86
+990599,Fortune Thularo,fortune-thularo,297712,Jwaneng Galaxy FC,6.73,0,,3,6,0,71.79
+1014888,Dickson Job,dickson-job,134320,Young Africans SC,6.73,0,,0,10,0,82.04
+1103696,Sidi Ahmed Mohamed El Abd,sidi-ahmed-mohamed-el-abd,134304,FC Nouadhibou,6.72,0,,1,6,1,82.84
+1457400,Derrick Fordjour,derrick-fordjour,81951,Medeama SC,6.72,0,,6,7,0,86.25
+1008232,Soukrana Mheimid,soukrana-mheimid,134304,FC Nouadhibou,6.72,0,,0,14,0,76.38
+989871,Matías Esquivel,matias-esquivel,7665,Mamelodi Sundowns,6.7,0,,0,0,0,87.5
+904499,Mahlatse Makudubela,mahlatse-makudubela,134320,Young Africans SC,6.7,0,,1,0,0,100.0
+319997,Ito,ito,148072,Atlético Petróleos de Luanda,6.7,0,,0,2,0,50.0
+1013903,Benjamin Bature,benjamin-bature,81951,Medeama SC,6.7,0,,0,1,0,66.67
+1119587,Mohamedhen Beibou,mohamedhen-beibou,134304,FC Nouadhibou,6.7,0,,0,0,0,47.06
+1457060,Michael Enu,michael-enu,81951,Medeama SC,6.7,0,,0,1,0,83.33
+918486,Islam Issa,islam-issa,175002,Pyramids FC,6.7,0,,0,0,0,81.58
+1410421,Mohamed Wael Derbali,derbali-mohamed-wael,59628,Espérance Sportive De Tunis,6.7,0,,1,2,0,87.88
+867085,Ismail El Haddad,ismail-el-haddad,36268,Wydad Casablanca,6.7,0,,4,2,0,73.68
+1611672,Achraf Boudrama,achraf-boudrama,42207,CR Belouizdad,6.7,0,,0,1,0,65.71
+1182106,Abderrazak Bouazra,abderrazak-bouazra,35188,Etoile Sportive Du Sahel,6.7,0,,0,4,0,80.33
+1113032,Benito Zadi,benito-zadi,42360,ASEC Mimosas,6.7,0,,0,3,0,87.5
+923882,Tó Carneiro,to-carneiro,148072,Atlético Petróleos de Luanda,6.7,0,,3,1,0,80.65
+985940,Babacar Diop,babacar-diop,134304,FC Nouadhibou,6.7,0,,0,0,0,54.74
+933114,Vanilson,vanilson,148072,Atlético Petróleos de Luanda,6.7,0,,0,1,0,80.0
+1013819,Youssef Abdelli,youssef-abdelli,35188,Etoile Sportive Du Sahel,6.7,0,,1,1,0,62.5
+1463506,Ousmane Diouf,ousmane-diouf,69322,Al-Hilal Omdurman,6.7,0,,0,3,0,68.33
+879632,Ali Jemal,ali-jemal,35188,Etoile Sportive Du Sahel,6.7,0,,0,0,0,35.51
+1612209,Daniel Msendami,daniel-msendami,297712,Jwaneng Galaxy FC,6.7,0,,10,3,0,79.82
+1479281,Altayeb Abaker,altayeb-abaker,69322,Al-Hilal Omdurman,6.7,0,,2,3,0,83.47
+1410430,Zakaria El Ayeb,zakaria-el-ayeb,59628,Espérance Sportive De Tunis,6.69,1,,2,4,0,82.78
+1613039,Ibrahim Gadiaga,ibrahim-gadiaga,134304,FC Nouadhibou,6.68,0,,3,2,1,67.31
+1049102,Nana Kofi Babil,nana-kofi-babil,81951,Medeama SC,6.68,0,,1,5,0,67.65
+1469435,John Robia,john-mano,69322,Al-Hilal Omdurman,6.68,0,,0,1,1,66.67
+804375,Walid El Karti,walid-el-karti,175002,Pyramids FC,6.68,0,,2,8,0,77.34
+906044,Mamadou Samake,mamadou-samake,42207,CR Belouizdad,6.68,0,,0,4,0,80.7
+1169806,Emad Ali,emad-ali,69322,Al-Hilal Omdurman,6.68,0,,1,7,0,63.55
+973067,Mzamiru Yasin,mzamiru-yasin,212409,Simba SC,6.67,0,,1,4,1,75.4
+944118,Sphelele Mkhulise,sphelele-mkhulise,7665,Mamelodi Sundowns,6.67,0,,0,5,0,88.75
+990622,Yasir Mozamil,yasir-mozamil,69322,Al-Hilal Omdurman,6.67,0,,2,2,0,60.0
+919629,Salif Ibrahim Coulibaly,salif-ibrahim-coulibaly,42360,ASEC Mimosas,6.67,0,,1,1,0,84.06
+919296,Oussema Bouguerra,oussema-bouguerra,59628,Espérance Sportive De Tunis,6.66,0,,2,1,0,81.94
+1613032,Abdalahi Oubeid,abdalahi-oubeid,134304,FC Nouadhibou,6.65,1,,5,1,0,47.37
+973414,Abdelmounaim Boutouil,boutouil-abdelmounaim,7665,Mamelodi Sundowns,6.65,0,,2,1,0,82.5
+281093,Soufyan Ahannach,soufyan-ahannach,36268,Wydad Casablanca,6.65,0,,0,4,0,80.7
+1008239,Vinny Bongonga Kombe,vinny-bongonga-kombe,35188,Etoile Sportive Du Sahel,6.65,0,,1,2,0,73.91
+1457442,Joshua Agyemang,joshua-agyemang,81951,Medeama SC,6.65,0,,1,0,0,70.37
+1013901,Mohamed Ali Ben Hammouda,mohamed-ali-ben-hammouda,59628,Espérance Sportive De Tunis,6.64,0,,0,0,0,76.67
+1632534,Nickson Clement Kibabage,kibabage-nickson-clement,134320,Young Africans SC,6.64,0,,2,2,0,83.33
+1064939,Taher Mohamed,taher-mohamed,6910,Al Ahly FC,6.64,0,,2,0,0,77.66
+980529,Assil Jaziri,assil-jaziri,35188,Etoile Sportive Du Sahel,6.63,0,,0,0,1,80.0
+1017196,Abdelrazig Omer,abdelrazig-omer,69322,Al-Hilal Omdurman,6.63,0,,1,3,0,79.31
+1801096,Freddy Kouablan,freddy-kouablan,212409,Simba SC,6.63,0,,2,0,0,50.0
+1031064,Leibe Junior Avo,leibe-junior-avo,42360,ASEC Mimosas,6.63,1,,2,0,0,69.77
+1168590,Abdellah Haimoud,abdellah-haimoud,36268,Wydad Casablanca,6.63,0,,9,2,0,81.11
+1185318,Armand Dagrou,armand-dagrou,42360,ASEC Mimosas,6.63,0,,1,3,0,65.38
+1002557,Leonel Wamba,leonel-wamba,42207,CR Belouizdad,6.62,1,,1,1,0,64.0
+1501818,Jean Claude Girumugisha,jean-claude-girumugisha,69322,Al-Hilal Omdurman,6.62,0,,9,5,0,65.45
+1182110,Salaheddine Ghedamsi,salaheddine-ghedamsi,35188,Etoile Sportive Du Sahel,6.62,0,,1,8,0,65.09
+1473436,Ousmane Faye,ousmane-faye,134304,FC Nouadhibou,6.62,0,,3,5,0,70.59
+1612219,Salah Barhoumi,salah-barhoumi,35188,Etoile Sportive Du Sahel,6.6,1,,0,2,0,80.0
+1424777,Karim Nedved,karim-nedved,6910,Al Ahly FC,6.6,0,,0,3,0,94.44
+1094001,Ahmed Mayhoub,ahmed-mayhoub,175002,Pyramids FC,6.6,0,,0,0,0,46.67
+1103590,David Frank Kameta,david-frank-kameta,212409,Simba SC,6.6,0,,0,1,0,100.0
+1126249,Mohamed Azzi,mohamed-azzi,42207,CR Belouizdad,6.6,0,,0,1,0,77.78
+1140943,Oussama Mahrous,oussama-mahrous,36268,Wydad Casablanca,6.6,0,,0,0,0,100.0
+873546,Mahmoud Marei,mahmoud-marei,175002,Pyramids FC,6.6,0,,0,1,0,100.0
+15596,Yassine Chikhaoui,yassine-chikhaoui,35188,Etoile Sportive Du Sahel,6.6,0,,0,2,0,58.82
+2169489,Mindinho,mindinho,148072,Atlético Petróleos de Luanda,6.6,0,,1,0,0,93.94
+1457357,Benjamin Abaidoo,benjamin-abaidoo,81951,Medeama SC,6.6,0,,0,0,0,66.67
+2018121,Mohamed Firas Amri,mohamed-firas-amri,35188,Etoile Sportive Du Sahel,6.6,0,,0,2,0,33.33
+1457407,Theophilus Anoba,theophilus-anoba,81951,Medeama SC,6.6,0,,0,0,0,100.0
+973048,Jonas Mkude,jonas-mkude,134320,Young Africans SC,6.6,0,,0,1,0,64.1
+918628,Marwan Hamdy,marwan-hamdy,175002,Pyramids FC,6.6,0,,0,0,0,60.0
+333447,Mahmoud Metwaly,mahmoud-metwaly,6910,Al Ahly FC,6.6,0,,0,1,0,81.25
+994633,Salum Abubakar Sureboy,salum-abubakar,134320,Young Africans SC,6.6,0,,0,0,0,100.0
+1103725,Ade Oguns,ade-oguns,36268,Wydad Casablanca,6.6,0,,0,2,0,74.07
+78930,Dodo El Gabas,dodo-el-gabas,175002,Pyramids FC,6.6,0,,0,0,0,100.0
+959526,Brian Onyango,brian-onyango,7665,Mamelodi Sundowns,6.6,0,,0,0,0,90.48
+1457623,Fred Gift,fred-gift,134320,Young Africans SC,6.6,0,,0,1,0,50.0
+1024448,Yassan Ouatching,yassan-ouatching,134304,FC Nouadhibou,6.6,0,,0,0,0,50.0
+1612216,Nqobizitha Masuku,nqobizitha-masuku,297712,Jwaneng Galaxy FC,6.6,0,,0,4,0,84.95
+1801459,Martin Daka,martin-daka,297712,Jwaneng Galaxy FC,6.6,0,,1,0,0,66.67
+805189,Hamdou Elhouni,hamdou-elhouni,36268,Wydad Casablanca,6.6,0,,0,1,0,76.47
+1612214,Mohamed Ouertani,mohamed-ouertani,35188,Etoile Sportive Du Sahel,6.6,0,,2,4,0,75.0
+1410416,Ghaith Ouahabi,ghaith-ouahabi,59628,Espérance Sportive De Tunis,6.6,0,,1,1,0,71.7
+591944,Augustine Okrah,augustine-okrah,134320,Young Africans SC,6.6,0,,1,0,0,83.33
+1064770,Bodda Mouhsine,bodda-mouhsine,134304,FC Nouadhibou,6.6,0,,3,15,0,75.18
+1183577,Boaz Ngalamulume,boaz-ngalamulume,38873,Tout Puissant Mazembe,6.6,0,,1,10,0,77.61
+1017970,Pedro Miguel,pedro-miguel,148072,Atlético Petróleos de Luanda,6.58,0,,1,2,0,78.16
+973861,Boubacar Hainikoye,boubacar-hainikoye,38873,Tout Puissant Mazembe,6.58,0,,0,0,0,50.0
+1462740,Jonathan Sowah,jonathan-sowah,81951,Medeama SC,6.57,1,,8,3,0,54.55
+1114476,Daniel Lomotey,daniel-lomotey,81951,Medeama SC,6.57,1,,6,2,0,82.61
+964742,Tashreeq Matthews,tashreeq-matthews,7665,Mamelodi Sundowns,6.57,0,,0,0,0,62.5
+1457312,Hafiz Konkoni,hafiz-konkoni,134320,Young Africans SC,6.57,0,,1,1,0,80.0
+898964,Louis Ameka Autchanga,louis-ameka-autchanga,38873,Tout Puissant Mazembe,6.57,0,,2,1,0,65.52
+1457324,Kofi Asmah,kofi-asmah,81951,Medeama SC,6.57,0,,0,3,0,66.67
+1000354,Wendell Rudath,wendell-rudath,297712,Jwaneng Galaxy FC,6.57,0,,3,4,0,71.25
+1613042,Issa M'bareck,issa-mbareck,134304,FC Nouadhibou,6.55,1,,2,0,0,76.0
+1154930,Diawisie Taylor,diawisie-taylor,81951,Medeama SC,6.55,0,,0,0,0,88.89
+1612217,Okgotso More,okgotso-more,297712,Jwaneng Galaxy FC,6.55,0,,0,1,0,50.0
+1005384,Emmanuel Cudjoe,emmanuel-cudjoe,81951,Medeama SC,6.55,0,,0,12,0,75.95
+1019146,Cleopas Dube,cleopas-dube,297712,Jwaneng Galaxy FC,6.55,0,,0,0,0,50.0
+1103424,Fradj Ben Njima,fradj-ben-njima,35188,Etoile Sportive Du Sahel,6.55,0,,0,2,0,70.0
+934077,Serge Mukoko Tonombe,serge-mukoko-tonombe,38873,Tout Puissant Mazembe,6.55,0,,0,3,0,74.19
+831422,Moses Phiri,phiri-moses,212409,Simba SC,6.53,0,,0,0,0,90.48
+1000906,Carlinhos,carlinhos,148072,Atlético Petróleos de Luanda,6.53,0,,0,2,0,73.91
+1007531,Addam Bossu,addam-bossu,69322,Al-Hilal Omdurman,6.53,0,,0,1,0,50.0
+1469663,Clement Mzize,clement-mzize,134320,Young Africans SC,6.53,0,,2,0,0,72.88
+1006495,El Hacen Lembrabott,el-hacen-lembrabott,134304,FC Nouadhibou,6.53,0,,4,7,0,74.48
+1099688,Israel Patrick Mwenda,mwenda-israel-patrick,212409,Simba SC,6.53,0,,0,1,0,80.28
+1568173,Gift Moyo,gift-moyo,297712,Jwaneng Galaxy FC,6.52,0,,1,0,0,88.89
+1182534,Doctor David,doctor-david,297712,Jwaneng Galaxy FC,6.52,0,,0,9,0,72.97
+1179164,Thapelo Maseko,thapelo-maseko,7665,Mamelodi Sundowns,6.52,0,,3,2,0,63.89
+895139,Thabang Sesinyi,thabang-sesinyi,297712,Jwaneng Galaxy FC,6.5,1,,6,6,0,67.21
+1024032,Mootez Zaddem,mootez-zaddem,59628,Espérance Sportive De Tunis,6.5,0,,0,0,0,0.0
+1007615,Merouane Zerrouki,merouane-zerrouki,42207,CR Belouizdad,6.5,0,,0,0,0,0.0
+1655258,Mahmoud Dunga,mahmoud-dunga,175002,Pyramids FC,6.5,0,,1,5,0,76.19
+1008234,Tidiane Diomande,tidiane-diomande,42360,ASEC Mimosas,6.5,0,,0,0,0,0.0
+365224,Kudakwashe Mahachi,kudakwashe-mahachi,81951,Medeama SC,6.5,0,,1,0,0,85.71
+1185319,Sery Narcisse,sery-narcisse,42360,ASEC Mimosas,6.5,0,,0,1,0,63.89
+1183547,Claude Singone,claude-singone,69322,Al-Hilal Omdurman,6.5,0,,0,0,0,71.43
+359290,Zouhair El Moutaraji,zouhair-el-moutaraji,36268,Wydad Casablanca,6.5,0,,0,0,0,71.88
+919985,Abderrahim Makran,abderrahim-makran,134304,FC Nouadhibou,6.5,0,,0,0,0,85.71
+1102821,Kennedy Juma,kennedy-juma,212409,Simba SC,6.5,0,,1,2,0,74.07
+1000919,Diógenes João,diogenes-joao,148072,Atlético Petróleos de Luanda,6.5,0,,0,0,0,60.0
+1119614,Resaobaka Thatanyane,resaobaka-thatanyane,297712,Jwaneng Galaxy FC,6.5,0,,0,2,0,78.57
+841931,Ahmed El-Shenawy,el-shenawy-ahmed,175002,Pyramids FC,6.5,0,,0,0,0,62.39
+2268394,Oscar Kabwit,tshikomb-oscar-kabwit,38873,Tout Puissant Mazembe,6.5,0,,3,3,0,65.0
+1613047,Mohamed Saïd,mohamed-said,134304,FC Nouadhibou,6.48,0,,0,5,0,81.31
+944015,Luis Jose Miquissone,luis-jose-miquissone,212409,Simba SC,6.48,0,,0,0,0,83.33
+1001237,Thatayaone Ramatlapeng,thatayaone-ramatlapeng,297712,Jwaneng Galaxy FC,6.48,0,,1,2,0,84.48
+2018351,Mohamed Amine Jebali,mohamed-amine-jebali,35188,Etoile Sportive Du Sahel,6.48,0,,1,2,0,73.03
+1166995,Soumaila Sidibe,soumaila-sidibe,35188,Etoile Sportive Du Sahel,6.47,0,,6,3,0,67.68
+1410420,Mohamed Hedi Jertila,mohamed-hedi-jertila,35188,Etoile Sportive Du Sahel,6.47,0,,0,3,0,70.59
+1410425,Raki Aouani,aouani-raki,35188,Etoile Sportive Du Sahel,6.47,0,,5,4,0,66.23
+1459300,Mouhamed Lejouade,mouhamed-lejouade,134304,FC Nouadhibou,6.47,0,,0,5,0,83.33
+973061,John Bocco,john-bocco,212409,Simba SC,6.45,0,,0,1,0,62.5
+998455,Lesiba Nku,lesiba-nku,7665,Mamelodi Sundowns,6.45,0,,0,2,0,82.35
+1008151,El Hassen Teguedi,el-hassen-teguedi,134304,FC Nouadhibou,6.45,0,,0,0,0,90.0
+915614,Bathusi Aubaas,bathusi-aubaas,7665,Mamelodi Sundowns,6.43,0,,0,2,0,84.04
+1111002,Kutlwelo Mpolokang,kutlwelo-mpolokang,297712,Jwaneng Galaxy FC,6.43,0,,0,3,0,84.5
+933058,Mohamed Islam Bakir,mohamed-islam-bakir,42207,CR Belouizdad,6.43,0,,1,0,0,88.57
+1119589,Moagi Sechele,moagi-sechele,297712,Jwaneng Galaxy FC,6.43,0,,2,10,0,73.13
+1525302,Hicham Ait Brahim,hicham-ait-brahim,36268,Wydad Casablanca,6.4,0,,0,1,0,86.36
+841934,Ahmed Tawfik,ahmed-tawfik,175002,Pyramids FC,6.4,0,,0,0,0,0.0
+1008873,Jonathan Ifasso,jonathan-ifasso,69322,Al-Hilal Omdurman,6.4,0,,0,1,0,83.33
+1475098,Ntando Ngubane,ngubane-ntandoyenkosi,7665,Mamelodi Sundowns,6.4,0,,0,0,0,91.67
+1457117,Godfred Abban,godfred-abban,81951,Medeama SC,6.4,0,,0,0,0,100.0
+1000226,Ahmed  Abdelkader,ahmed-abdelkader,6910,Al Ahly FC,6.4,0,,4,1,0,64.81
+1584850,Abdallah Hamisi,abdallah-hamisi,212409,Simba SC,6.4,0,,0,0,0,87.5
+1548469,Azariah Fordjour,azariah-fordjour,81951,Medeama SC,6.4,0,,1,0,0,75.76
+1801095,Berthe Souleymane,berthe-souleymane,42360,ASEC Mimosas,6.4,0,,1,0,0,66.67
+1103076,Kobina Amoah,kobina-amoah,81951,Medeama SC,6.4,0,,0,4,0,69.66
+919145,Jasser Khmiri,jasser-khemiri,35188,Etoile Sportive Du Sahel,6.4,0,,0,1,0,56.25
+919058,Yassine Chamakhi,yassine-chamakhi,35188,Etoile Sportive Du Sahel,6.4,0,,2,7,0,73.21
+990692,Thabo Leinanyane,thabo-leinanyane,297712,Jwaneng Galaxy FC,6.38,0,,1,1,0,76.47
+1114143,Bilel Sahli,bilel-sahli,59628,Espérance Sportive De Tunis,6.35,0,,1,0,0,66.67
+1150045,Abubeker Nasir,abubeker-nasir,7665,Mamelodi Sundowns,6.3,0,,0,1,0,60.0
+1612111,Missan Israël,missan-israel,42360,ASEC Mimosas,6.3,0,,0,0,0,75.0
+990962,Mpho Kgomo,mpho-kgomo,297712,Jwaneng Galaxy FC,6.3,0,,0,0,0,82.35
+1613038,Ely Bowba,ely-bowba,134304,FC Nouadhibou,6.3,0,,0,1,0,71.43
+1444500,Demini Saleck,demini-saleck,134304,FC Nouadhibou,6.27,0,,1,6,0,79.57
+1107547,Ghofrane Naouali,ghofrane-naouali,35188,Etoile Sportive Du Sahel,6.25,0,,0,3,0,70.59
+1411886,Chicco Molefe,chicco-molefe,297712,Jwaneng Galaxy FC,6.23,0,,0,4,0,65.91
+1158820,Zawadi Mauya,zawadi-mauya,134320,Young Africans SC,6.2,0,,0,0,0,70.0
+934076,Ducapel Moloko,ducapel-moloko,134320,Young Africans SC,6.2,0,,0,0,0,83.33
+1479076,Tlamelo Kolagano,tlamelo-kolagano,297712,Jwaneng Galaxy FC,6.15,0,,0,6,0,72.13
+985952,Metacha Mnata,metacha-mnata,134320,Young Africans SC,6.0,0,,0,0,0,65.22
+1010882,Khaled Abdelfattah,abdelfattah-khaled,6910,Al Ahly FC,0.0,0,,0,0,0,0.0
+975834,Ilyes Chetti,ilyes-chetti,36268,Wydad Casablanca,0.0,0,,0,0,0,0.0
+985964,Faridi Mussa,farid-mussa,134320,Young Africans SC,0.0,0,,1,0,0,100.0
+1504858,Ismail Moumen,ismail-moumen,36268,Wydad Casablanca,0.0,0,,0,0,0,0.0
+919150,Hani Amamou,hani-amamou,59628,Espérance Sportive De Tunis,0.0,0,,0,0,0,100.0
+1606558,Ibrahim Souissi,ibrahim-souissi,35188,Etoile Sportive Du Sahel,0.0,0,,0,0,0,0.0
+1568196,Othniel Mawawu,othniel-mawawu,38873,Tout Puissant Mazembe,0.0,0,,0,0,0,0.0
+1469433,Ahmed Saddig,ahmed-saddig,69322,Al-Hilal Omdurman,0.0,0,,0,0,0,0.0

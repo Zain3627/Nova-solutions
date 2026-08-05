@@ -1,0 +1,424 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+1002239,Adem Alilet,adem-alilet,42206,USM Alger,7.8,1,,0,1,0,84.81
+876307,Ramiro Vaca,ramiro-vaca,36268,Wydad Casablanca,7.73,1,,2,1,0,85.58
+893450,Turan Manafov,turan-manafov,43555,Stellenbosch,7.6,0,,2,0,0,82.05
+966578,Aboubakar Karamoko,aboubakar-karamoko,238206,FC San Pedro,7.5,1,,0,2,0,65.22
+809290,Bart Meijers,bart-meijers,36268,Wydad Casablanca,7.5,0,,0,2,0,96.2
+1006326,Kelvin Kampamba,kelvin-kampamba,191184,ZESCO United,7.5,0,,2,4,0,80.0
+2368139,Lebato Kipré,lebato-kipre,238206,FC San Pedro,7.4,0,,0,0,0,60.0
+249437,Hakim Ziyech,hakim-ziyech,36268,Wydad Casablanca,7.38,1,,6,6,0,74.38
+1018477,Chouaib Keddad,chouaib-keddad,42207,CR Belouizdad,7.33,0,,2,6,0,86.86
+973037,Aishi Manula,aishi-manula,212411,Azam FC,7.3,0,,0,0,0,63.33
+886931,Mahmoud Hamdy,mahmoud-hamdy,43560,Al-Masry,7.3,0,,0,0,0,75.2
+2442597,Boubacar Keita,boubacar-keita,69324,Djoliba AC,7.28,1,,1,5,1,78.6
+880622,Ahmed Fatouh,ahmed-fatouh,42368,Zamalek SC,7.28,0,,3,18,1,82.62
+973826,Guilherme Ferreira,guilherme-ferreira,36268,Wydad Casablanca,7.28,0,,1,4,0,83.5
+1199299,Che Malone,che-malone,42206,USM Alger,7.27,1,,5,21,0,82.11
+1469698,Morice Chukwu,morice-chukwu,353799,Singida Black Stars SC,7.27,0,,0,8,0,78.05
+1177810,Hocine Dehiri,hocine-dehiri,42206,USM Alger,7.26,0,,4,11,0,84.26
+933892,Abderrahim Deghmoum,abderrahim-deghmoum,43560,Al-Masry,7.26,2,,13,17,0,76.45
+868978,Sofian El Moudane,soufian-el-moudane,55037,Olympic Safi,7.23,4,,7,24,1,69.23
+1063327,Hossam Abdelmaguid,hossam-abdelmaguid,42368,Zamalek SC,7.23,2,,1,15,0,85.52
+845790,Inacio Miguel,inacio-miguel,7663,Kaizer Chiefs,7.23,0,,1,2,0,88.15
+975834,Ilyes Chetti,ilyes-chetti,42206,USM Alger,7.23,0,,0,7,0,87.64
+1464149,Pomi Nzaou,pomi-nzaou,275889,AS Otohô,7.22,3,,4,0,0,70.97
+2063717,Faveur Wilfried Kouassi,faveur-wilfried-kouassi,69324,Djoliba AC,7.22,0,,0,0,0,73.53
+945279,Naoufel Khacef,naoufel-khacef,42207,CR Belouizdad,7.21,0,,4,10,3,74.14
+1102821,Kennedy Juma,kennedy-juma,353799,Singida Black Stars SC,7.2,0,,0,3,0,74.36
+2129151,Pascal Phiri,pascal-phiri,191184,ZESCO United,7.2,0,,7,2,0,70.59
+918621,Mahmoud Hamada,hamada-mahmoud,43560,Al-Masry,7.2,0,,2,7,0,84.09
+972811,Houcine Benayada,houcine-benayada,42207,CR Belouizdad,7.17,0,,4,3,0,76.81
+965329,Mohamed Bouchouari,mohamed-bouchouari,36268,Wydad Casablanca,7.17,1,,1,2,0,73.74
+1018589,Youcef Amine Laouafi,youcef-amine-laouafi,42207,CR Belouizdad,7.16,0,,3,10,0,78.49
+1471439,Jacques Bowamba,jacques-bowamba,275889,AS Otohô,7.15,1,,0,1,0,82.22
+2368727,Walid Atik,walid-atik,55037,Olympic Safi,7.15,0,,3,10,1,76.12
+845607,Abdelraouf Benguit,abdelraouf-benguit,42207,CR Belouizdad,7.14,1,,3,16,1,84.96
+1167835,Aden McCarthy,aden-mccarthy,7663,Kaizer Chiefs,7.13,1,,0,7,0,69.0
+2451849,Nuru Twalib,nuru-twalib,212411,Azam FC,7.13,0,,1,4,0,74.23
+1991914,Beni Namboka,beni-namboka,281329,Maniema Union,7.1,3,,4,3,0,53.09
+1099453,Makabi Lilepo,lilepo-makabi,7663,Kaizer Chiefs,7.1,2,,3,3,0,67.78
+2452235,El Sayed Osama,el-sayed-abdel-moneim,42368,Zamalek SC,7.1,0,,1,1,0,66.67
+1103591,Pascal Msindo,pascal-msindo,212411,Azam FC,7.1,0,,4,8,0,78.24
+1007589,Oussama Benbot,oussama-benbot,42206,USM Alger,7.09,0,,1,0,0,65.88
+941632,Saâdi Redouani,saadi-redouani,42206,USM Alger,7.09,1,,0,13,0,75.14
+1183920,Issouf Dosso,issouf-dosso,238206,FC San Pedro,7.08,2,,7,0,2,77.22
+1099250,Clement Pitroipa,clement-pitroipa,281329,Maniema Union,7.08,1,,7,13,2,73.21
+1004434,Joseph Guede Gnadou,guede-gnadou-joseph,353799,Singida Black Stars SC,7.08,1,,2,1,0,80.43
+1004225,Abdennour Belhocini,belhocini-abdennour,42207,CR Belouizdad,7.07,4,,2,8,0,73.05
+894802,Sage Stephens,sage-stephens,43555,Stellenbosch,7.07,0,,0,0,0,63.53
+2002269,Exaucia Moanda,exaucia-moanda,281329,Maniema Union,7.06,1,,3,7,0,69.04
+2002285,Osée Ndombele,osee-ndombele,281329,Maniema Union,7.05,0,,0,4,0,50.0
+1935046,Thapelo Mokobodi,thapelo-mokobodi,43555,Stellenbosch,7.05,0,,1,4,0,64.58
+894954,Brandon Petersen,brandon-petersen,7663,Kaizer Chiefs,7.05,0,,0,2,0,52.71
+941633,Houssameddine Ghacha,houssameddine-ghacha,42206,USM Alger,7.04,1,,14,11,2,76.72
+2209723,Grace Mavoungou,grace-mavoungou,275889,AS Otohô,7.04,1,,11,2,2,57.38
+1009188,Amine Aboulfath,amine-aboulfath,36268,Wydad Casablanca,7.04,0,,1,12,0,84.18
+1008128,Aboubacar Doumbia,aboubacar-doumbia,275889,AS Otohô,7.04,0,,0,1,0,62.13
+918915,Aboubacar Diarra,aboubacar-diarra,69324,Djoliba AC,7.03,1,,4,0,0,87.39
+1996792,Islam Abbaci,islam-abbaci,42207,CR Belouizdad,7.03,1,,1,2,0,60.0
+1612726,Modibo Camara,modibo-camara,69324,Djoliba AC,7.03,0,,1,5,0,87.3
+198472,Abdallah El-Said,abdallah-el-said,42368,Zamalek SC,7.03,1,,2,3,1,81.86
+159681,Mohamed Sobhi,mohamed-sobhi,42368,Zamalek SC,7.03,0,,0,0,0,65.71
+2451440,Badra Ouattara,badra-ouattara,69324,Djoliba AC,7.03,0,,0,5,0,86.7
+1458092,Boubacar Keita,boubacar-keita,69324,Djoliba AC,7.02,1,,1,7,1,77.53
+1478359,Yeison Fuentes,yeison-fuentes,212411,Azam FC,7.02,0,,0,6,0,84.15
+1655375,Ahmed Khaldi,ahmed-khaldi,42206,USM Alger,7.02,4,,9,15,0,64.91
+845612,Zakaria Draoui,zakaria-draoui,42206,USM Alger,7.01,2,,4,13,1,80.79
+1801096,Freddy Kouablan,freddy-kouablan,191184,ZESCO United,7.0,1,,2,1,0,65.52
+985961,Feisal Salum Toto,feisal-salum,212411,Azam FC,7.0,1,,4,8,0,83.02
+2367938,Ibrahima Traoré,ibrahima-traore,275889,AS Otohô,7.0,0,,2,17,1,82.76
+1863859,Mouad Enzo,enzo-mori,36268,Wydad Casablanca,7.0,0,,3,1,0,90.0
+560158,Mohamed Awad,mohamed-awad,42368,Zamalek SC,7.0,0,,0,0,0,81.13
+2002200,Aly Keita,aly-keita,69324,Djoliba AC,7.0,0,,2,8,0,80.12
+970606,Ayoub Boucheta,ayoub-boucheta,36268,Wydad Casablanca,6.99,1,,3,5,0,82.24
+930584,Farid El Melali,farid-el-melali,42207,CR Belouizdad,6.98,2,,1,1,0,71.93
+1463559,Juan Bezerra,juan-alvina,42368,Zamalek SC,6.98,2,,8,4,0,75.42
+1469729,Islam Merili,islam-merili,42206,USM Alger,6.98,0,,7,32,2,85.71
+2368440,Fodé Touré,fode-toure,69324,Djoliba AC,6.98,2,,2,2,0,80.77
+873543,Amr Saadawy,amr-saadawy,43560,Al-Masry,6.98,0,,1,5,0,83.21
+1099258,Sadio Kanoute,sadio-kanoute,212411,Azam FC,6.98,1,,0,2,0,82.35
+918578,Mohamed Hashem,mohamed-hashem,43560,Al-Masry,6.97,2,,0,6,0,84.76
+1841850,Phili Langelihle,phili-langelihle,43555,Stellenbosch,6.97,1,,7,7,0,65.38
+919475,Hamza Semmoumy,hamza-semmoumy,55037,Olympic Safi,6.97,0,,1,5,0,73.21
+873548,Nasser Maher,nasser-maher,42368,Zamalek SC,6.95,0,,1,3,1,83.12
+1136233,Lehlogonolo George Matlou,lehlogonolo-george-matlou,7663,Kaizer Chiefs,6.95,0,,2,2,0,83.78
+2002205,Alou Doumbia,alou-doumbia,69324,Djoliba AC,6.95,0,,0,7,0,80.68
+1138796,Lusajo Mwaikenda,lusajo-mwaikenda,212411,Azam FC,6.95,0,,4,8,0,77.66
+918727,Karim El Eraki,karim-el-eraki,43560,Al-Masry,6.95,0,,10,25,0,81.63
+1471146,Brahim Benzaza,brahim-benzaza,42206,USM Alger,6.95,1,,3,17,0,73.55
+1011207,Mohamed Shehata,mohamed-shehata,42368,Zamalek SC,6.95,0,,10,21,0,83.69
+806526,Fred Duval Ngoma,fred-duval-ngoma,55037,Olympic Safi,6.94,0,,3,17,0,82.35
+866162,Khalid Aucho,khalid-aucho,353799,Singida Black Stars SC,6.94,0,,1,6,0,81.98
+359278,Walid Sabbar,walid-sabbar,36268,Wydad Casablanca,6.94,0,,2,12,1,83.69
+1140872,Mohamed Moufid,mohamed-moufid,36268,Wydad Casablanca,6.93,2,,4,7,0,76.55
+1095732,Oussama Zemraoui,oussama-zemraoui,43560,Al-Masry,6.93,0,,5,4,0,84.52
+1428035,Ahmed El Armouty,ahmed-el-armouty,43560,Al-Masry,6.93,0,,2,7,0,80.3
+1612721,Klegnime Koné,klegnime-kone,275889,AS Otohô,6.93,2,,1,6,0,77.54
+2370251,Amalaman Allou,amalaman-allou,238206,FC San Pedro,6.93,1,,3,1,2,84.21
+1090366,Prince Mouandza,prince-mouandza,275889,AS Otohô,6.93,0,,2,7,2,71.12
+27714,Nordin Amrabat,nordin-amrabat,36268,Wydad Casablanca,6.92,1,,2,8,0,76.67
+796085,Moussa Koné,moussa-kone,55037,Olympic Safi,6.91,3,,3,1,0,78.38
+1013901,Mohamed Ali Ben Hammouda,mohamed-ali-ben-hammouda,42207,CR Belouizdad,6.9,1,,5,2,0,61.61
+2368121,Abi Niamb,abi-niamb,238206,FC San Pedro,6.9,0,,5,6,1,85.34
+978845,Nkosingiphile Ngcobo,nkosingiphile-ngcobo,7663,Kaizer Chiefs,6.9,0,,0,0,0,93.75
+1089444,Mercey Ngimbi,mercey-ngimbi,281329,Maniema Union,6.9,0,,0,1,0,75.0
+785923,Alex Ngonga,alex-ngonga,191184,ZESCO United,6.9,0,,1,1,0,100.0
+1508486,Samson Mkandawire,samson-mkandawire,191184,ZESCO United,6.9,0,,0,2,0,61.54
+918505,Nabil Donga,nabil-donga,42368,Zamalek SC,6.9,0,,0,6,0,87.14
+1881596,David Simukonda,david-simukonda,191184,ZESCO United,6.9,0,,1,3,0,84.75
+1471427,Gedeon Nongo,gedeon-nongo,275889,AS Otohô,6.9,0,,0,8,0,84.69
+1110703,Ibrahim Imoro,ibrahim-imoro,353799,Singida Black Stars SC,6.9,0,,0,3,0,75.9
+2451851,Steve Biko,steve-biko,257440,Nairobi United,6.9,0,,0,5,0,81.82
+1966433,Rayane Abdelmadjid Mahrouz,rayane-abdelmadjid-mahrouz,42206,USM Alger,6.9,0,,1,2,0,68.97
+1870026,Kombo Ulrich,kombo-ulrich,238206,FC San Pedro,6.9,0,,0,1,0,79.03
+2168672,Luka Mutoshi,luka-mutoshi,191184,ZESCO United,6.9,0,,0,10,0,84.55
+918494,Essam Tharwat,essam-tharwat,43560,Al-Masry,6.9,0,,0,0,0,65.45
+845611,Farid Chaal,farid-chaal,42207,CR Belouizdad,6.9,0,,0,0,0,69.13
+1012578,Mohamed Ismail,mohamed-ismail,42368,Zamalek SC,6.9,0,,6,23,0,81.86
+1140890,Abdelghafour Lamirat,abdelghafour-lamirat,36268,Wydad Casablanca,6.89,0,,1,12,0,84.06
+333459,Mahmoud Hamdi,mahmoud-hamdi,42368,Zamalek SC,6.89,0,,0,4,0,85.24
+1177809,Djaber Kaassis,djaber-kaassis,42207,CR Belouizdad,6.88,0,,2,11,0,74.49
+2368140,Mouhamadou Karamoko,mouhamadou-karamoko,238206,FC San Pedro,6.88,1,,2,6,0,83.33
+967127,Khaled Sobhi,khaled-sobhi,43560,Al-Masry,6.87,0,,2,10,0,84.06
+2002284,Obed Mbala,obed-mbala,281329,Maniema Union,6.87,0,,6,7,2,70.3
+1876606,Mohamed El Sayed,mohamed-el-sayed,42368,Zamalek SC,6.87,0,,2,6,1,73.58
+2368122,Adéwimi Alabi,adewimi-alabi,238206,FC San Pedro,6.87,0,,4,11,0,87.17
+1393699,Ahmed Esho,ahmed-esho,42368,Zamalek SC,6.87,0,,3,7,0,86.99
+2002280,Lupini Dieumerci,lupini-dieumerci,281329,Maniema Union,6.86,0,,2,11,0,73.68
+2002222,Kenan Glougbe,kenan-glougbe,69324,Djoliba AC,6.86,1,,1,8,0,76.85
+1182635,Younes Ouassa,younes-ouassa,42207,CR Belouizdad,6.86,0,,0,1,0,83.18
+2002272,Jeancy Mpindi,jeancy-mpindi,281329,Maniema Union,6.86,0,,2,8,0,70.43
+1006862,Marouf Tchakei,marouf-tchakei,353799,Singida Black Stars SC,6.85,1,,0,2,0,74.29
+845605,Abderrahmane Meziane,abderrahmane-meziane,42207,CR Belouizdad,6.85,1,,3,3,0,79.01
+2002271,Jeancy Mboma,jeancy-mboma,281329,Maniema Union,6.85,1,,11,3,0,69.05
+2201047,Silva Tshitenge,silva-tshitenge,281329,Maniema Union,6.85,0,,0,0,1,55.56
+994645,Iddy Seleman Nado,iddy-nado,212411,Azam FC,6.85,0,,0,4,1,81.5
+2368129,Chichi Capo,chichi-capo,238206,FC San Pedro,6.85,0,,0,3,0,80.65
+1958825,Abdalla Said Ali,abdalla-said-ali,353799,Singida Black Stars SC,6.85,0,,0,2,0,65.38
+1799520,Mfundo Vilakazi,mfundo-vilakazi,7663,Kaizer Chiefs,6.84,0,,7,3,1,69.51
+1140796,Youssef El Motie,youssef-el-motie,55037,Olympic Safi,6.83,0,,0,0,0,63.38
+918547,Mahdi Soliman,mahdi-soliman,42368,Zamalek SC,6.83,0,,0,1,0,74.31
+2368142,Moussa Kone,moussa-kone,238206,FC San Pedro,6.83,0,,1,18,0,82.64
+982400,Detan Ogundare,detan-ogundare,281329,Maniema Union,6.83,0,,0,0,0,56.57
+2367902,Idriss Diomande,idriss-diomande,353799,Singida Black Stars SC,6.82,0,,7,6,1,82.03
+1170963,Bonheur Mugisha,bonheur-mugisha,43560,Al-Masry,6.82,1,,3,8,0,89.27
+895060,Lebohang Maboe,lebohang-maboe,7663,Kaizer Chiefs,6.82,0,,2,7,1,82.3
+1218753,Mounder Temine,mounder-temine,43560,Al-Masry,6.81,1,,3,3,2,70.89
+1140930,Salaheddine Errahouli,salaheddine-errahouli,55037,Olympic Safi,6.8,2,,13,5,1,78.68
+1873650,Charles Atipo,charles-atipo,275889,AS Otohô,6.8,1,,7,10,1,68.78
+2367942,Ravelli Obembi,ravelli-obembi,275889,AS Otohô,6.8,1,,0,7,0,84.47
+2245892,Yahya Omary Zayd,yahya-omary,212411,Azam FC,6.8,0,,3,4,1,83.81
+2410688,Youssef Wael,youssef-wael,42368,Zamalek SC,6.8,0,,0,1,0,83.33
+948390,Gadiel Michael Kamagi,gadiel-michael-kamagi,353799,Singida Black Stars SC,6.8,0,,0,0,0,75.0
+881129,Solomon Sakala,solomon-sakala,191184,ZESCO United,6.8,0,,0,3,0,60.0
+2137656,Bernard Jairo,bernard-jairo,257440,Nairobi United,6.8,0,,0,0,0,54.17
+1064700,Asenele Velebayi,asenele-velebayi,7663,Kaizer Chiefs,6.8,0,,1,1,0,92.31
+1140891,Abderrahmane Qassaq,abderrahmane-qassaq,55037,Olympic Safi,6.8,0,,3,1,0,83.87
+1799139,Siviwe Nkwali,siviwe-nkwali,43555,Stellenbosch,6.8,0,,0,1,0,63.83
+1391115,Adama Samake,adama-samake,69324,Djoliba AC,6.8,0,,0,2,0,85.71
+1140815,Salah Moussadak,salah-moussadak,36268,Wydad Casablanca,6.8,0,,1,1,0,83.33
+2002275,Joseph Bakasu,joseph-bakasu,36268,Wydad Casablanca,6.8,0,,0,12,0,82.35
+1515818,Abderrahmane Bekkour,abderrahmane-bekkour,42207,CR Belouizdad,6.8,0,,1,9,0,85.71
+1899004,Mohamed Ibrahim,mohamed-ibrahim-hassan,42368,Zamalek SC,6.8,0,,4,12,0,80.41
+919699,Saad Morsli,morsli-saad,55037,Olympic Safi,6.79,0,,1,16,0,68.97
+785917,Kabaso Chongo,kabaso-chongo,191184,ZESCO United,6.78,0,,3,5,1,80.32
+997780,Haithem Loucif,loucif-haithem,42206,USM Alger,6.78,0,,4,14,0,82.12
+2368444,Peter Musukuma,peter-musukuma,191184,ZESCO United,6.78,1,,0,5,0,83.33
+1402635,Soulaimane El Bouchqali,soulaimane-el-bouchqali,55037,Olympic Safi,6.78,0,,10,7,1,77.7
+1210560,Walid Nassi,walid-nassi,36268,Wydad Casablanca,6.77,1,,2,3,2,68.42
+1382386,Jeancy Lita,jeancy-lita,281329,Maniema Union,6.77,0,,2,5,0,63.16
+2002262,Chadoma Mukeni,chadoma-mukeni,281329,Maniema Union,6.76,1,,5,4,2,83.33
+1861908,Khalid Habibu,khalid-habibu,353799,Singida Black Stars SC,6.76,0,,0,3,0,76.62
+1537340,Bandiougou Diallo,bandiougou-diallo,275889,AS Otohô,6.75,2,,9,3,1,74.78
+2190122,Dillon Solomons,dillan-solomons,7663,Kaizer Chiefs,6.75,1,,2,6,0,76.38
+894744,Thembinkosi Lorch,thembinkosi-lorch,36268,Wydad Casablanca,6.75,0,,1,0,2,77.27
+1389684,Yoro Mamadou Diaby,yoro-mamadou-diaby,212411,Azam FC,6.75,0,,2,3,1,82.09
+1389847,Lamine Jarjou,lamine-jarjou,353799,Singida Black Stars SC,6.75,0,,8,7,0,73.81
+918721,Ahmed Ayman Mansour,ahmed-ayman-mansour,43560,Al-Masry,6.74,0,,2,7,1,85.06
+1140800,Yassine Kordani,yassine-kordani,55037,Olympic Safi,6.74,0,,0,2,0,74.22
+967150,Mohamed Makhlouf,mohamed-makhlouf,43560,Al-Masry,6.73,0,,1,4,0,76.47
+894962,Wayde Jooste,wayde-jooste,43555,Stellenbosch,6.73,0,,1,4,0,70.0
+1831807,Safi Eddine Atmania,safi-eddine-atmania,42206,USM Alger,6.73,0,,1,0,0,86.44
+894771,Paseka Mako,paseka-mako,7663,Kaizer Chiefs,6.73,0,,0,3,0,88.89
+1103606,Zuberi Foba Masudi,zuberi-foba-masudi,212411,Azam FC,6.73,0,,0,0,0,77.42
+2368447,Yaya Sangare,yaya-sangare,69324,Djoliba AC,6.73,0,,2,12,0,84.62
+943787,Himid Mao Mkami,himid-mao-mkami,212411,Azam FC,6.72,0,,3,15,0,84.74
+1004515,Hamza Hamiani,hamza-hamiani,55037,Olympic Safi,6.71,0,,0,0,0,44.51
+927648,Glody Likonza,glody-likonza,42206,USM Alger,6.71,1,,3,13,0,81.74
+2368692,Mohamed Bouderbala,mohamed-bouderbala,42206,USM Alger,6.7,1,,2,5,0,72.73
+2368150,Dancan Omala,dancan-omala,257440,Nairobi United,6.7,1,,1,2,0,60.61
+187153,Endri Çekiçi,endri-cekici,42207,CR Belouizdad,6.7,0,,0,3,1,85.19
+2002223,Mahamadou Sissoko,mahamadou-sissoko,69324,Djoliba AC,6.7,0,,2,1,1,78.57
+982609,Clement Kanoute,clement-kanoute,69324,Djoliba AC,6.7,0,,1,3,1,83.25
+1195802,Naïm Byar,naim-byar,36268,Wydad Casablanca,6.7,0,,0,0,0,90.32
+881123,Thabo Cele,thabo-cele,7663,Kaizer Chiefs,6.7,0,,0,3,0,81.03
+1541793,Kamel Soufi,kamel-soufi,42206,USM Alger,6.7,0,,0,0,0,92.31
+2460225,Zouzou Landry,zouzou-landry,212411,Azam FC,6.7,0,,1,0,0,66.67
+157089,Brahim Boudebouda,brahim-boudebouda,42206,USM Alger,6.7,0,,0,0,0,73.91
+2367912,Jeampy Kabamba,jeampy-kabamba,281329,Maniema Union,6.7,0,,0,2,0,77.78
+2399061,Ernest Mohammed,ernest-mohammed,257440,Nairobi United,6.7,0,,0,0,0,56.41
+1086261,Sibongiseni Mthethwa,sibongiseni-mthethwa,7663,Kaizer Chiefs,6.7,0,,1,7,0,87.85
+1130502,Karim L'Koucha,karim-lkoucha,55037,Olympic Safi,6.7,0,,0,5,0,72.73
+948389,Deus Kaseke,deus-kaseke,353799,Singida Black Stars SC,6.7,0,,0,0,0,50.0
+2368137,Koffi Wilfried,koffi-wilfried,238206,FC San Pedro,6.7,0,,0,1,0,91.67
+2368124,Adams Nyambane,adams-nyambane,257440,Nairobi United,6.7,0,,0,1,0,50.0
+2368128,Brian Magare,brian-magare,257440,Nairobi United,6.7,0,,0,2,0,78.57
+982421,Brendon Moloisane,brendon-moloisane,43555,Stellenbosch,6.7,0,,0,6,0,68.92
+1015094,Lindo Thembinkosi Mkhonta,lindo-thembinkosi-mkhonta,191184,ZESCO United,6.7,0,,1,4,0,79.21
+2368133,Franck Yoan,franck-yoan,238206,FC San Pedro,6.7,0,,0,3,0,84.27
+2368445,Philip Sakauta,philip-sakauta,191184,ZESCO United,6.7,0,,0,0,0,71.64
+918728,Hassan Ali,hassan-ali,43560,Al-Masry,6.7,0,,2,12,0,77.21
+1023351,Leonard Mulenga,leonard-mulenga,191184,ZESCO United,6.7,0,,2,5,0,82.49
+2367915,Jordi Mukoko,jordi-mukoko,281329,Maniema Union,6.7,0,,3,14,0,70.55
+920458,Oday Dabbagh,oday-dabbagh,42368,Zamalek SC,6.69,4,,4,7,0,78.54
+1469677,Gosim Elenga,gosim-elenga,275889,AS Otohô,6.69,1,,5,5,1,85.58
+918996,Seifeddine Jaziri,seifeddine-jaziri,42368,Zamalek SC,6.69,2,,1,3,0,70.59
+1019136,Pule Mmodi,pule-mmodi,7663,Kaizer Chiefs,6.68,1,,3,8,0,80.41
+1424605,Mahmoud Bentayg,bentayg-mahmoud,42368,Zamalek SC,6.68,0,,1,12,0,77.14
+159677,Omar Gaber,omar-gaber,42368,Zamalek SC,6.68,0,,0,3,0,86.33
+2368294,Keffa Tangara,keffa-tangara,69324,Djoliba AC,6.68,0,,4,10,0,64.04
+1173530,Mostafa Mahmoud Al Aash,mostafa-el-aash,43560,Al-Masry,6.68,0,,3,6,0,74.15
+1607328,Amas Obasogie,amas-obasogie,353799,Singida Black Stars SC,6.68,0,,0,1,0,70.0
+930586,Salim Boukhenchouche,salim-boukhenchouche,42207,CR Belouizdad,6.68,0,,6,16,0,87.87
+119192,Wissam Ben Yedder,wissam-ben-yedder,36268,Wydad Casablanca,6.67,1,,1,2,0,71.91
+918640,Karim Bambo,karim-bambo,43560,Al-Masry,6.67,1,,2,0,0,70.59
+871737,Ahmed Hamdi,ahmed-hamdi,42368,Zamalek SC,6.67,0,,0,0,0,82.98
+1931397,Abdelmalek Kelaleche,abdelmalek-kelaleche,42207,CR Belouizdad,6.67,0,,2,1,0,78.79
+2002239,Amadou Soumaré,amadou-soumare,69324,Djoliba AC,6.67,0,,8,9,0,80.27
+1002467,Ibraheem Jabaar,ibraheem-jabaar,43555,Stellenbosch,6.66,0,,1,7,0,76.11
+2367941,Koumou Keita,koumou-keita,275889,AS Otohô,6.66,0,,0,4,0,78.38
+2452972,Alpha Karamoko,alpha-karamoko,238206,FC San Pedro,6.65,1,,9,5,0,72.0
+918604,Baher El Mohamady,baher-el-mohamady,43560,Al-Masry,6.65,0,,0,3,0,87.01
+1018478,Housseyn Selmi,housseyn-selmi,42207,CR Belouizdad,6.65,0,,0,1,0,88.71
+959537,Ovella Ochieng,ovella-ochieng,257440,Nairobi United,6.65,0,,0,2,0,81.82
+1515571,Koffi Jean Arriel,koffi-jean-arriel,238206,FC San Pedro,6.65,0,,0,1,0,57.14
+895063,Siphesihle Ndlovu,siphesihle-ndlovu,7663,Kaizer Chiefs,6.65,0,,3,9,0,85.6
+1400635,Omar El Saaiy,omar-el-saaiy,43560,Al-Masry,6.64,0,,3,3,0,75.0
+2024680,Zidane Sereri,zidane-sereri,212411,Azam FC,6.64,0,,0,2,0,76.36
+1482303,Levin Opiyo,levin-opiyo,191184,ZESCO United,6.63,0,,0,0,0,59.26
+923869,Samy Farnese Mampembe,samy-farnese-mampembe,275889,AS Otohô,6.63,0,,3,2,0,79.37
+2368439,Fils Vitalis Gantar,fils-vitalis-gantar,191184,ZESCO United,6.63,0,,0,1,0,79.41
+1106666,Adam Kaied,adam-kaied,42368,Zamalek SC,6.63,0,,4,5,0,77.55
+191192,Mohamed Chemlal,mohamed-chemlal,55037,Olympic Safi,6.63,0,,0,1,1,75.0
+918622,Naser Mansi,naser-mansi,42368,Zamalek SC,6.63,0,,1,7,1,65.96
+1096751,Devin Titus,devin-titus,43555,Stellenbosch,6.63,0,,1,2,0,68.89
+1802002,Mthetheleli Mthiyane,mthetheleli-mthiyane,43555,Stellenbosch,6.63,0,,1,7,0,75.86
+1126829,Kazie Godswill,kazie-godswill,43555,Stellenbosch,6.63,0,,0,12,0,69.33
+2002214,Boua Kané,boua-kane,69324,Djoliba AC,6.63,0,,8,8,0,72.0
+1198256,Bilal Boukerchaoui,bilal-boukerchaoui,42207,CR Belouizdad,6.62,0,,4,12,1,77.4
+1500988,Anas Mkhair,anas-mkhair,55037,Olympic Safi,6.62,0,,1,13,0,72.79
+2002263,Christian Balako,christian-balako,281329,Maniema Union,6.61,1,,1,1,0,54.17
+2421647,Lofti Boussouar,lofti-boussouar,42207,CR Belouizdad,6.61,1,,2,12,1,69.06
+2368132,Dramane Kamagate,dramane-kamagate,42206,USM Alger,6.6,3,,7,1,1,75.0
+340511,Mohamed Rayhi,mohamed-rayhi,36268,Wydad Casablanca,6.6,1,,0,1,0,73.33
+1083120,Wilfrid Nkaya,whylfrid-nkaya,275889,AS Otohô,6.6,0,,1,0,1,53.85
+1007579,Riad Benayad,riad-benayad,42206,USM Alger,6.6,0,,3,1,1,80.85
+1961586,Mohamed Hamad,mohamed-shehata,42368,Zamalek SC,6.6,0,,0,0,0,100.0
+1103604,Nassor Saadun Hamoud,nassor-saadun-hamoud,212411,Azam FC,6.6,0,,1,0,0,100.0
+1610724,Andrew Phiri,andrew-phiri,353799,Singida Black Stars SC,6.6,0,,0,1,0,50.0
+2168673,Anthony Chiyuka,anthony-chiyuka,191184,ZESCO United,6.6,0,,0,0,0,77.78
+990995,Prince Buregeya,prince-buregeya,257440,Nairobi United,6.6,0,,0,1,0,63.16
+2369883,Christopher Mambote,christopher-mambote,281329,Maniema Union,6.6,0,,0,0,0,0.0
+1187209,Anthony Tra Bi Tra,anthony-tra-bi-tra,353799,Singida Black Stars SC,6.6,0,,0,2,0,87.3
+894949,Mosa Lebusa,mosa-lebusa,43555,Stellenbosch,6.6,0,,0,2,0,75.47
+898716,Beranger Itoua,beranger-itoua,275889,AS Otohô,6.6,0,,0,1,0,86.36
+1568178,James Akaminko,james-akaminko,212411,Azam FC,6.6,0,,0,1,0,79.17
+1140806,Walid Rhailouf,walid-rhailouf,55037,Olympic Safi,6.6,0,,2,4,0,68.54
+2367911,Barclet Bakadi,barclet-bakadi,281329,Maniema Union,6.6,0,,0,3,0,100.0
+2452040,Malik Youla,malik-youla,238206,FC San Pedro,6.6,0,,0,2,0,92.31
+1194332,Ayman El Wafi,el-wafi-ayman,36268,Wydad Casablanca,6.6,0,,0,0,0,88.04
+822874,Kobamelo Kodisang,kobamelo-kodisang,43555,Stellenbosch,6.6,0,,0,1,0,76.47
+1798512,Ahmad El Houari,ahmad-el-houari,55037,Olympic Safi,6.6,0,,0,0,0,81.82
+2368127,Boubacar Traoré,boubacar-traore,275889,AS Otohô,6.6,0,,0,2,0,64.94
+2451848,Mzee Mzee,mzee-mzee,212411,Azam FC,6.6,0,,3,0,0,60.0
+1083232,Zacharia Chilongoshi,zacharia-chilongoshi,191184,ZESCO United,6.6,0,,3,7,0,74.15
+2202274,Divin De Nzingoula,divin-de-nzingoula,275889,AS Otohô,6.6,0,,2,4,0,82.46
+845610,Houari Ferhani,houari-ferhani,55037,Olympic Safi,6.6,0,,0,18,0,69.87
+2002261,Abedi Bokomboli,abedi-bokomboli,281329,Maniema Union,6.6,0,,2,12,0,70.73
+1525301,Faraji Karmoune,faraji-karmoune,55037,Olympic Safi,6.6,0,,6,10,0,66.3
+1127732,Aimé Etane Tendeng,aime-etane-tendeng,42206,USM Alger,6.6,0,,3,16,0,88.11
+1464159,Venold Dzaba,venold-dzaba,275889,AS Otohô,6.58,0,,0,4,0,73.62
+2368157,Lesley Owino,lesley-owino,257440,Nairobi United,6.58,0,,3,8,0,70.06
+1479046,Henri Stanic,henri-stanic,43555,Stellenbosch,6.58,0,,0,5,0,73.43
+1179162,Genino Palace,genino-palace,43555,Stellenbosch,6.58,0,,1,5,0,77.32
+818845,Gastón Sirino,gaston-sirino,7663,Kaizer Chiefs,6.58,0,,1,2,0,80.65
+2368138,Laciné Dosso,lacine-dosso,238206,FC San Pedro,6.57,0,,4,5,1,79.38
+2193770,Thulani Mabaso,thulani-mabaso,7663,Kaizer Chiefs,6.57,0,,0,3,0,68.75
+894656,Oscarine Masuluke,oscarine-masuluke,43555,Stellenbosch,6.57,0,,0,0,0,58.14
+1471433,Prince Soussou,prince-soussou-ilendo,281329,Maniema Union,6.57,0,,0,1,0,68.75
+1183660,Abraham Siankombo,abraham-siankombo,191184,ZESCO United,6.57,0,,2,3,0,74.71
+1457373,Emmanuel Keyekeh,emmanuel-keyekeh,353799,Singida Black Stars SC,6.57,0,,4,3,0,72.12
+929957,Chico Banza,banza-chico,42368,Zamalek SC,6.57,0,,14,14,0,63.33
+1186787,Youness Najari,youness-najari,55037,Olympic Safi,6.56,0,,4,14,0,60.39
+1463432,Onoya Sangana,onoya-sangana,281329,Maniema Union,6.56,0,,2,17,0,76.42
+1048765,Ahmed Sherif,ahmed-sherif,42368,Zamalek SC,6.56,0,,4,3,0,69.91
+918920,Salah Mohsen,salah-mohsen,43560,Al-Masry,6.55,3,,5,0,0,67.78
+1404064,Imad Khannouss,imad-khannouss,55037,Olympic Safi,6.55,1,,3,11,0,65.49
+944321,Spiwe Given Msimango,spiwe-given-msimango,7663,Kaizer Chiefs,6.55,0,,0,0,0,78.57
+1166804,Athenkosi Mcaba,athenkosi-mcaba,43555,Stellenbosch,6.55,0,,0,1,0,87.32
+1469601,Boulkassoum Diarra,boulkassoum-diarra,69324,Djoliba AC,6.55,0,,2,3,0,84.93
+2368125,Bakary Traoré,bakary-traore,69324,Djoliba AC,6.55,0,,0,1,0,78.75
+2368443,Oghenemarho Ifoni,oghenemarho-ifoni,191184,ZESCO United,6.55,0,,0,0,0,90.91
+2399062,Kefa Nakhumicha,kefa-nakhumicha,257440,Nairobi United,6.55,0,,0,1,0,60.0
+2451850,Roy Okal,roy-okal,257440,Nairobi United,6.55,0,,1,3,0,71.74
+1123400,Ameed Sawafta,ameed-sawafta,43560,Al-Masry,6.55,0,,1,7,0,78.72
+1475210,Anass Eddaou,anass-eddaou,55037,Olympic Safi,6.55,0,,3,5,0,79.37
+932729,Ahmed Rabia,ahmed-rabia,42368,Zamalek SC,6.54,0,,1,3,1,60.53
+1094525,Mohamed Islam Belkhir,mohamed-islam-belkhir,42207,CR Belouizdad,6.54,0,,0,5,0,69.9
+1464151,Japhet Mankou,japhet-mankou,275889,AS Otohô,6.53,0,,2,2,1,57.14
+822872,Khanyisa Mayo,khanyisa-mayo,7663,Kaizer Chiefs,6.53,0,,3,0,0,50.0
+871738,Mido Gaber,mido-gaber,43560,Al-Masry,6.53,0,,1,0,0,58.82
+1807777,Ange Manzan,ange-manzan,69324,Djoliba AC,6.53,0,,1,2,0,66.67
+1500635,Mathews Chabala,mathews-chabala,191184,ZESCO United,6.53,0,,0,1,0,74.38
+2202275,Grace Nsemi,grace-nsemi,275889,AS Otohô,6.53,0,,1,0,0,80.95
+1416341,Titus Ssematimba,titus-ssematimba,257440,Nairobi United,6.53,0,,0,0,0,93.75
+2452028,Fiston Buabua,fiston-buabua,275889,AS Otohô,6.53,0,,2,0,0,74.36
+1469604,Mady Dembele,mady-dembele,69324,Djoliba AC,6.53,0,,0,0,0,94.44
+1152379,Zitha Kwinika,zitha-kwinika,7663,Kaizer Chiefs,6.53,0,,0,4,0,80.17
+2452240,Moussa  Corso Traoré,moussa-corso-traore,281329,Maniema Union,6.53,0,,0,0,0,80.65
+2368135,Ibrahima Touré,ibrahima-toure,238206,FC San Pedro,6.52,0,,0,12,1,84.31
+881134,Shemmy Mayembe,shemmy-mayembe,191184,ZESCO United,6.52,0,,1,9,0,79.35
+1008210,Oumar Camara,oumar-camara,275889,AS Otohô,6.52,0,,0,3,0,85.71
+1183578,Japhté Kitambala,jephte-kitambala,212411,Azam FC,6.52,1,,3,2,0,56.41
+990661,Tumisang Orebonye,tumisang-orebonye,36268,Wydad Casablanca,6.5,0,,1,0,0,0.0
+1094513,Mahmoud Gehad,mahmoud-gehad,42368,Zamalek SC,6.5,0,,0,0,0,94.12
+1907921,Mostafa Abou El Khair,mostafa-abou-el-khair,43560,Al-Masry,6.5,0,,0,0,0,0.0
+802837,Moustafa Zeidan,moustafa-zeidan,43560,Al-Masry,6.5,0,,0,0,0,100.0
+2073085,Hussein Masaranga,hussein-masaranga,353799,Singida Black Stars SC,6.5,0,,0,0,0,58.33
+1873036,Adama Traoré,adama-traore,69324,Djoliba AC,6.5,0,,0,0,0,33.33
+1211979,Chijoke Alaekwe,chijoke-alaekwe,191184,ZESCO United,6.5,0,,0,0,0,66.67
+865473,Stephane Aziz Ki,stephane-aziz-ki,36268,Wydad Casablanca,6.5,0,,2,1,0,77.27
+1177138,Etiosa Godspower Ighodaro,etiosa-godspower-ighodaro,7663,Kaizer Chiefs,6.5,0,,2,0,0,75.0
+1007558,Ghiles Guenaoui,ghiles-guenaoui,42206,USM Alger,6.5,0,,0,0,0,100.0
+1103596,Abdul Suleiman Sopu,abdul-suleiman,212411,Azam FC,6.5,0,,4,0,0,90.41
+1018809,Sanele Barns,sanele-barns,43555,Stellenbosch,6.5,0,,3,0,0,57.89
+2368143,Raye Cissé,raye-cisse,69324,Djoliba AC,6.5,0,,1,7,0,76.92
+1861910,Mukrim Issa,mukrim-issa,353799,Singida Black Stars SC,6.5,0,,0,2,0,67.37
+1185610,Emmanuel Manda,emmanuel-manda,191184,ZESCO United,6.5,0,,0,5,0,45.16
+880640,Ayubu Lyanga,ayubu-lyanga,353799,Singida Black Stars SC,6.5,0,,0,0,0,72.0
+875096,Benedict Chepeshi,bendecit-chapeshi,191184,ZESCO United,6.5,0,,2,5,0,71.52
+2368160,Mathieu Amon,mathieu-amon,238206,FC San Pedro,6.48,0,,0,3,1,73.17
+1469728,Horso Mwaku,horso-mwaku,353799,Singida Black Stars SC,6.48,0,,2,1,0,88.89
+1902412,Omega Mdaka,omega-mdaka,43555,Stellenbosch,6.48,0,,3,11,0,60.95
+1064698,Chumani Thembile Butsaka,chumani-thembile-butsaka,43555,Stellenbosch,6.48,0,,0,5,0,63.08
+2368145,Shami Mwinyi Kibwana,shami-mwinyi-kibwana,257440,Nairobi United,6.48,0,,5,5,0,67.57
+1136028,Thato Khiba,thato-khiba,43555,Stellenbosch,6.47,0,,0,1,1,86.96
+2368161,Michael Karamor,michael-karamor,257440,Nairobi United,6.47,0,,3,0,1,52.38
+1459292,Ande Cirille Koffi,ande-habib-cirille,353799,Singida Black Stars SC,6.47,0,,5,1,0,73.75
+1102348,Ashley Cupido,cupido-ashley,43555,Stellenbosch,6.45,1,,1,3,1,58.73
+1085536,Bradley Cross,cross-bradley,7663,Kaizer Chiefs,6.45,0,,0,4,0,75.86
+1632534,Nickson Clement Kibabage,kibabage-nickson-clement,353799,Singida Black Stars SC,6.45,0,,1,1,0,83.05
+1140849,Charki El Bahri,charki-el-bahri,55037,Olympic Safi,6.45,0,,1,0,0,38.46
+1177186,Anas Soufeir,anas-soufeir,55037,Olympic Safi,6.45,0,,0,0,0,55.56
+2286532,Elvis Bernard Addae,elvis-bernard-addae,191184,ZESCO United,6.45,0,,0,0,0,53.85
+1517104,Necer Marouane Benzid,necer-marouane-benzid,42207,CR Belouizdad,6.45,0,,0,1,0,75.0
+2368131,Doumbia Famoussa,doumbia-famoussa,238206,FC San Pedro,6.45,0,,0,0,0,80.0
+1464129,Cheickna Diakité,cheickna-diakite,212411,Azam FC,6.45,0,,1,0,0,93.33
+2451852,Derrick Obame,derrick-obame,191184,ZESCO United,6.45,0,,0,7,0,60.94
+990963,Muhadjiri Hakizimana,muhadjiri-hakizimana,257440,Nairobi United,6.45,0,,2,1,0,71.79
+880101,Hamza El Wasti,hamza-el-wasti,36268,Wydad Casablanca,6.45,0,,1,3,0,79.07
+1404072,Imad Serbout,imad-serbout,55037,Olympic Safi,6.45,0,,4,6,0,64.1
+1167837,Mduduzi Shabalala,mduduzi-shabalala,7663,Kaizer Chiefs,6.44,0,,2,3,0,78.69
+933770,Hamza Hannouri,hamza-hannouri,36268,Wydad Casablanca,6.44,1,,0,3,1,67.57
+2002448,Jean Ahoua,jean-ahoua,42207,CR Belouizdad,6.43,0,,4,1,0,59.46
+1606736,Amine Hiver,amine-hiver,191184,ZESCO United,6.42,1,,4,2,0,61.4
+2368155,John Onyango,john-onyango,257440,Nairobi United,6.42,0,,1,7,0,78.49
+814335,Flávio Silva,flavio-silva,7663,Kaizer Chiefs,6.42,1,,0,2,0,59.26
+1083623,Elvis Rupia,elvis-rupia,353799,Singida Black Stars SC,6.42,1,,0,0,0,57.65
+970630,El Mehdi Benabid,el-mehdi-benabid,36268,Wydad Casablanca,6.41,0,,0,1,0,76.08
+358792,Andre De Jong,andre-de-jong,43555,Stellenbosch,6.4,0,,0,1,0,66.67
+1461765,Wandile Duba,duba-wandile,7663,Kaizer Chiefs,6.4,0,,0,0,0,60.0
+1496044,Luke Baartman,baartman-luke,7663,Kaizer Chiefs,6.4,0,,0,0,0,100.0
+1457512,Youssouf Simpara,youssouf-simpara,69324,Djoliba AC,6.4,0,,0,0,0,83.33
+895534,Mohamed El Shamy,mohamed-el-shamy,43560,Al-Masry,6.4,0,,1,0,0,66.67
+2368153,Frank Ouya,frank-ouya,257440,Nairobi United,6.4,0,,0,0,0,100.0
+2368149,Chris Opondo,chris-opondo,257440,Nairobi United,6.4,0,,0,0,0,50.0
+982461,Thabiso James Monyane,james-monyane,7663,Kaizer Chiefs,6.4,0,,1,2,0,68.09
+2306392,Jean - Jacques Ngita,jean-jacques-ngita,212411,Azam FC,6.4,0,,2,0,0,57.14
+1018539,Kingsley Eduwo,kingsley-eduwo,43560,Al-Masry,6.4,0,,2,1,0,72.73
+2002207,Aboubacar Sidibé,aboubacar-sidibe,69324,Djoliba AC,6.4,0,,1,0,0,86.84
+2368159,Majaliwa Charo,majaliwa-charo,257440,Nairobi United,6.4,0,,2,0,0,57.14
+2452039,Camara Lamine,camara-lamine,238206,FC San Pedro,6.4,0,,0,0,0,70.83
+2368156,Lennox Ogutu,lennox-ogutu,257440,Nairobi United,6.4,0,,1,2,0,76.44
+1424737,Moisés Paniagua,paniagua-moises,36268,Wydad Casablanca,6.38,0,,0,3,0,88.57
+2451853,Emmanuel Mwanza,emmanuel-mwanza,191184,ZESCO United,6.38,0,,2,1,0,71.74
+2452030,Mossi Nduwumwe,mossi-nduwumwe,353799,Singida Black Stars SC,6.37,0,,1,1,0,92.59
+1480150,Abdulmalik Zakaria,abdulmalik-zakaria,353799,Singida Black Stars SC,6.37,0,,1,4,0,72.73
+1470079,Khomotjo Lekoloane,khomotjo-lekoloane,43555,Stellenbosch,6.37,0,,0,4,0,80.95
+895127,Tshegofatso Mabasa,tshegofatso-mabasa,43555,Stellenbosch,6.35,0,,0,0,0,60.0
+2425783,Ahmed Khodari,ahmed-khodari,42368,Zamalek SC,6.35,0,,2,5,0,80.43
+2002231,Seydou Diabate,seydou-diabate,69324,Djoliba AC,6.33,0,,2,0,0,75.0
+1465485,Benson Omalla,benson-omalla,257440,Nairobi United,6.33,0,,0,1,0,69.81
+1111098,Brian Omondi,brian-omondi,257440,Nairobi United,6.33,0,,4,2,0,74.34
+991026,Ashley Du Preez,ashley-du-preez,7663,Kaizer Chiefs,6.3,0,,0,0,0,88.24
+2468686,Macky Diallo,macky-diallo,275889,AS Otohô,6.3,0,,0,2,0,50.0
+1501875,Lameck Lawi,lameck-lawi,212411,Azam FC,6.3,0,,0,0,0,76.0
+933077,Mustafa Kizza,mustafa-kizza,257440,Nairobi United,6.3,0,,1,0,0,62.69
+2073086,Mirajy Hassan,mirajy-hassan,353799,Singida Black Stars SC,6.3,0,,0,1,0,85.19
+1401524,Marwane Elaz,marwane-elaz,55037,Olympic Safi,6.3,0,,0,0,0,66.67
+2368446,Samson Ngoma,samson-ngoma,191184,ZESCO United,6.3,0,,0,2,0,89.47
+2368123,Ahmed Coulibaly,ahmed-coulibaly,238206,FC San Pedro,6.3,0,,1,0,0,72.73
+1394432,Asekho Tiwani,asekho-tiwani,43555,Stellenbosch,6.3,0,,4,3,0,63.24
+2370252,Djava M'ban,djava-mban,238206,FC San Pedro,6.3,0,,0,0,0,83.33
+2413130,Charles Waibi,charles-waibi,257440,Nairobi United,6.27,0,,1,3,0,52.63
+2137646,Kevin Oduor,kevin-oduor,257440,Nairobi United,6.26,0,,0,0,0,58.62
+958738,Clatous Chama,clatous-chama,353799,Singida Black Stars SC,6.25,0,,0,2,0,85.87
+2368154,Gideon Otieno,gideon-otieno,257440,Nairobi United,6.25,0,,2,3,0,72.0
+2361710,Kevin Otiende,kevin-otiende,257440,Nairobi United,6.22,0,,2,8,0,66.23
+2368126,Bangaly Fofana,bangaly-fofana,238206,FC San Pedro,6.22,0,,4,10,0,79.59
+822701,Bourama Diallo,bourama-diallo,69324,Djoliba AC,6.2,0,,0,0,0,75.0
+2368293,Lamine Diakité,lamine-diakite,69324,Djoliba AC,6.2,0,,0,0,0,16.67
+155662,Elvia Ipamy,elvia-ipamy,275889,AS Otohô,6.2,0,,0,0,0,25.0
+2463361,Adama Kamate,adama-kamate,238206,FC San Pedro,6.2,0,,1,0,0,68.75
+2368136,Koffi Adjoumani,koffi-adjoumani,238206,FC San Pedro,6.2,0,,0,0,0,73.17
+982463,Muzomuhle Khanyi,muzomuhle-khanyi,43555,Stellenbosch,6.18,0,,0,0,0,46.34
+2368144,Serge Boti,serge-boti,238206,FC San Pedro,6.1,0,,0,3,0,86.67
+996547,Yusuf Mainge,mainge-yusuf,257440,Nairobi United,6.08,0,,2,5,0,68.18
+1967151,Efonge Brudel,efonge-brudel,281329,Maniema Union,6.0,0,,0,0,0,30.0
+2367905,Mohamed Damaro,mohamed-damaro,353799,Singida Black Stars SC,5.9,0,,2,2,0,77.78
+2368152,Enock Machaga,enock-machaga,257440,Nairobi United,5.83,0,,0,3,0,61.18
+2111996,Mohamed Diarra,mohamed-diarra,238206,FC San Pedro,5.8,0,,0,0,0,84.85
+919739,Abdelali Mhamdi,abdelali-mhamdi,36268,Wydad Casablanca,5.7,0,,0,0,0,58.33
+985057,Wonderboy Makhubu,wonderboy-makhubu,43555,Stellenbosch,5.7,0,,0,1,0,64.29
+985952,Metacha Mnata,metacha-mnata,353799,Singida Black Stars SC,5.15,0,,0,0,0,45.83
+1980606,Ahmed Sharaf,ahmed-sharaf,43560,Al-Masry,0.0,0,,0,0,0,0.0

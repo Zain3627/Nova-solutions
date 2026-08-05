@@ -1,0 +1,707 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+804430,Ali Gabr,ali-gabr,175002,Pyramids FC,7.6,1,0.3,1,2,0,90.68
+2610837,Youssef Galal,youssef-galal,265830,Modern Sport FC,7.6,1,0.05,0,0,0,87.5
+919642,Mohamed Chibi,chibi-mohamed,175002,Pyramids FC,7.57,2,0.78,15,28,6,80.32
+1119721,Ahmed Nader El Sayed,ahmed-nader-el-sayed,373168,ZED FC,7.4,0,,0,0,0,72.0
+967032,Emam Ashour,emam-ashour,6910,Al Ahly FC,7.39,2,1.92,18,21,4,83.03
+560158,Mohamed Awad,mohamed-awad,42368,Zamalek SC,7.3,0,,0,0,0,36.84
+2611010,Segun Oloruntoba,paul-oluwasegun,35187,Al-Ittihad Alexandria,7.3,0,,0,3,0,100.0
+1063327,Hossam Abdelmaguid,hossam-abdelmaguid,42368,Zamalek SC,7.29,4,5.08,1,19,0,85.34
+918506,Mohanad Lasheen,mohanad-lasheen,175002,Pyramids FC,7.28,0,0.74,19,57,2,83.6
+936330,Hady Reyad,hady-reyad,6910,Al Ahly FC,7.27,2,1.51,0,22,0,69.1
+1013699,Marwan Attia,attia-marwan,6910,Al Ahly FC,7.26,0,0.83,5,47,0,84.79
+198472,Abdallah El-Said,abdallah-el-said,42368,Zamalek SC,7.25,2,2.6,15,26,2,83.8
+966969,Ahmed Shousha,ahmed-shousha,58319,Ghazl El Mahalla FC,7.21,7,6.44,1,34,1,76.53
+919020,Seif Teka,seif-teka,43568,Wadi Degla,7.2,3,1.9,1,28,1,82.19
+1083289,Mohamed El-Maghrabi,mohamed-el-maghrabi,371622,Cleopatra FC,7.2,0,,0,1,0,66.67
+1426405,Ahmed Kalosha,ahmed-kalosha,43564,ENPPI,7.18,3,2.22,5,22,1,79.87
+1463559,Juan Bezerra,juan-alvina,42368,Zamalek SC,7.18,3,3.7,21,14,5,80.24
+1094001,Ahmed Mayhoub,ahmed-mayhoub,43563,Smouha,7.18,0,,0,1,0,59.96
+2127677,Abdul Rahman Mahrous,abdul-rahman-mahrous,42366,Ismaily,7.18,0,,0,0,0,58.16
+886931,Mahmoud Hamdy,mahmoud-hamdy,43560,Al-Masry,7.17,0,,0,0,0,65.55
+159645,Mahmoud Alaa,mahmoud-alaa,35187,Al-Ittihad Alexandria,7.16,3,2.4,1,16,0,75.14
+918592,Ahmed Samy,ahmed-samy,175002,Pyramids FC,7.15,0,0.86,5,20,0,88.5
+1117419,Ahmed El Aash,ahmed-el-aash,58319,Ghazl El Mahalla FC,7.15,1,0.93,3,37,0,68.71
+918505,Nabil Donga,nabil-donga,42368,Zamalek SC,7.13,0,0.38,4,21,1,85.93
+1101624,Mahmoud Saber,mahmoud-saber,373168,ZED FC,7.12,5,4.47,10,18,6,77.35
+873548,Nasser Maher,nasser-maher,175002,Pyramids FC,7.12,9,4.72,19,18,2,83.98
+1836911,Hamdi Marcelo,marcelo,265830,Modern Sport FC,7.11,2,0.36,3,11,0,70.0
+934538,Mahmoud El-Gazzar,mahmoud-el-gazzar,266626,National Bank of Egypt,7.1,1,0.23,2,25,0,90.07
+918825,Mahmoud Shaaban,mahmoud-shaaban,265830,Modern Sport FC,7.1,0,,1,5,1,61.54
+2610804,Youssef Ashraf,youssef-ashraf,373168,ZED FC,7.1,0,,0,4,0,81.82
+2205136,Hesham Wael,hesham-wael,43565,El Gouna FC,7.1,0,,1,0,0,88.24
+159681,Mohamed Sobhi,mohamed-sobhi,42368,Zamalek SC,7.1,0,,0,0,0,74.94
+1049129,Yassin Marei,yassin-marei,6910,Al Ahly FC,7.09,3,0.98,0,20,0,88.28
+1983087,Abdelrahim Amoory,abdelrahim-amoory,58319,Ghazl El Mahalla FC,7.08,2,1.69,13,43,0,71.02
+547494,Zizo,zizo,6910,Al Ahly FC,7.08,5,6.04,11,11,6,85.02
+1446133,Adham Hamed,adham-hamed,43567,Petrojet,7.08,9,7.27,13,51,1,71.14
+918620,Omar El Wahsh,omar-el-wahsh,42365,Arab Contractors FC,7.08,1,1.85,10,69,0,75.32
+1067989,Hamed Hemdan,hamed-hemdan,175002,Pyramids FC,7.08,3,0.58,6,12,1,79.06
+918892,Ali Fawzi,ali-fawzi,265830,Modern Sport FC,7.07,2,2.6,11,43,4,77.64
+1102249,Sobhy Soliman,sobhy-soliman,35187,Al-Ittihad Alexandria,7.07,0,,0,0,0,56.74
+1393698,Abdo Gouda,abdo-gouda,35187,Al-Ittihad Alexandria,7.07,0,0.48,3,15,0,81.96
+918828,Nour El Sayed,nour-el-sayed,43565,El Gouna FC,7.07,1,1.56,3,37,0,80.19
+1096228,Mostafa Saad,mostafa-saad,373168,ZED FC,7.06,4,1.58,23,26,3,77.55
+1065550,Mohamed Nasr,mohamed-nasr,42366,Ismaily,7.06,0,0.47,8,33,1,74.56
+1095831,Ahmed Meteb,ahmed-meteb,266626,National Bank of Egypt,7.06,2,1.06,7,25,2,83.18
+2216013,Mohamed Hagras,mohamed-hagras,241702,Ismailia Electricity Club,7.06,0,,0,0,0,55.96
+333441,Yasser Ibrahim,yasser-ibrahim,6910,Al Ahly FC,7.06,2,2.29,3,23,0,88.93
+918884,Ali Lotfi,ali-lotfi,373168,ZED FC,7.05,0,,0,1,0,68.81
+1096361,Mostafa Ibrahim,mostafa-ibrahim,35187,Al-Ittihad Alexandria,7.05,2,1.49,7,14,0,78.52
+1095732,Oussama Zemraoui,oussama-zemraoui,43560,Al-Masry,7.04,2,0.18,9,12,0,83.33
+1011207,Mohamed Shehata,mohamed-shehata,42368,Zamalek SC,7.04,1,0.79,2,27,0,83.66
+1102389,Amr El-Solia,amr-el-solia,371622,Cleopatra FC,7.03,3,1.98,4,36,1,81.65
+873546,Mahmoud Marei,mahmoud-marei,175002,Pyramids FC,7.03,0,0.12,4,19,0,87.62
+841938,Mahmoud Genesh,mahmoud-genesh,35187,Al-Ittihad Alexandria,7.03,0,,0,0,0,58.77
+1470028,Babacar Ndiaye,babacar-ndiaye,241703,Pharco FC,7.03,3,1.36,1,46,1,65.16
+1983090,Amr El Gazar,amr-el-gazar,6910,Al Ahly FC,7.03,0,0.19,3,7,0,83.78
+826545,Mohamed Hany,mohamed-hany,6910,Al Ahly FC,7.03,0,0.35,19,36,5,81.87
+1048378,Mostafa Shobeir,mostafa-shobeir,6910,Al Ahly FC,7.02,0,,0,1,0,76.43
+1012578,Mohamed Ismail,mohamed-ismail,42368,Zamalek SC,7.02,0,0.21,3,27,0,83.18
+1470551,Mostafa Makhlouf,mostafa-makhlouf,265830,Modern Sport FC,7.02,0,,0,0,0,56.39
+933892,Abderrahim Deghmoum,abderrahim-deghmoum,43560,Al-Masry,7.02,4,1.55,21,20,4,76.33
+918725,Ahmed El Agouz,ahmed-el-agouz,43564,ENPPI,7.01,4,3.41,3,32,0,85.55
+295361,Mahmoud Trézéguet,mahmoud-trezeguet,6910,Al Ahly FC,7.01,11,10.87,23,20,0,82.76
+896578,Mohamed Ashraf Roqa,mohamed-ashraf-roqa,43566,Haras El Hodoud,7.01,4,4.37,11,27,1,77.99
+918657,Amr Hossam,amr-hossam,43568,Wadi Degla,7.01,0,,2,1,0,72.12
+333459,Mahmoud Hamdi,mahmoud-hamdi,42368,Zamalek SC,7.01,0,0.61,2,14,0,84.52
+918525,Omar Radwan,omar-radwan,43561,Tala'ea El-Gaish,7.0,0,,0,0,0,76.79
+1980828,Mohamed Alaa,mohamed-alaa,43565,El Gouna FC,7.0,0,,0,0,0,50.9
+2200953,Ibrahim Awad,ibrahim-awad,241702,Ismailia Electricity Club,7.0,0,0.04,1,28,0,72.41
+1049030,Abdel Rahman Shika,abdel-rahman-shika,265830,Modern Sport FC,7.0,0,0.32,8,27,0,83.03
+918593,Ahmed Alaa Eldin,ahmed-alaa-eldin,43561,Tala'ea El-Gaish,6.99,0,1.2,16,33,1,72.27
+1154911,Sodiq Awujoola,sodiq-awujoola,371622,Cleopatra FC,6.99,7,2.63,15,11,3,77.85
+1012382,Mohamed Samir,mohamed-samir,43564,ENPPI,6.99,0,0.26,0,14,0,77.9
+1093997,Amir Medhat,amir-medhat,266626,National Bank of Egypt,6.99,1,0.34,1,6,0,91.64
+880622,Ahmed Fatouh,ahmed-fatouh,42368,Zamalek SC,6.99,1,1.17,2,17,3,80.05
+1155325,Mody Naser,mody-naser,43564,ENPPI,6.98,2,0.35,3,26,0,81.46
+577736,Karim Hafez,karim-hafez,175002,Pyramids FC,6.98,2,1.9,6,23,1,83.44
+795445,Issahaku Yakubu,issahaku-yakubu,266626,National Bank of Egypt,6.98,1,0.39,4,14,2,78.47
+1169229,Ali Hamdy,ali-hamdy,43561,Tala'ea El-Gaish,6.98,0,0.96,4,52,1,75.0
+2216047,Mohamed Sharkia,mohamed-sharkia,43564,ENPPI,6.98,0,0.15,0,2,0,81.02
+1155327,Saber El Shimi,saber-el-shimi,43565,El Gouna FC,6.98,2,2.33,6,56,0,73.84
+1172638,Abdelrahman Samir,abdelrahman-samir,43564,ENPPI,6.98,0,,1,0,0,60.28
+918513,Sherif Reda,sherif-reda,43563,Smouha,6.97,0,0.33,4,24,2,73.67
+1395678,Qobolwakhe Sibande,qobolwakhe-sibande,43567,Petrojet,6.97,0,0.13,9,10,0,77.71
+1048067,Osama Faisal,osama-faisal,266626,National Bank of Egypt,6.97,10,11.19,25,22,4,72.21
+1424605,Mahmoud Bentayg,bentayg-mahmoud,42368,Zamalek SC,6.97,0,0.52,3,56,3,83.86
+841940,Mohamed Abou Gabal,mohamed-abou-gabal,265830,Modern Sport FC,6.97,0,,0,0,0,63.5
+964795,Achraf Dari,achraf-dari,6910,Al Ahly FC,6.97,0,0.01,0,3,0,87.76
+1048658,Ali Gamal,ali-gamal,373168,ZED FC,6.96,2,1.97,4,32,0,77.68
+1008303,Mostafa El Zenary,mostafa-el-zenary,266626,National Bank of Egypt,6.96,1,0.69,5,23,0,85.3
+2214887,Hassan Hussein Shakoush,hassan-hussein,42365,Arab Contractors FC,6.96,0,0.22,3,24,0,61.66
+2200931,Mohamed Armoosha,mohamed-armoosha,58319,Ghazl El Mahalla FC,6.96,2,0.29,0,6,0,78.79
+1117748,Mostafa Shakshak,mostafa-shakshak,43564,ENPPI,6.96,0,0.44,12,11,0,75.11
+2008836,Dao Cyrille,daw-serial,266626,National Bank of Egypt,6.96,0,0.2,2,27,0,88.0
+1012479,Mohamed Ammar,mohamed-ammar,42366,Ismaily,6.96,2,1.09,7,25,0,71.56
+918920,Salah Mohsen,salah-mohsen,43560,Al-Masry,6.96,7,6.22,12,5,2,70.07
+918908,Abdel Rahman Amer,abdel-rahman-amer,43563,Smouha,6.96,0,0.71,5,34,1,69.9
+967093,Mahmoud Emad,mahmoud-emad,35187,Al-Ittihad Alexandria,6.96,1,0.68,10,35,0,84.85
+1982381,Khaled Abo Ziada,khaled-abo-ziada,43561,Tala'ea El-Gaish,6.95,1,0.51,8,15,0,71.51
+846264,Omar Salah,omar-salah,43567,Petrojet,6.95,0,,0,2,0,44.7
+1094153,Ahmed Castelo,ahmed-castelo,373168,ZED FC,6.95,0,0.08,2,15,2,80.6
+1134341,Khaled Awad,khaled-awad,43561,Tala'ea El-Gaish,6.95,0,0.5,26,33,0,74.18
+94233,Danijel Miškić,danijel-miskic,43568,Wadi Degla,6.94,2,2.12,2,10,1,81.19
+796467,Achraf Bencharki,achraf-bencharki,6910,Al Ahly FC,6.94,5,2.35,21,11,7,81.79
+934537,Mohamed Fakhry,mohamed-fakhry,241703,Pharco FC,6.94,3,1.42,6,16,1,75.09
+1497696,Mohamed Saeed Shika,mohamed-saeed-shika,241703,Pharco FC,6.94,0,,1,1,0,51.41
+967150,Mohamed Makhlouf,mohamed-makhlouf,43560,Al-Masry,6.94,1,0.39,8,28,2,84.29
+1425280,Samuel Amadi,samuel-amadi,43563,Smouha,6.93,5,2.75,20,30,0,81.99
+919484,Youssef Belammari,youssef-belammari,6910,Al Ahly FC,6.93,0,0.22,5,13,0,84.71
+2452235,El Sayed Osama,el-sayed-abdel-moneim,42368,Zamalek SC,6.93,0,0.08,0,5,0,81.18
+1117788,Mido Mostafa,mido-mostafa,43563,Smouha,6.93,1,0.11,4,26,2,71.05
+918637,Amer Mohamed,amer-mohamed,58319,Ghazl El Mahalla FC,6.93,0,,2,1,0,61.71
+1094429,Mohamed Camacho,mohamed-camacho,43561,Tala'ea El-Gaish,6.93,0,0.79,10,25,1,77.71
+1031322,Peter Zilu Mutumosi,peter-zilu-mutumosi,373168,ZED FC,6.93,0,0.4,3,12,0,79.08
+918770,Bassam Walid,bassam-walid,58319,Ghazl El Mahalla FC,6.92,0,0.42,5,5,1,72.64
+879566,Mohamed Ounajem,mohamed-ounajem,241702,Ismailia Electricity Club,6.92,2,0.66,8,10,1,74.19
+1085148,Ragab El Safi,ragab-el-safi,43568,Wadi Degla,6.92,2,0.82,0,6,0,80.42
+244361,Mohamed Bassam,mohamed-bassam,371622,Cleopatra FC,6.92,0,,1,3,0,67.54
+918606,Hussein El Shahat,hussein-el-shahat,6910,Al Ahly FC,6.92,3,1.54,6,9,1,73.85
+918645,Mahmoud Rizk,mahmoud-rizk,265830,Modern Sport FC,6.91,1,1.35,0,11,0,75.1
+1531077,Mohamed Mazzika,mohamed-mazzika,373168,ZED FC,6.91,0,,1,1,0,56.92
+1481130,Ali El Gabry,ali-el-gabry,241702,Ismailia Electricity Club,6.91,0,,0,0,0,56.68
+126404,Amro Tarek,amro-tarek,43561,Tala'ea El-Gaish,6.91,2,1.95,13,34,0,73.85
+1390074,Yehia Zakaria,yehia-zakaria,58319,Ghazl El Mahalla FC,6.91,1,0.25,13,40,1,74.13
+1395129,Ahmed Sayed Abdelnaby,ahmed-sayed-abdelnaby,373168,ZED FC,6.91,0,0.02,10,16,1,83.4
+967008,Amr El Sisi,amr-el-sisi,43563,Smouha,6.91,0,0.53,10,26,2,77.27
+785883,Saidou Simporé,saidou-simpore,266626,National Bank of Egypt,6.91,0,0.41,1,12,1,84.07
+918591,Ragab Nabil,ragab-nabil,371622,Cleopatra FC,6.91,2,1.33,0,16,0,85.14
+918500,Ahmed Yasser Rayan,ahmed-yasser-rayan,266626,National Bank of Egypt,6.91,13,10.47,11,19,2,70.39
+967010,Halimo,halimo,241703,Pharco FC,6.91,1,0.52,2,23,2,67.24
+841943,Mostafa Fathy,mostafa-fathy,175002,Pyramids FC,6.9,2,1.37,7,8,1,77.83
+967020,Ghanam Mohamed,ghanam-mohamed,265830,Modern Sport FC,6.9,2,1.75,22,39,0,81.91
+1008108,Ziad Kamal,ziad-kamal,43564,ENPPI,6.9,1,0.53,17,20,1,84.01
+1082505,Ahmed Tarek,ahmed-tarek,373168,ZED FC,6.9,1,0.75,5,18,0,82.8
+935680,Youssef El Gohary,youssef-el-gohary,43560,Al-Masry,6.9,0,,0,0,0,71.43
+1150115,Ibrahim Aldawoud,aldawoud-ibrahim,43566,Haras El Hodoud,6.9,0,,0,2,0,40.0
+2122980,Reda,reda,35187,Al-Ittihad Alexandria,6.9,0,,0,1,0,33.33
+1140815,Salah Moussadak,salah-moussadak,42368,Zamalek SC,6.9,0,,2,3,0,83.56
+918499,Ahmed Gamal,ahmed-gamal,58319,Ghazl El Mahalla FC,6.9,0,,2,10,0,79.37
+1154981,Ahmed El Bahrawy,ahmed-el-bahrawy,241703,Pharco FC,6.9,0,0.57,8,40,0,71.71
+1167936,Islam El Mizzayn,islam-el-mizzayn,241703,Pharco FC,6.9,0,0.22,1,8,0,73.3
+1103659,Hisham Salah,hisham-salah,266626,National Bank of Egypt,6.9,0,0.15,6,10,0,73.29
+934781,Mohamed Ragab,mohamed-ragab,43563,Smouha,6.9,0,0.02,3,22,0,73.88
+1163229,Ahmed Mahmoud,ahmed-mahmoud,35187,Al-Ittihad Alexandria,6.9,0,0.01,2,14,0,80.79
+918553,Abdallah Bakri,abdallah-bakri,373168,ZED FC,6.89,2,1.08,1,6,1,84.67
+967029,Mostafa Gamal,mostafa-gamal,42365,Arab Contractors FC,6.89,2,1.96,8,57,1,73.45
+918547,Mahdi Soliman,mahdi-soliman,42368,Zamalek SC,6.89,0,,0,1,0,82.84
+1471551,Samadou Attidjikou,samadou-attidjikou,43563,Smouha,6.89,1,0.82,7,21,0,80.63
+918494,Essam Tharwat,essam-tharwat,43560,Al-Masry,6.89,0,,0,0,0,71.35
+244359,Saad Samir,saad-samir,371622,Cleopatra FC,6.89,1,0.33,0,19,0,87.35
+806244,Ibrahim Blati Tourè,ibrahim-blati-toure,175002,Pyramids FC,6.89,1,0.49,5,12,1,86.09
+1093721,Mostafa Shalaby,mostafa-shalaby,266626,National Bank of Egypt,6.89,2,1.97,15,18,5,80.48
+2447715,Fathy Mohamed,fathy-mohamed,241703,Pharco FC,6.88,0,1.36,14,13,0,59.79
+1531104,Maata Magassa,maata-magassa,373168,ZED FC,6.88,1,1.68,14,38,2,79.7
+873542,Ahmed Hany,ahmed-hany,371622,Cleopatra FC,6.88,0,0.2,9,37,0,84.11
+2213960,Shady Maher,shady-maher,43568,Wadi Degla,6.88,0,0.19,15,20,0,78.29
+1655258,Mahmoud Dunga,mahmoud-dunga,35187,Al-Ittihad Alexandria,6.88,0,0.14,2,17,1,82.79
+918621,Mahmoud Hamada,hamada-mahmoud,43560,Al-Masry,6.88,0,0.84,5,30,1,84.45
+1497719,Mohamed Abdelnasser,mohamed-abdelnasser,42365,Arab Contractors FC,6.88,2,1.51,7,8,1,70.07
+333463,Mohamed Sherif,mohamed-sherif,43564,ENPPI,6.88,3,2.78,20,16,1,76.18
+918914,Mohamed Magdy Afsha,mohamed-magdy-afsha,35187,Al-Ittihad Alexandria,6.87,2,3.67,9,11,2,83.58
+871735,Mohamed El-Shenawy,mohamed-el-shenawy,6910,Al Ahly FC,6.87,0,,0,0,0,75.85
+918604,Baher El Mohamady,baher-el-mohamady,43560,Al-Masry,6.87,0,0.33,1,18,0,87.8
+2477302,Yehia Mostafa,yehia-mostafa,43561,Tala'ea El-Gaish,6.87,1,0.34,3,22,0,76.92
+1201543,Sayed Abdallah,sayed-abdallah,266626,National Bank of Egypt,6.87,1,0.96,14,11,1,81.86
+1587055,Ikenna Cooper,ikenna-cooper,43566,Haras El Hodoud,6.87,0,0.18,8,26,1,71.97
+1400635,Omar El Saaiy,omar-el-saaiy,43560,Al-Masry,6.87,6,2.22,10,9,0,76.34
+2216044,Sayed Said,sayed-said,43564,ENPPI,6.87,0,0.05,3,13,1,70.23
+2020196,Mohamed Samir,mohamed-samir,43564,ENPPI,6.87,0,0.02,0,0,0,79.07
+918603,Mohamed Toni,mohamed-toni,35187,Al-Ittihad Alexandria,6.86,0,0.78,8,36,3,86.66
+1973176,Ahmed Reda,ahmed-hashem,266626,National Bank of Egypt,6.86,1,0.55,7,26,0,80.23
+1470549,Islam Abdallah,islam-abdallah,43567,Petrojet,6.86,1,0.42,6,36,0,63.24
+1391655,Mohamed El Nahass,mohamed-el-nahass,43565,El Gouna FC,6.86,2,2.64,3,6,2,60.52
+920458,Oday Dabbagh,oday-dabbagh,42368,Zamalek SC,6.86,9,5.29,11,19,0,80.35
+1425274,Mahmoud Zalaka,mahmoud-zalaka,175002,Pyramids FC,6.86,5,3.97,15,28,2,78.34
+1174307,Mahmoud El Hadary,mahmoud-el-hadary,42365,Arab Contractors FC,6.85,0,,0,0,0,54.35
+1084410,Abdel Rahman Rashdan,abdel-rahman-rashdan,241703,Pharco FC,6.85,0,0.23,1,18,0,74.42
+1401278,Houssem Eddine Souissi,houssem-eddine-souissi,43561,Tala'ea El-Gaish,6.85,1,0.83,6,36,0,80.51
+918625,Ahmed Bahbah,ahmed-bahbah,43567,Petrojet,6.85,2,2.07,5,46,1,62.86
+918721,Ahmed Ayman Mansour,ahmed-ayman-mansour,43560,Al-Masry,6.84,0,0.03,0,13,2,76.4
+873556,Ahmed Ramadan,ahmed-ramadan,6910,Al Ahly FC,6.84,0,,3,13,0,83.62
+918885,Emad El-Sayed,emad-el-sayed,43561,Tala'ea El-Gaish,6.84,0,,0,1,0,74.65
+873544,Osama Galal,osama-galal,175002,Pyramids FC,6.84,0,0.11,1,7,0,86.85
+1049049,Ahmed Belya,ahmed-belya,43565,El Gouna FC,6.84,0,0.06,1,8,1,73.83
+1418768,Barakat Haggag,barakat-haggag,43567,Petrojet,6.84,0,0.84,1,25,0,61.01
+918743,Omar Kamal,omar-kamal,371622,Cleopatra FC,6.84,0,0.26,1,9,0,77.68
+932729,Ahmed Rabia,ahmed-rabia,42368,Zamalek SC,6.84,2,0.33,1,8,0,78.1
+2338791,Ahmed Atef,ahmed-atef,35187,Al-Ittihad Alexandria,6.83,1,0.39,1,2,0,85.71
+1050729,Mohamed Shokry,mohamed-shokry,6910,Al Ahly FC,6.83,0,0.19,1,5,0,85.14
+1064323,Alieu Jatta,alieu-jatta,43565,El Gouna FC,6.83,0,0.12,2,12,0,72.03
+849574,Ahmed Belhadji,ahmed-belhadji,371622,Cleopatra FC,6.83,1,3.52,2,17,2,83.3
+1132012,Mohamed Salem,mohamed-salem,42365,Arab Contractors FC,6.83,6,3.81,7,5,2,53.49
+929957,Chico Banza,banza-chico,42368,Zamalek SC,6.83,3,2.79,10,18,2,73.21
+1094531,Rashad Metwaly,rashad-metwaly,265830,Modern Sport FC,6.83,5,3.46,15,15,1,72.02
+1410414,Aziz Abid,aziz-abid,43566,Haras El Hodoud,6.83,1,0.22,2,3,0,75.0
+967004,Ahmed Ayman,ahmed-ayman,43568,Wadi Degla,6.83,0,0.08,8,24,0,77.72
+1874529,Abdel Gawad Taalab,abdel-gawad-taalab,43565,El Gouna FC,6.82,0,,2,52,1,71.85
+934782,Mostafa Dowidar,mostafa-dowidar,266626,National Bank of Egypt,6.82,0,0.49,11,34,1,80.98
+1001881,Ahmed El-Saghiri,el-saghiri-ahmed,373168,ZED FC,6.82,0,0.4,9,20,0,81.7
+918831,Khaled El Ghandour,khaled-el-ghandour,43563,Smouha,6.82,3,2.44,9,22,5,71.36
+159677,Omar Gaber,omar-gaber,42368,Zamalek SC,6.82,1,0.12,2,27,0,82.66
+1172259,Mohamed Rabia,mohamed-rabia,373168,ZED FC,6.82,1,0.61,11,43,0,78.15
+888900,Ahmed Madbouli,ahmed-madbouli,266626,National Bank of Egypt,6.81,0,1.21,11,28,3,79.58
+1155324,Kamal Aboul-Fetouh,kamal-aboul-fetouh,43568,Wadi Degla,6.81,0,0.63,1,10,1,79.5
+1050783,Momen Awad,momen-awad,43566,Haras El Hodoud,6.81,2,0.48,8,30,2,67.33
+1014789,Ahmed Eid,ahmed-eid,6910,Al Ahly FC,6.81,0,0.03,3,12,0,79.78
+918582,Mahmoud Shedid Kenawi,mahmoud-shedid-kenawi,43567,Petrojet,6.81,0,0.18,8,42,1,65.45
+918628,Marwan Hamdy,marwan-hamdy,175002,Pyramids FC,6.81,5,5.38,6,10,3,60.53
+1982374,Tawfik Mohamed,tawfik-mohamed,43567,Petrojet,6.81,0,0.76,23,34,1,64.93
+943786,Ahmed Abdelrasoul,ahmed-abdelrasoul,43565,El Gouna FC,6.81,1,1.74,2,19,0,69.04
+1161770,Mohamed Hamed,mohamed-hamed,42365,Arab Contractors FC,6.81,1,1.13,3,30,0,66.67
+2075967,Mahmoud Salah,mahmoud-salah,58319,Ghazl El Mahalla FC,6.8,4,1.99,18,20,3,67.16
+933780,Aliou Dieng,aliou-dieng,6910,Al Ahly FC,6.8,0,0.46,7,26,0,85.86
+918707,Shokry Naguib,shokry-naguib,42365,Arab Contractors FC,6.8,7,3.4,6,7,1,67.79
+1155371,Marwan Dawoud,marwan-dawoud,43564,ENPPI,6.8,0,0.33,9,40,2,74.89
+902653,Hesham Mohamed,hesham-mohamed,43568,Wadi Degla,6.8,2,0.47,0,2,0,83.97
+2412131,Hamza Hassan,hamza-hassan,43568,Wadi Degla,6.8,1,1.12,4,7,1,79.17
+2443701,Omar Moawad,omar-moawad,6910,Al Ahly FC,6.8,0,,1,0,0,100.0
+2165166,Omar Yasser,omar-amin,265830,Modern Sport FC,6.8,0,,0,1,0,25.0
+918459,Momen Atef,momen-atef,43567,Petrojet,6.8,0,,0,1,0,0.0
+1393727,Moamen Mahmoud,moamen-mahmoud,43561,Tala'ea El-Gaish,6.8,0,,0,0,0,87.5
+918524,Mahmoud El Zanfaly,mahmoud-el-zanfaly,43566,Haras El Hodoud,6.8,0,,0,0,0,42.79
+918662,Mohamed Dabash,mohamed-dabash,43563,Smouha,6.8,0,0.75,1,14,0,80.05
+1162137,Ahmed Awad,ahmed-awad,43563,Smouha,6.8,0,0.21,0,0,0,85.0
+1425276,Arthur Justice,arthur-justice,371622,Cleopatra FC,6.8,0,0.12,0,18,0,87.55
+982240,Karim Fouad,karim-fouad,6910,Al Ahly FC,6.8,0,0.11,1,8,0,82.8
+1805551,Abdel Rahman Akmal,abdel-rahman-akmal,42365,Arab Contractors FC,6.8,0,0.09,0,6,0,68.18
+1173509,Hamdy Alaa,hamdy-alaa,373168,ZED FC,6.8,0,0.09,3,15,0,83.89
+2205138,Mostafa Metawea,mostafa-metawea,43565,El Gouna FC,6.8,0,0.05,0,11,0,73.68
+2610799,Mohamed Walid,mohamed-walid,42365,Arab Contractors FC,6.8,0,0.03,1,0,0,70.59
+819691,Abdallah Hassan,abdallah,42366,Ismaily,6.8,0,0.01,1,15,0,76.79
+918693,Karim El Deeb,karim-el-deeb,35187,Al-Ittihad Alexandria,6.8,2,1.15,11,47,1,77.24
+918911,Samir Fekri,samir-fekri,43563,Smouha,6.8,3,2.02,12,45,1,74.9
+918907,Ahmed Youssef,ahmed-youssef,265830,Modern Sport FC,6.79,1,1.66,2,32,0,81.96
+918461,Ammar Hamdy,ammar-hamdy,43567,Petrojet,6.79,0,0.6,8,10,1,60.19
+1870599,Ali Mahmoud,ali-mahmoud,43564,ENPPI,6.79,1,1.34,20,38,1,74.28
+1400633,Abdallah El Saeed,abdallah-el-saeed,43565,El Gouna FC,6.79,1,0.33,3,4,0,69.05
+1910817,Ibrahim Abdel Hakeem,ibrahim-abdel-hakeem,43566,Haras El Hodoud,6.79,3,1.5,0,29,0,71.41
+866158,Joseph Ochaya,joseph-ochaya,42365,Arab Contractors FC,6.78,0,0.92,9,35,2,65.71
+841931,Ahmed El-Shenawy,el-shenawy-ahmed,175002,Pyramids FC,6.78,0,,0,0,0,69.24
+889363,Youssef Obama,youssef-obama,175002,Pyramids FC,6.78,1,0.12,2,2,0,78.57
+1172637,Omar Adly,omar-adly,43568,Wadi Degla,6.78,0,1.84,4,19,1,81.56
+918578,Mohamed Hashem,mohamed-hashem,43560,Al-Masry,6.78,0,0.67,3,9,0,82.24
+1899004,Mohamed Ibrahim,mohamed-ibrahim-hassan,42368,Zamalek SC,6.78,0,0.05,7,13,0,81.55
+1587016,Abdallah Mohamed,abdallah-mohamed,42366,Ismaily,6.78,2,0.94,2,46,0,69.24
+1000416,Ali Sulieman,ali-sulieman,241702,Ismailia Electricity Club,6.78,11,11.73,26,9,3,68.42
+159669,Mohamed Ibrahim,mohamed-ibrahim,266626,National Bank of Egypt,6.78,0,0.87,14,21,1,82.59
+1798266,Abdel Karim Mostafa,abdel-karim-mostafa,42366,Ismaily,6.78,3,2.83,19,46,1,64.16
+871738,Mido Gaber,mido-gaber,43560,Al-Masry,6.78,3,1.54,12,5,0,79.63
+1109002,Ahmed Atef,ahmed-atef,373168,ZED FC,6.78,7,4.1,5,5,1,73.56
+1426406,Salah Zayed,salah-zayed,43564,ENPPI,6.78,1,0.42,1,3,1,82.98
+918719,Islam Abou-Salima,islam-abou-salima,43566,Haras El Hodoud,6.78,1,0.32,1,23,0,74.76
+1913411,Yassin El Mallah,yassin-el-mallah,241703,Pharco FC,6.78,1,1.19,16,62,0,72.99
+918615,Mohamed Fathi,mohamed-fathi,266626,National Bank of Egypt,6.78,0,0.3,2,11,1,84.46
+1507934,Mohamed Goldy,sayed-goldi,43564,ENPPI,6.78,0,0.11,2,20,0,83.0
+1982520,Khaled Shefo,khaled-shefo,266626,National Bank of Egypt,6.78,0,0.02,1,2,0,86.4
+2200955,Mohamed Farouk,mohamed-farouk,241702,Ismailia Electricity Club,6.77,0,0.64,15,14,3,73.92
+1639329,Mohamed Emad,mohamed-emad,43565,El Gouna FC,6.77,5,2.42,19,15,0,77.66
+918486,Islam Issa,islam-issa,371622,Cleopatra FC,6.77,2,3.29,13,21,3,76.41
+918581,Amir Abed,amir-abed,42365,Arab Contractors FC,6.77,0,0.08,1,19,0,67.63
+918584,Ahmed Masoud,ahmed-masoud,43565,El Gouna FC,6.77,0,,0,0,0,48.19
+1136093,Hesham Hafez,hesham-hafez,43563,Smouha,6.77,0,0.31,6,33,2,71.74
+1087522,Moaz Mosaad,moaz-mosaad,241703,Pharco FC,6.76,0,0.01,1,22,0,74.53
+1035892,Nejc Gradišar,nejc-gradisar,6910,Al Ahly FC,6.76,3,2.7,4,5,0,79.37
+1386884,Sameh Ibrahim,sameh-ibrahim,373168,ZED FC,6.76,0,0.38,2,13,2,75.33
+797428,Franck Boli,boli-franck,43568,Wadi Degla,6.76,9,6.21,10,4,1,75.0
+918634,Abdel Rahman Magdi,abdel-rahman-magdi,35187,Al-Ittihad Alexandria,6.76,1,1.46,25,22,4,73.5
+1094438,Amr Shaaban,amr-shaaban,43566,Haras El Hodoud,6.76,0,,0,0,0,34.67
+1093861,Hassan Yassin,hassan-yassin,241703,Pharco FC,6.76,0,0.01,1,7,0,69.29
+1049219,Karim El Debes,karim-eldbees,371622,Cleopatra FC,6.76,0,0.13,4,16,0,76.05
+918723,Mohamed Hamdi,mohamed-hamdi,175002,Pyramids FC,6.76,0,0.78,4,10,1,80.05
+918778,Mohamed Hassan,mohamed-hassan,42366,Ismaily,6.75,0,0.05,6,27,0,76.1
+1470479,Hafiz Ibrahim,hafiz-ibrahim,43565,El Gouna FC,6.75,1,1.53,14,49,0,76.98
+1092709,Ahmed Nabil Koka,koka-ahmed-nabil,6910,Al Ahly FC,6.75,1,0.41,1,20,0,87.64
+2080738,Amara Keita,amara-keita,373168,ZED FC,6.75,0,0.1,1,4,2,71.76
+1155319,Ahmed Dahesh,ahmed-dahesh,43568,Wadi Degla,6.75,0,0.03,6,8,2,65.02
+1123400,Ameed Sawafta,ameed-sawafta,43560,Al-Masry,6.75,0,0.03,2,8,1,68.69
+1094522,Mohamed Ashraf,ashraf-mohamed,373168,ZED FC,6.75,0,,2,2,0,71.43
+2214933,Ahmed Ayman,ahmed-ayman,42366,Ismaily,6.75,0,,3,11,0,73.56
+1173530,Mostafa Mahmoud Al Aash,mostafa-el-aash,43560,Al-Masry,6.75,0,0.29,1,16,0,78.52
+2200928,Rahim Shomari Mkinyangi,rahim-shomari-mkinyangi,58319,Ghazl El Mahalla FC,6.75,0,0.03,0,0,0,33.33
+1983104,Mohamed Ashraf,mohamed-ashraf,266626,National Bank of Egypt,6.75,0,1.59,8,20,0,79.3
+918617,Emad Hamdi,emad-hamdi,265830,Modern Sport FC,6.75,0,1.09,3,15,0,81.0
+967127,Khaled Sobhi,khaled-sobhi,43560,Al-Masry,6.75,0,0.25,2,11,0,82.57
+918704,Ahmed El Shimi,ahmed-el-shimi,43568,Wadi Degla,6.75,2,0.47,3,11,2,67.32
+1440621,Abdelrahman El Banouby,abdelrahman-el-banouby,373168,ZED FC,6.75,5,3.93,13,9,1,76.04
+1465772,Ahmed Reda,ahmed-reda,43568,Wadi Degla,6.75,0,0.32,5,23,0,77.26
+1007532,Adem Redjem,adem-redjem,265830,Modern Sport FC,6.74,0,0.07,11,7,1,78.85
+935695,Mahmoud El-Badry,mahmoud-el-badry,43566,Haras El Hodoud,6.74,0,,4,9,0,65.63
+971563,Serge Aka,serge-aka,241702,Ismailia Electricity Club,6.74,0,0.19,13,32,0,77.96
+1048456,Abdelghani Mohamed,abdelghani-mohamed,35187,Al-Ittihad Alexandria,6.74,0,0.59,4,14,0,80.51
+1174068,Mostafa Khawaga,mostafa-khawaga,43561,Tala'ea El-Gaish,6.74,0,0.39,1,7,0,82.52
+1655384,Salah Abd Etouab Bouchama,salah-abd-etouab-bouchama,266626,National Bank of Egypt,6.74,1,0.63,3,18,1,85.19
+1900317,Khaled Ahmed,khaled-ahmed,43565,El Gouna FC,6.74,1,1.24,5,32,1,70.72
+918850,Ali El Fil,ali-el-fil,265830,Modern Sport FC,6.74,1,0.37,0,15,0,84.73
+1097452,Ahmed Dahroug,ahmed-dahroug,43568,Wadi Degla,6.74,0,0.25,4,33,1,69.65
+1120777,Mazen Adel,mazen-alees,241703,Pharco FC,6.74,0,0.17,4,3,0,73.47
+1480544,Tarek Alaa,tariq-alaa,373168,ZED FC,6.74,0,0.52,8,14,1,74.33
+1615327,Ziad Tarek,ziad-tarek,373168,ZED FC,6.74,0,0.2,5,12,0,76.34
+1180809,Abubakar Liday,abubakar-liday,35187,Al-Ittihad Alexandria,6.74,1,0.16,9,27,3,69.6
+918754,Karim Tarek,karim-tarek,43561,Tala'ea El-Gaish,6.73,2,2.13,13,16,0,68.78
+1545338,Ahmed Etman,ahmed-osman,58319,Ghazl El Mahalla FC,6.73,1,0.4,7,9,2,78.98
+918728,Hassan Ali,hassan-ali,43560,Al-Masry,6.73,1,0.21,6,4,1,83.78
+918601,Eslam Gaber,eslam-gaber,42365,Arab Contractors FC,6.73,0,0.74,4,18,2,69.28
+918602,Mohamed Sadek,mohamed-sadek,371622,Cleopatra FC,6.73,0,,2,7,1,82.09
+2412129,Ziad Seyam,ziad-mohamed,43568,Wadi Degla,6.73,0,,0,0,0,64.86
+1010882,Khaled Abdelfattah,abdelfattah-khaled,35187,Al-Ittihad Alexandria,6.73,0,0.08,8,25,0,67.45
+848867,Ewerton,ewerton,175002,Pyramids FC,6.73,2,0.81,15,7,0,83.67
+1424742,Ahmed Fawzi,ahmed-fawzi,43563,Smouha,6.73,1,1.04,5,25,0,71.66
+966961,Mohamed Desouki,mohamed-desouki,265830,Modern Sport FC,6.73,0,0.44,6,23,0,79.54
+1173879,Ahmed Atef,ahmed-atef,175002,Pyramids FC,6.73,1,1.89,8,30,3,77.13
+105423,Mahmoud Abou El-Saoud,mahmoud-abou-el-saoud,42365,Arab Contractors FC,6.73,0,,1,0,0,50.54
+159655,Hussein Sayed,hussein-sayed,371622,Cleopatra FC,6.73,1,0.49,4,16,0,78.1
+1961592,Karim Gomaa,karim-gomaa,373168,ZED FC,6.73,0,0.05,5,3,0,84.21
+359416,Rached Arfaoui,rached-arfaoui,58319,Ghazl El Mahalla FC,6.72,1,0.73,32,18,2,75.61
+943788,Ahmed Abdel Rahman Zola,ahmed-abdel-rahman-zola,43561,Tala'ea El-Gaish,6.72,0,0.42,9,18,2,78.56
+2216010,Hassan El Shazly,hassan-el-shazly,241702,Ismailia Electricity Club,6.72,2,0.67,12,19,4,66.67
+2213957,Mahmoud Diasty,mahmoud-diasty,43568,Wadi Degla,6.72,5,3.02,22,14,5,70.44
+2280422,Adham Karim,adham-karim,43565,El Gouna FC,6.72,2,0.7,3,4,1,82.14
+1507930,Hazem Temsah,hazem-ibrahim,43564,ENPPI,6.72,0,0.11,4,17,0,79.72
+935698,Seif Farouk Gaafar,seif-farouk-gaafar,42368,Zamalek SC,6.72,0,0.09,0,5,0,73.58
+979064,Hesham Adel,hesham-adel,43564,ENPPI,6.72,0,0.06,1,3,0,78.65
+1798267,Hema Mohamed,hema-mohamed,371622,Cleopatra FC,6.72,0,0.11,1,20,0,81.87
+1418781,Mostafa Sobhi,mostafa-sobhi,42365,Arab Contractors FC,6.72,2,1.05,3,5,0,54.17
+967019,Mohamed Adel,mohamed-adel,42365,Arab Contractors FC,6.72,1,1.39,8,25,3,75.16
+871737,Ahmed Hamdi,ahmed-hamdi,42368,Zamalek SC,6.72,0,0.16,2,1,0,84.26
+873543,Amr Saadawy,amr-saadawy,43560,Al-Masry,6.72,0,1.23,8,20,1,80.81
+1546071,Mohamed Okasha,mohamed-okasha,43567,Petrojet,6.71,0,0.77,7,64,0,72.17
+1048453,Hatem Mohamed,hatem-mohamed,42366,Ismaily,6.71,1,0.19,5,8,0,75.76
+1063119,Youssef Osama Nabih,youssef-osama-nabih,373168,ZED FC,6.71,0,0.4,2,6,1,75.81
+873558,Ahmed Mostafa,ahmed-mostafa,265830,Modern Sport FC,6.71,0,0.46,1,3,0,72.73
+1467052,Seif Elkhashab,seif-elkhashab,241702,Ismailia Electricity Club,6.71,1,0.45,0,19,0,74.0
+2287013,Moataz Mohamed,moataz-mohamed,43566,Haras El Hodoud,6.71,0,0.36,0,11,0,76.34
+935970,Ahmed Sebiha,ahmed-sebiha,43564,ENPPI,6.71,0,1.38,5,39,3,66.48
+918622,Naser Mansi,naser-mansi,42368,Zamalek SC,6.71,6,4.9,4,9,3,67.52
+1428026,Islam Abdallah,islam-abdallah,42365,Arab Contractors FC,6.71,0,0.55,2,20,0,74.75
+2200929,Aqtay Abdallah,aqtay-abdallah,43564,ENPPI,6.71,4,2.31,1,2,0,61.29
+918886,Abdel Aziz El Balouti,abdel-aziz-el-balouti,266626,National Bank of Egypt,6.71,0,,0,2,0,74.95
+936351,Karim Yehia,karim-yehia,241702,Ismailia Electricity Club,6.71,1,0.68,4,26,0,72.81
+1508227,Mahmoud Ouka,mahmoud-ooka,43566,Haras El Hodoud,6.71,2,2.36,47,40,1,74.3
+1515912,Kabaka,ahmed-gomma,373168,ZED FC,6.71,0,0.47,5,10,1,80.91
+918998,Mohamed Gaber,mohamed-gaber,241703,Pharco FC,6.71,0,0.49,6,11,0,65.09
+918659,Mostafa El Gamal,mostafa-el-gamal,43567,Petrojet,6.7,1,1.69,12,16,5,73.64
+918630,Islam Abdelnaim,islam-abdelnaim,241702,Ismailia Electricity Club,6.7,1,0.89,15,19,3,81.09
+1937497,Odeh Fakhoury,odeh-al-fakhouri,175002,Pyramids FC,6.7,1,0.54,3,6,2,77.59
+966962,Ragab Omran,ragab-omran,43561,Tala'ea El-Gaish,6.7,1,0.37,5,2,0,75.0
+1063551,Hamed Khaled El Gabry,hamed-khaled-el-gabry,43561,Tala'ea El-Gaish,6.7,0,0.85,7,30,1,72.81
+1961583,Nour Ashraf,nour-ashraf,43564,ENPPI,6.7,0,,0,0,0,100.0
+1540053,Emmanuel Ihezuo,emmanuel-ihezuo,43563,Smouha,6.7,0,,0,0,0,66.67
+1980360,Youssef Atef,youssef-atef,43566,Haras El Hodoud,6.7,0,,0,0,0,66.67
+2205137,Ziad Askar,ziad-askar,43565,El Gouna FC,6.7,0,,0,0,0,72.0
+2599182,Abdul Rahman Abdel Fattah,abdul-rahman-abdel-fattah,42366,Ismaily,6.7,0,,1,2,0,77.78
+2494414,Emmanuel Nweke,emmanuel-nweke,43563,Smouha,6.7,0,,0,0,0,75.0
+2483679,Karim Adel,karim-adel,266626,National Bank of Egypt,6.7,0,,1,2,0,42.86
+2606267,Mohamed Raafat,mohamed-raafat,43566,Haras El Hodoud,6.7,0,,0,1,0,100.0
+2213955,Ahmed Scholes,ahmed-scholes,43568,Wadi Degla,6.7,0,0.19,5,11,0,78.05
+1117808,Naser Naser,naser-naser,35187,Al-Ittihad Alexandria,6.7,0,0.18,2,8,0,78.87
+1462064,Mahmoud Daabasa,mahmoud-al-sayed,42365,Arab Contractors FC,6.7,0,0.14,1,2,0,73.68
+918766,Abdel Rahman Youssef,abdel-rahman-youssef,58319,Ghazl El Mahalla FC,6.7,0,0.07,0,8,0,73.96
+2287035,Moamen Sherif,sherif-moamen,35187,Al-Ittihad Alexandria,6.7,0,0.06,1,5,0,78.87
+1831795,Ahmed Abdin,ahmed-abdin,371622,Cleopatra FC,6.7,0,0.03,0,1,0,91.8
+1418777,Mahmoud Talaat,mahmoud-talaat,43568,Wadi Degla,6.7,0,0.02,1,1,0,80.56
+918781,Mohamed Abdel Aati,mohamed-abdel-aati,43568,Wadi Degla,6.7,0,0.51,14,14,1,75.12
+918823,Fawzi El Henawy,fawzi-el-henawy,43566,Haras El Hodoud,6.7,0,0.52,8,35,4,64.52
+967146,Mohamed Magli,mohamed-magli,43566,Haras El Hodoud,6.69,0,0.35,9,37,0,76.18
+1013779,Ahmed Adel,ahmed-adel,373168,ZED FC,6.69,1,1.77,20,24,3,74.93
+804375,Walid El Karti,walid-el-karti,175002,Pyramids FC,6.69,2,1.09,7,21,0,81.31
+1912634,Abdelrahman Katkot,abdel-katkout,42366,Ismaily,6.69,0,0.06,2,20,1,72.14
+2122458,Mamadu Sillah,mamadou-sylla,241702,Ismailia Electricity Club,6.69,0,0.22,4,16,0,80.89
+1545479,Abdel Fattah Sheta,abdel-fattah-sheta,241702,Ismailia Electricity Club,6.69,0,0.25,8,46,2,75.62
+2213962,Zizo,zizo,43568,Wadi Degla,6.69,2,1.97,8,14,0,69.47
+895951,Fagrie Lakay,fagrie-lakay,371622,Cleopatra FC,6.68,6,4.44,25,14,5,78.78
+918773,Mohamed Reda,mohamed-reda,371622,Cleopatra FC,6.68,1,1.27,11,12,1,71.12
+1545283,Mahmoud Hassouna,mahmoud-hassouna,43565,El Gouna FC,6.68,0,0.07,1,10,0,83.84
+1170963,Bonheur Mugisha,bonheur-mugisha,43560,Al-Masry,6.68,0,0.2,5,13,0,87.52
+2014374,Mohamed Kone,mohamed-kone,43563,Smouha,6.68,0,0.2,0,17,0,81.34
+1525731,Youssry Wahid,youssry-wahid,35187,Al-Ittihad Alexandria,6.68,3,2.39,20,15,0,75.73
+999361,Ahmed Yassin,ahmed-yassin,43567,Petrojet,6.68,0,,0,0,0,54.69
+1085146,Belal El Sayed,belal-el-sayed,43565,El Gouna FC,6.68,0,0.84,8,22,0,74.29
+918694,Omar El Said,omar-el-said,241702,Ismailia Electricity Club,6.68,4,2.05,0,3,0,56.0
+2217194,Ahmed Tarek,ahmed-tarek,43561,Tala'ea El-Gaish,6.68,0,0.96,6,12,0,74.52
+1981647,Mohamed Sabry,mohamed-sabry,265830,Modern Sport FC,6.68,0,0.06,1,41,0,78.09
+1499388,Ahmed Gamal,ahmed-gamal,43565,El Gouna FC,6.67,1,1.18,9,14,2,69.43
+1980359,Mohamed Juhayna,mohamed-juhayna,241702,Ismailia Electricity Club,6.67,0,0.42,7,8,2,73.6
+1982305,Mohamed Mostafa,mohamed-mostafa,43566,Haras El Hodoud,6.67,0,0.64,4,4,0,84.44
+1169780,Walid Farag,walid-farag,265830,Modern Sport FC,6.67,0,0.09,3,7,0,87.88
+1501894,Alpha Turay,alpha-turay,43565,El Gouna FC,6.67,0,0.25,0,13,0,80.67
+243915,Marwan Mohsen,marwan-mohsen,43565,El Gouna FC,6.67,6,4.37,1,7,2,60.78
+1871464,Ahmed Ismail Kofta,ahmed-abdella,43564,ENPPI,6.67,0,0.09,3,6,0,74.26
+1087504,Nader Hesham,nader-hesham,42365,Arab Contractors FC,6.67,0,0.34,7,16,1,56.79
+1917769,Ibrahim Abdel Aal,ibrahim-abdel-aal,42366,Ismaily,6.67,0,0.14,4,11,0,80.0
+1913402,Ali Ehab,ali-ehab,43564,ENPPI,6.67,0,,1,2,0,75.0
+1476887,Bibo Ahmed Hassan,el-habib-ahmed-hassan,43563,Smouha,6.67,0,,0,1,0,66.67
+2035092,Mohamed Samy,mohamed-samy,35187,Al-Ittihad Alexandria,6.67,0,0.22,0,3,0,64.44
+1393732,Rafaat Khalil,rafaat-khalil,373168,ZED FC,6.67,5,3.17,8,13,1,65.54
+935681,Mohamed Metwally Canaria,mohamed-metwally-canaria,35187,Al-Ittihad Alexandria,6.66,0,0.19,2,12,0,81.46
+999338,Abdelrahman El Dah,abdelrahman-el-dah,42366,Ismaily,6.66,1,1.14,6,20,0,69.32
+587514,Mohamed Helal,mohamed-helal,265830,Modern Sport FC,6.66,1,2.05,1,19,0,73.48
+1545336,Kahraba,kahraba,42365,Arab Contractors FC,6.66,0,0.16,9,32,4,61.04
+1428035,Ahmed El Armouty,ahmed-el-armouty,43560,Al-Masry,6.66,1,0.62,8,11,2,71.15
+1610691,Isaac Saviour,isaac-saviour,35187,Al-Ittihad Alexandria,6.66,0,0.18,6,24,1,84.16
+1048765,Ahmed Sherif,ahmed-sherif,42368,Zamalek SC,6.66,2,1.25,2,3,0,76.24
+1418782,Mostafa Ziko,mostafa-ziko,175002,Pyramids FC,6.66,6,3.93,5,18,2,74.73
+1541874,Ayman Moka,ayman-moka,371622,Cleopatra FC,6.66,3,0.9,16,21,1,70.19
+1007556,Fiston Mayele,fiston-mayele,175002,Pyramids FC,6.66,5,5.7,9,7,2,70.59
+891698,Islam Mohareb,islam-mohareb,43561,Tala'ea El-Gaish,6.66,3,4.68,14,34,1,72.77
+1636517,Mazen Yasser,mazen-yasser,373168,ZED FC,6.66,0,0.12,3,2,1,71.6
+918738,Mohamed Shika,mohamed-shika,241702,Ismailia Electricity Club,6.66,6,4.78,5,9,0,60.86
+2213961,Youssef Oya,youssef-oya,43568,Wadi Degla,6.66,2,2.84,13,21,2,72.9
+1117716,Mahmoud Bolbol Nabil,mahmoud-bolbol-nabil,58319,Ghazl El Mahalla FC,6.66,0,0.13,0,17,0,76.14
+1980606,Ahmed Sharaf,ahmed-sharaf,43560,Al-Masry,6.65,0,0.42,0,5,1,72.31
+2410688,Youssef Wael,youssef-wael,42368,Zamalek SC,6.65,0,,0,1,0,78.95
+1106047,Ahmed Sobhi,ahmed-sobhi,266626,National Bank of Egypt,6.65,0,,0,0,0,83.18
+802837,Moustafa Zeidan,moustafa-zeidan,43560,Al-Masry,6.65,0,0.6,1,0,0,86.21
+1983106,Mory Touré,mory-toure,58319,Ghazl El Mahalla FC,6.65,0,0.33,8,27,0,81.13
+918826,Mohamed Youssef Camacho,mohamed-youssef-camacho,241703,Pharco FC,6.65,0,0.22,2,8,0,71.43
+2327260,Abdel Wahab Nader,abdel-wahab-nader,43560,Al-Masry,6.65,0,0.03,1,3,0,83.92
+1064939,Taher Mohamed,taher-mohamed,6910,Al Ahly FC,6.65,1,2.74,9,11,1,74.87
+1009352,Mohamed Bayoumi,mohamed-bayoumi,43566,Haras El Hodoud,6.65,0,0.28,4,29,0,69.52
+2419265,Ahmed Yasser,ahmed-yasser,58319,Ghazl El Mahalla FC,6.64,0,0.07,6,6,0,76.58
+1218753,Mounder Temine,mounder-temine,43560,Al-Masry,6.64,5,4.54,5,9,2,70.4
+918456,Khaled Reda,khaled-reda,265830,Modern Sport FC,6.64,0,0.06,0,4,0,76.98
+918640,Karim Bambo,karim-bambo,43560,Al-Masry,6.64,3,5.01,9,13,2,66.01
+2122976,Abdoulaye Diabate,abdoulaye-diabate,43567,Petrojet,6.64,1,0.5,1,6,1,66.96
+1094434,Abdo Yehia,abdo-yehia,43563,Smouha,6.64,2,1.58,9,8,0,64.67
+1982287,Omar Reda,omar-reda,43567,Petrojet,6.64,1,0.5,0,1,0,57.89
+1996793,Mohab Samy,mohab-samy,43564,ENPPI,6.64,0,0.01,0,10,0,69.31
+1656749,Mohamed Atef,mohamed-atef,43561,Tala'ea El-Gaish,6.64,2,1.39,5,10,0,69.57
+2217603,Mohamed Hussein,mohamed-hussein,241703,Pharco FC,6.64,0,0.09,5,11,0,69.15
+1179130,Rasheed Ahmed,rasheed-ahmed,43567,Petrojet,6.64,5,2.52,2,6,0,56.64
+918495,Ahmed Daador,ahmed-daador,241703,Pharco FC,6.63,0,,0,0,0,43.37
+2425783,Ahmed Khodari,ahmed-khodari,42368,Zamalek SC,6.63,0,0.17,2,2,0,81.08
+159659,Mohamed Hamdy Zaki,mohamed-hamdy-zaki,43566,Haras El Hodoud,6.63,6,5.27,18,18,2,69.36
+2213958,Mohamed Abdelrahim,mohamed-abdelrahim,43568,Wadi Degla,6.63,1,1.27,12,16,2,80.67
+893740,Mees Kaandorp,mees-kaandorp,43568,Wadi Degla,6.63,0,1.64,8,19,2,77.29
+2272884,Youssef Galal,youssef-sayed,241702,Ismailia Electricity Club,6.63,0,0.08,6,12,0,76.64
+1981657,Tarek Mohamed,tarek-mohamed,265830,Modern Sport FC,6.63,0,0.51,0,3,0,89.37
+918874,Ahmed El Sheikh,el-sheikh-ahmed,58319,Ghazl El Mahalla FC,6.63,1,1.13,5,9,3,68.78
+1064105,Arnaud Randrianantenaina,arnaud-randrianantenaina,43565,El Gouna FC,6.63,1,0.46,5,7,0,75.24
+841934,Ahmed Tawfik,ahmed-tawfik,175002,Pyramids FC,6.63,0,0.02,0,7,0,88.68
+966891,Mohamed Ali Ben Romdhane,ben-romdhane-mohamed-ali,6910,Al Ahly FC,6.63,1,1.28,11,22,2,87.96
+1913404,Mahmoud Farahat,mahmoud-farahat,241703,Pharco FC,6.63,1,2.19,13,4,0,58.51
+2216572,Mohamed Samir,mohamed-samir,42366,Ismaily,6.63,1,0.2,5,37,0,69.89
+885817,Hossam Hassan,hossam-hassan,265830,Modern Sport FC,6.63,2,3.77,2,8,0,70.0
+1386072,Marwan Osman,marwan-osman,6910,Al Ahly FC,6.63,4,3.77,13,13,3,76.47
+1801096,Freddy Kouablan,freddy-kouablan,371622,Cleopatra FC,6.63,1,0.49,0,1,0,71.43
+2216082,Mostafa Medhat Oufa,mostafa-medhat-oufa,58319,Ghazl El Mahalla FC,6.63,0,,1,1,0,65.71
+918616,Emad Fathy,emad-fathy,43563,Smouha,6.63,0,0.18,1,3,0,77.42
+885682,Winful Cobbinah,winful-cobbinah,43568,Wadi Degla,6.63,0,0.15,0,1,0,83.05
+1069340,Khaled Stouhi,khaled-stouhi,43561,Tala'ea El-Gaish,6.63,0,0.13,2,11,0,75.67
+1431624,Suleiman Garba,suleiman-garba,43564,ENPPI,6.63,0,0.05,0,2,0,82.76
+967136,Fady Farid,fady-farid,35187,Al-Ittihad Alexandria,6.62,5,5.36,7,13,0,70.96
+366142,Reda Salah,reda-salah,43565,El Gouna FC,6.62,0,0.33,4,10,0,79.64
+1515913,Mohamed Abdallah,mohamed-ali,371622,Cleopatra FC,6.62,1,0.9,9,7,0,76.04
+1470552,Youssef El Azab,youssef-el-azab,58319,Ghazl El Mahalla FC,6.62,0,,6,4,0,77.87
+2018138,Ahmed Mazhoud,ahmed-mazhoud,265830,Modern Sport FC,6.62,0,0.01,1,5,0,71.88
+1585511,Mohamed Hany,mohamed-hany,43561,Tala'ea El-Gaish,6.62,0,0.54,17,7,0,77.02
+1133047,Mohamed Abdelsamia,mohamed-abdelsamia,42366,Ismaily,6.62,0,0.76,4,31,0,70.38
+918857,Ali El Zahdi,ali-el-zahdi,43565,El Gouna FC,6.62,0,0.49,5,24,0,67.99
+1469702,Amr Kalawa,amr-kalawa,371622,Cleopatra FC,6.62,2,0.71,4,9,0,84.35
+1507933,Nour Alaa,nour-alaa,35187,Al-Ittihad Alexandria,6.62,0,0.25,6,7,0,73.17
+967007,Mohab Yasser,mohab-yasser,241703,Pharco FC,6.62,0,0.46,11,12,0,74.09
+934784,Abdallah Ahmed Hafez,abdallah-ahmed-hafez,43566,Haras El Hodoud,6.62,0,0.75,13,21,0,67.01
+918774,Mohamed Mahmoud,mohamed-mahmoud,43565,El Gouna FC,6.61,0,0.74,1,7,0,75.17
+823604,John Okoye Ebuka,john-okoye-ebuka,35187,Al-Ittihad Alexandria,6.61,7,2.71,6,9,0,66.2
+1427977,Ahmed Eid,ahmed-eid,35187,Al-Ittihad Alexandria,6.61,0,1.15,4,4,0,81.89
+1154929,Gaber Kamel,gaber-kamel,241703,Pharco FC,6.61,0,0.75,4,13,0,69.58
+2216009,Essam El Fayoumi,essam-el-fayoumi,241702,Ismailia Electricity Club,6.61,1,0.35,8,26,1,72.44
+1135853,Mohamed Ihab,mohamed-ihab,42366,Ismaily,6.61,0,0.15,2,16,1,70.61
+918520,Mohamed Antar,mohamed-antar,42365,Arab Contractors FC,6.61,0,0.85,14,16,1,66.06
+1116340,Badr Mousa,badr-moussa,43567,Petrojet,6.6,6,5.36,19,12,1,66.57
+1983652,Mohamed Ibrahim Dodo,mohamed-ibrahim-dodo,43567,Petrojet,6.6,2,1.82,5,22,2,71.04
+918784,Mohamed Sherif,mohamed-sherif,6910,Al Ahly FC,6.6,2,2.64,1,2,1,82.52
+1525326,Youssef Oubaba,youssef-oubaba,43564,ENPPI,6.6,2,2.72,3,12,0,55.26
+2616826,Omar Tharwat,omar-tharwat,42365,Arab Contractors FC,6.6,0,,0,1,1,100.0
+1961586,Mohamed Hamad,mohamed-shehata,42368,Zamalek SC,6.6,0,,0,0,0,66.67
+966973,Mahmoud Gad,mahmoud-gad,175002,Pyramids FC,6.6,0,,0,0,0,94.12
+1471054,Muhammed Sawaneh,muhammed-sawaneh,373168,ZED FC,6.6,0,,0,0,0,87.5
+1913408,Mohamed Emad,mohamed-emad,43564,ENPPI,6.6,0,,0,0,0,68.75
+1389956,Marwan Magdy,marwan-magdy,241703,Pharco FC,6.6,0,,1,1,0,47.06
+1961581,Omar Ahmed,omar-ahmed,43564,ENPPI,6.6,0,,0,0,0,100.0
+1010884,Hussein Taimor,hussein-taimor,43563,Smouha,6.6,0,,0,0,0,68.57
+2414349,Mohamed Barakat,mohamed-barakat,43568,Wadi Degla,6.6,0,,0,1,0,0.0
+918611,Karim Mamdouh Khaled,karim-mamdouh-khaled,241702,Ismailia Electricity Club,6.6,0,,0,0,0,0.0
+2449536,Youssef Fawzi,youssef-fawzi,58319,Ghazl El Mahalla FC,6.6,0,,0,2,0,81.82
+2610861,Mostafa Okasha,mostafa-okasha,373168,ZED FC,6.6,0,,1,1,0,78.57
+2165164,Ahmed Seif,ahmed-seif,373168,ZED FC,6.6,0,,0,1,0,80.0
+2610808,Ahmed Ali,ahmed-ali,265830,Modern Sport FC,6.6,0,,0,0,0,100.0
+1117799,Mostafa Shehata,mostafa-abdelrahim,266626,National Bank of Egypt,6.6,0,,0,0,0,90.91
+842480,Kouassi Kouadja,kouassi-kouadja,43566,Haras El Hodoud,6.6,0,,0,2,0,84.78
+2217612,Moaz Abdel Salam,moaz-abdel-salam,58319,Ghazl El Mahalla FC,6.6,0,0.38,11,37,0,73.62
+1441642,Ahmed Mohamed Fouad,mohamed-ahmed-fouad,42365,Arab Contractors FC,6.6,0,0.34,7,17,0,75.0
+1512536,Youssef Hamdy,youssef-hamdy,42365,Arab Contractors FC,6.6,0,0.23,0,0,0,100.0
+1000226,Ahmed  Abdelkader,ahmed-abdelkader,6910,Al Ahly FC,6.6,0,0.13,2,2,0,76.47
+1393726,Mahmoud Morsi,mahmoud-morsi,43567,Petrojet,6.6,0,0.05,0,0,0,75.0
+2369216,Shawky Al Danin,shawky-al-danin,241703,Pharco FC,6.6,0,0.05,0,0,0,66.67
+2038627,Mahmoud Magdy,mahmoud-magdy,58319,Ghazl El Mahalla FC,6.6,0,0.03,4,19,0,73.91
+1546015,Ahmed Ghoneim,ahmed-ghoneim,43567,Petrojet,6.6,0,0.02,3,3,0,61.64
+1131661,Godwin Okwara,godwin-okwara,265830,Modern Sport FC,6.59,1,2.97,4,9,1,67.09
+952443,Mohamed Shaaban,mohamed-shaaban,43561,Tala'ea El-Gaish,6.59,0,,0,0,0,57.85
+1387029,Walid Mostafa,walid-mostafa,241703,Pharco FC,6.59,0,1.22,6,20,0,72.08
+1512417,Mohamed Wagdi,mohamed-wagdi,42366,Ismaily,6.59,0,0.22,4,1,0,72.06
+1186009,Ali El Malawany,ali-el-malawany,42366,Ismaily,6.59,0,0.12,4,3,0,71.3
+2184233,Ibrahim El Bahnasi,ibrahim-el-bahnasi,43568,Wadi Degla,6.59,1,2.04,7,30,1,76.86
+2216008,Abdallah Maradona,abdallah-maradona,241702,Ismailia Electricity Club,6.58,0,0.45,12,8,1,69.93
+1001808,Mahmoud Shabana,mahmoud-shabana,35187,Al-Ittihad Alexandria,6.58,0,1.16,0,15,0,77.94
+1170185,Emad Mayhoub,emad-mayhoub,43564,ENPPI,6.58,1,0.74,4,9,0,59.31
+1475196,Gabriel Chukwudi,gabriel-chukwudi,43567,Petrojet,6.58,3,1.64,8,9,0,52.15
+1982375,Ahmed Farouk,ahmed-farouk,43568,Wadi Degla,6.58,4,2.04,2,5,0,59.72
+333451,Ahmed Samir,ahmed-samir,371622,Cleopatra FC,6.58,0,0.31,0,0,0,79.17
+918727,Karim El Eraki,karim-el-eraki,43560,Al-Masry,6.58,0,0.32,7,36,0,79.52
+1545410,Mohamed Ashraf,mohamed-ashraf,58319,Ghazl El Mahalla FC,6.58,2,1.67,8,6,0,69.18
+1094435,Hesham Balaha,hesham-balaha,43563,Smouha,6.58,1,0.36,1,4,0,77.3
+1017982,Ramez Medhat Wassef,ramez-medhat-wassef,241703,Pharco FC,6.58,1,0.82,12,7,0,74.78
+1190336,Ahmed Amin Oufa,ahmed-amin-oufa,266626,National Bank of Egypt,6.58,1,4.12,0,15,0,67.29
+2154578,Hamed Abdallah,hamed-abdallah,43564,ENPPI,6.58,0,1.27,19,8,1,73.5
+1649741,Adham Alaa,adham-alaa,35187,Al-Ittihad Alexandria,6.58,0,0.07,0,0,0,58.33
+2217670,Kibou Saïdi,kibou-saidi,58319,Ghazl El Mahalla FC,6.57,1,1.8,15,23,3,67.3
+942095,Mostafa El-Badry,mostafa-el-badry,43567,Petrojet,6.57,2,1.26,10,23,1,75.05
+1400697,Ali Yasser,ali-yasser,241703,Pharco FC,6.57,0,0.39,0,3,2,58.06
+1497573,Abdallah Gamal,abdallah-gamal,42366,Ismaily,6.57,0,,0,1,0,55.32
+1545289,Favour Akem,favour-akem,35187,Al-Ittihad Alexandria,6.57,1,1.06,6,9,1,64.36
+1393728,Mohamed Hamdi,mohamed-hamdi,175002,Pyramids FC,6.57,0,0.1,6,15,0,71.43
+2228514,Kalu Onyemaechi,kalu-onyemaechi,42365,Arab Contractors FC,6.57,0,0.22,0,2,1,75.0
+1907921,Mostafa Abou El Khair,mostafa-abou-el-khair,43560,Al-Masry,6.57,0,,1,3,0,65.63
+918996,Seifeddine Jaziri,seifeddine-jaziri,42368,Zamalek SC,6.57,0,0.86,2,2,0,73.21
+1475455,El Sayed Abou Amenah,el-sayed-abou-amenah,42365,Arab Contractors FC,6.57,0,0.15,0,0,0,67.65
+1879257,Mohamed Ezz,mohamed-ezz,241703,Pharco FC,6.57,0,0.98,9,21,0,82.53
+1011270,Abdel Rahman Emad,abdel-rahman-emad,373168,ZED FC,6.56,1,0.66,2,10,1,83.44
+918682,Ibrahim El Kadi,ibrahim-el-kadi,42365,Arab Contractors FC,6.56,0,1.11,0,4,0,73.73
+1187350,Ahmed Hamzawi,ahmed-hamzawi,241702,Ismailia Electricity Club,6.56,1,1.0,10,27,0,75.45
+1114433,Ali Zaazaa,ali-zaazaa,265830,Modern Sport FC,6.56,1,0.31,7,19,0,72.54
+1424776,Mahmoud Mamdouh,mahmoud-mamdouh,265830,Modern Sport FC,6.55,1,1.8,7,27,0,71.01
+899903,Yaw Annor,yaw-annor,266626,National Bank of Egypt,6.55,2,2.37,8,9,1,80.41
+1135886,Fares Hatem,fares-hatem,43561,Tala'ea El-Gaish,6.55,1,1.13,0,3,0,62.9
+333439,Mahmoud Kahraba,kahraba,43564,ENPPI,6.55,1,0.39,0,1,0,64.1
+2200952,Farag Shawky,farag-shawky,241702,Ismailia Electricity Club,6.55,0,,0,0,0,45.95
+967149,Amr Nasser,amr-nasser,42368,Zamalek SC,6.55,0,0.82,0,2,0,65.38
+1997618,Ibrahim El Nagaawy,ibrahim-el-nagaawy,42366,Ismaily,6.55,0,0.5,4,22,0,71.03
+2189493,Mohamed Sayed,mohamed-sayed,241703,Pharco FC,6.55,0,0.17,1,9,0,72.43
+1067595,Azmi Ghouma,azmi-ghouma,241703,Pharco FC,6.55,0,0.12,2,4,0,71.18
+1457334,Stephen Amankona,stephen-amankona,43563,Smouha,6.55,0,0.11,1,0,0,50.0
+1099571,Ismail Ouro-Agoro,ismail-ouro-agoro,43561,Tala'ea El-Gaish,6.55,5,7.55,15,12,4,70.52
+1876606,Mohamed El Sayed,mohamed-el-sayed,42368,Zamalek SC,6.55,0,0.67,4,13,0,77.44
+1387491,Seif El Agouz,seif-el-agouz,241702,Ismailia Electricity Club,6.55,0,0.12,1,6,0,66.35
+1885441,Omar El Kot,omar-el-kot,42366,Ismaily,6.54,0,1.69,2,17,0,70.59
+1122309,Khaled Alnabrisi,khaled-alnabrisi,42366,Ismaily,6.54,0,1.74,8,9,0,64.65
+2020419,Seif Emam,seif-safaga,58319,Ghazl El Mahalla FC,6.54,0,0.02,0,1,0,68.42
+1214656,Ojo Tolulope,ojo-tolulope,43565,El Gouna FC,6.54,1,1.98,7,16,3,68.23
+1048454,Hossam Ashraf,hossam-ashraf,43563,Smouha,6.54,1,2.93,8,7,2,63.89
+1507923,Ahmed Ali,ahmed-ali,43560,Al-Masry,6.54,0,0.49,6,11,1,68.24
+1087402,Ashraf Magdy,ashraf-magdy,58319,Ghazl El Mahalla FC,6.54,0,0.19,0,0,0,72.41
+1913400,Ahmed Shabaan,ahmed-shabaan,241703,Pharco FC,6.54,1,0.53,4,15,1,67.13
+2213954,Ahmed Refaat,ahmed-refaat,43565,El Gouna FC,6.53,0,0.86,6,14,0,72.07
+2214787,Ghaith Al Madadha,ghaith-al-madadha,43561,Tala'ea El-Gaish,6.53,1,1.09,6,15,1,78.23
+2216569,Anwar Abdelsalam,anwar-abdelsalam,42366,Ismaily,6.53,2,2.62,9,2,0,71.43
+1400636,Hassan Saber,hassan-saber,42366,Ismaily,6.53,0,0.52,0,2,0,68.0
+1172378,Benjamin Bernard Boateng,benjamin-bernard-boateng,241702,Ismailia Electricity Club,6.53,2,1.83,1,1,0,48.84
+785871,Eric Traoré,eric-traore,42366,Ismaily,6.53,1,1.52,9,20,2,70.47
+1418775,Karim Emad,karim-emad,265830,Modern Sport FC,6.53,0,,0,0,0,72.09
+1525285,Abdel Hamid Maali,abdel-hamid-maali,42368,Zamalek SC,6.53,0,0.05,0,4,0,76.77
+927954,Mohamed Abdelghani,mohamed-abdelghani,43566,Haras El Hodoud,6.53,0,0.01,0,7,0,68.38
+935701,Hussein Faisal,hussein-faisal,42365,Arab Contractors FC,6.52,0,0.95,7,25,0,71.04
+1093856,Shady Hussein,shady-hussein,373168,ZED FC,6.52,4,4.0,10,5,2,71.43
+2221415,Omar El Gazar,omar-el-gazar,43565,El Gouna FC,6.52,0,0.74,25,17,1,76.28
+918776,Mohamed Hesham,mohamed-hesham,42365,Arab Contractors FC,6.52,0,0.18,4,2,0,63.04
+1471393,Léonce Roméo Namgbema,leonce-romeo-namgbema,241702,Ismailia Electricity Club,6.52,0,0.09,0,5,0,78.99
+1884404,Jimmy Emmanuel Mwanga,jimmy-emmanuel-mwanga,58319,Ghazl El Mahalla FC,6.52,2,1.31,6,9,0,70.71
+2216411,Ahmed El Tayeeb,ahmed-el-tayeeb,42365,Arab Contractors FC,6.51,0,0.21,1,3,0,72.16
+2265896,Sekou Sonko,siko-sonko,43567,Petrojet,6.51,3,2.89,3,6,2,58.23
+1970596,Youssef Afifi,youssef-afifi,43563,Smouha,6.51,0,0.05,3,10,0,69.7
+1544695,Amadou Bah,amadou-bah,43567,Petrojet,6.51,0,0.98,8,12,3,69.93
+1169214,Mohamed Saeed,mohamed-saeed,43563,Smouha,6.51,0,0.31,1,8,0,67.5
+1095270,Ahmed El Nadry,ahmed-el-nadry,266626,National Bank of Egypt,6.51,0,0.45,3,10,0,79.55
+966967,Omar Fathi Saviola,omar-fathi,43566,Haras El Hodoud,6.51,0,0.9,10,9,1,73.87
+1424777,Karim Nedved,karim-nedved,371622,Cleopatra FC,6.51,0,0.45,1,15,0,85.64
+1800239,Seif Shika,seif-shika,43565,El Gouna FC,6.5,0,,4,2,1,73.33
+2216011,Jordan Nkengafack,jordan-nkengafack,241702,Ismailia Electricity Club,6.5,0,,0,1,0,60.0
+1087521,Mohamed Hamdy,mohamed-hamdy,241702,Ismailia Electricity Club,6.5,0,,0,0,0,100.0
+1180808,Ahmed Hakam,ahmed-hakam,43563,Smouha,6.5,0,,0,0,0,68.42
+1179135,Ramadan Mostafa,ramadan-mostafa,43564,ENPPI,6.5,0,,0,0,0,81.48
+1900452,Marwan Mahmoud,marwan-mahmoud,373168,ZED FC,6.5,0,,0,0,0,88.89
+1512548,Mohamed El Bahery,mohamed-el-bahery,42366,Ismaily,6.5,0,,0,0,0,77.27
+2610236,Ali El Gharhy,ali-el-gharhy,43561,Tala'ea El-Gaish,6.5,0,,0,0,0,75.0
+2440052,Youssef Galal,youssef-galal,241703,Pharco FC,6.5,0,,1,0,0,86.36
+2610798,Ali Tarek,ali-tarek,42365,Arab Contractors FC,6.5,0,,0,0,0,34.78
+2235651,Ahmed Nagy,ahmed-nagy,35187,Al-Ittihad Alexandria,6.5,0,,0,0,0,50.0
+2213956,Amr Shaaban,amr-shaaban,43568,Wadi Degla,6.5,0,,0,0,0,78.13
+2265885,Ahmed Helmy,ahmed-helmy,43567,Petrojet,6.5,0,,0,0,0,66.67
+929073,Yahya Boussakou,yahya-boussakou,241703,Pharco FC,6.5,0,,0,1,0,87.5
+551254,Louay Wael,louay-wael,42365,Arab Contractors FC,6.5,0,,0,3,0,72.45
+2338037,Selim Soliman,selim-soliman,265830,Modern Sport FC,6.5,0,0.3,3,4,0,69.23
+1910644,Ayman Amir,ayman-amir,42368,Zamalek SC,6.5,0,0.27,0,1,0,100.0
+2214886,Benjamin Okoronkwo,benjamin-okoronkwo,42365,Arab Contractors FC,6.5,0,0.07,0,0,0,50.0
+1617806,Amr El Saeed,amr-el-saeed,42366,Ismaily,6.5,0,0.05,2,5,0,54.29
+2411511,Mohamed Awad,mohamed-awad,373168,ZED FC,6.5,0,0.05,0,0,0,72.22
+2001709,Teo Fernandes,teo-fernandes,241703,Pharco FC,6.5,0,0.05,0,1,0,64.71
+2428084,Mohamed Abdelmoniem,mohamed-abdelmoniem,241702,Ismailia Electricity Club,6.5,0,0.05,1,2,0,66.67
+2200235,Adel Abdelrahman,adel-abdelrahman,373168,ZED FC,6.5,0,0.03,0,1,0,85.71
+918830,Islam Adel,islam-adel,43568,Wadi Degla,6.5,0,0.45,7,17,0,74.19
+1182642,Maged Hany,maged-hany,241702,Ismailia Electricity Club,6.49,0,0.57,5,10,0,77.23
+1106666,Adam Kaied,adam-kaied,42368,Zamalek SC,6.49,0,1.13,10,8,1,83.38
+1639727,Hazem Mohamed,hazem-mohamed,42365,Arab Contractors FC,6.49,0,0.12,4,3,1,43.64
+1393700,Ahmed Nader Hawash,ahmed-nader-hawash,42365,Arab Contractors FC,6.48,0,1.04,4,11,0,58.42
+918753,Mohamed Grendo,mohamed-grendo,58319,Ghazl El Mahalla FC,6.48,1,3.29,1,16,0,62.88
+1540062,Bekale Aubame,bekale-aubame,35187,Al-Ittihad Alexandria,6.48,0,0.47,4,3,0,65.22
+1545404,Karim Ashraf,karim-ashraf,241702,Ismailia Electricity Club,6.48,0,0.31,0,0,0,58.54
+1545475,Mohamed El Deghemy,mohamed-el-deghemy,43566,Haras El Hodoud,6.48,0,0.26,9,21,0,66.5
+552874,Fejiri Okenabirhie,fejiri-okenabirhie,265830,Modern Sport FC,6.48,0,1.17,2,0,0,87.14
+1533733,Pape Badji,pape-badji,43563,Smouha,6.48,5,6.67,8,13,1,58.95
+1406898,Abdi Ineza,abdi-ineza,58319,Ghazl El Mahalla FC,6.48,1,0.51,2,1,0,69.86
+2223871,Ahmed Ismail,ahmed-ismail,43564,ENPPI,6.48,0,1.0,2,6,2,65.09
+2019776,Damilola Emmanuel,damilola-emmanuel,43566,Haras El Hodoud,6.48,0,,1,2,0,60.0
+331493,Emeka Eze,emeka-eze,43566,Haras El Hodoud,6.48,0,,2,7,0,75.79
+1497740,Mahmoud Abdel Aziz,mahmoud-abdel-aziz,43561,Tala'ea El-Gaish,6.48,0,0.55,1,3,0,83.33
+1909440,Moses Gyabaah Twum,moses-gyabaah-twum,43566,Haras El Hodoud,6.48,0,0.03,0,1,0,62.5
+1981648,Mohammed Mossad,mohammed-mossad,265830,Modern Sport FC,6.47,0,2.63,17,26,1,76.12
+1914171,Alpha Boubacar Keita,alfa-boubakr-keita,43561,Tala'ea El-Gaish,6.47,0,0.52,12,15,1,82.1
+2018142,Ahmed Ouled Behi,ahmed-ouled-behi,42365,Arab Contractors FC,6.47,1,1.09,4,3,0,66.27
+1048764,Mohamed Adham El Negely,mohamed-adham,43566,Haras El Hodoud,6.47,3,3.95,12,21,2,67.38
+1094702,Ahmed Khaled,ahmed-khaled,43563,Smouha,6.47,0,0.13,0,1,0,84.21
+2138808,Abdallah Bostangy,abdullah-fouad-abdullah-boustenji,373168,ZED FC,6.47,0,0.12,1,3,0,75.82
+333341,Mabululu,mabululu,35187,Al-Ittihad Alexandria,6.46,0,0.59,2,1,1,69.33
+1002359,Arnold Eba,arnold-eba,265830,Modern Sport FC,6.46,2,3.82,8,23,1,73.82
+1982379,Islam Samir,islam-samir,35187,Al-Ittihad Alexandria,6.46,1,0.18,1,2,1,66.67
+919049,Rafik Kabou,rafik-kabou,43564,ENPPI,6.46,1,0.69,3,5,2,69.29
+2214937,Hassan Mansour,hassan-mansour,42366,Ismaily,6.46,0,0.13,4,12,0,70.59
+1157441,Ismail Ashraf,ismail-ashraf,43566,Haras El Hodoud,6.46,0,0.59,3,3,0,72.73
+1097127,Joackiam Ojera,joackiam-ojera,42365,Arab Contractors FC,6.45,4,3.09,13,16,0,65.85
+2200951,Mostafa  Koshary,mostafa-abdel-rahim-koshary,241702,Ismailia Electricity Club,6.45,0,0.3,3,14,0,69.8
+2038393,Ahmed Zaki,ahmed-zaki,43564,ENPPI,6.45,1,0.89,2,7,0,57.42
+1970594,Mohamed Reda,mohamed-reda,371622,Cleopatra FC,6.45,0,0.26,0,0,0,95.0
+966985,Amr Saleh,amr-saleh,35187,Al-Ittihad Alexandria,6.45,0,0.15,5,4,0,77.42
+1174091,Mohamed Hozian,mohamed-hozian,42365,Arab Contractors FC,6.45,0,0.01,0,2,0,68.97
+1014246,Karim El Tayeb,karim-el-tayeb,241703,Pharco FC,6.45,3,4.92,14,8,2,60.93
+2222374,Mohamed Hassan,mohamed-hassan,43566,Haras El Hodoud,6.44,0,,0,2,0,70.0
+895534,Mohamed El Shamy,mohamed-el-shamy,43560,Al-Masry,6.44,0,0.85,3,4,0,72.0
+1945824,Samir Mohamed,samir-mohamed,43567,Petrojet,6.44,0,0.74,0,1,0,64.22
+2555292,Mohanad Abdelaati,mohamed-el-atty,42366,Ismaily,6.43,0,,0,0,0,50.0
+295351,Ahmed Adel,ahmed-adel,42366,Ismaily,6.43,0,,0,0,0,53.93
+1879743,Mohamed Khatary,mohamed-khatary,42366,Ismaily,6.43,0,1.09,14,12,0,72.99
+364988,Amr Gamal,amr-gamal,43566,Haras El Hodoud,6.43,1,1.68,1,4,1,74.0
+1018539,Kingsley Eduwo,kingsley-eduwo,43560,Al-Masry,6.43,0,0.56,1,2,0,75.61
+918775,Ahmed Said,ahmed-said,58319,Ghazl El Mahalla FC,6.43,0,,0,0,0,73.17
+2222372,Ahmed Nayel,ahmed-nayel,43566,Haras El Hodoud,6.42,1,0.73,10,11,0,69.14
+918626,Mahmoud Abou-Gouda,mahmoud-abou-gouda,42365,Arab Contractors FC,6.41,1,2.54,4,2,0,62.64
+2021248,Ali Hussein,ali-hussein,43568,Wadi Degla,6.41,3,2.3,4,2,0,67.33
+2462162,Ahmed Khaled,ahmed-khaled,43561,Tala'ea El-Gaish,6.4,1,0.66,0,3,0,45.0
+1173769,Marwan Hamdi,marwan-hamdi,42366,Ismaily,6.4,0,0.26,4,6,1,50.0
+1008169,Hossam Ghanem,hossam-ghanem,43564,ENPPI,6.4,0,,0,0,0,66.67
+2215915,Ali Id Hammou,ali-id-hammou,43565,El Gouna FC,6.4,0,,0,0,0,72.73
+1386887,Ahmed Ali,ahmed-ali,58319,Ghazl El Mahalla FC,6.4,0,,0,0,0,76.67
+1507925,Ziad Mohamed,ziad-mohamed,43561,Tala'ea El-Gaish,6.4,0,,0,0,0,50.0
+1389741,Mohamed Nadim,mohamed-nadim,241703,Pharco FC,6.4,0,,0,0,0,56.67
+2130913,Ahmed Wahid,ahmed-wahid,58319,Ghazl El Mahalla FC,6.4,0,,0,1,0,66.67
+1094000,Mohamed Gamal,mohamed-gamal,42365,Arab Contractors FC,6.4,0,,0,0,0,57.14
+1545295,Abdo Semana,abdo-semana,42365,Arab Contractors FC,6.4,0,0.51,2,4,0,52.63
+1928462,Solomon Alade,solomon-alade,58319,Ghazl El Mahalla FC,6.4,0,0.11,0,1,0,63.27
+2590138,Omar Amin,omar-amin,265830,Modern Sport FC,6.4,0,0.09,1,4,0,53.57
+2548939,Mohamed Bashiri,mohamed-bashiri,265830,Modern Sport FC,6.4,0,0.09,0,0,0,37.5
+2265884,Adel Ali,adel-ali,43567,Petrojet,6.4,0,0.05,0,0,0,100.0
+2217437,Abdel Rahman Ibrahim,abdel-rahman-ibrahim,241702,Ismailia Electricity Club,6.4,0,0.05,0,2,0,80.65
+1470477,Alhassan Benny,alhassan-benny,241703,Pharco FC,6.4,0,0.03,0,3,0,68.75
+1802592,Bashar Ashraf,bashar-ashraf,42366,Ismaily,6.4,0,0.02,0,0,0,75.0
+2217694,Momen Khaled,momen-khaled,241703,Pharco FC,6.4,0,0.02,0,0,0,66.67
+1393699,Ahmed Esho,ahmed-esho,42368,Zamalek SC,6.4,0,0.02,1,1,0,82.35
+1400637,Mohamed Zidan,mohamed-zidan,42366,Ismaily,6.38,0,0.1,0,0,0,58.33
+1907926,Youssef Abdel Hafiz,youssef-abdel-hafiz,42365,Arab Contractors FC,6.37,0,,0,1,0,63.64
+1096558,Zeyad Tarek,zeyad-tarek,43566,Haras El Hodoud,6.37,0,0.24,1,1,0,63.64
+1392691,Dilson,dilson,43561,Tala'ea El-Gaish,6.36,0,0.58,0,0,1,59.09
+1801097,Amr Khaled,amr-khaled,43565,El Gouna FC,6.35,0,,0,0,0,76.47
+1087520,Hussein Emad,hussein-emad,241703,Pharco FC,6.35,0,,0,1,0,75.0
+1937532,Sulahmana Mamadu Bah,sulahmana-mamadu-bah,373168,ZED FC,6.35,0,0.85,2,1,0,68.18
+1982376,Amr Gomaa,amr-amr-gomaa,35187,Al-Ittihad Alexandria,6.33,0,,0,3,0,73.33
+1546072,Nader Farag,nader-farag,42366,Ismaily,6.33,0,1.63,17,14,0,69.57
+1533731,Mohamed Yassine Abouzra,mohamed-yassine-abouzra,241702,Ismailia Electricity Club,6.33,0,0.33,0,5,0,72.11
+1913410,Seif El Deen Rafik,seif-el-deen-rafik,241703,Pharco FC,6.33,0,0.22,0,0,0,75.0
+1610637,Sunday Williams,sunday-williams,58319,Ghazl El Mahalla FC,6.33,1,0.94,3,5,0,57.85
+1579234,Mohamed Mahmoud,mohamed-mahmoud,241702,Ismailia Electricity Club,6.32,0,,0,1,0,52.63
+2216014,Mohamed Medhat,mohamed-medhat,241702,Ismailia Electricity Club,6.31,0,0.03,1,7,0,69.51
+1497575,Abdelrahman Body,abdelrahman-body,35187,Al-Ittihad Alexandria,6.31,0,0.02,2,9,0,76.58
+1471579,Charles Ekpenyong,charles-ekpenyong,42365,Arab Contractors FC,6.31,0,1.7,1,10,1,70.86
+885818,Ahmed Yehia,yehia-ahmed,265830,Modern Sport FC,6.3,0,,0,0,0,66.67
+2610805,Ahmed Talaat,ahmed-talaat,42365,Arab Contractors FC,6.3,0,,0,0,0,0.0
+918814,El-Hani Soliman,el-hani-soliman,43563,Smouha,6.3,0,,0,0,0,60.76
+1480543,Ahmed Ali Amin,ahmed-ali-amin,43563,Smouha,6.3,0,0.08,0,0,0,80.0
+1180811,Aliou Ndiay,aliou-naday,241703,Pharco FC,6.28,1,2.03,7,8,1,60.0
+1475115,Ieltsin Camões,camoes-ieltsin,6910,Al Ahly FC,6.28,0,0.94,0,3,0,66.67
+2195107,Mahmoud Agib,mahmoud-agib,35187,Al-Ittihad Alexandria,6.25,0,0.17,3,1,0,73.47
+1484342,Abdallah Mohamed Hassan,abdallah-mohamed-hassan,241703,Pharco FC,6.2,0,,0,1,0,40.0
+1418779,Mohamed Fawzi,mohamed-fawzi,42365,Arab Contractors FC,6.2,0,,0,0,0,56.52
+2331370,Hossam Reda,hossam-reda,241703,Pharco FC,6.2,0,,0,0,0,65.0
+2216045,Ousseynou Bodian,ousseynou-bodian,43564,ENPPI,6.2,0,0.1,1,1,0,79.17
+841004,Joseph Jonathan Ngwem,joseph-jonathan-ngwem,241702,Ismailia Electricity Club,6.15,1,0.52,2,5,1,71.54
+918572,Mohamed Magdi Abdel Fattah,mohamed-magdi-abdel-fattah,43561,Tala'ea El-Gaish,6.1,0,,0,0,0,72.73
+2424204,Ahmed Kamel,ahmed-kamel,43566,Haras El Hodoud,6.1,0,,0,0,0,50.0
+1497640,Atef Al Hakim,atef-al-hakim,58319,Ghazl El Mahalla FC,5.95,0,,0,0,0,85.0
+2189498,Mohamed Yousri,mohamed-yousri,265830,Modern Sport FC,5.8,0,,1,0,0,30.0
+2150703,Adham Seha,adham-seha,43566,Haras El Hodoud,5.8,0,,0,0,0,60.0
+2552301,Mathew Ojor,mathew-ojor,371622,Cleopatra FC,5.8,0,0.06,0,0,0,62.5
+1913406,Mohamed Osam,mohamed-awsam,241702,Ismailia Electricity Club,5.5,0,,0,0,0,80.0
+1094513,Mahmoud Gehad,mahmoud-gehad,42368,Zamalek SC,0.0,0,,1,0,0,0.0
+1397236,Abdallah Magdy,abdallah-magdy,371622,Cleopatra FC,0.0,0,,0,0,0,100.0
+2331376,Mohamed Yasser,mohamed-yasser,43561,Tala'ea El-Gaish,0.0,0,,0,1,0,75.0
+2428085,Hossam Awadallah,hossam-awadallah,43561,Tala'ea El-Gaish,0.0,0,,0,1,0,100.0
+2574772,Hazem Saeed,hazem-saeed,43563,Smouha,0.0,0,,0,0,0,100.0

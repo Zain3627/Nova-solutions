@@ -1,0 +1,482 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+873554,Omar Marmoush,omar-marmoush,2674,Eintracht Frankfurt,8.16,15,8.87,46,12,9,79.59
+259117,Joshua Kimmich,joshua-kimmich,2672,FC Bayern München,7.91,3,1.77,12,47,6,92.93
+978838,Michael Olise,michael-olise,2672,FC Bayern München,7.91,12,9.75,72,36,15,86.21
+108579,Harry Kane,harry-kane,2672,FC Bayern München,7.73,26,20.47,23,13,8,80.71
+1019322,Florian Wirtz,florian-wirtz,2681,Bayer 04 Leverkusen,7.68,10,9.4,82,32,12,82.33
+997183,Xavi Simons,xavi-simons,36360,RB Leipzig,7.58,10,5.11,33,28,7,82.9
+1010231,Jamal Musiala,jamal-musiala,2672,FC Bayern München,7.58,12,9.32,72,36,2,83.53
+1149294,Tiago Pereira Cardoso,cardoso-tiago-pereira,2527,Borussia M'gladbach,7.56,0,,0,1,0,71.34
+280453,Franck Honorat,franck-honorat,2527,Borussia M'gladbach,7.43,4,4.53,12,17,7,75.55
+117777,Granit Xhaka,granit-xhaka,2681,Bayer 04 Leverkusen,7.41,2,0.91,7,48,7,90.85
+901882,Angelo Stiller,angelo-stiller,2677,VfB Stuttgart,7.38,1,1.76,20,49,8,89.9
+788949,Maximilian Mittelstädt,maximilian-mittelstadt,2677,VfB Stuttgart,7.37,1,0.88,21,79,7,87.37
+578166,Moritz Nicolas,moritz-nicolas,2527,Borussia M'gladbach,7.37,0,,0,0,0,82.86
+798583,Dayot Upamecano,dayot-upamecano,2672,FC Bayern München,7.37,2,1.21,3,36,0,94.08
+327755,Nadiem Amiri,nadiem-amiri,2556,1. FSV Mainz 05,7.32,7,5.47,32,50,5,82.53
+177177,Alejandro Grimaldo,alex-grimaldo,2681,Bayer 04 Leverkusen,7.3,2,2.51,20,24,7,86.39
+171961,Vincenzo Grifo,vincenzo-grifo,2538,SC Freiburg,7.3,8,7.8,25,30,11,82.02
+945063,Mohamed Simakan,mohamed-simakan,36360,RB Leipzig,7.3,0,,0,0,0,81.4
+228981,Tim Kleindienst,tim-kleindienst,2527,Borussia M'gladbach,7.29,16,13.51,14,30,7,62.0
+136933,Marius Müller,marius-muller,2524,VfL Wolfsburg,7.28,0,,0,0,0,66.14
+246999,Raphaël Guerreiro,raphael-guerreiro,2672,FC Bayern München,7.28,4,2.86,10,19,3,90.01
+1048422,Hugo Ekitiké,hugo-ekitike,2674,Eintracht Frankfurt,7.27,15,21.67,52,16,8,76.44
+136924,Willi Orbán,willi-orban,36360,RB Leipzig,7.27,5,4.0,3,38,0,88.05
+126346,Thomas Dähne,thomas-dahne,2573,Holstein Kiel,7.27,0,,0,0,0,73.24
+258325,Marvin Ducksch,marvin-ducksch,2534,SV Werder Bremen,7.27,8,10.11,7,10,8,70.58
+822564,Finn Dahmen,finn-dahmen,2600,FC Augsburg,7.26,0,,0,1,0,67.51
+1129935,Tom Bischof,tom-bischof,2569,TSG Hoffenheim,7.26,5,2.2,29,95,2,83.67
+328027,Serhou Guirassy,serhou-guirassy,2673,Borussia Dortmund,7.26,21,22.9,11,7,2,72.96
+37096,Péter Gulácsi,peter-gulacsi,36360,RB Leipzig,7.26,0,,0,1,0,79.37
+1134203,Kauã Santos,kaua-dos-santos,2674,Eintracht Frankfurt,7.26,0,,0,0,0,66.67
+830127,Romano Schmid,romano-schmid,2534,SV Werder Bremen,7.25,5,4.34,45,43,4,79.0
+843665,Alphonso Davies,alphonso-davies,2672,FC Bayern München,7.24,1,1.24,31,30,2,91.07
+799046,Waldemar Anton,waldemar-anton,2673,Borussia Dortmund,7.22,2,1.65,20,34,2,91.46
+939830,Jonathan Burkardt,jonathan-burkardt,2556,1. FSV Mainz 05,7.22,18,14.8,16,15,2,74.64
+1159759,Nathaniel Brown,nathaniel-brown,2674,Eintracht Frankfurt,7.22,3,2.18,11,71,6,85.76
+980621,Paul Nebel,paul-nebel,2556,1. FSV Mainz 05,7.21,10,5.73,25,38,4,78.18
+1069252,Lasse Riess,lasse-riess,2556,1. FSV Mainz 05,7.2,0,,0,0,0,59.74
+987437,Ben Voll,ben-voll,2526,FC St. Pauli,7.2,0,,0,0,0,51.11
+830142,Jens Stage,jens-stage,2534,SV Werder Bremen,7.2,10,7.18,8,49,5,78.51
+856076,David Raum,david-raum,36360,RB Leipzig,7.2,1,0.49,11,38,5,78.6
+280609,Patrik Schick,patrik-schick,2681,Bayer 04 Leverkusen,7.19,21,12.52,10,6,0,78.36
+293127,Denis Vavro,denis-vavro,2524,VfL Wolfsburg,7.19,2,1.37,3,21,0,87.57
+980626,Noah Atubolu,noah-atubolu,2538,SC Freiburg,7.18,0,,0,0,0,71.89
+855663,Diogo Leite,diogo-leite,2547,1. FC Union Berlin,7.18,1,1.31,10,61,2,78.43
+293519,Leroy Sané,leroy-sane,2672,FC Bayern München,7.18,11,10.23,39,23,5,86.44
+537552,Jae-sung Lee,jae-sung-lee,2556,1. FSV Mainz 05,7.18,7,5.3,11,42,6,79.98
+822600,Exequiel Palacios,exequiel-palacios,2681,Bayer 04 Leverkusen,7.18,1,1.52,8,22,6,90.21
+1107591,Mohamed Amoura,mohamed-el-amine-amoura,2524,VfL Wolfsburg,7.17,10,8.96,37,29,9,72.75
+790965,Ritsu Doan,ritsu-doan,2538,SC Freiburg,7.17,10,6.45,56,66,7,75.6
+796047,Aleix García,aleix-garcia,2681,Bayer 04 Leverkusen,7.17,3,0.97,4,13,4,91.06
+1002837,Piero Hincapié,piero-hincapie,2681,Bayer 04 Leverkusen,7.17,2,2.94,5,52,2,89.36
+174345,Robin Zentner,robin-zentner,2556,1. FSV Mainz 05,7.15,0,0.01,0,2,0,58.98
+822877,Alexis Claude-Maurice,alexis-claude-maurice,2600,FC Augsburg,7.15,9,4.74,42,41,2,84.63
+1142251,Aleksandar Pavlović,aleksandar-pavlovic,2672,FC Bayern München,7.14,1,0.56,5,38,0,93.54
+896569,Kim Min-jae,kim-min-jae,2672,FC Bayern München,7.14,2,1.64,3,35,0,92.59
+826069,Jonas Wind,jonas-wind,2524,VfL Wolfsburg,7.14,9,5.71,6,10,3,71.55
+67647,Andrej Kramarić,andrej-kramaric,2569,TSG Hoffenheim,7.14,11,11.82,20,15,8,83.52
+963198,Chrislain Matsima,chrislain-matsima,2600,FC Augsburg,7.14,1,1.82,7,31,1,86.46
+147289,Maximilian Arnold,maximilian-arnold,2524,VfL Wolfsburg,7.13,3,0.89,1,34,5,84.13
+184661,Leon Goretzka,leon-goretzka,2672,FC Bayern München,7.13,4,2.76,7,21,1,90.57
+226978,Julian Brandt,julian-brandt,2673,Borussia Dortmund,7.13,5,4.76,19,26,10,82.62
+48480,Pascal Groß,pascal-gro,2673,Borussia Dortmund,7.13,0,2.4,3,44,10,85.94
+963801,Adam Hložek,adam-hlozek,2569,TSG Hoffenheim,7.13,8,5.54,33,22,3,70.89
+325061,Nikola Vasilj,nikola-vasilj,2526,FC St. Pauli,7.12,0,,1,0,0,71.64
+280441,Kingsley Coman,kingsley-coman,2672,FC Bayern München,7.12,5,4.34,39,17,4,88.6
+920525,Moritz Jenz,jenz-moritz,2556,1. FSV Mainz 05,7.12,0,1.55,2,36,0,84.34
+282229,Nico Elvedi,nico-elvedi,2527,Borussia M'gladbach,7.12,1,2.04,0,38,1,92.22
+227672,Jonathan Tah,jonathan-tah,2681,Bayer 04 Leverkusen,7.11,3,1.12,3,19,0,93.12
+921789,Rasmus Kristensen,rasmus-kristensen,2674,Eintracht Frankfurt,7.11,5,2.5,22,59,3,79.31
+889861,Anton Stach,anton-stach,2569,TSG Hoffenheim,7.1,1,2.01,15,66,2,83.4
+1864760,Hennes Behrens,hennes-behrens,2569,TSG Hoffenheim,7.1,0,,1,1,0,71.43
+137692,Frederik Rønnow,frederik-rnnow,2547,1. FC Union Berlin,7.1,0,0.09,1,0,0,63.59
+146853,Jeffrey Gouweleeuw,jeffrey-gouweleeuw,2600,FC Augsburg,7.09,1,1.71,7,50,4,83.6
+801030,Atakan Karazor,atakan-karazor,2677,VfB Stuttgart,7.09,2,2.26,12,59,4,87.09
+965778,Arthur Theate,arthur-theate,2674,Eintracht Frankfurt,7.09,0,2.4,10,36,0,84.44
+581302,Robin Koch,robin-koch,2674,Eintracht Frankfurt,7.09,3,1.74,1,24,0,90.8
+152206,Dominik Kohr,dominik-kohr,2556,1. FSV Mainz 05,7.09,2,1.58,5,62,0,82.21
+254429,Patrick Mainka,patrick-mainka,5885,1. FC Heidenheim,7.09,1,1.94,6,58,0,85.76
+1021272,Daniel Svensson,daniel-svensson,2673,Borussia Dortmund,7.08,1,0.76,1,15,3,82.47
+940871,Nico Schlotterbeck,nico-schlotterbeck,2673,Borussia Dortmund,7.08,0,1.33,14,38,4,89.63
+940054,Karim Adeyemi,karim-adeyemi,2673,Borussia Dortmund,7.08,7,5.48,40,20,6,78.42
+146101,Eric Dier,eric-dier,2672,FC Bayern München,7.08,2,1.09,2,19,1,94.01
+1386651,Leo Scienza,leo-scienza,5885,1. FC Heidenheim,7.08,3,2.07,37,17,3,74.14
+542038,Eric Smith,eric-smith,2526,FC St. Pauli,7.08,1,1.43,3,46,1,84.27
+927407,Josip Stanišić,josip-stanisic,2672,FC Bayern München,7.07,0,0.26,5,13,2,92.32
+794298,Deniz Undav,deniz-undav,2677,VfB Stuttgart,7.07,9,11.66,10,11,3,74.78
+95381,Kevin Stöger,kevin-stoger,2527,Borussia M'gladbach,7.06,3,3.88,17,37,4,81.74
+1140599,Jamie Gittens,jamie-bynoe-gittens,2673,Borussia Dortmund,7.06,8,3.6,77,31,3,82.47
+340719,Philipp Hofmann,philipp-hofmann,2542,VfL Bochum 1848,7.06,3,5.55,10,17,2,64.69
+192308,Alassane Pléa,alassane-plea,2527,Borussia M'gladbach,7.06,11,7.36,17,7,4,75.62
+925910,Shuto Machino,shuto-machino,2573,Holstein Kiel,7.06,11,6.43,10,8,2,71.99
+902080,Kamil Grabara,kamil-grabara,2524,VfL Wolfsburg,7.06,0,,2,0,0,66.44
+138150,Mitchell Weiser,mitchell-weiser,2534,SV Werder Bremen,7.05,5,5.41,35,61,8,74.59
+907463,Felix Nmecha,felix-nmecha,2673,Borussia Dortmund,7.05,4,1.31,17,34,1,88.72
+138491,Alexander Meyer,alexander-meyer,2673,Borussia Dortmund,7.05,0,,0,0,0,63.75
+828571,Bernardo,bernardo,2542,VfL Bochum 1848,7.05,0,0.66,3,46,0,74.62
+187433,Serge Gnabry,serge-gnabry,2672,FC Bayern München,7.05,7,7.55,18,20,5,85.89
+835480,Loïs Openda,lois-openda,36360,RB Leipzig,7.05,9,9.04,22,9,5,66.67
+106662,Stefan Bell,stefan-bell,2556,1. FSV Mainz 05,7.04,0,0.77,2,22,1,79.1
+825771,Marco Friedl,marco-friedl,2534,SV Werder Bremen,7.03,0,0.46,6,62,0,90.4
+577726,Ramy Bensebaini,ramy-bensebaini,2673,Borussia Dortmund,7.03,1,1.27,5,51,6,87.31
+40244,Oliver Baumann,oliver-baumann,2569,TSG Hoffenheim,7.03,0,,1,2,0,65.57
+378340,Marius Bülter,marius-bulter,2569,TSG Hoffenheim,7.03,7,3.67,24,13,2,73.41
+187207,Matúš Bero,matus-bero,2542,VfL Bochum 1848,7.03,5,3.96,18,64,2,74.61
+1048650,Rocco Reitz,rocco-reitz,2527,Borussia M'gladbach,7.03,2,1.72,17,52,1,79.6
+841947,Lovro Majer,lovro-majer,2524,VfL Wolfsburg,7.02,2,1.39,5,2,1,77.69
+980916,Alexander Bernhardsson,alexander-bernhardsson,2573,Holstein Kiel,7.02,7,4.15,22,29,2,63.64
+38440,Kevin Trapp,kevin-trapp,2674,Eintracht Frankfurt,7.02,0,,0,0,0,69.51
+909485,Marvin Pieringer,marvin-pieringer,5885,1. FC Heidenheim,7.01,7,8.92,16,23,3,66.92
+873106,Hiroki Itō,hiroki-ito,2672,FC Bayern München,7.0,1,0.36,1,2,0,86.53
+237068,Julian Weigl,julian-weigl,2527,Borussia M'gladbach,7.0,0,0.75,7,53,2,89.05
+927366,Matěj Kovář,matej-kovar,2681,Bayer 04 Leverkusen,7.0,0,,0,0,0,82.31
+976421,Castello Lukeba,castello-lukeba,36360,RB Leipzig,7.0,0,0.4,20,31,0,86.51
+353130,Mario Hermoso,mario-hermoso,2681,Bayer 04 Leverkusen,7.0,0,0.37,3,0,0,87.87
+856553,Ridle Baku,ridle-baku,36360,RB Leipzig,7.0,4,2.86,25,47,4,78.09
+846471,Anthony Caci,anthony-caci,2556,1. FSV Mainz 05,7.0,1,3.11,29,60,7,75.12
+181581,Jackson Irvine,jackson-irvine,2526,FC St. Pauli,6.99,0,3.23,9,56,6,71.82
+990743,Morgan Guilavogui,morgan-guilavogui,2526,FC St. Pauli,6.99,6,7.16,21,32,2,67.42
+891651,Keven Schlotterbeck,keven-schlotterbeck,2600,FC Augsburg,6.99,3,0.77,3,19,1,85.01
+863271,Jeff Chabot,julian-chabot,2677,VfB Stuttgart,6.99,3,2.0,3,37,1,90.05
+122573,Steven Skrzybski,steven-skrzybski,2573,Holstein Kiel,6.98,6,3.51,13,19,3,73.11
+190161,Michael Zetterer,michael-zetterer,2534,SV Werder Bremen,6.98,0,,1,0,0,75.51
+930272,Tom Krauß,tom-krauss,2542,VfL Bochum 1848,6.98,0,0.38,12,35,0,82.12
+142259,Matthias Ginter,matthias-ginter,2538,SC Freiburg,6.98,2,2.81,4,30,1,83.48
+783126,Emiliano Buendía,emiliano-buendia,2681,Bayer 04 Leverkusen,6.98,2,0.9,6,6,0,80.39
+997012,Ansgar Knauff,ansgar-knauff,2674,Eintracht Frankfurt,6.98,4,4.88,26,41,5,68.52
+1028307,Kaishu Sano,kaishu-sano,2556,1. FSV Mainz 05,6.98,0,0.89,32,61,0,80.9
+354878,Dimitrios Giannoulis,dimitrios-giannoulis,2600,FC Augsburg,6.97,1,1.12,29,47,4,77.63
+8959,Manuel Neuer,manuel-neuer,2672,FC Bayern München,6.97,0,,1,1,0,85.04
+137673,Ivan Ordets,ivan-ordets,2542,VfL Bochum 1848,6.97,0,0.69,1,15,0,80.3
+1424191,David Odogu,odogu-david,2524,VfL Wolfsburg,6.97,0,0.21,0,6,0,87.88
+876858,Robin Hack,robin-hack,2527,Borussia M'gladbach,6.96,4,5.41,25,22,7,79.53
+229544,Niklas Stark,niklas-stark,2534,SV Werder Bremen,6.96,0,1.08,1,33,1,85.76
+964191,Tuta,tuta,2674,Eintracht Frankfurt,6.96,2,1.09,13,44,1,88.21
+891510,Chris Führich,chris-fuhrich,2677,VfB Stuttgart,6.96,2,2.95,40,15,3,85.23
+66518,Mario Götze,mario-gotze,2674,Eintracht Frankfurt,6.95,3,2.95,9,41,2,81.08
+887500,Danel Sinani,danel-sinani,2526,FC St. Pauli,6.95,2,1.6,10,14,1,77.28
+980623,Nick Woltemade,nick-woltemade,2677,VfB Stuttgart,6.95,12,10.36,31,10,2,71.61
+142525,Lukas Kübler,lukas-kubler,2538,SC Freiburg,6.95,5,2.73,0,40,1,79.24
+888537,Andreas Skov Olsen,andreas-skov-olsen,2524,VfL Wolfsburg,6.95,1,0.84,4,8,1,87.55
+1016810,Kevin Paredes,kevin-paredes,2524,VfL Wolfsburg,6.95,0,0.37,0,3,1,80.43
+254125,Maximilian Wittek,maximilian-wittek,2542,VfL Bochum 1848,6.95,0,1.35,12,61,0,74.19
+1048009,El Chadaille Bitshiabu,el-chadaille-bitshiabu,36360,RB Leipzig,6.95,0,0.28,2,27,0,85.35
+1142249,Frans Krätzig,frans-kratzig,5885,1. FC Heidenheim,6.95,1,0.63,9,34,2,81.6
+168903,Robert Andrich,robert-andrich,2681,Bayer 04 Leverkusen,6.94,2,1.29,2,24,1,89.69
+953767,Andrej Ilić,andrej-ilic,2547,1. FC Union Berlin,6.94,7,4.89,1,2,0,58.51
+982615,El Bilal Touré,el-bilal-toure,2677,VfB Stuttgart,6.94,2,1.63,3,4,1,79.79
+48557,Christopher Trimmel,christopher-trimmel,2547,1. FC Union Berlin,6.93,0,0.23,2,38,3,66.21
+986397,Benjamin Šeško,benjamin-sesko,36360,RB Leipzig,6.93,13,9.89,39,7,5,68.22
+978521,Victor Okoh Boniface,victor-okoh-boniface,2681,Bayer 04 Leverkusen,6.93,8,7.86,15,5,1,71.49
+253469,Hauke Wahl,hauke-wahl,2526,FC St. Pauli,6.93,0,0.91,8,36,0,87.11
+798926,Cedric Zesiger,cedric-zesiger,2600,FC Augsburg,6.93,0,1.26,4,26,2,79.9
+933398,Felix Agu,felix-agu,2534,SV Werder Bremen,6.93,3,1.38,9,30,0,81.09
+962898,Leonidas Stergiou,leonidas-stergiou,2677,VfB Stuttgart,6.93,1,1.06,4,24,2,83.3
+355492,Konrad Laimer,konrad-laimer,2672,FC Bayern München,6.93,2,2.11,17,49,2,88.81
+987504,Patrick Wimmer,patrick-wimmer,2524,VfL Wolfsburg,6.92,3,3.71,37,47,4,67.8
+15219,Lukáš Hrádecký,lukas-hradecky,2681,Bayer 04 Leverkusen,6.92,0,,0,0,0,72.59
+980628,Maximilian Beier,maximilian-beier,2673,Borussia Dortmund,6.92,8,7.71,22,25,5,72.58
+57627,Karol Mets,karol-mets,2526,FC St. Pauli,6.92,0,0.13,0,13,0,83.63
+138156,Emre Can,emre-can,2673,Borussia Dortmund,6.92,3,1.98,15,50,0,90.14
+319853,Lukas Klostermann,lukas-klostermann,36360,RB Leipzig,6.91,1,0.34,4,27,0,89.58
+1979970,Ameen Al-Dakhil,al-dhakil,2677,VfB Stuttgart,6.91,0,0.06,0,6,0,92.28
+800951,Julian Ryerson,julian-ryerson,2673,Borussia Dortmund,6.91,2,0.74,36,46,3,89.48
+851254,Amos Pieper,amos-pieper,2534,SV Werder Bremen,6.91,0,0.43,2,32,0,85.14
+780014,Nordi Mukiele,nordi-mukiele,2681,Bayer 04 Leverkusen,6.91,1,1.42,9,20,0,81.37
+1014222,Kiliann Sildillia,kiliann-sildillia,2538,SC Freiburg,6.91,2,0.47,6,17,0,77.78
+186719,Florian Grillitsch,florian-grillitsch,2569,TSG Hoffenheim,6.91,0,0.16,5,15,0,86.86
+254003,Patrick Erras,patrick-erras,2573,Holstein Kiel,6.91,1,0.91,0,8,0,91.96
+1048820,Noah Weißhaupt,noah-weisshaupt,2526,FC St. Pauli,6.91,1,2.08,14,6,0,71.95
+846445,Martin Terrier,martin-terrier,2681,Bayer 04 Leverkusen,6.91,2,2.45,2,4,1,84.21
+149728,Budu Zivzivadze,budu-zivzivadze,5885,1. FC Heidenheim,6.91,2,1.69,9,17,2,69.5
+280551,Manolis Saliakas,manolis-saliakas,2526,FC St. Pauli,6.91,2,1.46,3,46,1,75.6
+979820,Philipp Treu,treu-philipp,2526,FC St. Pauli,6.91,0,1.24,13,61,2,82.99
+1184855,Konstantinos Koulierakis,konstantinos-koulierakis,2524,VfL Wolfsburg,6.9,0,0.96,7,40,2,83.77
+280009,Lucas Höler,lucas-holer,2538,SC Freiburg,6.9,6,7.76,18,37,4,67.01
+790989,Ko Itakura,kou-itakura,2527,Borussia M'gladbach,6.9,3,1.61,12,40,0,89.45
+878081,Ermedin Demirović,ermedin-demirovic,2677,VfB Stuttgart,6.9,15,14.2,5,12,1,71.47
+1130946,Elias Saad,elias-saad,2526,FC St. Pauli,6.9,3,2.81,16,20,2,79.91
+1146148,Jean-Mattéo Bahoya,jean-matteo-bahoya,2674,Eintracht Frankfurt,6.9,2,1.86,17,29,3,78.27
+84251,Kevin Kampl,kevin-kampl,36360,RB Leipzig,6.9,1,0.82,13,27,0,91.07
+571622,Jonas Omlin,jonas-omlin,2527,Borussia M'gladbach,6.9,0,,1,0,0,71.06
+591706,Ellyes Skhiri,ellyes-skhiri,2674,Eintracht Frankfurt,6.9,1,1.38,11,40,1,88.94
+1086547,Leopold Querfeld,leopold-querfeld,2547,1. FC Union Berlin,6.9,2,1.14,3,25,2,81.41
+957889,Enzo Millot,enzo-millot,2677,VfB Stuttgart,6.89,6,7.61,31,30,5,87.32
+1142211,Hugo Larsson,hugo-larsson,2674,Eintracht Frankfurt,6.89,3,3.09,12,47,1,87.44
+569784,Maximilian Eggestein,maximilian-eggestein,2538,SC Freiburg,6.89,2,1.96,11,57,0,84.04
+556866,Gregor Kobel,gregor-kobel,2673,Borussia Dortmund,6.89,0,,2,0,0,77.97
+976575,Nicolas Seiwald,nicolas-seiwald,36360,RB Leipzig,6.89,0,0.22,4,53,0,84.95
+944899,Valentin Gendrey,valentin-gendrey,2569,TSG Hoffenheim,6.89,1,1.1,3,30,1,76.01
+121908,Kevin Müller,kevin-muller,5885,1. FC Heidenheim,6.88,0,,0,3,0,72.67
+584722,Alexander Nübel,alexander-nubel,2677,VfB Stuttgart,6.88,0,,1,0,1,74.74
+35166,Thomas Müller,thomas-muller,2672,FC Bayern München,6.88,1,3.8,8,8,4,78.01
+933707,Jan Schöppner,jan-schoppner,5885,1. FC Heidenheim,6.88,4,3.87,14,56,3,75.05
+885864,Frank Onyeka,frank-onyeka,2600,FC Augsburg,6.88,0,1.41,18,58,1,84.93
+1518931,Johan Manzambi,johan-manzambi,2538,SC Freiburg,6.88,2,1.32,6,8,1,78.26
+319857,Benjamin Henrichs,benjamin-henrichs,36360,RB Leipzig,6.88,0,0.47,9,32,2,76.69
+845742,Adrian Beck,adrian-beck,5885,1. FC Heidenheim,6.88,4,3.25,40,36,1,82.01
+575952,Mathias Honsak,mathias-honsak,5885,1. FC Heidenheim,6.88,5,3.26,9,15,1,73.75
+253517,Gerrit Holtmann,gerrit-holtmann,2542,VfL Bochum 1848,6.88,2,2.05,5,24,1,78.09
+883262,Edmond Tapsoba,edmond-tapsoba,2681,Bayer 04 Leverkusen,6.88,0,1.14,11,39,0,87.08
+608362,Oliver Burke,oliver-burke,2534,SV Werder Bremen,6.88,5,4.14,7,11,0,63.0
+576266,Philipp Lienhart,philipp-lienhart,2538,SC Freiburg,6.88,1,0.46,4,22,0,87.57
+142390,Jonas Hofmann,jonas-hofmann,2681,Bayer 04 Leverkusen,6.87,2,0.99,2,2,1,90.16
+1015186,John Tolkin,john-tolkin,2573,Holstein Kiel,6.87,0,0.06,5,18,2,72.92
+796206,Kristijan Jakić,kristijan-jakic,2600,FC Augsburg,6.87,0,0.8,14,46,0,83.93
+990201,Jamie Leweling,jamie-leweling,2677,VfB Stuttgart,6.87,2,1.56,41,16,2,76.94
+1440948,Can Uzun,can-uzun,2674,Eintracht Frankfurt,6.87,4,3.0,11,10,1,82.92
+991478,Amine Adli,amine-adli,2681,Bayer 04 Leverkusen,6.87,2,2.74,15,15,0,81.07
+927405,Woo-Yeong Jeong,woo-yeong-jeong,2547,1. FC Union Berlin,6.87,3,2.76,12,10,2,79.43
+943550,Luca Philipp,luca-philipp,2569,TSG Hoffenheim,6.87,0,,0,1,0,59.06
+947986,Nediljko Labrović,nediljko-labrovic,2600,FC Augsburg,6.87,0,,0,0,0,65.58
+1087043,Julián Malatini,julian-malatini,2534,SV Werder Bremen,6.86,1,0.24,2,11,1,86.87
+991479,Anthony Rouault,anthony-rouault,2677,VfB Stuttgart,6.86,1,0.52,2,15,0,90.22
+994556,Carney Chukwuemeka,carney-chukwuemeka,2673,Borussia Dortmund,6.86,1,0.6,7,7,0,79.34
+254119,Marius Wolf,marius-wolf,2600,FC Augsburg,6.86,1,0.69,19,27,3,70.55
+1568123,Bazoumana Touré,bazoumana-toure,2569,TSG Hoffenheim,6.85,0,1.37,12,12,3,72.15
+970361,Jeremie Frimpong,jeremie-frimpong,2681,Bayer 04 Leverkusen,6.85,5,4.2,25,33,5,83.97
+1049177,Tim Breithaupt,tim-breithaupt,2600,FC Augsburg,6.85,0,0.05,2,1,1,86.36
+822340,Phillip Tietz,phillip-tietz,2600,FC Augsburg,6.85,7,6.05,15,11,2,62.34
+842364,Joakim Mæhle,joakim-maehle,2524,VfL Wolfsburg,6.85,3,2.03,19,34,4,81.56
+1121923,Antonio Nusa,antonio-nusa,36360,RB Leipzig,6.84,3,1.54,39,30,3,77.84
+187423,Kevin Akpoguma,kevin-akpoguma,2569,TSG Hoffenheim,6.84,0,0.1,8,54,0,88.2
+327863,Robert Skov,robert-skov,2547,1. FC Union Berlin,6.84,2,1.5,3,14,1,70.55
+856744,Myron Boadu,myron-boadu,2542,VfL Bochum 1848,6.84,9,7.66,11,2,1,71.35
+791642,Josip Juranović,josip-juranovic,2547,1. FC Union Berlin,6.84,0,0.29,11,21,0,71.5
+842188,Elvis Rexhbeçaj,elvis-rexhbecaj,2600,FC Augsburg,6.83,1,1.41,10,27,1,76.96
+168937,Niklas Süle,niklas-sule,2673,Borussia Dortmund,6.83,0,0.63,3,14,0,92.99
+829093,Ibrahima Sissoko,ibrahima-sissoko,2542,VfL Bochum 1848,6.83,1,1.35,30,61,1,76.37
+794995,Niklas Dorsch,niklas-dorsch,5885,1. FC Heidenheim,6.83,2,1.0,7,27,2,86.57
+978062,Alexander Prass,alexander-prass,2569,TSG Hoffenheim,6.83,0,0.88,20,42,1,75.59
+979821,Finn Ole Becker,becker-finn-ole,2569,TSG Hoffenheim,6.83,0,0.12,6,11,1,83.96
+962409,Nathan N'Goumou,nathan-ngoumou,2527,Borussia M'gladbach,6.83,2,1.86,9,17,1,77.78
+341589,Mahmoud Dahoud,mahmoud-dahoud,2674,Eintracht Frankfurt,6.83,1,0.53,1,9,1,86.82
+826171,Senne Lynen,senne-lynen,2534,SV Werder Bremen,6.83,0,1.15,12,72,1,83.42
+877302,András Schäfer,andras-schafer,2547,1. FC Union Berlin,6.82,1,0.57,12,51,1,75.15
+843709,Benedikt Pichler,benedikt-pichler,2573,Holstein Kiel,6.82,1,2.28,8,5,2,65.67
+983540,Tiago Tomás,tiago-tomas,2524,VfL Wolfsburg,6.82,6,5.42,29,33,1,72.1
+592560,Giorgos Masouras,giorgos-masouras,2542,VfL Bochum 1848,6.82,2,3.86,5,18,0,76.19
+833213,Erhan Mašović,erhan-masovic,2542,VfL Bochum 1848,6.82,1,0.65,0,14,1,83.29
+830803,Danilho Doekhi,danilho-doekhi,2547,1. FC Union Berlin,6.82,1,2.37,3,35,0,78.79
+966889,David Nemeth,david-nemeth,2526,FC St. Pauli,6.82,0,0.22,4,43,1,87.14
+48660,Kevin Vogt,kevin-vogt,2547,1. FC Union Berlin,6.82,1,0.79,4,10,0,87.76
+1048569,Nnamdi Collins,nnamdi-collins,2674,Eintracht Frankfurt,6.82,1,0.79,12,33,1,88.52
+934385,Maarten Vandevoordt,maarten-vandevoordt,36360,RB Leipzig,6.82,0,,0,1,0,75.51
+149479,Rani Khedira,rani-khedira,2547,1. FC Union Berlin,6.82,1,1.37,5,64,1,76.36
+1192318,Farès Chaïbi,fares-chaibi,2674,Eintracht Frankfurt,6.82,1,2.59,7,13,3,74.34
+254449,Marvin Friedrich,marvin-friedrich,2527,Borussia M'gladbach,6.82,0,0.45,2,15,1,88.49
+142231,Christian Günter,christian-gunter,2538,SC Freiburg,6.81,2,0.78,3,23,2,78.64
+138126,Phillipp Mwene,phillipp-mwene,2556,1. FSV Mainz 05,6.81,1,1.52,22,51,4,77.07
+1005343,Justin Njinmah,justin-njinmah,2534,SV Werder Bremen,6.81,3,3.81,11,6,2,65.44
+97923,Timo Horn,timo-horn,2542,VfL Bochum 1848,6.81,0,,0,0,0,54.37
+111969,Leonardo Bittencourt,leonardo-bittencourt,2534,SV Werder Bremen,6.81,2,1.62,1,25,1,86.37
+789714,Finn Porath,finn-porath,2573,Holstein Kiel,6.81,2,1.88,16,45,2,70.51
+1121902,Phil Harres,phil-harres,2573,Holstein Kiel,6.8,8,5.76,5,10,1,56.42
+133908,Marcel Sabitzer,marcel-sabitzer,2673,Borussia Dortmund,6.8,1,1.78,6,29,0,86.83
+1021087,Andu Kelati,andu-kelati,2573,Holstein Kiel,6.8,1,0.86,3,7,1,79.49
+980418,Sacha Boey,sacha-boey,2672,FC Bayern München,6.8,0,0.14,6,20,2,93.79
+97926,Danny da Costa,danny-da-costa,2556,1. FSV Mainz 05,6.8,0,0.1,8,42,1,79.25
+26768,Sven Ulreich,sven-ulreich,2672,FC Bayern München,6.8,0,,0,0,0,80.77
+1083359,Frank Feller,frank-feller,5885,1. FC Heidenheim,6.8,0,,0,0,0,60.34
+168861,Marnon Busch,marnon-busch,5885,1. FC Heidenheim,6.8,0,0.35,3,26,1,76.04
+822708,Amadou Haidara,amadou-haidara,36360,RB Leipzig,6.79,0,1.36,7,30,1,81.16
+939880,Philipp Sander,philipp-sander,2527,Borussia M'gladbach,6.79,1,1.18,11,33,0,82.69
+801263,Jakub Kamiński,jakub-kaminski,2524,VfL Wolfsburg,6.79,0,0.93,8,17,2,75.0
+879746,Leo Østigård,leo-ostigard,2569,TSG Hoffenheim,6.79,0,0.32,2,9,0,84.15
+796987,Mattias Svanberg,mattias-svanberg,2524,VfL Wolfsburg,6.79,3,3.64,10,20,1,73.81
+135264,Yussuf Poulsen,yussuf-poulsen,36360,RB Leipzig,6.79,2,3.41,1,10,0,60.87
+1152923,Kosta Nedeljković,kosta-nedeljkovic,36360,RB Leipzig,6.79,0,0.52,1,11,0,90.45
+975800,Benedict Hollerbach,benedict-hollerbach,2547,1. FC Union Berlin,6.78,8,5.97,40,43,0,72.41
+826167,Sebastiaan Bornauw,sebastiaan-bornauw,2524,VfL Wolfsburg,6.78,2,1.2,0,9,1,82.01
+1166832,Keke Topp,keke-topp,2534,SV Werder Bremen,6.78,2,0.99,3,3,2,58.23
+872307,Jakov Medić,jakov-medic,2542,VfL Bochum 1848,6.78,1,0.79,2,13,0,87.68
+1210666,Tom Alexander Rothe,tom-alexander-rothe,2547,1. FC Union Berlin,6.78,3,1.72,5,45,3,69.93
+873347,Lars Ritzka,lars-ritzka,2526,FC St. Pauli,6.78,1,0.44,0,49,0,71.35
+147745,Michy Batshuayi,michy-batshuayi,2674,Eintracht Frankfurt,6.78,3,1.21,2,1,0,82.81
+871621,Oladapo Afolayan,oladapo-afolayan,2526,FC St. Pauli,6.78,3,3.14,48,17,1,75.57
+885892,James Sands,james-sands,2526,FC St. Pauli,6.77,0,0.05,1,15,0,77.11
+49639,Nicolas Höfler,nicolas-hofler,2538,SC Freiburg,6.77,0,0.23,4,33,0,87.13
+815612,Marco Grüll,marco-grull,2534,SV Werder Bremen,6.77,6,3.99,13,12,1,80.2
+929620,Fabian Rieder,fabian-rieder,2677,VfB Stuttgart,6.77,1,1.38,9,17,3,75.64
+1418703,Max Moerstedt,max-moerstedt,2569,TSG Hoffenheim,6.77,0,0.76,1,5,0,68.32
+1067120,Eren Dinkçi,eren-dinkci,2538,SC Freiburg,6.77,0,1.15,16,21,3,77.98
+787889,Lucas Tousart,lucas-tousart,2547,1. FC Union Berlin,6.77,0,0.39,5,17,1,67.5
+796358,Diadié Samassékou,diadie-samassekou,2569,TSG Hoffenheim,6.77,0,0.06,4,5,0,92.31
+1418649,Finn Jeltsch,jeltsch-finn,2677,VfB Stuttgart,6.77,0,0.05,2,18,0,92.32
+809276,Jacob Bruun Larsen,jacob-bruun-larsen,2677,VfB Stuttgart,6.77,3,2.88,17,5,2,77.94
+1122806,Arthur Chaves,arthur-chaves,2569,TSG Hoffenheim,6.77,1,0.81,3,51,0,82.9
+103442,Anthony Jung,anthony-jung,2534,SV Werder Bremen,6.77,0,0.04,7,34,0,89.76
+803185,Lukas Nmecha,lukas-nmecha,2524,VfL Wolfsburg,6.76,3,4.54,4,2,0,66.07
+836706,Arne Maier,arne-maier,2600,FC Augsburg,6.76,0,1.53,7,13,0,83.04
+591588,Johannes Eggestein,johannes-eggestein,2526,FC St. Pauli,6.76,3,4.72,7,5,4,78.39
+109296,Pavel Kadeřábek,pavel-kaderabek,2569,TSG Hoffenheim,6.76,2,0.76,5,25,0,72.61
+1064305,Nicolai Remberg,nicolai-remberg,2573,Holstein Kiel,6.76,0,1.51,7,45,1,78.39
+882019,Florent Muslija,florent-muslija,2538,SC Freiburg,6.76,0,0.26,4,5,0,82.93
+1597260,Noahkai Banks,noahkai-banks,2600,FC Augsburg,6.76,0,0.07,0,11,0,94.38
+1426577,Tidiam Gomis,gomis-tidiam,36360,RB Leipzig,6.76,0,0.25,5,0,1,85.42
+354558,László Bénes,laszlo-benes,2547,1. FC Union Berlin,6.76,2,0.9,1,2,1,71.7
+914755,Patrick Osterhage,patrick-osterhage,2538,SC Freiburg,6.76,1,1.56,11,45,0,85.31
+909958,Yorbe Vertessen,yorbe-vertessen,2547,1. FC Union Berlin,6.76,1,1.17,18,6,0,69.19
+825956,Christoph Baumgartner,christoph-baumgartner,36360,RB Leipzig,6.75,2,4.52,17,44,1,70.6
+259803,Haris Tabaković,haris-tabakovic,2569,TSG Hoffenheim,6.75,3,3.35,4,3,1,64.56
+856739,Lutsharel Geertruida,lutsharel-geertruida,36360,RB Leipzig,6.75,1,1.09,7,35,0,88.4
+1432398,David Mokwa,david-mokwa,2569,TSG Hoffenheim,6.75,0,0.3,1,1,0,25.0
+355088,Roland Sallai,roland-sallai,2538,SC Freiburg,6.75,0,0.13,0,2,0,76.92
+920379,Nathan Tella,nathan-tella,2681,Bayer 04 Leverkusen,6.75,2,3.09,19,16,4,80.71
+1418624,Bence Dárdai,bence-dardai,2524,VfL Wolfsburg,6.75,1,1.04,3,24,1,81.67
+579260,Marco Komenda,marco-komenda,2573,Holstein Kiel,6.75,0,0.1,1,26,0,79.61
+190159,André Silva,andre-silva,2534,SV Werder Bremen,6.75,2,3.88,1,3,2,72.97
+795000,Felix Passlack,felix-passlack,2542,VfL Bochum 1848,6.75,1,1.27,12,49,5,70.92
+132607,Patrick Drewes,patrick-drewes,2542,VfL Bochum 1848,6.75,0,,0,0,0,64.4
+795005,Salih Özcan,salih-ozcan,2673,Borussia Dortmund,6.75,0,0.45,6,13,0,78.37
+988252,Tim Siersleben,tim-siersleben,5885,1. FC Heidenheim,6.74,0,0.58,3,21,0,82.28
+798936,Benedikt Gimber,benedikt-gimber,5885,1. FC Heidenheim,6.74,0,0.72,8,72,0,83.07
+1130113,Yusuf Kabadayi,yusuf-kabadayi,2600,FC Augsburg,6.74,1,0.65,2,1,0,65.22
+877842,Yannik Keitel,yannik-keitel,2677,VfB Stuttgart,6.74,0,0.53,1,9,0,82.98
+352562,Pascal Stenzel,pascal-stenzel,2677,VfB Stuttgart,6.74,0,0.33,0,3,0,88.89
+916943,Ramon Hendriks,ramon-hendriks,2677,VfB Stuttgart,6.74,0,0.43,5,20,1,87.15
+989056,Giovanni Reyna,giovanni-reyna,2673,Borussia Dortmund,6.74,2,0.17,4,7,0,83.16
+842869,Maxim Leitsch,maxim-leitsch,2556,1. FSV Mainz 05,6.74,1,1.2,0,12,0,79.55
+794294,Andreas Hanche Olsen,andreas-hanche-olsen,2556,1. FSV Mainz 05,6.74,1,0.83,1,21,1,83.41
+887911,David Zec,david-zec,2573,Holstein Kiel,6.73,2,1.24,5,23,0,87.76
+918437,Mikkel Kaufmann,mikkel-kaufmann,5885,1. FC Heidenheim,6.73,0,0.53,2,6,0,51.14
+941179,Niels Nkounkou,niels-nkounkou,2674,Eintracht Frankfurt,6.73,0,0.17,7,13,0,72.83
+867493,Tymoteusz Puchacz,tymoteusz-puchacz,2573,Holstein Kiel,6.73,0,0.08,9,9,1,80.0
+1140362,Timon Weiner,timon-weiner,2573,Holstein Kiel,6.73,0,,0,0,0,65.21
+345035,Steve Mounié,steve-mounie,2600,FC Augsburg,6.73,1,3.19,1,4,0,65.09
+364612,João Palhinha,joao-palhinha,2672,FC Bayern München,6.73,0,0.67,2,20,0,92.9
+1154597,Anrie Chase,anrie-chase,2677,VfB Stuttgart,6.73,0,0.14,2,10,0,92.05
+788786,Jordan Siebatcheu,jordan-siebatcheu,2547,1. FC Union Berlin,6.72,0,2.98,7,11,1,68.98
+1130067,Fabio Chiarodia,fabio-chiarodia,2527,Borussia M'gladbach,6.72,1,0.3,0,10,0,84.0
+770083,Mergim Berisha,mergim-berisha,2600,FC Augsburg,6.72,1,1.15,3,4,1,75.0
+1149113,Oscar Højlund,oscar-hojlund,2674,Eintracht Frankfurt,6.72,1,0.96,8,21,0,88.21
+988893,Armin Gigović,armin-gigovic,2573,Holstein Kiel,6.71,5,1.87,20,25,1,79.73
+1048888,Mathys Tel,mathys-tel,2672,FC Bayern München,6.71,0,0.74,6,2,1,86.55
+1006189,Issa Kaboré,issa-kabore,2534,SV Werder Bremen,6.71,0,0.69,7,8,1,85.0
+935281,Maximilian Breunig,maximilian-breunig,5885,1. FC Heidenheim,6.71,2,3.44,3,4,0,57.14
+168985,Janik Haberer,janik-haberer,2547,1. FC Union Berlin,6.71,0,0.73,2,39,0,78.48
+886737,Derrick Köhn,derrick-kohn,2534,SV Werder Bremen,6.7,2,0.75,15,20,2,83.72
+1198074,Aljoscha Kemlein,aljoscha-kemlein,2547,1. FC Union Berlin,6.7,1,0.94,5,10,0,75.45
+1493496,Shio Fukuda ,shio-fukuda,2527,Borussia M'gladbach,6.7,1,0.43,1,0,0,55.56
+904994,Eric Ebimbe,eric-ebimbe,2674,Eintracht Frankfurt,6.7,0,0.86,5,3,1,66.67
+861981,Nikolas Nartey,nikolas-nartey,2677,VfB Stuttgart,6.7,0,,0,0,0,80.0
+40239,Timothy Chandler,timothy-chandler,2674,Eintracht Frankfurt,6.7,0,,0,0,0,73.91
+1130647,Jonas Urbig,jonas-urbig,2672,FC Bayern München,6.7,0,,0,0,0,78.66
+377118,Robin Gosens,robin-gosens,2547,1. FC Union Berlin,6.7,0,0.02,0,0,0,58.06
+855854,Dani De Wit,dani-de-wit,2542,VfL Bochum 1848,6.7,2,2.12,1,29,1,73.1
+963073,Max Geschwill,max-geschwill,2573,Holstein Kiel,6.69,1,0.87,2,26,2,77.65
+1217613,Gift Orban,gift-orban,2569,TSG Hoffenheim,6.69,4,3.36,4,3,0,71.85
+980616,Lasse Rosenboom,lasse-rosenboom,2573,Holstein Kiel,6.69,2,1.88,7,47,2,62.81
+1390682,Mert Kömür,mert-komur,2600,FC Augsburg,6.69,2,1.14,12,3,1,76.04
+846356,Fredrik Jensen,fredrik-jensen,2600,FC Augsburg,6.69,0,0.68,7,7,0,74.38
+999276,Aurèle Amenda,aurele-amenda,2674,Eintracht Frankfurt,6.69,0,,1,1,0,83.82
+803039,Donyell Malen,donyell-malen,2673,Borussia Dortmund,6.69,3,2.94,11,0,0,75.44
+227224,Miloš Veljković,milos-veljkovic,2534,SV Werder Bremen,6.69,0,0.56,0,10,1,87.89
+1090010,Marin Ljubičić,marin-ljubicic,2547,1. FC Union Berlin,6.68,1,0.44,1,2,1,56.9
+134778,Alexander Schwolow,alexander-schwolow,2547,1. FC Union Berlin,6.68,0,,0,0,0,68.33
+1127823,Luca Jaquez,luca-jaquez,2677,VfB Stuttgart,6.68,0,0.21,0,3,0,91.9
+848458,Arnaud Nordin,arnaud-nordin,2556,1. FSV Mainz 05,6.68,0,0.02,1,2,0,84.85
+1152505,Nelson Weiper,nelson-weiper,2556,1. FSV Mainz 05,6.68,3,4.1,10,5,2,69.51
+1146018,Paul Wanner,paul-wanner,5885,1. FC Heidenheim,6.68,3,3.68,25,40,2,77.12
+1131337,Maximilian Rosenfelder,maximilian-rosenfelder,2538,SC Freiburg,6.68,1,0.39,14,27,0,87.38
+872919,Rubén Vargas,ruben-vargas,2600,FC Augsburg,6.68,0,0.69,6,2,0,86.89
+920022,Omar Haktab Traore,omar-haktab-traore,5885,1. FC Heidenheim,6.67,0,0.54,25,50,1,73.65
+906278,Josha Vagnoman,josha-vagnoman,2677,VfB Stuttgart,6.67,1,1.47,8,26,1,82.38
+800400,Sirlord Conteh,sirlord-conteh,5885,1. FC Heidenheim,6.67,1,2.05,6,9,1,76.26
+939623,Carlo Boukhalfa,carlo-boukhalfa,2526,FC St. Pauli,6.67,2,1.41,12,26,0,72.91
+886132,Moritz Kwarteng,moritz-kwarteng,2542,VfL Bochum 1848,6.67,0,0.19,6,4,0,80.0
+1083891,Henri Koudossou,henri-koudossou,2600,FC Augsburg,6.67,0,0.09,8,18,0,82.8
+113920,Stefan Lainer,stefan-lainer,2527,Borussia M'gladbach,6.67,1,0.32,5,22,0,82.78
+837205,Florian Neuhaus,florian-neuhaus,2527,Borussia M'gladbach,6.67,0,0.61,5,10,1,85.45
+1002920,Joe Scally,joe-scally,2527,Borussia M'gladbach,6.67,0,0.38,31,45,0,84.71
+1002813,Yan Couto,yan-couto,2673,Borussia Dortmund,6.67,0,0.27,13,24,0,85.2
+995316,Kilian Fischer,kilian-fischer,2524,VfL Wolfsburg,6.66,1,0.33,10,64,0,81.52
+111483,Michael Gregoritsch,michael-gregoritsch,2538,SC Freiburg,6.66,2,1.8,4,4,1,64.1
+169255,Yannick Gerhardt,yannick-gerhardt,2524,VfL Wolfsburg,6.66,1,1.23,1,28,0,79.13
+940236,Thomas Keller,thomas-keller,5885,1. FC Heidenheim,6.66,0,0.02,0,6,0,80.23
+1165722,Skelly Alvero,skelly-alvero,2534,SV Werder Bremen,6.66,0,0.03,2,11,0,75.56
+902381,Junior Adamu,chukwubuike-adamu,2538,SC Freiburg,6.66,2,5.59,10,9,2,64.69
+942937,Hong Hyun-seok,hong-hyun-seok,2556,1. FSV Mainz 05,6.66,0,0.52,4,8,1,79.82
+979144,Luca Netz,netz-luca,2527,Borussia M'gladbach,6.65,0,0.22,6,24,2,81.26
+89713,Andreas Albers,andreas-albers,2526,FC St. Pauli,6.65,1,0.61,2,1,0,51.72
+1596573,Bruno Ogbus,bruno-ogbus,2538,SC Freiburg,6.65,0,,0,1,0,100.0
+838232,Eljif Elmas,eljif-elmas,36360,RB Leipzig,6.65,0,0.34,1,3,0,81.25
+1149127,Arthur Vermeeren,arthur-vermeeren,36360,RB Leipzig,6.65,0,0.38,6,32,2,86.48
+1138778,Tim Oermann,tim-oermann,2542,VfL Bochum 1848,6.65,0,0.16,6,48,2,83.94
+311676,Jonas Föhrenbach,jonas-fohrenbach,5885,1. FC Heidenheim,6.64,0,0.26,7,45,1,74.93
+989371,Aster Vranckx,aster-vranckx,2524,VfL Wolfsburg,6.64,0,,5,11,0,83.84
+1083410,Umut Tohumcu,umut-tohumcu,2569,TSG Hoffenheim,6.64,0,0.11,4,9,1,87.1
+842164,Siebe Van Der Heyden,siebe-van-der-heyden,2526,FC St. Pauli,6.64,1,1.73,1,17,0,81.43
+252343,Adam Dźwigała,adam-dzwigaa,2526,FC St. Pauli,6.64,0,0.39,1,20,0,82.81
+1005834,Armindo Sieb,armindo-sieb,2556,1. FSV Mainz 05,6.64,2,2.82,11,10,2,71.35
+164171,Kevin Behrens,kevin-behrens,2524,VfL Wolfsburg,6.64,1,2.34,0,1,0,60.26
+877837,Fiete Arp,fiete-arp,2573,Holstein Kiel,6.63,2,3.75,14,13,0,65.19
+814735,Timo Becker,timo-becker,2573,Holstein Kiel,6.63,0,1.51,12,53,2,77.07
+960114,Olivier Deman,olivier-deman,2534,SV Werder Bremen,6.63,0,,0,6,0,69.05
+1066042,Julian Niehues,julian-niehues,5885,1. FC Heidenheim,6.63,0,0.25,1,3,0,79.27
+1135884,Lewis Holtby,lewis-holtby,2573,Holstein Kiel,6.63,0,0.57,7,34,1,80.5
+1097453,Luca Kerber,luca-kerber,5885,1. FC Heidenheim,6.63,2,0.6,1,26,0,75.21
+1019321,Igor Matanović,igor-matanovic,2674,Eintracht Frankfurt,6.63,1,1.14,3,2,0,76.0
+826057,Mads Roerslev,mads-roerslev,2524,VfL Wolfsburg,6.63,0,,2,10,0,85.31
+940393,Maximilian Bauer,maximilian-bauer,2600,FC Augsburg,6.63,0,0.18,0,14,0,81.87
+855808,Samuel Essende,samuel-essende,2600,FC Augsburg,6.62,7,4.19,14,7,2,66.1
+795004,Dennis Geiger,dennis-geiger,2569,TSG Hoffenheim,6.62,0,0.17,4,24,0,88.35
+1174761,Arthur,arthur,2681,Bayer 04 Leverkusen,6.61,0,0.06,5,14,1,82.26
+977919,Magnus Knudsen,magnus-knudsen,2573,Holstein Kiel,6.61,0,0.71,9,48,1,84.94
+157377,Silvan Widmer,silvan-widmer,2556,1. FSV Mainz 05,6.61,0,0.33,0,11,1,78.4
+1146132,Justin Diehl,diehl-justin,2677,VfB Stuttgart,6.6,1,0.97,3,1,0,85.71
+800252,Tim Skarke,tim-skarke,2547,1. FC Union Berlin,6.6,0,1.69,10,14,2,72.01
+836711,Jan-Niklas Beste,jan-niklas-beste,2538,SC Freiburg,6.6,0,0.9,2,2,1,85.92
+1130663,Noah Pesch,noah-pesch,2527,Borussia M'gladbach,6.6,0,,0,1,0,33.33
+856594,Aymen Barkok,aymen-barkok,2556,1. FSV Mainz 05,6.6,0,,0,2,0,68.75
+1418620,Almugera Kabar,almugera-kabar,2673,Borussia Dortmund,6.6,0,,1,5,0,91.57
+796672,Ivan Prtajin,ivan-prtajin,2547,1. FC Union Berlin,6.6,0,0.52,1,3,0,37.78
+1138150,Nikolas Veratschnig,nikolas-veratschnig,2556,1. FSV Mainz 05,6.6,0,0.22,2,9,0,76.15
+1129940,Gabriel Vidović,gabriel-vidovic,2672,FC Bayern München,6.6,0,0.16,0,0,0,100.0
+964152,Dominik Javorček,dominik-javorcek,2573,Holstein Kiel,6.59,0,0.02,4,3,2,75.44
+1105869,Marko Ivezić,marko-ivezic,2573,Holstein Kiel,6.59,0,0.55,4,29,0,86.11
+842922,Stefan Schimmer,stefan-schimmer,5885,1. FC Heidenheim,6.58,0,1.07,0,2,0,62.0
+1030711,David Jurásek,david-jurasek,2569,TSG Hoffenheim,6.58,0,0.11,3,6,1,73.7
+893962,Lennard Maloney,lennard-maloney,2556,1. FSV Mainz 05,6.58,0,0.33,1,22,0,71.38
+791079,Xaver Schlager,xaver-schlager,36360,RB Leipzig,6.58,0,0.06,1,4,0,87.5
+119179,Anthony Losilla,anthony-losilla,2542,VfL Bochum 1848,6.57,0,0.13,1,28,0,77.56
+358984,Koji Miyoshi,koji-miyoshi,2542,VfL Bochum 1848,6.56,1,1.11,5,8,0,64.1
+904991,Stanley Nsoki,stanley-nsoki,2569,TSG Hoffenheim,6.56,0,0.1,11,22,0,86.58
+842858,Florian Müller,florian-muller,2538,SC Freiburg,6.56,0,,0,0,0,60.14
+1134578,Cole Campbell,cole-campbell,2673,Borussia Dortmund,6.55,0,,0,0,0,85.71
+117373,Kevin Volland,kevin-volland,2547,1. FC Union Berlin,6.55,0,,0,0,0,71.43
+1888501,Abdoulie Ceesay,abdoulie-ceesay,2526,FC St. Pauli,6.55,0,,0,3,0,57.14
+989168,Erencan Yardımcı,erencan-yardimci,2569,TSG Hoffenheim,6.55,0,0.94,0,4,0,61.82
+1518974,David Preu,david-preu,2547,1. FC Union Berlin,6.55,0,0.13,2,1,0,64.0
+834986,Robert Gumny,robert-gumny,2600,FC Augsburg,6.54,0,0.34,2,3,0,79.0
+146500,Jérôme Roussillon,jerome-roussillon,2547,1. FC Union Berlin,6.54,0,0.1,1,0,0,75.0
+1171540,Julien Duranville,julien-duranville,2673,Borussia Dortmund,6.54,0,0.24,12,3,0,81.43
+888854,Connor Metcalfe,connor-metcalfe,2526,FC St. Pauli,6.54,0,0.7,3,2,0,65.42
+165413,Karim Onisiwo,karim-onisiwo,2556,1. FSV Mainz 05,6.54,0,0.07,1,1,0,63.64
+1083382,Lukas Ullrich,lukas-ullrich,2527,Borussia M'gladbach,6.53,1,0.87,8,25,2,77.65
+980742,Erik Ahlstrand,erik-ahlstrand,2526,FC St. Pauli,6.53,0,,0,0,0,76.92
+924205,Moritz Broschinski,moritz-broschinski,2542,VfL Bochum 1848,6.53,1,3.85,14,18,3,69.92
+877297,Lukas Daschner,lukas-daschner,2542,VfL Bochum 1848,6.53,1,2.74,5,4,1,70.16
+929163,Tomáš Čvančara,tomas-cvancara,2527,Borussia M'gladbach,6.52,2,3.77,6,4,0,75.12
+254445,Marvin Schulz,marvin-schulz,2573,Holstein Kiel,6.52,0,0.03,1,6,0,80.92
+1197157,Mats Pannewig,mats-pannewig,2542,VfL Bochum 1848,6.51,0,0.81,1,10,0,77.78
+1131339,Jordy Makengo,jordy-makengo,2538,SC Freiburg,6.51,0,,4,16,0,84.43
+254297,Ihlas Bebou,ihlas-bebou,2569,TSG Hoffenheim,6.5,0,,0,0,0,50.0
+1900995,Viggo Gebel,viggo-gebel,36360,RB Leipzig,6.5,0,,0,0,0,75.0
+122578,Denis Thomalla,denis-thomalla,5885,1. FC Heidenheim,6.5,0,,0,0,0,100.0
+253993,Grischa Prömel,grischa-promel,2569,TSG Hoffenheim,6.5,0,,0,0,0,85.87
+1138040,Yannik Lührs,yannik-luhrs,2673,Borussia Dortmund,6.5,0,,0,1,0,92.07
+1131338,Robert Wagner,robert-wagner,2526,FC St. Pauli,6.5,0,0.11,1,8,0,77.17
+1064082,Merlin Röhl,merlin-rohl,2538,SC Freiburg,6.49,0,0.77,12,16,1,77.97
+944027,Scott Banks,scott-banks,2526,FC St. Pauli,6.49,0,0.28,2,1,0,71.43
+979315,Elye Wahi,elye-wahi,2674,Eintracht Frankfurt,6.49,0,1.33,6,0,0,70.27
+1083404,Samuel Bamba,bamba-samuel,2542,VfL Bochum 1848,6.47,0,0.1,1,1,0,94.12
+117794,Cristian Gamboa,cristian-gamboa,2542,VfL Bochum 1848,6.46,1,0.16,0,8,0,62.63
+1152499,Tim Drexler,drexler-tim,2569,TSG Hoffenheim,6.46,0,0.06,0,17,0,85.23
+1002357,Aliou Balde,aliou-balde,2542,VfL Bochum 1848,6.44,0,0.19,2,1,0,71.43
+1173172,Jeanuël Belocian,jeanuel-belocian,2681,Bayer 04 Leverkusen,6.43,0,,1,1,0,88.89
+957615,Robin Hranáč,robin-hranac,2569,TSG Hoffenheim,6.43,0,,0,0,0,86.39
+347116,Carl Johansson,carl-johansson,2573,Holstein Kiel,6.41,0,0.05,0,4,0,88.12
+1149349,Florian Micheler,florian-micheler,2569,TSG Hoffenheim,6.4,0,,1,0,0,91.67
+1864801,Paul Hennrich,paul-hennrich,2569,TSG Hoffenheim,6.4,0,,0,0,0,100.0
+1130950,Grant-Leon Ranos,grant-leon-ranos,2527,Borussia M'gladbach,6.4,0,,0,1,0,63.64
+826205,Dan Zagadou,dan-zagadou,2677,VfB Stuttgart,6.4,0,,0,0,0,100.0
+1428576,Kjell Wätjen,kjell-watjen,2673,Borussia Dortmund,6.4,0,,0,0,0,37.5
+1001867,Arne Engels,engels-arne,2600,FC Augsburg,6.4,0,0.39,0,0,0,82.61
+809219,Mads Pedersen,mads-pedersen,2600,FC Augsburg,6.4,0,0.07,2,8,0,80.95
+171927,Maximilian Philipp,maximilian-philipp,2538,SC Freiburg,6.4,0,0.04,0,0,0,42.86
+15004,Norman Theuerkauf,norman-theuerkauf,5885,1. FC Heidenheim,6.4,0,0.03,0,0,0,83.33
+990210,Ayman Azhil,ayman-azhil,2673,Borussia Dortmund,6.3,0,,0,1,0,75.0
+1466124,Adam Aznou,adam-aznou,2672,FC Bayern München,6.3,0,,0,0,0,84.62
+1048265,Daniel Peretz,daniel-peretz,2672,FC Bayern München,6.3,0,,0,0,0,75.51
+1418623,Assan Ouédraogo,assan-ouedraogo,36360,RB Leipzig,6.23,0,0.06,0,0,0,83.33
+8772,Tobias Sippel,tobias-sippel,2527,Borussia M'gladbach,5.9,0,,0,0,0,56.25
+880741,Ivan Nekić,ivan-nekic,2573,Holstein Kiel,5.7,0,,0,1,0,75.0
+1142248,Arijon Ibrahimović,arijon-ibrahimovic,2672,FC Bayern München,0.0,0,,1,0,0,100.0
+1418665,Jarzinho Malanga,jarzinho-malanga,2677,VfB Stuttgart,0.0,0,,0,0,0,100.0
+243693,Maurides,maurides,2526,FC St. Pauli,0.0,0,,0,0,0,50.0
+1926445,Kacper Kościerski,kacper-koscierski,2542,VfL Bochum 1848,0.0,0,,0,0,0,0.0
+1064630,Fin Stevens,finley-stevens,2526,FC St. Pauli,0.0,0,,0,0,0,0.0
+1901001,Faik Sakar,faik-sakar,36360,RB Leipzig,0.0,0,,0,0,0,0.0
+1503757,Jonah Kusi-Asare,jonah-kusi-asare,2672,FC Bayern München,0.0,0,0.04,0,1,0,100.0

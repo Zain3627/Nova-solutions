@@ -1,0 +1,389 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+958123,Ismaïl Belkacemi,belkacemi-abdelfetah-ismail,42206,USM Alger,8.18,5,,1,6,2,61.9
+970755,Mehdi Maftah,mehdi-maftah,80395,RS Berkane,7.9,0,,0,0,0,58.82
+1655374,Brahim Dib,brahim-dib,55393,CS Constantine,7.75,2,,7,19,5,81.05
+1427164,N'Golo Traoré,ngolo-traore,69326,Stade Malien,7.63,0,,0,0,0,43.21
+547494,Zizo,zizo,42368,Zamalek SC,7.57,2,,10,0,2,81.77
+1002239,Adem Alilet,adem-alilet,42206,USM Alger,7.48,1,,6,7,0,87.45
+2002448,Jean Ahoua,jean-ahoua,212409,Simba SC,7.43,3,,15,7,2,78.86
+1393699,Ahmed Esho,ahmed-esho,42368,Zamalek SC,7.4,1,,0,2,0,77.78
+159681,Mohamed Sobhi,mohamed-sobhi,42368,Zamalek SC,7.4,0,,0,0,0,81.48
+1464675,Elie Mpanzu,elie-mpanzu,212409,Simba SC,7.39,1,,32,7,2,78.87
+1024076,Joseph Atule,joseph-atule,42371,Enyimba,7.38,2,,8,2,1,77.78
+1093721,Mostafa Shalaby,mostafa-shalaby,42368,Zamalek SC,7.38,1,,19,4,1,78.54
+198472,Abdallah El-Said,abdallah-el-said,42368,Zamalek SC,7.37,0,,4,3,0,78.37
+1140803,Abdelhak Assal,abdelhak-assal,80395,RS Berkane,7.36,0,,5,22,1,85.1
+290623,Fakhreddine Ben Youssef,fakhreddine-ben-youssef,43560,Al-Masry,7.33,3,,5,6,0,77.31
+918505,Nabil Donga,nabil-donga,42368,Zamalek SC,7.33,1,,1,11,0,87.96
+931032,Fawaaz Basadien,fawaaz-basadien,43555,Stellenbosch,7.3,1,,2,9,2,77.85
+918728,Hassan Ali,hassan-ali,43560,Al-Masry,7.3,0,,5,10,0,83.72
+1140833,Oussama Lamlioui,oussama-lamlioui,80395,RS Berkane,7.29,5,,1,7,1,70.41
+941632,Saâdi Redouani,saadi-redouani,42206,USM Alger,7.27,2,,3,8,0,78.74
+1000908,Danilson,danilson,394492,CD Lunda Sul,7.27,1,,0,4,0,82.14
+1107548,Jean Rémi Bocandé,jean-remi-bocande,87306,ASC Jaraaf,7.27,0,,1,5,2,71.1
+1095727,Haytam Manaout,haytam-manaout,80395,RS Berkane,7.27,0,,0,17,2,79.74
+1127733,Falilou Fall,falilou-fall,87306,ASC Jaraaf,7.27,0,,5,11,0,70.0
+364758,Issoufou Dayo,issoufou-dayo,80395,RS Berkane,7.25,3,,0,5,2,84.51
+1021274,Omar Faraj,omar-faraj,42368,Zamalek SC,7.25,1,,1,2,0,64.29
+919532,Yassine Labhiri,yassine-labhiri,80395,RS Berkane,7.24,0,,18,12,1,82.08
+1928430,Ifeanyi Ihemekwele,ifeanyi-ihemekwele,42371,Enyimba,7.23,4,,3,3,0,76.6
+1063327,Hossam Abdelmaguid,hossam-abdelmaguid,42368,Zamalek SC,7.23,0,,0,16,1,87.98
+823604,John Okoye Ebuka,john-okoye-ebuka,43560,Al-Masry,7.2,1,,1,0,0,33.33
+1013923,Abderrazak Rhazouat,abderrazak-rhazouat,80395,RS Berkane,7.2,0,,0,2,0,64.29
+1804768,Guilherme Neto,guilherme-neto,394492,CD Lunda Sul,7.2,0,,0,0,0,77.78
+1876606,Mohamed El Sayed,mohamed-el-sayed,42368,Zamalek SC,7.2,0,,3,3,0,97.14
+1023486,Chamseddine Derradji,chamseddine-derradji,55393,CS Constantine,7.2,0,,1,2,0,84.15
+880622,Ahmed Fatouh,ahmed-fatouh,42368,Zamalek SC,7.2,0,,7,7,0,86.04
+159677,Omar Gaber,omar-gaber,42368,Zamalek SC,7.2,0,,4,8,0,89.15
+782542,Hamza El Moussaoui,hamza-el-moussaoui,80395,RS Berkane,7.19,0,,8,6,1,73.65
+1049669,Jayden Adams,jayden-adams,43555,Stellenbosch,7.18,1,,4,5,0,84.96
+1000473,Adil Tahif,adil-tahif,80395,RS Berkane,7.18,0,,1,8,0,89.49
+1610767,Elijah Akanni,elijah-akanni,42371,Enyimba,7.18,0,,5,2,1,89.51
+966973,Mahmoud Gad,mahmoud-gad,43560,Al-Masry,7.18,0,,0,0,0,65.63
+1018484,Houari Baouche,houari-baouche,55393,CS Constantine,7.17,0,,22,19,1,77.26
+333459,Mahmoud Hamdi,mahmoud-hamdi,42368,Zamalek SC,7.15,0,,0,7,0,86.82
+1587052,Henry Ani Ozoemena,henry-ani-ozoemena,42371,Enyimba,7.14,0,,0,0,0,63.28
+1218753,Mounder Temine,mounder-temine,55393,CS Constantine,7.13,2,,1,8,0,73.33
+1612722,Lassine Kouma,lassine-kouma,69326,Stade Malien,7.13,0,,8,15,0,78.62
+1183548,Ismaël Olivier Toure,ismael-olivier-toure,43555,Stellenbosch,7.13,0,,0,7,1,86.24
+1612716,Daouda Coulibaly,daouda-coulibaly,69326,Stade Malien,7.12,1,,6,6,1,66.03
+1610702,Kalu Nweke,kalu-nweke,42371,Enyimba,7.12,0,,4,12,2,84.31
+894802,Sage Stephens,sage-stephens,43555,Stellenbosch,7.11,0,,0,0,0,69.53
+2026670,Célestin Ecua,celestin-ecua,42360,ASEC Mimosas,7.1,2,,5,4,0,72.0
+105394,Mahmoud Abdel Razik Shikabala,shikabala,42368,Zamalek SC,7.1,0,,1,0,1,78.57
+846506,Mehdi Merghem,mehdi-merghem,42206,USM Alger,7.1,0,,0,3,0,83.58
+1525293,Amine El Maswab,amine-el-maswab,80395,RS Berkane,7.1,0,,0,0,0,80.0
+2003180,Moustapha Guèye,moustapha-gueye,87306,ASC Jaraaf,7.1,0,,0,4,0,67.37
+1011207,Mohamed Shehata,mohamed-shehata,42368,Zamalek SC,7.1,0,,4,15,0,85.61
+1474126,Nayan,nayan,394492,CD Lunda Sul,7.1,0,,0,0,0,64.65
+985958,Shomari Kapombe,shomari-kapombe,212409,Simba SC,7.09,0,,4,24,1,73.01
+1655371,Oussama Meddahi,oussama-meddahi,55393,CS Constantine,7.09,0,,0,31,3,80.51
+1064086,Atte Youssifou,atte-youssifou,42360,ASEC Mimosas,7.09,0,,6,20,1,73.82
+933892,Abderrahim Deghmoum,abderrahim-deghmoum,43560,Al-Masry,7.09,1,,17,10,0,78.98
+918996,Seifeddine Jaziri,seifeddine-jaziri,42368,Zamalek SC,7.08,3,,5,4,0,74.68
+1424605,Mahmoud Bentayg,bentayg-mahmoud,42368,Zamalek SC,7.08,0,,5,9,1,92.86
+1014043,Nabil Lamara,nabil-lamara,42206,USM Alger,7.08,1,,3,2,0,80.88
+918831,Khaled El Ghandour,khaled-el-ghandour,43560,Al-Masry,7.08,0,,0,5,1,85.71
+934079,Fabrice Ngoma,fabrice-ngoma,212409,Simba SC,7.08,0,,5,25,0,81.41
+2002669,Haman Mandjan,haman-mandjan,69326,Stade Malien,7.07,1,,1,3,0,81.82
+872349,Kévin Mondeko,kevin-mondeko,42206,USM Alger,7.07,1,,1,4,0,87.08
+918911,Samir Fekri,samir-fekri,43560,Al-Masry,7.07,0,,1,3,0,82.61
+941633,Houssameddine Ghacha,houssameddine-ghacha,42206,USM Alger,7.06,1,,10,10,2,72.31
+2003724,Mohamed Sadil,mohamed-sadil,80395,RS Berkane,7.06,0,,0,6,0,84.46
+1166995,Soumaila Sidibe,soumaila-sidibe,80395,RS Berkane,7.05,1,,3,6,0,84.26
+1007597,Koffi Constant Kouame,koffi-constant-kouame,44463,CS Sfaxien,7.05,0,,0,1,0,75.93
+1107465,Imo Obot,imo-obot,42371,Enyimba,7.05,0,,1,4,0,80.28
+822486,Moussa Camara,moussa-camara,212409,Simba SC,7.05,0,,0,0,0,71.35
+1125405,Denis Kibu,denis-kibu,212409,Simba SC,7.04,3,,32,8,0,74.24
+918621,Mahmoud Hamada,hamada-mahmoud,43560,Al-Masry,7.04,2,,2,14,0,87.04
+1155596,Mamadou Lamine Camara,camara-mamadou-lamine,80395,RS Berkane,7.03,1,,6,25,1,79.15
+2002888,Samy,samy,195753,FC Bravos do Maquis,7.03,0,,1,6,0,86.99
+2003558,Cuca,cuca,394492,CD Lunda Sul,7.03,0,,5,3,0,81.82
+560158,Mohamed Awad,mohamed-awad,42368,Zamalek SC,7.03,0,,0,0,0,80.18
+141967,Munir El Kajoui,munir-mohamedi,80395,RS Berkane,7.03,0,,1,0,0,73.21
+1102957,Paul Bassène,paul-bassene,80395,RS Berkane,7.02,3,,5,3,1,73.79
+2003187,Almamy Fall,almamy-fall,87306,ASC Jaraaf,7.02,1,,1,3,0,60.92
+930883,Koffi Dakoi,koffi-dakoi,42360,ASEC Mimosas,7.02,0,,4,6,0,89.47
+358792,Andre De Jong,andre-de-jong,43555,Stellenbosch,7.01,2,,1,2,0,78.4
+1018811,Sihle Nduli,sihle-nduli,43555,Stellenbosch,7.01,1,,5,27,0,83.57
+1170317,Imad Riahi,imad-riahi,80395,RS Berkane,7.01,2,,10,8,2,86.67
+1182224,Jó Paciência,jo-paciencia,195753,FC Bravos do Maquis,7.0,2,,4,1,0,74.07
+1083236,Salifou Diarrassouba,salifou-diarrassouba,42360,ASEC Mimosas,7.0,2,,7,8,0,77.44
+2003197,Divine Ukadike,chiemerie-ukadike,42371,Enyimba,7.0,0,,1,9,1,74.45
+1140815,Salah Moussadak,salah-moussadak,42368,Zamalek SC,7.0,0,,0,1,0,90.0
+873548,Nasser Maher,nasser-maher,42368,Zamalek SC,7.0,0,,3,1,0,77.78
+1823726,Mohammed Ouyahya,mohammed-ouyahya,80395,RS Berkane,7.0,0,,2,3,0,73.68
+2002649,Hadama Cisse,hadama-cisse,69326,Stade Malien,7.0,0,,4,4,0,68.25
+1008213,Ousmane Coulibaly,ousmane-coulibaly,69326,Stade Malien,7.0,0,,2,6,0,68.49
+1587046,Chikamso Okechukwu,chikamso-okechukwu,42371,Enyimba,7.0,0,,0,10,0,77.89
+1018826,Imadeddine Azzi,imadeddine-azzi,42206,USM Alger,7.0,0,,0,5,0,88.5
+1612715,Dramane Traoré,dramane-traore,69326,Stade Malien,7.0,0,,3,6,0,60.0
+1113028,Laïd Chahine Bellaouel,laid-chahine-bellaouel,55393,CS Constantine,6.99,1,,0,16,1,80.86
+1612113,Sacko Seydou,sacko-seydou,42360,ASEC Mimosas,6.99,0,,0,18,1,85.4
+1499155,Mohamed Ali Yabré,mohamed-ali-yabre,42360,ASEC Mimosas,6.98,0,,3,16,1,80.0
+1064699,Abednego Mosiatlhaga,abednego-mosiatlhaga,195753,FC Bravos do Maquis,6.98,2,,3,4,1,89.66
+919954,Youssef Zghoudi,youssef-zghoudi,80395,RS Berkane,6.98,3,,4,5,0,71.19
+1182584,Youssef Mehri,youssef-mehri,80395,RS Berkane,6.98,2,,9,15,1,80.07
+973053,Mohamed Hussein,mohamed-husseini,212409,Simba SC,6.98,1,,3,24,1,80.43
+1183666,Mohamed Nasraoui,mohamed-nasraoui,44463,CS Sfaxien,6.98,1,,0,7,0,87.78
+1471146,Brahim Benzaza,brahim-benzaza,42206,USM Alger,6.98,0,,7,18,1,80.36
+2002682,Solomane Coulibaly,solomane-coulibaly,69326,Stade Malien,6.97,0,,0,0,0,75.9
+2002683,Soumaila Magassouba,soumaila-magassouba,69326,Stade Malien,6.97,0,,7,11,0,72.43
+1427165,Moussa Diallo,moussa-diallo,69326,Stade Malien,6.97,0,,0,15,0,67.82
+2003576,Rupson,rupson,394492,CD Lunda Sul,6.97,0,,0,3,0,65.22
+1008616,Franck Zouzou,franck-zouzou,42360,ASEC Mimosas,6.96,0,,0,10,0,83.17
+1048454,Hossam Ashraf,hossam-ashraf,42368,Zamalek SC,6.96,2,,0,0,0,74.19
+1000182,Adalid Terrazas,adalid-terrazas,42206,USM Alger,6.96,0,,2,3,0,83.93
+1004225,Abdennour Belhocini,belhocini-abdennour,55393,CS Constantine,6.96,3,,6,2,0,72.73
+1018540,Dadi El Hocine Mouaki,dadi-el-hocine-mouaki,55393,CS Constantine,6.96,2,,7,2,0,72.41
+1000454,Zakaria Bouhalfaya,zakaria-bouhalfaya,55393,CS Constantine,6.96,0,,0,0,0,67.44
+973050,Messalla Merbah,messalla-merbah,55393,CS Constantine,6.96,0,,2,28,0,89.45
+1013858,Firas Sekkouhi,firas-sekkouhi,44463,CS Sfaxien,6.95,1,,3,14,1,79.46
+978956,Ayoub Khairi,ayoub-khairi,80395,RS Berkane,6.95,0,,1,8,2,83.03
+563024,Hamza Mathlouthi,mathlouthi-hamza,42368,Zamalek SC,6.95,0,,0,2,0,86.32
+1127768,Ernan,ernan,375117,Associação Black Bulls,6.95,0,,1,1,0,73.56
+1002476,Issaga Kane,issaga-kane,87306,ASC Jaraaf,6.95,0,,1,16,0,85.34
+998536,Lesenya Malapela,lesenya-malapela,297710,Orapa United,6.95,0,,1,1,0,51.09
+1469729,Islam Merili,islam-merili,42206,USM Alger,6.94,1,,4,6,0,91.94
+975848,Mohamed Benchaira,mohamed-benchaira,55393,CS Constantine,6.94,0,,7,13,1,85.71
+1533733,Pape Badji,pape-badji,43560,Al-Masry,6.94,0,,2,5,0,65.71
+1099271,Mamadou Doumbia,mamadou-doumbia,69326,Stade Malien,6.94,0,,0,6,0,73.83
+1612658,Platini,platini,394492,CD Lunda Sul,6.94,0,,2,8,0,84.02
+2003557,Crespo,crespo,394492,CD Lunda Sul,6.94,0,,5,9,0,81.74
+2002659,Kankonde Tshisungu,kankonde-tshisungu,42360,ASEC Mimosas,6.93,1,,1,1,0,81.82
+1049560,Adama Wade,adama-wade,87306,ASC Jaraaf,6.93,0,,0,4,0,72.27
+1640521,Júnior Goiano,junior-goiano,394492,CD Lunda Sul,6.93,0,,0,9,0,81.94
+945822,Zakaria Benchaa,zakaria-benchaa,55393,CS Constantine,6.93,2,,8,7,0,72.41
+980369,Wale Musa Alli,wale-musa-alli,42206,USM Alger,6.93,1,,5,6,2,80.19
+1064698,Chumani Thembile Butsaka,chumani-thembile-butsaka,43555,Stellenbosch,6.92,1,,8,10,0,83.83
+851243,Konrad Michalak,konrad-michalak,42368,Zamalek SC,6.92,0,,2,5,1,70.21
+918604,Baher El Mohamady,baher-el-mohamady,43560,Al-Masry,6.92,0,,1,7,0,82.54
+1389833,Abdoulaye Diedhiou,abdoulaye-diedhiou,87306,ASC Jaraaf,6.92,0,,0,3,0,83.45
+1099692,Abdulrazack Hamza,abdulrazack-hamza,212409,Simba SC,6.92,0,,3,9,0,89.94
+1112014,Fidel Helder De Sousa,fidel-helder-de-sousa,375117,Associação Black Bulls,6.92,1,,2,2,2,82.5
+2002679,Siaka Diaby,siaka-diaby,69326,Stade Malien,6.92,1,,1,3,0,62.5
+1107544,Cheikh Ndoye,cheikh-ndoye,87306,ASC Jaraaf,6.92,0,,0,1,0,43.17
+1007589,Oussama Benbot,oussama-benbot,42206,USM Alger,6.91,0,,1,0,0,71.11
+2004355,Rume Akporoh,rume-akporoh,375117,Associação Black Bulls,6.9,2,,2,9,0,80.51
+871738,Mido Gaber,mido-gaber,43560,Al-Masry,6.9,1,,0,1,0,66.67
+1163229,Ahmed Mahmoud,ahmed-mahmoud,42368,Zamalek SC,6.9,0,,1,3,0,75.0
+1612625,Adi Boyó,adi-boyo,195753,FC Bravos do Maquis,6.9,0,,0,2,0,63.64
+2003561,Dasfáa,dasfaa,394492,CD Lunda Sul,6.9,0,,1,2,0,78.95
+2003565,João Mulundu,joao-mulundo,394492,CD Lunda Sul,6.9,0,,1,2,0,81.58
+1902412,Omega Mdaka,omega-mdaka,43555,Stellenbosch,6.9,0,,4,5,0,70.37
+1527564,Ibrahim Doumbia,ibrahim-doumbia,42360,ASEC Mimosas,6.9,0,,0,5,0,86.67
+1612733,Youssouf Coulibaly,youssouf-coulibaly,69326,Stade Malien,6.9,0,,0,9,0,69.62
+2003189,Abdoulaye Faty,abdoulaye-faty,87306,ASC Jaraaf,6.9,0,,13,14,0,77.33
+967127,Khaled Sobhi,khaled-sobhi,43560,Al-Masry,6.9,0,,1,6,0,81.08
+1018809,Sanele Barns,sanele-barns,43555,Stellenbosch,6.89,0,,4,9,1,75.5
+927648,Glody Likonza,glody-likonza,42206,USM Alger,6.89,0,,3,10,0,80.92
+990975,Feliciano Jone Nenê,feliciano-jone-nene,375117,Associação Black Bulls,6.88,1,,3,4,0,87.78
+873543,Amr Saadawy,amr-saadawy,43560,Al-Masry,6.88,0,,1,9,0,79.75
+1199299,Che Malone,che-malone,212409,Simba SC,6.88,0,,3,13,0,83.3
+2002864,Célio,celio,195753,FC Bravos do Maquis,6.88,1,,0,4,0,89.19
+1013910,Wadhah Zaidi,wadhah-zaidi,44463,CS Sfaxien,6.87,0,,4,3,0,53.66
+2004352,Teixeira,teixeira,375117,Associação Black Bulls,6.87,0,,0,0,0,81.16
+1610627,Austin Onyemaechi,austin-onyemaechi,42371,Enyimba,6.85,0,,1,1,1,76.19
+2004359,Hammed Jeleel,hammed-jeleel,375117,Associação Black Bulls,6.85,0,,7,3,1,75.58
+1992473,Abdou Aziz Ndiaye,abdou-aziz-ndiaye,87306,ASC Jaraaf,6.85,0,,2,3,0,74.42
+1515604,Diby Gautier,diby-gautier,42360,ASEC Mimosas,6.85,0,,0,1,0,44.44
+2003182,Papa Dione,papa-dione,87306,ASC Jaraaf,6.85,0,,1,4,0,70.37
+2002641,Abdoulaye Coulibaly,abdoulaye-coulibaly,69326,Stade Malien,6.85,0,,2,12,0,69.87
+918578,Mohamed Hashem,mohamed-hashem,43560,Al-Masry,6.84,1,,0,2,0,81.32
+977711,Tosin Omoyele,tosin-omoyele,55393,CS Constantine,6.84,1,,0,1,0,72.73
+1096751,Devin Titus,devin-titus,43555,Stellenbosch,6.84,1,,5,5,0,68.53
+1515569,Fabien Winley,fabien-winley,44463,CS Sfaxien,6.84,0,,8,11,0,67.06
+1185318,Armand Dagrou,armand-dagrou,42360,ASEC Mimosas,6.84,1,,4,3,0,72.22
+1114480,Reda Hajji,reda-hajji,80395,RS Berkane,6.84,1,,5,6,0,78.3
+1427133,Fady Sidiki Coulibaly,fady-sidiki-coulibaly,69326,Stade Malien,6.83,0,,1,5,0,76.72
+2003553,Chonene,chonene,394492,CD Lunda Sul,6.83,0,,1,3,0,64.71
+932999,Oussama Chita,oussama-chita,42206,USM Alger,6.83,0,,1,7,0,91.45
+1587050,Gabriel Innocent,gabriel-innocent,42371,Enyimba,6.83,0,,3,11,0,85.65
+2003188,Abdoulaye Oualy,abdoulaye-oualy,87306,ASC Jaraaf,6.83,1,,2,5,0,72.41
+2003574,Kamogelo Moloi,kamogelo-moloi,297710,Orapa United,6.83,1,,3,1,0,68.0
+2004356,Khadre Guèye,khadre-gueye,375117,Associação Black Bulls,6.82,0,,4,4,1,89.5
+1509176,Fernando Chamboco,fernando-chamboco,375117,Associação Black Bulls,6.82,0,,2,15,0,86.97
+895498,Razak Cissé,cisse-razak,42360,ASEC Mimosas,6.82,0,,9,5,0,71.7
+890985,Moctar Cisse,moctar-cisse,69326,Stade Malien,6.82,0,,1,2,0,65.79
+1528546,Rúben,ruben,195753,FC Bravos do Maquis,6.82,0,,2,11,0,86.38
+37377,Brown Ideye,brown-ideye,42371,Enyimba,6.8,1,,1,0,0,95.0
+2003774,Mohamed Benmazouz,mohamed-benmazouz,42206,USM Alger,6.8,1,,1,0,0,38.46
+1587057,Pascal Eze,pascal-eze,42371,Enyimba,6.8,0,,0,4,1,85.34
+1490960,Moise Kaboré,moise-kabore,42360,ASEC Mimosas,6.8,0,,0,0,0,87.5
+2034455,Balla Traore,balla-traore,69326,Stade Malien,6.8,0,,1,1,0,75.0
+2003178,Mame Jallow,mame-jallow,87306,ASC Jaraaf,6.8,0,,0,0,0,75.0
+2002450,Awesu Awesu,awesu-awesu,212409,Simba SC,6.8,0,,1,2,0,82.61
+975834,Ilyes Chetti,ilyes-chetti,42206,USM Alger,6.8,0,,3,2,0,87.88
+1607191,Ladaki Chasambi,ladaki-chasambi,212409,Simba SC,6.8,0,,3,1,0,84.38
+1136028,Thato Khiba,thato-khiba,43555,Stellenbosch,6.8,0,,3,7,0,84.31
+2002451,Chamou Karaboue,chamou-karaboue,212409,Simba SC,6.8,0,,2,4,0,90.48
+982421,Brendon Moloisane,brendon-moloisane,43555,Stellenbosch,6.8,0,,3,14,0,82.44
+967150,Mohamed Makhlouf,mohamed-makhlouf,43560,Al-Masry,6.79,0,,2,16,0,82.14
+2002881,Macaiabo,macaiabo,195753,FC Bravos do Maquis,6.78,1,,4,2,0,82.43
+1515564,Moussa Balla Conté,moussa-balla-conte,44463,CS Sfaxien,6.78,0,,4,16,0,84.68
+2003562,Gothusang Osego,gothusang-osego,297710,Orapa United,6.78,0,,2,14,0,78.99
+918640,Karim Bambo,karim-bambo,43560,Al-Masry,6.78,0,,4,2,1,85.71
+1611672,Achraf Boudrama,achraf-boudrama,55393,CS Constantine,6.78,0,,1,5,0,85.95
+2003190,Ababacar Sarr,ababacar-sarr,87306,ASC Jaraaf,6.78,0,,2,8,0,72.41
+1166804,Athenkosi Mcaba,athenkosi-mcaba,43555,Stellenbosch,6.78,0,,0,5,0,87.97
+2003185,Makha Ben Ahmed Ba,makha-ben-ahmed-ba,87306,ASC Jaraaf,6.78,0,,1,11,0,72.92
+1958980,Uwana Enoh,uwana-enoh,42371,Enyimba,6.78,0,,0,6,0,76.92
+2003566,Zenilson,zenilson,394492,CD Lunda Sul,6.78,0,,4,7,0,71.43
+1632487,Leonel Ateba,leonel-ateba,212409,Simba SC,6.77,2,,8,6,1,74.74
+1612546,Joca,joca,394492,CD Lunda Sul,6.77,1,,6,4,0,75.0
+1504964,Cristo,mohamed-dhaoui,44463,CS Sfaxien,6.77,1,,12,4,0,72.9
+1183553,Souleymane Coulibaly,souleymane-coulibaly,42360,ASEC Mimosas,6.77,0,,0,0,0,86.74
+2004358,Joseph Bassan,joseph-bassan,375117,Associação Black Bulls,6.77,0,,0,0,0,89.29
+2003583,Magrinho,magrinho,394492,CD Lunda Sul,6.77,0,,1,8,0,78.18
+1416346,Charles Ayayi,charles-ayayi,42360,ASEC Mimosas,6.76,0,,0,0,0,69.41
+1463511,Serigne Koïté,serigne-koite,87306,ASC Jaraaf,6.76,0,,2,2,0,69.83
+845600,Miloud Rebiai,miloud-rebiai,55393,CS Constantine,6.75,1,,0,4,0,85.59
+1481930,Yusuph Kagoma,yusuph-kagoma,212409,Simba SC,6.75,0,,2,23,1,83.0
+1655375,Ahmed Khaldi,ahmed-khaldi,42206,USM Alger,6.75,0,,2,1,0,69.77
+997780,Haithem Loucif,loucif-haithem,42206,USM Alger,6.75,0,,0,4,0,86.15
+1501691,Eric Ookame,eric-ookame,297710,Orapa United,6.75,0,,0,0,0,71.88
+1622333,Koimizo Maiga,koimizo-maiga,42360,ASEC Mimosas,6.75,0,,0,1,0,90.63
+1177813,Kheireddine Boussouf,kheireddine-boussouf,55393,CS Constantine,6.75,0,,0,0,0,62.75
+1568187,Mario Keta,mario-keta,394492,CD Lunda Sul,6.75,0,,0,5,0,80.36
+1198374,Aymen Dahmen,dahmen-aymen,44463,CS Sfaxien,6.75,0,,0,0,0,67.86
+1002352,Amete Faye,amete-faye,375117,Associação Black Bulls,6.75,0,,2,9,0,82.24
+1463240,Feth-Allah Tahar,feth-allah-tahar,55393,CS Constantine,6.74,0,,7,8,0,81.68
+359380,Hazem Haj Hassen,hazem-haj-hassen,44463,CS Sfaxien,6.73,2,,0,3,0,55.13
+1470535,Francis Ayuba,francis-ayuba,375117,Associação Black Bulls,6.73,1,,2,2,0,82.61
+1127769,Danilo Muze,danilo-muze,375117,Associação Black Bulls,6.73,0,,0,9,1,81.55
+1395118,Kyle Jurgens,kyle-jurgens,43555,Stellenbosch,6.73,0,,2,6,0,78.95
+796088,Sekou Gassama,sekou-gassama,42206,USM Alger,6.73,1,,0,0,0,85.71
+918920,Salah Mohsen,salah-mohsen,43560,Al-Masry,6.73,0,,6,1,1,70.32
+1428035,Ahmed El Armouty,ahmed-el-armouty,43560,Al-Masry,6.73,0,,3,1,0,87.04
+990613,Gofaone Mabaaya,gofaone-mabaaya,297710,Orapa United,6.72,0,,5,6,0,82.56
+2002867,Francis,francis,195753,FC Bravos do Maquis,6.7,1,,4,7,1,79.52
+1192544,Joshua Mutale,joshua-mutale,212409,Simba SC,6.7,1,,3,2,0,82.14
+1124751,Steven Mukwala,steven-mukwala,212409,Simba SC,6.7,1,,2,1,0,70.18
+998455,Lesiba Nku,lesiba-nku,43555,Stellenbosch,6.7,0,,1,1,1,74.51
+1612109,Kamara Issouf,kamara-issouf,42360,ASEC Mimosas,6.7,0,,4,4,1,86.86
+935701,Hussein Faisal,hussein-faisal,43560,Al-Masry,6.7,0,,0,1,0,66.67
+1613126,Obichere Odinaka,obichere-odinaka,42371,Enyimba,6.7,0,,1,0,0,70.0
+2003555,Cláudio Sozinho,claudio-sozinho,394492,CD Lunda Sul,6.7,0,,1,0,0,95.65
+1005371,Felix Kamate,felix-kamate,69326,Stade Malien,6.7,0,,0,3,0,65.28
+2002655,Hassan Sanogo,hassan-sanogo,42360,ASEC Mimosas,6.7,0,,1,1,0,76.47
+2030429,Abdou Diedhiou,abdou-diedhiou,375117,Associação Black Bulls,6.7,0,,3,1,0,92.31
+2169875,Cremildo Anuário,cremildo-anuario,375117,Associação Black Bulls,6.7,0,,1,1,0,78.57
+2003720,Baba Ilou,baba-ilou,80395,RS Berkane,6.7,0,,0,0,0,44.44
+1610374,Augustine Okejepha,augustine-okejepha,212409,Simba SC,6.7,0,,2,3,0,83.58
+982614,Mamadou Traore,mamadou-traore,69326,Stade Malien,6.7,0,,0,2,0,73.33
+1132078,Bernard Ovoke,bernard-ovoke,42371,Enyimba,6.7,0,,2,0,0,83.33
+1587044,Ekene Awazie,ekene-awazie,42371,Enyimba,6.7,0,,5,5,0,72.84
+2002866,Edmilson,edmilson,195753,FC Bravos do Maquis,6.7,0,,2,3,0,93.26
+1427549,Hichem Baccar,hichem-baccar,44463,CS Sfaxien,6.7,0,,2,7,0,76.92
+990682,Thato Kebue,thato-kebue,297710,Orapa United,6.7,0,,0,2,0,70.33
+2002453,Débora Fernandes,debora-fernandes,212409,Simba SC,6.69,0,,3,5,0,84.0
+1174492,Ejaita Ifoni,ifoni-ejaita,375117,Associação Black Bulls,6.68,2,,3,1,0,62.22
+2002882,Manico,manico,195753,FC Bravos do Maquis,6.68,0,,5,22,1,75.94
+1612643,Manucho,manucho,394492,CD Lunda Sul,6.68,0,,5,4,1,79.52
+1471551,Samadou Attidjikou,samadou-attidjikou,43560,Al-Masry,6.68,0,,2,2,0,79.57
+1639438,Okiemute Odah,okiemute-odah,195753,FC Bravos do Maquis,6.68,0,,0,0,0,74.1
+2003551,Cédrick Ndambi,cedrick-ndambi,394492,CD Lunda Sul,6.68,0,,2,3,0,80.74
+1610803,Chinedu Chukwu Ufere,chinedu-chukwu-ufere,42371,Enyimba,6.67,1,,2,0,0,77.38
+1541799,Omar Embarek,omar-embarek,42206,USM Alger,6.67,0,,0,1,0,87.25
+1387423,Arilson,arilson,195753,FC Bravos do Maquis,6.67,0,,2,1,0,87.8
+1802164,Estevão,estevao,195753,FC Bravos do Maquis,6.67,0,,2,0,0,82.5
+904837,Mateus Criciuma,mateus-criciuma,80395,RS Berkane,6.66,0,,0,3,1,82.76
+1966433,Rayane Abdelmadjid Mahrouz,rayane-abdelmadjid-mahrouz,42206,USM Alger,6.66,0,,5,3,1,73.13
+2002869,Higino Kapitango,higino-kapitango,195753,FC Bravos do Maquis,6.65,0,,5,5,1,83.33
+803145,Pedro Sá,pedro-sa,44463,CS Sfaxien,6.65,0,,0,3,0,73.24
+1610188,Francis Odinaka,francis-odinaka,42371,Enyimba,6.65,0,,0,0,0,87.5
+1478434,Gaston Tshabalala,gaston-tshabalala,394492,CD Lunda Sul,6.65,0,,1,1,0,60.0
+1014789,Ahmed Eid,ahmed-eid,43560,Al-Masry,6.65,0,,2,4,0,75.58
+1000492,Aimen Bouguerra,aimen-bouguerra,55393,CS Constantine,6.65,0,,0,4,0,73.21
+1416275,Abdelkader Kaibou,abdelkader-kaibou,55393,CS Constantine,6.65,0,,2,5,0,88.89
+970523,Nadrey Dago,dago-nadrey,42360,ASEC Mimosas,6.65,0,,5,6,0,79.75
+1126829,Kazie Godswill,kazie-godswill,43555,Stellenbosch,6.64,0,,2,5,0,69.33
+895534,Mohamed El Shamy,mohamed-el-shamy,43560,Al-Masry,6.64,0,,4,4,0,76.19
+2003184,Saliou Guèye,saliou-gueye,87306,ASC Jaraaf,6.64,0,,0,2,0,57.58
+2002658,Ibrahim Dosso,ibrahim-dosso,42360,ASEC Mimosas,6.63,0,,2,2,0,78.57
+1186914,Messias Neves,messias-neves,195753,FC Bravos do Maquis,6.63,0,,2,5,0,81.32
+2003572,Kamara Ballie,kamara-ballie,297710,Orapa United,6.62,0,,1,11,0,69.7
+2002876,Cuxixima,cuxixima,195753,FC Bravos do Maquis,6.62,0,,2,6,1,75.27
+2002663,Souleymane Fofana,souleymane-fofana,42360,ASEC Mimosas,6.6,0,,0,0,1,83.33
+935680,Youssef El Gohary,youssef-el-gohary,43560,Al-Masry,6.6,0,,1,3,1,70.37
+1656749,Mohamed Atef,mohamed-atef,42368,Zamalek SC,6.6,0,,1,1,0,84.0
+1870410,Souleymane Cissé,souleymane-cisse,87306,ASC Jaraaf,6.6,0,,0,0,0,50.0
+1177810,Hocine Dehiri,hocine-dehiri,42206,USM Alger,6.6,0,,0,0,0,50.0
+1541793,Kamel Soufi,kamel-soufi,42206,USM Alger,6.6,0,,0,0,0,73.81
+1587049,Eze Ekwutoziam,eze-ekwutoziam,42371,Enyimba,6.6,0,,0,1,0,88.89
+1094513,Mahmoud Gehad,mahmoud-gehad,42368,Zamalek SC,6.6,0,,1,2,0,83.33
+1610331,Clinton Jephta,clinton-jephta,42371,Enyimba,6.6,0,,1,1,0,58.82
+1198251,Abdelkrim Namani,abdelkrim-namani,42206,USM Alger,6.6,0,,0,0,0,94.12
+1610588,Ismail Sarki,ismail-sarki,42371,Enyimba,6.6,0,,0,1,0,66.67
+2003198,Alade Balogun,alade-balogun,42371,Enyimba,6.6,0,,0,0,0,92.31
+2003548,Alcides Patrícios,alcides-patricios,394492,CD Lunda Sul,6.6,0,,0,0,0,77.78
+2003568,Ximba,ximba,394492,CD Lunda Sul,6.6,0,,0,0,0,72.73
+1470533,Daniel Daga,daga-daniel,42371,Enyimba,6.6,0,,0,7,0,83.67
+2003179,Mame Saër Guèye,mame-saer-gueye,87306,ASC Jaraaf,6.6,0,,1,5,0,58.54
+971526,Enow Adolph Nkembe,enow-adolph-nkembe,55393,CS Constantine,6.6,0,,0,0,0,75.0
+1612659,Samuel,samuel,394492,CD Lunda Sul,6.6,0,,0,0,0,55.56
+1461990,João Cairo,joao-cairo,394492,CD Lunda Sul,6.6,0,,2,0,0,68.0
+1119614,Resaobaka Thatanyane,resaobaka-thatanyane,297710,Orapa United,6.6,0,,0,0,0,68.42
+918622,Naser Mansi,naser-mansi,42368,Zamalek SC,6.6,0,,0,0,0,65.22
+2002656,Ibrahim Diakite,ibrahim-diakite,42360,ASEC Mimosas,6.6,0,,0,3,0,83.27
+1508126,Oarabile Sekwai,oarabile-sekwai,297710,Orapa United,6.6,0,,5,4,0,79.75
+2003570,Kagisano Mungu,kagisano-mungu,297710,Orapa United,6.6,0,,1,3,0,85.37
+1094481,Achref Habbassi,achref-habbassi,44463,CS Sfaxien,6.6,0,,3,8,0,76.85
+918727,Karim El Eraki,karim-el-eraki,43560,Al-Masry,6.6,0,,6,5,0,80.95
+1179162,Genino Palace,genino-palace,43555,Stellenbosch,6.6,0,,1,7,0,78.03
+1470021,Baraket Hmidi,baraket-hmidi,44463,CS Sfaxien,6.58,0,,1,3,0,60.0
+2003010,Alex Chamorro,alex-chamorro,87306,ASC Jaraaf,6.58,0,,0,4,0,85.11
+1634635,Mohamed Absi,mohamed-absi,44463,CS Sfaxien,6.57,0,,0,2,0,87.88
+1182541,David Koffi,david-koffi,42360,ASEC Mimosas,6.57,0,,1,3,0,92.5
+1122509,Khaled Bousseliou,khaled-bousseliou,42206,USM Alger,6.57,0,,2,3,0,71.43
+2003582,Nyembo Azende,nyembo-azende,297710,Orapa United,6.57,0,,6,5,0,85.94
+2004354,Stephen Seameh,stephen-seameh,375117,Associação Black Bulls,6.57,0,,4,6,0,84.04
+1024068,Fatai Abdullahi Oluwadayo,fatai-abdullahi-oluwadayo,42371,Enyimba,6.56,0,,0,3,0,87.15
+1127049,Vitinho,vitinho,375117,Associação Black Bulls,6.55,0,,0,0,0,83.33
+1168608,Salah Harrabi,salah-harrabi,44463,CS Sfaxien,6.55,0,,1,4,0,80.73
+1966448,Salifou Tapsoba,salifou-tapsoba,55393,CS Constantine,6.55,0,,1,2,0,60.0
+985976,Ivan Kamberipa,ivan-kamberipa,297710,Orapa United,6.55,0,,1,6,0,67.01
+1127096,Martinho,martinho,375117,Associação Black Bulls,6.54,0,,0,2,1,80.0
+944896,Gaoussou Traoré,gaoussou-traore,44463,CS Sfaxien,6.54,0,,3,2,0,80.33
+2003578,René,rene,394492,CD Lunda Sul,6.54,0,,3,6,0,80.0
+1841850,Phili Langelihle,phili-langelihle,43555,Stellenbosch,6.53,0,,2,3,0,67.74
+1002467,Ibraheem Jabaar,ibraheem-jabaar,43555,Stellenbosch,6.53,0,,1,4,0,73.08
+1996692,Omar Ben Ali,omar-ben-ali,44463,CS Sfaxien,6.53,0,,0,0,1,65.22
+1515560,Amine Haboubi,amine-haboubi,44463,CS Sfaxien,6.53,0,,1,1,0,61.54
+2003584,Neymar,neymar,394492,CD Lunda Sul,6.53,0,,6,0,0,76.0
+1102348,Ashley Cupido,cupido-ashley,43555,Stellenbosch,6.53,0,,3,1,0,77.32
+1612108,Beugré Gbakré,beugre-gbakre,42360,ASEC Mimosas,6.5,0,,0,0,0,85.71
+2045147,Cheswyn Philander,cheswyn-philander,43555,Stellenbosch,6.5,0,,0,0,0,100.0
+2002674,Mamady Condé,mamady-conde,69326,Stade Malien,6.5,0,,1,0,0,50.0
+2002670,Idrissa Diarra,idrissa-diarra,69326,Stade Malien,6.5,0,,0,1,0,100.0
+1587045,Alalibo Somiari,alalibo-somiari,42371,Enyimba,6.5,0,,0,1,0,78.33
+1127079,Jesus,jesus,375117,Associação Black Bulls,6.5,0,,0,0,0,100.0
+1515565,Youssef Becha,youssef-becha,44463,CS Sfaxien,6.5,0,,0,3,0,75.0
+919671,Mohamed El Morabit,mohamed-el-morabit,80395,RS Berkane,6.49,0,,2,1,0,86.52
+2004357,Kélvio Neves,kelvio,375117,Associação Black Bulls,6.48,0,,1,0,0,53.85
+2003580,Letsweletse Gaboitsiwe,letsweletse-gaboitsiwe,297710,Orapa United,6.47,0,,1,1,1,80.0
+1634615,Rayane Derbali,rayane-derbali,44463,CS Sfaxien,6.47,0,,0,7,0,73.5
+2003186,Maheri Toure,maheri-toure-and-769,87306,ASC Jaraaf,6.47,0,,0,0,0,85.19
+1387376,Botsile Sakana,botsile-sakana,297710,Orapa United,6.47,0,,1,16,0,70.65
+1435940,Valentin Nouma,valentin-nouma,212409,Simba SC,6.46,0,,1,1,0,73.68
+1127053,Tshepo Malgas,tshepo-malgas,297710,Orapa United,6.46,0,,0,6,0,85.71
+1008303,Mostafa El Zenary,mostafa-el-zenary,42368,Zamalek SC,6.45,0,,0,1,0,84.0
+1007579,Riad Benayad,riad-benayad,42206,USM Alger,6.45,0,,3,1,0,88.46
+959526,Brian Onyango,brian-onyango,43555,Stellenbosch,6.45,0,,1,1,0,77.19
+1546126,Victor Abata,victor-abata,195753,FC Bravos do Maquis,6.45,0,,0,1,0,100.0
+1470079,Khomotjo Lekoloane,khomotjo-lekoloane,43555,Stellenbosch,6.45,0,,1,5,0,62.5
+1387406,Domingos Razão,domingos-razao,195753,FC Bravos do Maquis,6.44,0,,2,9,0,79.92
+880063,Haythem Ayouni,haythem-ayouni,44463,CS Sfaxien,6.43,0,,0,1,0,80.98
+2002660,Mohamed Kone,mohamed-kone,42360,ASEC Mimosas,6.4,0,,0,0,0,80.0
+1110782,Melque Alexandre,melque-alexandre,375117,Associação Black Bulls,6.4,0,,0,0,0,25.0
+2002891,Milson,milson,195753,FC Bravos do Maquis,6.4,0,,0,0,0,75.0
+2003577,Koketso Modisane,koketso-modisane,297710,Orapa United,6.4,0,,1,1,0,100.0
+1610658,Chukwudi Nwaodu,chukwudi-nwaodu,42371,Enyimba,6.4,0,,2,0,0,75.0
+1526896,Romaric Amoussou,romaric-amoussou,42360,ASEC Mimosas,6.4,0,,0,4,0,67.57
+587406,Emmanuel Edmond,emmanuel-edmond,195753,FC Bravos do Maquis,6.4,0,,0,1,0,68.97
+1471113,Chamito Alfandega,chamito-alfandega,375117,Associação Black Bulls,6.38,0,,7,3,0,68.63
+894656,Oscarine Masuluke,oscarine-masuluke,43555,Stellenbosch,6.37,0,,0,0,0,54.24
+930586,Salim Boukhenchouche,salim-boukhenchouche,42206,USM Alger,6.37,0,,2,6,0,91.78
+1605681,Koketso Majafi,koketso-majafi,297710,Orapa United,6.37,0,,4,7,0,85.71
+1607189,Edwin Balua,edwin-balua,212409,Simba SC,6.35,0,,0,0,0,81.82
+1510879,Tiago,tiago,195753,FC Bravos do Maquis,6.35,0,,2,2,0,83.33
+1880486,Ricky Ratlhogo,ricky-ratlhogo,297710,Orapa United,6.32,0,,1,5,0,80.5
+1008108,Ziad Kamal,ziad-kamal,42368,Zamalek SC,6.3,0,,0,0,0,0.0
+886122,Rubin Hebaj,rubin-hebaj,44463,CS Sfaxien,6.3,0,,0,0,0,50.0
+1587048,Chidiebere Nnachi,chidiebere-nnachi,42371,Enyimba,6.3,0,,0,2,0,84.0
+1610284,Moses Adikwu,moses-adikwu,42371,Enyimba,6.3,0,,0,0,0,94.12
+2003181,Nouha Coly,nouha-coly,87306,ASC Jaraaf,6.3,0,,0,1,0,75.0
+1880459,Atamelang Lesogo,atamelang-lesogo,297710,Orapa United,6.3,0,,1,0,0,56.67
+238924,Landu,landu,195753,FC Bravos do Maquis,6.25,0,,0,0,0,67.65
+1832631,Obakeng Senono,obakeng-senono,297710,Orapa United,6.2,0,,0,0,0,95.65
+1470545,Mouctar Ndiaye,mouctar-ndiaye,87306,ASC Jaraaf,6.1,0,,0,1,0,80.0
+1007545,Chidera Ezeh,chidera-ezeh,42371,Enyimba,6.1,0,,1,1,0,90.91
+1610839,Nathaniel Asibe,nathaniel-asibe,42371,Enyimba,5.8,0,,0,0,0,60.0
+935698,Seif Farouk Gaafar,seif-farouk-gaafar,42368,Zamalek SC,0.0,0,,0,0,0,80.0
+1393728,Mohamed Hamdi,mohamed-hamdi,42368,Zamalek SC,0.0,0,,0,0,0,0.0
+1389861,Mélo N'Diaye,melo-ndiaye,55393,CS Constantine,0.0,0,,0,0,0,0.0
+1417337,Valentino Mashaka Kusengama,valentino-mashaka-kusengama,212409,Simba SC,0.0,0,,0,0,0,0.0
+1188238,Liam De Kock,de-kock-liam,43555,Stellenbosch,0.0,0,,0,0,0,0.0
+2026676,Christian Nnaji,christian-nnaji,42371,Enyimba,0.0,0,,0,0,0,0.0
+973067,Mzamiru Yasin,mzamiru-yasin,212409,Simba SC,0.0,0,,1,0,0,100.0
+1218738,Mohamed Ait El Hadj,mohamed-ait-el-hadj,42206,USM Alger,0.0,0,,0,1,0,100.0

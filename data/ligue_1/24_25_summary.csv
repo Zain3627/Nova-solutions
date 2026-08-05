@@ -1,0 +1,543 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+908714,Arnau Tenas,arnau-tenas,1644,Paris Saint-Germain,7.9,0,,0,0,1,96.43
+911853,Logan Costa,logan-costa,1681,Toulouse,7.8,0,,0,2,0,83.33
+814594,Achraf Hakimi,achraf-hakimi,1644,Paris Saint-Germain,7.76,4,2.98,26,48,6,90.88
+897291,Ismail Jakobs,ismail-jakobs,1653,AS Monaco,7.75,0,,0,5,0,88.46
+818244,Ousmane Dembélé,ousmane-dembele,1644,Paris Saint-Germain,7.75,21,16.61,42,11,6,83.21
+324399,Benjamin Bourigeaud,benjamin-bourigeaud,1658,Stade Rennais,7.7,1,0.16,1,1,0,85.71
+979128,Rayan Cherki,cherki-rayan,1649,Olympique Lyonnais,7.6,8,5.01,48,15,11,84.13
+942116,Mason Greenwood,mason-greenwood,1641,Olympique de Marseille,7.56,21,16.34,54,35,5,83.25
+902029,Vitinha,vitinha,1644,Paris Saint-Germain,7.47,5,3.41,27,43,1,93.75
+889259,Khvicha Kvaratskhelia,khvicha-kvaratskhelia,1644,Paris Saint-Germain,7.46,4,3.28,25,19,3,89.35
+917087,Kang-in Lee,kang-in-lee,1644,Paris Saint-Germain,7.46,6,3.51,29,25,6,92.0
+1095836,Théo De Percin,theo-de-percin,1646,Auxerre,7.45,0,,0,0,0,49.06
+1190933,João Neves,joao-neves,1644,Paris Saint-Germain,7.45,3,2.98,16,63,8,92.22
+1105779,Andrey Santos,santos-andrey,1659,RC Strasbourg,7.44,10,5.06,18,110,3,88.61
+1083007,Mika Biereth,mika-biereth,1653,AS Monaco,7.42,13,11.32,1,5,2,64.04
+250737,Adrien Rabiot,adrien-rabiot,1641,Olympique de Marseille,7.41,9,7.26,26,49,4,86.84
+40973,Karl-Johan Johnsson,karl-johan-johnsson,1659,RC Strasbourg,7.4,0,,0,0,0,79.63
+821728,Jonathan Clauss,jonathan-clauss,1661,Nice,7.38,3,2.23,11,52,8,77.51
+882604,Đorđe Petrović,dorde-petrovic,1659,RC Strasbourg,7.37,0,,1,1,0,78.77
+286909,Przemysław Frankowski,przemysaw-frankowski,1648,RC Lens,7.36,4,2.27,6,32,2,83.45
+149593,Pierre-Emile Højbjerg,pierre-emile-hjbjerg,1641,Olympique de Marseille,7.35,2,3.28,7,64,4,92.71
+134029,Mathew Ryan,mathew-ryan,1648,RC Lens,7.33,0,,0,1,0,68.69
+827506,Gaëtan Perrin,gaetan-perrin,1646,Auxerre,7.32,10,6.09,60,49,11,78.48
+1154605,Désiré Doué,desire-doue,1644,Paris Saint-Germain,7.32,6,5.14,57,48,6,86.12
+963298,Dilane Bakwa,dilane-bakwa,1659,RC Strasbourg,7.31,6,4.36,50,26,8,81.26
+1130939,Maghnes Akliouche,maghnes-akliouche,1653,AS Monaco,7.31,5,9.26,50,51,10,84.87
+343067,Corentin Tolisso,corentin-tolisso,1649,Olympique Lyonnais,7.3,7,5.36,11,57,4,86.09
+159837,Donovan Léon,donovan-leon,1646,Auxerre,7.3,0,,2,0,2,52.09
+156236,Patrik Carlgren,patrik-carlgren,1647,Nantes,7.3,0,,0,0,0,60.55
+989768,Nuno Mendes,nuno-mendes,1644,Paris Saint-Germain,7.29,1,2.19,31,30,3,88.59
+155995,Marquinhos,marquinhos,1644,Paris Saint-Germain,7.29,2,1.08,3,30,0,95.09
+877977,Yahia Fofana,yahia-fofana,1684,Angers,7.28,0,,2,0,0,62.74
+1389846,Lamine Camara,camara-lamine,1653,AS Monaco,7.28,2,2.29,12,66,7,87.36
+784655,Fabián Ruiz,fabian-ruiz,1644,Paris Saint-Germain,7.27,4,4.15,14,37,5,90.99
+889590,Marcin Bułka,marcin-bulka,1661,Nice,7.26,0,,0,0,0,77.48
+329195,Jubal,jubal,1646,Auxerre,7.25,6,5.15,3,60,0,87.01
+996952,Bradley Barcola,barcola-bradley,1644,Paris Saint-Germain,7.25,14,13.58,34,27,10,83.45
+845183,Yehvann Diouf,yehvann-diouf,1682,Stade de Reims,7.25,0,0.06,2,2,0,65.85
+930245,Evann Guessand,evann-guessand,1661,Nice,7.23,12,9.18,49,44,8,77.2
+164055,Brice Samba,brice-samba,1658,Stade Rennais,7.23,0,,1,2,0,77.2
+1138804,Hakon Arnar Haraldsson,hakon-arnar-haraldsson,1643,Lille,7.22,5,3.8,27,36,3,82.74
+51665,Benjamin André,benjamin-andre,1643,Lille,7.22,0,1.39,9,103,3,83.9
+149730,Gaëtan Laborde,gaetan-laborde,1661,Nice,7.22,11,11.38,18,19,4,73.29
+794953,Kevin Danso,kevin-danso,1648,RC Lens,7.22,0,0.55,1,19,0,86.01
+1013842,Emmanuel Agbadou,emmanuel-agbadou,1682,Stade de Reims,7.21,0,0.53,9,25,0,88.07
+806076,Ludovic Blas,ludovic-blas,1658,Stade Rennais,7.2,6,5.0,44,38,8,81.64
+156682,Teji Savanier,teji-savanier,1642,Montpellier,7.2,2,4.05,29,30,5,76.68
+801306,Pierre Lees Melou,pierre-lees-melou,1715,Stade Brestois,7.2,2,1.19,12,48,2,86.55
+1507454,Beres Owusu,beres-owusu,1678,Saint-Étienne,7.2,0,,0,2,0,60.0
+859026,Amine Gouiri,amine-gouiri,1641,Olympique de Marseille,7.19,13,11.88,25,14,5,84.6
+318963,Aleksandr Golovin,aleksandr-golovin,1653,AS Monaco,7.18,3,2.3,22,38,0,79.19
+158243,Nicolás Tagliafico,nicolas-tagliafico,1649,Olympique Lyonnais,7.18,3,3.02,1,57,1,88.24
+935564,Jonathan David,jonathan-david,1643,Lille,7.18,16,16.08,20,24,5,82.74
+770677,Denis Zakaria,denis-zakaria,1653,AS Monaco,7.18,6,5.25,21,41,4,90.89
+1049775,Alexsandro Ribeiro,alexsandro-ribeiro,1643,Lille,7.18,1,1.57,5,32,1,91.4
+977679,Luís Henrique,luis-henrique,1641,Olympique de Marseille,7.17,7,4.17,51,16,7,84.12
+845170,Caio Henrique,caio-henrique,1653,AS Monaco,7.17,0,0.16,14,37,6,77.94
+1194333,Abdukodir Khusanov,abdukodir-khusanov,1648,RC Lens,7.17,0,0.24,1,15,0,88.95
+867299,Hervé Koffi,herve-koffi,1648,RC Lens,7.16,0,,0,1,0,67.86
+887766,Edon Zhegrova,edon-zhegrova,1643,Lille,7.16,4,2.27,23,5,1,86.05
+1606792,Abdulay Juma Bah,abdulay-juma-bah,1648,RC Lens,7.16,0,0.08,3,16,0,93.88
+1128530,Neil El Aynaoui,neil-el-aynaoui,1648,RC Lens,7.15,8,4.0,5,39,1,88.27
+985934,Youssouf Ndayishimiye,youssouf-ndayishimiye,1661,Nice,7.15,3,0.91,6,40,0,89.87
+1092074,Rareș Ilie,rares-ilie,1661,Nice,7.15,0,0.04,3,1,0,85.71
+1445625,Jérémy Jacquet,jeremy-jacquet,1658,Stade Rennais,7.15,0,0.72,5,26,1,84.73
+985923,Hicham Boudaoui,hicham-boudaoui,1661,Nice,7.14,2,2.66,25,76,3,84.35
+281277,Thilo Kehrer,thilo-kehrer,1653,AS Monaco,7.14,4,1.5,1,37,0,90.16
+1049515,Alidu Seidu,alidu-seidu,1658,Stade Rennais,7.14,0,0.13,9,22,0,86.4
+72998,Rémy Cabella,remy-cabella,1643,Lille,7.13,1,3.98,19,39,2,86.82
+871290,Lucas Perri,lucas-perri,1649,Olympique Lyonnais,7.13,0,,0,1,0,73.74
+863133,Aron Dønnum,aron-donnum,1681,Toulouse,7.13,2,2.11,47,56,2,76.75
+823733,Ismaël Bennacer,ismael-bennacer,1641,Olympique de Marseille,7.13,0,0.08,7,21,2,93.56
+231946,Adrien Thomasson,adrien-thomasson,1648,RC Lens,7.12,3,5.95,26,90,7,83.91
+361004,Marco Asensio,marco-asensio,1644,Paris Saint-Germain,7.12,2,5.61,4,4,4,90.22
+1126521,Lucas Stassin,lucas-stassin,1678,Saint-Étienne,7.11,12,7.9,21,16,4,76.55
+343971,Ludovic Ajorque,ludovic-ajorque,1715,Stade Brestois,7.11,13,10.41,8,26,2,69.55
+1445628,Djaoui Cissé,djaoui-cisse,1658,Stade Rennais,7.11,1,0.43,13,33,0,88.21
+1090694,Vanderson,vanderson,1653,AS Monaco,7.1,1,2.21,24,76,3,79.67
+856495,Azor Matusiwa,azor-matusiwa,1658,Stade Rennais,7.1,1,1.25,17,64,3,87.29
+128383,Gerónimo Rulli,geronimo-rulli,1641,Olympique de Marseille,7.1,0,,0,4,0,86.9
+330051,Moses Simon,moses-simon,1647,Nantes,7.1,8,5.88,65,20,10,75.26
+868958,Moatasem Al-Musrati,moatasem-al-musrati,1653,AS Monaco,7.1,1,0.47,2,14,1,87.93
+985933,Joseph Okumu,joseph-okumu,1682,Stade de Reims,7.1,1,0.99,14,30,0,82.02
+996953,Lucas Chevalier,chevalier-lucas,1643,Lille,7.09,0,,0,3,0,77.14
+878938,Cristian Cásseres Jr.,cristian-casseres-jr,1681,Toulouse,7.09,1,1.03,22,96,3,82.49
+141080,Kenny Lala,kenny-lala,1715,Stade Brestois,7.08,3,3.0,15,66,2,81.56
+250133,Morgan Sanson,morgan-sanson,1661,Nice,7.08,3,1.49,2,6,0,80.39
+818986,Gabriel Suazo,gabriel-suazo,1681,Toulouse,7.08,0,0.84,25,59,6,82.66
+944660,Thiago Almada,thiago-almada,1649,Olympique Lyonnais,7.08,1,1.99,8,14,4,90.52
+187205,Milan Škriniar,milan-skriniar,1644,Paris Saint-Germain,7.08,0,0.15,0,7,0,96.51
+783278,Junya Ito,junya-ito,1682,Stade de Reims,7.08,4,4.71,47,45,3,76.34
+149732,Abdoulaye Touré,abdoulaye-toure,1662,Le Havre,7.08,10,9.4,17,61,1,82.82
+916041,Mahdi Camara,mahdi-camara,1715,Stade Brestois,7.08,5,3.97,29,71,3,88.01
+825681,Romain Del Castillo,romain-del-castillo,1715,Stade Brestois,7.07,6,4.67,19,31,4,76.06
+1087364,Tiago Santos,tiago-santos,1643,Lille,7.07,0,0.42,12,12,0,83.06
+128587,Thomas Meunier,thomas-meunier,1643,Lille,7.07,2,1.89,14,53,0,83.12
+1394353,Eliesse Ben Seghir,eliesse-ben-seghir,1653,AS Monaco,7.07,6,5.67,35,31,3,82.45
+858977,Christopher Operi,christopher-operi,1662,Le Havre,7.07,0,0.23,14,13,2,78.81
+1108441,Lucas Beraldo,lucas-beraldo,1644,Paris Saint-Germain,7.07,1,0.87,1,38,0,94.71
+1020744,Charlie Cresswell,charlie-cresswell,1681,Toulouse,7.07,3,3.29,3,35,1,83.41
+1217613,Gift Orban,gift-orban,1649,Olympique Lyonnais,7.07,2,1.21,2,0,0,67.74
+1127057,Valentín Barco,valentin-barco,1659,RC Strasbourg,7.06,0,0.53,9,36,2,85.37
+906075,Melvin Bard,melvin-bard,1661,Nice,7.06,2,2.2,22,53,1,81.02
+954061,Arnaud Kalimuendo,arnaud-kalimuendo,1658,Stade Rennais,7.06,17,15.0,21,19,3,80.78
+798124,Rasmus Nicolaisen,rasmus-nicolaisen,1681,Toulouse,7.06,0,0.43,1,6,1,88.02
+579576,Ruben Aguilar,ruben-aguilar,1648,RC Lens,7.06,1,0.77,9,34,2,83.41
+921369,Zuriko Davitashvili,zuriko-davitashvili,1678,Saint-Étienne,7.05,9,8.14,48,24,8,83.7
+809034,Augusto Douglas,augusto-douglas,1647,Nantes,7.05,4,3.41,12,69,2,87.07
+1397882,Yanis Zouaoui,yanis-zouaoui,1662,Le Havre,7.05,0,0.14,13,20,2,75.38
+810526,Gautier Larsonneur,gautier-larsonneur,1678,Saint-Étienne,7.05,0,,0,1,0,61.26
+962068,Sebastian Nanasi,sebastian-nanasi,1659,RC Strasbourg,7.05,6,6.46,19,20,4,83.95
+1129751,Julien Le Cardinal,julien-le-cardinal,1715,Stade Brestois,7.04,0,0.44,4,27,1,87.22
+123226,Mathieu Gorgelin,mathieu-gorgelin,1662,Le Havre,7.04,0,,1,2,0,74.51
+892924,Hamed Junior Traorè,hamed-junior-traore,1646,Auxerre,7.04,10,7.82,34,41,2,78.37
+978285,Wilfried Singo,wilfried-singo,1653,AS Monaco,7.04,1,1.9,6,37,2,87.0
+50070,Alexandre Lacazette,alexandre-lacazette,1649,Olympique Lyonnais,7.04,15,16.74,14,13,2,73.52
+1142233,Diego Moreira,diego-moreira,1659,RC Strasbourg,7.04,2,1.88,57,44,7,81.56
+946158,Mohammed Salisu,mohammed-salisu,1653,AS Monaco,7.04,1,0.79,0,28,0,85.38
+979480,Willian Pacho,willian-pacho,1644,Paris Saint-Germain,7.04,0,0.31,2,56,1,94.88
+962408,Bafodé Diakité,bafode-diakite,1643,Lille,7.04,4,2.33,9,31,1,93.44
+40672,Francis Coquelin,francis-coquelin,1647,Nantes,7.03,1,1.04,1,9,1,87.0
+934510,Gonçalo Ramos,goncalo-ramos,1644,Paris Saint-Germain,7.03,10,13.63,1,11,3,80.67
+999028,Adrien Truffert,truffert-adrien,1658,Stade Rennais,7.02,2,2.35,16,61,2,84.9
+1195784,Malick Fofana,malick-fofana,1649,Olympique Lyonnais,7.02,5,3.86,24,22,4,83.57
+794412,Vincent Sierro,vincent-sierro,1681,Toulouse,7.02,5,4.25,12,44,1,81.11
+919027,Ali Abdi,ali-abdi,1661,Nice,7.02,5,4.29,12,43,2,78.91
+100390,Marco Bizot,marco-bizot,1715,Stade Brestois,7.02,0,,0,2,0,65.35
+991479,Anthony Rouault,anthony-rouault,1658,Stade Rennais,7.01,0,0.51,0,12,0,91.75
+1154687,Nathan Zeze,zeze-nathan,1647,Nantes,7.01,0,0.29,3,38,0,85.8
+328035,Brendan Chardonnet,brendan-chardonnet,1715,Stade Brestois,7.0,1,0.81,0,45,0,82.19
+894733,Marshall Munetsi,marshall-munetsi,1682,Stade de Reims,6.99,4,3.97,6,36,2,69.73
+945830,Himad Abdelli,himad-abdelli,1684,Angers,6.99,6,6.35,57,48,1,84.53
+1002033,Guéla Doué,guela-doue,1659,RC Strasbourg,6.99,1,1.16,27,65,2,86.79
+155818,Takumi Minamino,takumi-minamino,1653,AS Monaco,6.99,6,8.89,12,33,3,73.43
+581314,Valentin Rongier,valentin-rongier,1641,Olympique de Marseille,6.99,3,1.01,11,50,1,90.82
+1142672,Warren Zaïre-Emery,warren-zaire-emery,1644,Paris Saint-Germain,6.99,1,1.67,20,51,2,93.25
+96544,Geoffrey Kondogbia,geoffrey-kondogbia,1641,Olympique de Marseille,6.99,0,0.48,10,60,0,92.63
+78352,Ismaily,ismaily,1643,Lille,6.99,0,0.68,8,33,1,87.94
+1035986,Josué Casimir,josue-casimir,1662,Le Havre,6.99,4,3.34,22,37,3,77.2
+905352,Keito Nakamura,keito-nakamura,1682,Stade de Reims,6.98,11,9.08,30,24,2,77.9
+48535,Anthony Lopes,anthony-lopes,1647,Nantes,6.98,0,,0,1,0,61.1
+234142,Florian Tardieu,florian-tardieu,1678,Saint-Étienne,6.98,2,0.66,3,22,4,87.1
+170129,Florent Hanin,florent-hanin,1684,Angers,6.98,1,0.97,11,69,2,81.31
+911851,Yann Gboho,yann-gboho,1681,Toulouse,6.98,5,5.59,50,31,4,77.81
+886802,Cédric Kipré,cedric-kipre,1682,Stade de Reims,6.98,0,0.64,10,42,1,89.56
+826201,Alban Lafont,alban-lafont,1647,Nantes,6.98,0,,0,1,0,65.16
+927005,Lassine Sinayoko,lassine-sinayoko,1646,Auxerre,6.97,5,6.54,28,33,8,79.15
+860307,Facundo Medina,facundo-medina,1648,RC Lens,6.97,0,1.78,10,44,1,88.65
+856638,Mitchel Bakker,mitchel-bakker,1643,Lille,6.97,3,2.97,11,23,2,82.66
+1004346,Kazeem Olaigbe,kazeem-olaigbe,1658,Stade Rennais,6.97,0,0.31,13,6,2,91.6
+100621,Joshua King,joshua-king,1681,Toulouse,6.97,6,6.64,35,11,3,72.43
+839493,Amir Murillo,amir-murillo,1641,Olympique de Marseille,6.97,1,1.55,14,49,3,89.7
+845486,Tanguy Ndombélé,tanguy-ndombele,1661,Nice,6.96,1,2.35,25,35,2,88.27
+369650,Jonathan Gradit,jonathan-gradit,1648,RC Lens,6.96,0,0.76,3,44,0,85.8
+352768,Ainsley Maitland-Niles,ainsley-maitland-niles,1649,Olympique Lyonnais,6.96,1,2.94,17,71,4,87.0
+965357,Osame Sahraoui,osame-sahraoui,1643,Lille,6.96,3,2.85,35,13,3,85.23
+944164,Sofiane Diop,sofiane-diop,1661,Nice,6.96,6,5.98,10,23,4,81.02
+1001458,Issa Soumaré,issa-soumare,1662,Le Havre,6.96,5,3.82,16,25,4,65.94
+996908,Pierre Ekwah,pierre-ekwah,1678,Saint-Étienne,6.96,1,0.74,19,57,0,88.41
+788921,Florian Sotoca,florian-sotoca,1648,RC Lens,6.95,1,4.65,16,22,1,78.34
+1003400,Mory Gbane,gbane-mory,1682,Stade de Reims,6.95,0,0.17,5,20,1,85.32
+831400,Mathias Pereira Lage,mathias-pereira-lage,1715,Stade Brestois,6.95,2,3.38,10,37,7,73.11
+1130942,Félix Lemaréchal,felix-lemarechal,1659,RC Strasbourg,6.95,4,3.07,24,35,3,81.71
+122810,Aïssa Mandi,aissa-mandi,1643,Lille,6.95,0,0.34,3,31,0,89.53
+1009372,Georges Mikautadze,georges-mikautadze,1649,Olympique Lyonnais,6.95,11,10.24,17,7,6,78.59
+605552,Irvin Cardona,irvin-cardona,1678,Saint-Étienne,6.95,5,4.47,8,6,3,72.16
+363042,Jordan Lefort,jordan-lefort,1684,Angers,6.94,0,0.56,8,52,1,83.51
+123388,Djibril Sidibé,djibril-sidibe,1681,Toulouse,6.94,0,0.41,11,65,3,81.22
+868964,Philipp Köhn,philipp-kohn,1653,AS Monaco,6.94,0,,0,0,0,72.27
+1048333,Emmanuel Emegha,emanuel-emegha,1659,RC Strasbourg,6.94,14,16.58,7,6,3,80.71
+879746,Leo Østigård,leo-ostigard,1658,Stade Rennais,6.94,1,0.66,1,20,0,84.8
+877036,Anass Zaroury,anass-zaroury,1648,RC Lens,6.94,2,1.67,17,23,2,76.82
+123207,Benjamin Lecomte,benjamin-lecomte,1642,Montpellier,6.94,0,,0,0,0,64.07
+848458,Arnaud Nordin,arnaud-nordin,1642,Montpellier,6.93,4,4.08,23,24,1,75.87
+190867,Chuba Akpom,chuba-akpom,1643,Lille,6.93,3,4.99,4,8,1,68.04
+1128532,Habib Diarra,habib-diarra,1659,RC Strasbourg,6.93,4,3.34,13,22,5,86.51
+152813,Clinton Mata,clinton-mata,1649,Olympique Lyonnais,6.93,0,0.24,14,41,4,90.1
+928236,Leonardo Balerdi,leonardo-balerdi,1641,Olympique de Marseille,6.92,0,0.91,22,54,0,93.98
+824509,Gianluigi Donnarumma,gianluigi-donnarumma,1644,Paris Saint-Germain,6.92,0,,0,1,0,85.42
+999070,Matthis Abline,abline-matthis,1647,Nantes,6.92,9,8.1,35,11,2,68.51
+1405998,Louis Leroux,louis-leroux,1647,Nantes,6.92,2,1.51,8,25,1,83.63
+1102502,Quentin Merlin,quentin-merlin,1641,Olympique de Marseille,6.92,1,2.06,4,22,3,86.93
+1156353,Kamory Doumbia,kamory-doumbia,1715,Stade Brestois,6.92,3,2.83,19,41,2,85.63
+1063235,Mohamed Ali Cho,mohamed-ali-cho,1661,Nice,6.91,3,3.94,20,13,4,77.1
+758168,Moussa Niakhaté,moussa-niakhate,1649,Olympique Lyonnais,6.91,0,0.12,3,47,0,91.08
+257091,Duje Ćaleta-Car,duje-caleta-car,1649,Olympique Lyonnais,6.91,1,2.12,1,20,0,91.12
+367056,Jérémie Boga,jeremie-boga,1661,Nice,6.91,1,2.37,25,10,1,85.48
+143344,Massadio Haïdara,massadio-haidara,1715,Stade Brestois,6.91,0,0.29,15,27,0,80.85
+1151803,Kévin Danois,kevin-danois,1646,Auxerre,6.91,0,1.5,21,49,0,82.93
+865847,Mickaël Nadé,mickael-nade,1678,Saint-Étienne,6.91,1,0.52,4,59,2,89.86
+1127313,Tom Louchet,tom-louchet,1661,Nice,6.91,1,0.79,4,27,0,87.33
+1136409,Jordan James,jordan-james,1658,Stade Rennais,6.9,0,0.86,9,30,1,87.71
+984527,Abdoulaye Ndiaye,abdoulaye-ndiaye,1715,Stade Brestois,6.9,1,0.92,2,49,0,86.72
+580642,Haris Belkebla,haris-belkebla,1684,Angers,6.9,0,0.09,9,56,1,88.09
+1153265,Badredine Bouanani,badredine-bouanani,1661,Nice,6.9,3,2.7,14,11,3,82.01
+913942,Romain Faivre,romain-faivre,1715,Stade Brestois,6.9,3,2.58,17,13,2,86.21
+973838,Abner Vinícius,abner-vinicius,1649,Olympique Lyonnais,6.9,1,0.57,6,29,1,86.07
+1126588,Lasso Coulibaly,lasso-coulibaly,1646,Auxerre,6.9,1,0.27,1,1,0,100.0
+800749,Matvey Safonov,matvey-safonov,1644,Paris Saint-Germain,6.9,0,,0,0,0,77.27
+926506,Mohamed Abdelmonem,mohamed-abdelmonem,1661,Nice,6.9,0,,1,21,0,90.66
+3577,Dante,dante,1661,Nice,6.9,0,0.46,6,32,0,88.76
+1403218,Yoram Zague,zague-yoram,1644,Paris Saint-Germain,6.9,0,0.05,2,8,0,95.73
+344751,Baptiste Santamaria,baptiste-santamaria,1661,Nice,6.9,0,1.07,9,31,1,83.36
+988907,Lilian Brassier,lilian-brassier,1658,Stade Rennais,6.89,1,1.75,3,23,1,86.89
+287887,Gautier Lloris,gautier-lloris,1662,Le Havre,6.89,2,1.17,4,68,1,87.59
+44241,Nemanja Matić,nemanja-matic,1649,Olympique Lyonnais,6.89,0,0.07,8,42,1,87.55
+1002458,Jhoanner Chávez,jhoanner-chavez,1648,RC Lens,6.89,1,0.3,3,9,0,77.19
+191188,Seko Fofana,seko-fofana,1658,Stade Rennais,6.89,1,1.7,12,11,1,91.16
+996951,Sinaly Diomandé,sinaly-diomande,1646,Auxerre,6.89,3,1.34,8,39,2,85.37
+354808,Saïd Benrahma,said-benrahma,1649,Olympique Lyonnais,6.88,1,1.97,8,9,3,79.29
+1387156,Clement Akpa,akpa-clement,1646,Auxerre,6.88,0,0.22,8,55,1,84.14
+1473491,Senny Mayulu,mayulu-senny,1644,Paris Saint-Germain,6.88,2,2.85,15,25,2,90.14
+1401006,Yaya Fofana,yaya-fofana,1682,Stade de Reims,6.88,1,0.61,14,17,1,76.99
+1202024,Ernest Nuamah,ernest-nuamah,1649,Olympique Lyonnais,6.88,3,2.19,22,21,1,83.94
+966621,Esteban Lepaul,lepaul-esteban,1684,Angers,6.88,9,5.23,6,11,0,69.91
+1184248,Henrik Wendel Meister,henrik-wendel-meister,1658,Stade Rennais,6.88,1,0.06,0,2,0,78.57
+1154657,Mamadou Sarr,sarr-mamadou,1659,RC Strasbourg,6.87,0,0.78,10,37,1,93.86
+1154611,Valentin Atangana Edoa,atangana-edoa-valentin,1682,Stade de Reims,6.87,1,2.49,14,69,0,87.79
+799216,Pedro Chirivella,pedro-chirivella,1647,Nantes,6.87,0,0.49,3,44,2,85.75
+1469180,Moise Bombito,bombito-moise,1661,Nice,6.87,0,0.86,12,37,0,90.34
+827522,Amine Harit,amine-harit,1641,Olympique de Marseille,6.87,2,0.82,8,8,4,87.24
+1407484,Samuel Amo-Ameyaw,amo-ameyaw-samuel,1659,RC Strasbourg,6.87,2,0.67,5,5,0,89.47
+1049538,Ousmane Camara,ousmane-camara,1684,Angers,6.87,0,0.08,0,4,0,91.0
+1065261,Jonathan Rowe,jonathan-rowe,1641,Olympique de Marseille,6.86,3,3.52,20,15,3,86.1
+844942,Gideon Mensah,gideon-mensah,1646,Auxerre,6.86,0,0.16,29,68,1,83.08
+798306,Arthur Desmas,arthur-desmas,1662,Le Havre,6.86,0,,0,0,0,75.5
+827942,Sergio Akieme,sergio-akieme,1682,Stade de Reims,6.86,2,1.48,13,34,3,86.16
+1149144,Matías Fernández-Pardo,fernandez-matias,1643,Lille,6.86,4,2.83,20,12,2,78.55
+558320,Ulisses Garcia,ulisses-garcia,1641,Olympique de Marseille,6.85,2,1.52,7,14,2,88.1
+156004,Jean-Eudes Aholou,jean-eudes-aholou,1684,Angers,6.85,2,1.83,12,56,0,84.74
+867441,Angel Gomes,angel-gomes,1643,Lille,6.85,1,1.71,5,10,1,82.34
+352916,Presnel Kimpembe,presnel-kimpembe,1644,Paris Saint-Germain,6.85,0,,0,1,0,100.0
+849114,Radosław Majecki,radoslaw-majecki,1653,AS Monaco,6.85,0,,0,0,0,69.49
+1545409,Mahamadou Nagida,nagida-mahamadou,1658,Stade Rennais,6.85,2,1.51,5,8,0,86.31
+788786,Jordan Siebatcheu,jordan-siebatcheu,1682,Stade de Reims,6.84,1,0.99,2,3,0,79.17
+1001858,Soumaila Coulibaly,soumaila-coulibaly,1715,Stade Brestois,6.84,0,0.17,0,4,0,88.64
+787540,Angelo Fulgini,angelo-fulgini,1648,RC Lens,6.84,1,2.39,11,14,1,81.79
+822110,Deiver Machado,deiver-machado,1648,RC Lens,6.84,1,2.34,23,36,4,86.88
+946381,Akor Adams,akor-adams,1642,Montpellier,6.84,3,4.2,7,4,1,65.12
+920680,Gabriel Osho,gabriel-osho,1646,Auxerre,6.84,1,0.98,4,23,0,89.53
+1129527,Bilal Nadir,bilal-nadir,1641,Olympique de Marseille,6.84,1,0.58,4,10,0,88.98
+1500627,Hiroki Sekine,hiroki-sekine,1682,Stade de Reims,6.84,0,0.13,6,9,0,83.29
+1134351,Ismael Koné,ismael-kone,1658,Stade Rennais,6.84,2,0.44,8,17,1,86.39
+801411,Derek Cornelius,derek-cornelius,1641,Olympique de Marseille,6.84,0,0.89,0,24,0,93.76
+1022084,Tanner Tessmann,tanner-tessmann,1649,Olympique Lyonnais,6.84,1,0.95,10,25,0,90.63
+827504,Léo Pétrot,leo-petrot,1678,Saint-Étienne,6.83,0,0.56,7,67,3,81.12
+963299,Johann Lepenant,johann-lepenant,1647,Nantes,6.83,2,1.4,18,68,1,81.71
+1009334,Lorenz Assignon,lorenz-assignon,1658,Stade Rennais,6.83,3,2.2,28,49,4,81.44
+106496,Nicolas Pallois,nicolas-pallois,1647,Nantes,6.83,0,0.42,3,61,2,83.95
+68076,Nikola Maksimović,nikola-maksimovic,1642,Montpellier,6.83,0,0.02,2,9,0,93.18
+825846,Jordan Teze,jordan-teze,1653,AS Monaco,6.83,1,1.21,5,18,0,83.28
+826203,Malang Sarr,malang-sarr,1648,RC Lens,6.83,0,0.27,2,21,0,89.56
+930584,Farid El Melali,farid-el-melali,1684,Angers,6.83,2,3.51,52,28,3,77.9
+352370,Lucas Hernández,lucas-hernandez,1644,Paris Saint-Germain,6.83,0,0.04,2,24,0,92.11
+922759,Mark McKenzie,mark-mckenzie,1681,Toulouse,6.82,1,1.39,4,52,1,87.63
+834308,Gabriel Gudmundsson,gabriel-gudmundsson,1643,Lille,6.82,2,0.73,20,36,0,85.28
+930231,Christopher Wooh,christopher-wooh,1658,Stade Rennais,6.82,0,1.31,7,36,0,87.38
+876600,Mousa Tamari,mousa-al-taamari,1658,Stade Rennais,6.82,3,4.95,30,18,1,81.59
+1170560,Soungoutou Magassa,soungoutou-magassa,1653,AS Monaco,6.81,0,0.48,15,47,1,85.81
+757742,Rayan Raveloson,rayan-raveloson,1646,Auxerre,6.81,1,0.82,7,6,0,88.45
+802143,Kelvin Amian,kelvin-amian,1647,Nantes,6.81,1,0.97,13,55,0,81.81
+856737,Zakaria Aboukhlal,zakaria-aboukhlal,1681,Toulouse,6.8,7,10.23,16,22,2,68.95
+352296,Breel Embolo,breel-embolo,1653,AS Monaco,6.8,6,10.7,14,22,4,71.02
+873551,Mostafa Mohamed,mostafa-mohamed,1647,Nantes,6.8,5,5.51,12,18,0,66.53
+891505,Goduine Koyalipou,goduine-koyalipou,1648,RC Lens,6.8,4,5.08,12,3,0,70.59
+1401005,Remy Labeau Lascary,remy-labeau-lascary,1648,RC Lens,6.8,2,2.56,12,16,1,78.95
+151124,Jordan Veretout,jordan-veretout,1649,Olympique Lyonnais,6.8,2,1.85,5,30,0,85.73
+1049517,Ismael Doukouré,ismael-doukoure,1659,RC Strasbourg,6.8,1,0.57,13,40,1,89.23
+1536782,Pape Diong,daouda-diongu,1659,RC Strasbourg,6.8,1,1.02,0,2,0,83.93
+1046446,Benjamin Bouchouari,benjamin-bouchouari,1678,Saint-Étienne,6.8,1,0.68,29,34,0,87.09
+1891025,Justin Bourgault,justin-bourgault,1715,Stade Brestois,6.8,1,0.07,0,2,0,73.33
+1198264,Rafik Messali,rafik-messali,1681,Toulouse,6.8,0,0.27,4,15,1,75.4
+292665,Glen Kamara,glen-kamara,1658,Stade Rennais,6.8,0,0.17,4,23,1,90.71
+788180,Rémy Descamps,remy-descamps,1649,Olympique Lyonnais,6.8,0,,0,0,0,89.29
+1894105,Kevin Pedro,kevin-pedro,1678,Saint-Étienne,6.8,0,,1,3,0,57.14
+1937750,Noham Kamara,noham-kamara,1644,Paris Saint-Germain,6.8,0,,0,1,0,93.24
+191204,Jean-Charles Castelletto,jean-charles-castelletto,1647,Nantes,6.8,0,1.94,3,34,0,89.18
+1586875,Amadou Koné,kone-amadou,1682,Stade de Reims,6.8,0,0.55,15,49,0,86.41
+356352,Hans Hateboer,hans-hateboer,1658,Stade Rennais,6.8,0,0.43,6,31,0,87.92
+1499870,Luc Zogbé,luc-zogbe,1715,Stade Brestois,6.8,0,0.28,4,32,0,83.53
+1939210,Younes Lachaab,younes-lachaab,1643,Lille,6.8,0,0.09,1,1,0,50.0
+804472,Pablo Rosario,pablo-rosario,1661,Nice,6.8,3,3.77,9,30,1,85.33
+1495876,Mamadou Diakhon,mamadou-diakhon,1682,Stade de Reims,6.8,2,1.02,25,12,1,86.7
+842400,Zinedine Ferhat,zinedine-ferhat,1684,Angers,6.8,2,1.36,10,9,0,75.54
+1391541,Ngal'ayel Mukau,ngalayel-mukau,1643,Lille,6.8,0,0.76,9,33,1,89.92
+235460,André Gomes,andre-gomes,1643,Lille,6.79,0,0.54,10,27,0,90.39
+1172936,Louis Mouton,louis-mouton,1678,Saint-Étienne,6.79,0,1.45,12,49,1,82.79
+227862,Wesley Saïd,wesley-said,1648,RC Lens,6.79,3,3.18,9,16,0,80.59
+123166,Nampalys Mendy,nampalys-mendy,1648,RC Lens,6.79,0,0.21,1,15,1,89.93
+1029018,Abdallah Sima,abdallah-sima,1715,Stade Brestois,6.79,7,5.83,6,15,2,72.2
+997006,Youssoufa Moukoko,youssoufa-moukoko,1661,Nice,6.79,2,2.2,2,3,1,81.4
+785518,Yoann Salmier,yoann-salmier,1662,Le Havre,6.78,0,0.81,4,14,0,81.35
+1564180,Ayyoub Bouaddi,bouaddi-ayyoub,1643,Lille,6.78,0,0.12,14,50,1,88.14
+1000263,Albert Grønbæk,albert-gronbaek,1658,Stade Rennais,6.78,2,1.52,11,21,1,68.72
+954044,Ki-Jana Hoever,ki-jana-hoever,1646,Auxerre,6.78,1,0.49,9,51,2,73.27
+1002447,Hamzat Ojediran,hamzat-ojediran,1648,RC Lens,6.78,1,0.58,6,28,0,80.97
+914738,Ibrahim Sissoko,ibrahim-sissoko,1678,Saint-Étienne,6.78,3,4.2,3,11,1,67.82
+541426,Daler Kuzyaev,daler-kuzyaev,1662,Le Havre,6.78,1,0.2,2,13,0,82.28
+802034,Fabien Centonze,fabien-centonze,1647,Nantes,6.77,0,,2,8,0,80.0
+1492676,Rabby Nzingoula,rabby-nzingoula,1642,Montpellier,6.77,1,1.07,26,67,0,78.8
+911039,Sorba Thomas,sorba-thomas,1647,Nantes,6.77,1,1.49,9,14,3,76.07
+859027,Maxence Caqueret,maxence-caqueret,1649,Olympique Lyonnais,6.77,0,0.66,7,21,0,81.79
+1048889,Andy Diouf,andy-diouf,1648,RC Lens,6.76,1,2.94,43,37,2,82.28
+1002564,Mikayil Faye,mikayil-faye,1658,Stade Rennais,6.76,0,0.35,2,15,0,88.87
+904424,Elisha Owusu,elisha-owusu,1646,Auxerre,6.76,1,0.37,9,73,3,82.66
+871706,Randal Kolo Muani,randal-kolo-muani,1644,Paris Saint-Germain,6.76,2,4.67,7,4,1,73.08
+844744,Thibault De Smet,thibault-de-smet,1682,Stade de Reims,6.76,0,0.14,0,6,0,91.23
+904759,Modibo Sagnan,modibo-sagnan,1642,Montpellier,6.76,2,0.79,13,57,0,88.92
+357752,Aurélio Buta,aurelio-buta,1682,Stade de Reims,6.76,0,0.26,9,37,1,85.03
+795002,Niklas Schmidt,niklas-schmidt,1681,Toulouse,6.76,0,0.08,0,6,1,83.54
+1000442,Yassine Kechta,yassine-kechta,1662,Le Havre,6.75,2,2.47,13,60,0,82.56
+992026,Rassoul Ndiaye,rassoul-ndiaye,1662,Le Havre,6.75,1,1.76,3,35,0,78.52
+954060,Tanguy Coulibaly,tanguy-coulibaly,1642,Montpellier,6.75,3,4.16,32,36,0,82.12
+1138352,Augustine Boakye,augustine-boakye,1678,Saint-Étienne,6.75,3,1.83,13,7,0,76.61
+1442036,Emmanuel Biumla,emmanuel-biumla,1684,Angers,6.75,1,0.7,7,19,0,88.71
+794373,Carlens Arcus,carlens-arcus,1684,Angers,6.75,0,0.04,8,52,1,85.29
+27035,André Ayew,andre-ayew,1662,Le Havre,6.74,4,4.69,5,18,1,78.51
+810535,Tino Kadewere,tino-kadewere,1647,Nantes,6.74,1,1.72,4,14,2,76.19
+1048366,Waren Kamanzi,waren-kamanzi,1681,Toulouse,6.74,1,1.29,16,29,1,82.99
+1471671,Jaydee Canvot,jaydee-canvot,1681,Toulouse,6.74,0,0.21,7,23,0,86.72
+54308,Loic Négo,loic-nego,1662,Le Havre,6.73,0,0.71,17,58,0,77.19
+1405912,Dehmaine Tabibou,dehmaine-assoumani,1647,Nantes,6.73,0,0.09,3,6,0,76.74
+848537,Boubakar Kouyaté,boubakar-kouyate,1642,Montpellier,6.73,0,0.72,0,25,0,83.33
+976396,Joris Chotard,joris-chotard,1642,Montpellier,6.73,1,1.29,8,41,0,84.41
+794465,Dimitry Bertaud,dimitry-bertaud,1642,Montpellier,6.73,0,,0,0,0,67.02
+1153083,Valentín Carboni,valentin-carboni,1641,Olympique de Marseille,6.73,0,0.05,0,2,0,88.33
+983066,Andrew Omobamidele,andrew-omobamidele,1659,RC Strasbourg,6.72,0,,1,7,0,94.1
+829643,Teddy Teuma,teddy-teuma,1682,Stade de Reims,6.72,1,1.39,3,18,0,84.45
+1170197,Abakar Sylla,abakar-sylla,1659,RC Strasbourg,6.72,1,0.42,3,27,0,89.15
+862078,Meschak Elia,meschak-elia,1647,Nantes,6.71,1,1.09,2,7,0,71.74
+1155226,Saël Kumbedi,sael-kumbedi,1649,Olympique Lyonnais,6.71,0,0.31,9,28,0,86.3
+1402751,Mahamadou Diawara,mahamadou-diawara,1662,Le Havre,6.71,0,0.34,6,21,1,85.34
+1387163,Tom Pouilly,tom-pouilly,1648,RC Lens,6.71,0,0.42,2,9,0,79.67
+27029,Steve Mandanda,steve-mandanda,1658,Stade Rennais,6.71,0,,2,0,0,66.51
+1120615,Antoine Mendy,antoine-mendy,1661,Nice,6.71,0,0.6,5,30,0,83.49
+268903,Neal Maupay,neal-maupay,1641,Olympique de Marseille,6.71,4,4.2,6,9,4,84.25
+1103548,Enzo Tchato Mbiayi,enzo-tchato-mbiayi,1642,Montpellier,6.71,0,0.16,6,48,0,79.6
+936848,Theo Bair,theo-bair,1646,Auxerre,6.71,2,3.01,2,4,1,64.39
+1406007,Bahereba Guirassy,bahereba-guirassy,1647,Nantes,6.71,2,0.7,9,12,0,74.77
+1136280,Shavy Babicka,shavy-babicka,1681,Toulouse,6.71,4,3.88,11,21,2,74.38
+489180,Ado Onaiwu,ado-onaiwu,1646,Auxerre,6.7,4,4.06,11,11,1,74.45
+1197153,Junior Mwanga,junior-mwanga,1662,Le Havre,6.7,1,1.42,9,43,2,86.44
+51640,Wahbi Khazri,wahbi-khazri,1642,Montpellier,6.7,1,2.3,7,25,1,74.74
+1063237,Saïdou Sow,saidou-sow,1647,Nantes,6.7,1,1.07,5,26,1,88.07
+795261,Adryelson,adryelson,1649,Olympique Lyonnais,6.7,0,,0,0,0,33.33
+1844117,Keyliane Abdallah,keyliane-abdallah,1641,Olympique de Marseille,6.7,0,,0,1,0,100.0
+1415436,Sékou Doucouré,sekou-doucoure,1647,Nantes,6.7,0,,0,0,0,80.0
+891508,Grégoire Coudert,gregoire-coudert,1715,Stade Brestois,6.7,0,,0,0,0,77.05
+1551013,Amidou Doumbouya,amidou-doumbouya,1661,Nice,6.7,0,,1,1,0,81.82
+1402698,Ethan Mbappé,ethan-mbappe,1643,Lille,6.7,0,1.07,3,6,0,79.2
+1514800,Robinio Vaz,robinio-vaz,1641,Olympique de Marseille,6.7,0,0.51,0,1,0,28.57
+234230,Florent Mollet,florent-mollet,1647,Nantes,6.7,0,0.32,2,2,0,85.71
+940918,Bećir Omeragić,becir-omeragic,1642,Montpellier,6.7,0,0.29,11,32,0,92.89
+862773,Denis Genreau,denis-genreau,1681,Toulouse,6.7,0,0.29,1,7,0,87.61
+2034244,Plamedi Nsingi,plamedi-nsingi,1647,Nantes,6.7,0,0.23,0,1,0,33.33
+1215071,Ümit Akdağ,umit-akdag,1681,Toulouse,6.7,0,0.08,1,8,0,80.31
+1897372,Marwann Nzuzi,marwann-nzuzi,1678,Saint-Étienne,6.7,0,0.03,0,2,0,85.0
+1937795,Axel Tape,axel-tape,1644,Paris Saint-Germain,6.7,0,0.03,1,3,0,94.0
+990820,Hianga'a M'Bock,hiangaa-mbock,1715,Stade Brestois,6.7,0,0.02,0,0,0,82.35
+1387157,Khalil Fayad,khalil-fayad,1642,Montpellier,6.7,0,1.27,17,31,0,85.74
+785418,Marcus Coco,marcus-coco,1647,Nantes,6.69,0,0.06,3,27,1,83.25
+934237,Folarin Balogun,folarin-balogun,1653,AS Monaco,6.69,4,4.77,4,1,0,71.19
+1463265,Antoine Joujou,joujou-antoine,1662,Le Havre,6.69,0,0.64,30,16,2,69.82
+1512339,Lucas Mincarelli,mincarelli-davin-lucas,1642,Montpellier,6.69,1,0.44,1,17,0,85.29
+1154630,Guillaume Restes,guillaume-restes,1681,Toulouse,6.69,0,,0,2,1,69.33
+845930,Jean-Kévin Duverne,jean-kevin-duverne,1647,Nantes,6.69,0,0.28,2,21,0,79.76
+782240,Assane Dioussé,assane-diousse,1646,Auxerre,6.69,0,0.06,2,15,0,89.89
+816810,Mathieu Cafaro,mathieu-cafaro,1678,Saint-Étienne,6.69,1,1.48,7,10,0,75.24
+1095731,Oussama Targhalline,oussama-targhalline,1662,Le Havre,6.69,0,0.15,5,19,0,83.09
+1169436,Frank Magri,frank-magri,1681,Toulouse,6.68,5,5.96,4,8,1,72.2
+121180,Abdoulaye Bamba,abdoulaye-bamba,1684,Angers,6.68,0,0.08,2,22,0,89.64
+1160386,Andrés Gómez,andres-gomez,1658,Stade Rennais,6.68,3,1.25,8,8,0,85.71
+84744,Andy Delort,andy-delort,1642,Montpellier,6.68,0,1.46,3,5,0,52.29
+1462434,George Ilenikhena,george-ilenikhena,1653,AS Monaco,6.68,3,5.07,3,4,2,72.5
+1143587,Ahmed Hassan,ahmed-hassan,1662,Le Havre,6.68,3,4.96,6,4,1,77.98
+995671,Reda Khadra,reda-khadra,1682,Stade de Reims,6.68,0,,4,1,0,81.48
+1130986,Paul Joly,paul-joly,1646,Auxerre,6.67,0,0.59,6,49,1,71.34
+557166,Mama Baldé,mama-balde,1715,Stade Brestois,6.67,2,3.13,17,15,3,73.28
+209768,Pierrick Capelle,pierrick-capelle,1684,Angers,6.67,0,0.23,8,24,0,82.81
+845786,Jota,jota,1658,Stade Rennais,6.67,1,1.33,4,5,0,80.36
+861324,Hugo Magnetti,hugo-magnetti,1715,Stade Brestois,6.67,1,0.79,9,52,0,86.37
+123264,Jonas Martin,jonas-martin,1715,Stade Brestois,6.66,1,0.41,2,13,0,89.47
+1394411,Steve Ngoura,steve-ngoura,1662,Le Havre,6.66,0,1.28,7,4,0,67.27
+980406,Étienne Youte Kinkoue,etienne-youte-kinkoue,1662,Le Havre,6.66,0,1.3,2,19,0,89.16
+368120,Nabil Bentaleb,nabil-bentaleb,1643,Lille,6.66,1,0.73,0,4,0,88.19
+123164,Dennis Appiah,dennis-appiah,1678,Saint-Étienne,6.66,0,0.2,20,71,1,76.63
+1407848,Christian Mawissa,christian-mawissa,1653,AS Monaco,6.66,0,0.07,10,42,0,87.96
+927340,Han-Noah Massengo,han-noah-massengo,1646,Auxerre,6.66,0,0.41,10,17,0,85.45
+1930811,Abdoul Ouattara,abdoul-ouattara,1659,RC Strasbourg,6.66,1,0.34,2,6,1,87.98
+1386639,Ibrahim Salah,ibrahim-salah,1715,Stade Brestois,6.65,1,0.58,9,4,1,74.34
+123229,Jordan Ferri,jordan-ferri,1642,Montpellier,6.65,0,0.44,9,42,2,90.2
+886286,Nicolas Cozza,nicolas-cozza,1647,Nantes,6.65,1,1.45,5,59,0,77.84
+330099,Edimilson Fernandes,edimilson-fernandes,1715,Stade Brestois,6.65,0,0.37,3,9,1,85.79
+1499180,Enzo Caumont,enzo-caumont,1684,Angers,6.65,0,,0,1,0,92.86
+1897296,Victor Orakpo,victor-orakpo,1661,Nice,6.65,0,0.32,2,0,0,88.24
+1154632,Ilyes Housni,ilyes-housni,1662,Le Havre,6.65,0,0.24,3,7,0,64.41
+1426229,Yanis Issoufou,yanis-issoufou,1642,Montpellier,6.65,0,0.06,1,6,0,62.5
+1185986,Óscar Perea,oscar-perea,1659,RC Strasbourg,6.65,0,0.01,2,0,0,100.0
+1824137,Timothee Pembele,timothee-pembele,1662,Le Havre,6.65,1,1.29,15,30,0,84.54
+890329,Ignatius Ganago,ignatius-kpene-ganago,1647,Nantes,6.65,0,0.4,5,1,0,79.45
+973536,Martín Satriano,martin-satriano,1648,RC Lens,6.64,0,0.37,1,3,0,64.29
+909318,Mohamed Bayo,mohamed-bayo,1643,Lille,6.64,2,2.03,2,1,1,70.69
+873534,Krépin Diatta,krepin-diatta,1653,AS Monaco,6.64,0,0.17,8,18,0,79.62
+1170532,Jacques Ekomié,jacques-ekomie,1684,Angers,6.64,0,0.02,4,22,0,77.06
+1188191,Oumar Diakité,oumar-diakite,1682,Stade de Reims,6.64,4,5.48,20,20,1,83.67
+788061,M'bala Nzola,mbala-nzola,1648,RC Lens,6.64,6,8.61,14,5,1,75.59
+901152,Théo Sainte-Luce,theo-sainte-luce,1642,Montpellier,6.64,1,1.3,12,24,0,76.95
+1606642,Mohamed Kader Meite,mohamed-kader-meite,1658,Stade Rennais,6.64,2,2.44,1,2,0,67.39
+352912,Dylan Batubinsika,dylan-batubinsika,1678,Saint-Étienne,6.64,1,0.81,6,26,0,91.63
+1170536,Yael Mouanga,yael-mouanga,1642,Montpellier,6.64,0,0.1,5,14,0,88.03
+1102503,Ahmadou Bamba Dieng,ahmadou-bamba-dieng,1684,Angers,6.64,3,3.09,2,4,0,80.61
+1047484,Sékou Mara,sekou-mara,1659,RC Strasbourg,6.64,1,1.93,11,9,1,70.17
+880775,Ibrahima Niane,ibrahima-niane,1684,Angers,6.63,3,5.73,6,7,1,69.35
+342911,Cédric Hountondji,cedric-hountondji,1684,Angers,6.63,0,,0,6,0,85.0
+839112,Samuel Grandsir,samuel-grandsir,1662,Le Havre,6.63,0,,0,5,0,73.08
+990227,Aimen Moueffek,aimen-moueffek,1678,Saint-Étienne,6.63,0,1.09,11,20,1,85.17
+880765,Emmanuel Sabbi,emmanuel-sabbi,1662,Le Havre,6.63,0,1.89,11,14,0,78.57
+850035,Luiz Felipe,luiz-felipe,1641,Olympique de Marseille,6.63,0,,1,4,0,89.06
+1195241,Yassin Belkhdim,yassin-belkhdim,1684,Angers,6.62,1,0.74,2,53,1,83.4
+1622129,Nicolas Pays,nicolas-pays,1642,Montpellier,6.62,0,1.32,10,13,0,82.91
+792318,Kjetil Haug,kjetil-haug,1681,Toulouse,6.62,0,,0,0,0,58.97
+1403575,Jeremy Agbonifo,agbonifo-jeremy,1648,RC Lens,6.61,1,0.68,9,7,0,75.0
+1498433,Jeremy Sebas,sebas-jeremy,1659,RC Strasbourg,6.61,0,0.64,6,3,0,69.23
+1122425,Benjamin Old,benjamin-old,1678,Saint-Étienne,6.61,0,1.0,9,7,0,83.87
+178721,Yunis Abdelhamid,yunis-abdelhamid,1678,Saint-Étienne,6.61,0,0.24,3,17,0,86.83
+988632,Jim Allevinah,jim-allevinah,1684,Angers,6.6,1,4.05,15,19,3,80.14
+291695,Issiaga Sylla,issiaga-sylla,1642,Montpellier,6.6,1,1.84,9,26,0,80.13
+999030,Warmed Omari,omari-warmed,1649,Olympique Lyonnais,6.6,0,,0,0,0,100.0
+1444641,Edhy Zuliani,edhy-zuliani,1681,Toulouse,6.6,0,,0,0,0,100.0
+340561,Gauthier Gallon,gauthier-gallon,1658,Stade Rennais,6.6,0,,0,0,0,82.35
+1897490,Ben Viadere,ben-viadere,1646,Auxerre,6.6,0,,1,0,0,50.0
+1545376,Rayan Fofana,rayan-fofana,1648,RC Lens,6.6,0,,0,2,0,62.5
+1922996,Serigne Diop,serigne-diop,1715,Stade Brestois,6.6,0,,0,1,0,100.0
+1537180,Mohamed Bamba,mohamed-bamba,1682,Stade de Reims,6.6,0,,0,0,0,84.21
+369546,Théo Pellenard,theo-pellenard,1646,Auxerre,6.6,0,,0,3,0,81.82
+342915,Jordan Amavi,jordan-amavi,1715,Stade Brestois,6.6,0,0.26,7,24,0,73.7
+1100831,John Patrick,john-joe-patrick-finn,1682,Stade de Reims,6.6,0,0.16,6,24,0,76.28
+1410148,Mamadou Coulibaly,mamadou-coulibaly,1653,AS Monaco,6.6,0,0.08,1,1,0,75.0
+2142283,Lanroy Machine,lanroy-machine,1684,Angers,6.6,0,0.06,0,0,0,75.0
+1135605,Axel Camblan,axel-camblan,1715,Stade Brestois,6.6,0,0.05,0,1,0,50.0
+844480,Pol Lirola,pol-lirola,1641,Olympique de Marseille,6.59,1,0.6,1,13,2,86.18
+139256,Miha Zajc,miha-zajc,1681,Toulouse,6.59,0,0.22,3,4,0,85.39
+1005648,Fredrik Oppegård,fredrik-oppegard,1646,Auxerre,6.59,0,0.12,1,6,0,82.95
+1426224,Mathis Amougou,mathis-amougou,1678,Saint-Étienne,6.59,0,0.45,5,21,0,78.31
+246507,Birama Touré,birama-toure,1642,Montpellier,6.59,0,0.04,0,8,0,82.11
+801280,Florian Ayé,florian-aye,1646,Auxerre,6.58,2,1.9,2,2,0,75.4
+1102791,Amar Dedić,amar-dedic,1641,Olympique de Marseille,6.58,0,0.9,9,5,1,84.62
+186017,Eduard Sobol,eduard-sobol,1659,RC Strasbourg,6.58,0,,0,0,0,73.08
+802137,Maxime Bernauer,maxime-bernauer,1678,Saint-Étienne,6.57,0,0.06,2,10,0,87.65
+1154647,Lucas Michal,lucas-michal,1653,AS Monaco,6.57,0,0.23,1,5,0,85.71
+822878,Lamine Fomba,lamine-fomba,1678,Saint-Étienne,6.57,0,0.02,2,8,0,84.03
+1046150,Eliot Matazo,eliot-matazo,1653,AS Monaco,6.57,0,,0,3,0,85.0
+1484975,Malcolm Jeng,malcolm-jeng,1682,Stade de Reims,6.57,0,,0,0,0,85.37
+1195700,Junior Ndiaye,ndiaye-junior,1642,Montpellier,6.57,0,0.51,2,3,0,70.13
+111850,Wilfried Zaha,wilfried-zaha,1649,Olympique Lyonnais,6.57,0,0.06,3,1,0,87.5
+1397558,Kassoum Ouattara,kassoum-ouattara,1653,AS Monaco,6.56,0,0.16,5,9,1,80.0
+1006486,Yvann Maçon,yvann-macon,1678,Saint-Étienne,6.56,0,0.29,10,22,0,77.87
+1426221,Nhoa Sangui,nhoa-sangui,1682,Stade de Reims,6.55,0,0.1,10,16,2,84.56
+1859949,Abdoul Kone,abdoul-kone,1682,Stade de Reims,6.55,0,,1,5,0,66.67
+981541,Gabriel Bares,gabriel-bares,1642,Montpellier,6.55,0,,1,2,0,87.18
+1175856,Amine Salama,amine-salama,1682,Stade de Reims,6.54,0,0.71,7,3,0,79.49
+894396,Terem Moffi,terem-moffi,1661,Nice,6.54,1,2.31,1,0,0,60.0
+796081,Ibrahima Wadji,ibrahima-wadji,1678,Saint-Étienne,6.54,0,0.75,7,7,0,86.89
+2063925,Wilfried Ndollo Bille,wilfried-ndollo-bille,1642,Montpellier,6.54,0,,1,6,0,82.67
+979315,Elye Wahi,elye-wahi,1641,Olympique de Marseille,6.53,3,6.02,2,0,1,81.48
+1546405,Kyllian Antonio,kyllian-antonio,1648,RC Lens,6.53,0,0.05,1,3,0,85.23
+1518668,Issiaga Camara,issiaga-camara,1661,Nice,6.53,0,,0,2,0,93.75
+1485309,Gabriel Moscardo,gabriel-moscardo,1682,Stade de Reims,6.53,0,0.2,1,3,0,78.95
+1035988,Arouna Sangante,arouna-sangante,1662,Le Havre,6.52,3,1.01,5,25,0,87.66
+1958607,Djylian N'Guessan,djylian-nguessan,1678,Saint-Étienne,6.52,0,0.4,2,6,0,84.62
+326343,Jean-Philippe Gbamin,jean-philippe-gbamin,1647,Nantes,6.51,0,0.53,1,2,0,78.26
+788170,Fodé Ballo-Touré,fode-ballo-toure,1662,Le Havre,6.51,0,,5,8,0,87.67
+1087805,Marvin Senaya,marvin-senaya,1659,RC Strasbourg,6.51,0,0.01,0,8,0,84.96
+1984921,Hafiz Umar Ibrahim,hafiz-umar-ibrahim,1682,Stade de Reims,6.5,0,0.5,3,3,1,61.22
+1614474,Alejandro Gomes Rodriguez,alejandro-gomes-rodriguez,1649,Olympique Lyonnais,6.5,0,,0,0,0,100.0
+926995,Naatan Skyttä,naatan-skytta,6918,USL Dunkerque,6.5,0,,0,1,0,100.0
+1158529,Martin Adeline,martin-adeline,1682,Stade de Reims,6.5,0,,0,1,0,80.0
+1137670,Nordine Kandil,nordine-kandil,1659,RC Strasbourg,6.5,0,,1,0,0,50.0
+1513466,Ousmane Touré,ousmane-toure,1643,Lille,6.5,0,,0,0,0,80.0
+1391368,Jibril Othman,jibril-othman,1678,Saint-Étienne,6.5,0,,0,0,0,100.0
+294641,Loïs Diony,lois-diony,1684,Angers,6.5,0,,0,0,0,25.0
+909272,Alex Domínguez,alex-dominguez,1681,Toulouse,6.5,0,,0,0,0,70.0
+2026685,Gabin Capuano,gabin-capuano,1648,RC Lens,6.5,0,,0,0,0,100.0
+1823916,Darryl Bakola,darryl-bakola,1641,Olympique de Marseille,6.5,0,,0,1,0,92.31
+1165974,Miloš Luković,milos-lukovic,1659,RC Strasbourg,6.5,0,,0,0,0,66.67
+2137784,Prosper Peter,prosper-peter,1684,Angers,6.5,0,,0,2,0,50.0
+1897486,Yoann Cissé,yoann-cisse,1646,Auxerre,6.5,0,,0,0,0,66.67
+1897295,Yaël Nandjou,yael-nandjou,1661,Nice,6.5,0,0.22,1,4,0,75.51
+948250,Billal Brahimi,billal-brahimi,1661,Nice,6.5,0,0.04,0,0,0,93.75
+957279,Mohamed Daramy,mohamed-daramy,1682,Stade de Reims,6.5,0,0.03,0,0,0,100.0
+1484974,Justin-Noel Kalumba,kalumba-justin-noel,1684,Angers,6.5,0,0.02,1,0,0,90.0
+1023091,David Pereira Da Costa,david-pereira-da-costa,1648,RC Lens,6.49,0,1.21,2,2,0,89.78
+900697,Pierre Cornud,pierre-cornud,1678,Saint-Étienne,6.49,0,,2,12,0,83.88
+1512354,Noah Edjouma,noah-edjouma,1681,Toulouse,6.48,2,1.29,4,2,0,75.56
+1542709,Ange Tia,ange-tia,1682,Stade de Reims,6.48,0,1.3,3,4,0,74.14
+1597197,Hamidou Makalou,hamdiou-makalou,1715,Stade Brestois,6.48,0,,1,0,0,94.44
+1462778,Lilian Raolisoa,lilian-raolisoa,1684,Angers,6.47,0,0.68,23,41,3,76.72
+989899,Zinédine Ould Khaled,zinedine-ould-khaled,1684,Angers,6.47,0,0.02,0,9,0,91.8
+997104,Naouirou Ahamada,naouirou-ahamada,1658,Stade Rennais,6.47,0,0.02,0,0,0,80.95
+877766,Kyogo Furuhashi,kyogo-furuhashi,1658,Stade Rennais,6.46,0,0.13,0,2,0,27.27
+1590918,Ibrahim Mbaye,ibrahim-mbaye,1644,Paris Saint-Germain,6.46,1,1.64,5,4,1,90.14
+1606630,Enzo Sternal,enzo-sternal,1641,Olympique de Marseille,6.45,0,,1,0,0,87.5
+1511908,Ange-Loïc N'gatta,ngatta-ange-loic,1646,Auxerre,6.45,0,,0,1,0,90.91
+1948048,Simon Cara,simon-cara,1642,Montpellier,6.45,0,,0,0,0,66.67
+1124025,Igor Miladinović,igor-miladinovic,1678,Saint-Étienne,6.45,0,,0,0,0,80.0
+796372,Falaye Sacko,falaye-sacko,1642,Montpellier,6.44,0,,3,14,1,84.6
+1936455,Aristide Zossou,aristide-zossou,1646,Auxerre,6.43,0,,0,0,0,94.12
+1514916,Sidiki Cherif,sidiki-cherif,1684,Angers,6.43,0,0.73,3,5,0,56.14
+1035645,Caleb Wiley,caleb-wiley,1659,RC Strasbourg,6.42,0,0.03,0,1,1,81.05
+1515917,Othmane Maamma,maamma-othmane,1642,Montpellier,6.4,1,0.76,10,4,1,67.9
+1029456,Faris Moumbagna,faris-pemi-moumbagna,1641,Olympique de Marseille,6.4,0,,0,0,0,0.0
+1513467,Aaron Malouda,malouda-aaron,1643,Lille,6.4,0,,0,0,0,0.0
+1003316,Kandet Diawara,kandet-diawara,1662,Le Havre,6.4,0,,0,0,0,50.0
+871041,Karol Fila,karol-fila,1659,RC Strasbourg,6.4,0,,0,0,0,50.0
+963201,Melvin Zinga,melvin-zinga,1684,Angers,6.4,0,,0,0,0,58.62
+1913447,Alexi Koum,alexi-koum,1641,Olympique de Marseille,6.4,0,,0,0,0,85.71
+1545389,Kembo Diliwidi,kembo-diliwidi,1648,RC Lens,6.4,0,,0,0,0,100.0
+1195635,Axel Gueguin,axel-gueguin,1642,Montpellier,6.4,0,,0,1,0,80.0
+794374,Alois Confais,alois-confais,1662,Le Havre,6.4,0,,0,0,0,50.0
+951949,Eros Maddy,eros-maddy,1646,Auxerre,6.4,0,,0,0,0,100.0
+153218,Thomas Delaine,thomas-delaine,1659,RC Strasbourg,6.4,0,,0,1,0,0.0
+1901842,Niama Pape Sissoko,niama-pape-sissoko,1682,Stade de Reims,6.4,0,0.28,0,0,0,63.64
+1195740,Ayman Aiki,ayman-aiki,1678,Saint-Étienne,6.4,0,0.11,0,3,0,60.71
+1129382,Bradley Locko,bradley-locko,1715,Stade Brestois,6.4,0,0.03,1,2,0,91.18
+1961626,Rudy Matondo,rudy-matondo,1646,Auxerre,6.38,0,,0,1,0,91.3
+1506932,Marius Courcoul,courcoul-marius,1684,Angers,6.38,0,0.1,1,5,0,87.59
+1131541,Bamo Meïté,bamo-meite,1642,Montpellier,6.37,0,0.02,1,5,0,88.72
+1047296,Jérémy Le Douaron,jeremy-le-douaron,1715,Stade Brestois,6.35,0,0.16,0,1,0,78.57
+2017474,Bernard Nguene,bernard-nguene,1661,Nice,6.3,0,,0,0,0,100.0
+1121330,Mathéo Bodmer,matheo-bodmer,1662,Le Havre,6.3,0,,0,0,0,100.0
+793988,Orel Mangala,orel-mangala,1649,Olympique Lyonnais,6.3,0,0.05,0,1,0,93.33
+1426581,Saimon Bouabre,bouabre-saimon,1653,AS Monaco,6.27,0,,0,1,0,68.97
+796279,Jordan Lotomba,jordan-lotomba,1661,Nice,6.25,0,,1,0,0,88.24
+1634349,Théo Chennahi,chennahi-theo,1642,Montpellier,6.23,0,0.15,0,6,0,90.57
+1152889,Stefan Džodić,stefan-dzodic,1642,Montpellier,6.22,0,0.09,0,8,0,89.77
+839309,Paul Akouokou,paul-akouokou,1649,Olympique Lyonnais,6.1,0,,0,1,0,66.67
+2041113,Patrick Zabi,zabi,1682,Stade de Reims,6.0,0,,0,0,0,75.0
+1494855,Elysée Logbo,logbo-andy,1662,Le Havre,6.0,0,0.18,0,0,0,75.0
+2059250,Téo Barišić,teo-barisic,1649,Olympique Lyonnais,0.0,0,,0,0,0,100.0
+1514294,Ayanda Sishuba,sishuba-ayanda,1658,Stade Rennais,0.0,0,,0,1,0,0.0
+1405845,Ikechukwu Orazi,ikechukwu-orazi,1682,Stade de Reims,0.0,0,,0,0,0,100.0
+558522,Anthony Briançon,anthony-briancon,1678,Saint-Étienne,0.0,0,,0,0,0,0.0
