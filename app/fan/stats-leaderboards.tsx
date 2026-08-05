@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { STAT_COLUMNS, type PlayerStatRow, type StatKey } from "@/lib/stats";
+import { STAT_CATEGORIES, STAT_COLUMNS, type PlayerStatRow, type StatKey } from "@/lib/stats";
 
 const PAGE_SIZE = 10;
 const MAX_VISIBLE = 50;
@@ -13,13 +13,63 @@ type Entry = {
 };
 
 export function StatsLeaderboards({ players }: { players: PlayerStatRow[] }) {
+  const [category, setCategory] = useState(STAT_CATEGORIES[0].id);
+
+  const columns = STAT_COLUMNS.filter((c) => c.category === category);
+
   return (
-    <div className="grid">
-      {STAT_COLUMNS.map((col) => (
-        <StatLeaderboard key={col.key} label={col.label} statKey={col.key} players={players} />
-      ))}
+    <div>
+      <div className="tabs">
+        {STAT_CATEGORIES.map((c) => (
+          <button
+            type="button"
+            key={c.id}
+            className={`tab ${category === c.id ? "active" : ""}`}
+            onClick={() => setCategory(c.id)}
+          >
+            {c.label}
+          </button>
+        ))}
+      </div>
+
+      <div className="grid">
+        {columns.map((col) => (
+          <StatLeaderboard key={col.key} label={col.label} statKey={col.key} players={players} />
+        ))}
+      </div>
 
       <style jsx>{`
+        .tabs {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 8px;
+          margin-bottom: 20px;
+        }
+
+        .tab {
+          border: 1px solid var(--input-border);
+          background: var(--input-bg);
+          color: rgba(245, 245, 240, 0.6);
+          font-family: "DM Sans", sans-serif;
+          font-size: 12px;
+          font-weight: 600;
+          padding: 8px 16px;
+          border-radius: 999px;
+          cursor: pointer;
+          transition: all 0.2s ease;
+        }
+
+        .tab:hover {
+          border-color: rgba(168, 224, 99, 0.45);
+          color: var(--white);
+        }
+
+        .tab.active {
+          border-color: var(--accent);
+          background: rgba(168, 224, 99, 0.12);
+          color: var(--accent);
+        }
+
         .grid {
           display: grid;
           grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
