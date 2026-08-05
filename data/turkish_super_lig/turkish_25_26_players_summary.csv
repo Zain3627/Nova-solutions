@@ -1,0 +1,570 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+925285,Devis Vásquez,devis-vasquez,3050,Beşiktaş JK,7.8,0,,0,0,0,82.86
+2266453,Bachir Gueye,bachir-gueye,3056,Antalyaspor,7.75,2,0.33,1,2,0,57.14
+907461,Orkun Kökçü,orkun-kokcu,3050,Beşiktaş JK,7.55,8,7.42,18,33,8,85.59
+913985,Tarık Çetin,tarik-cetin,3052,Fenerbahçe,7.45,0,,0,0,0,71.19
+1481134,Chibuike Nwaiwu,chibuike-nwaiwu,3051,Trabzonspor,7.43,3,1.63,4,34,1,91.33
+852404,Mattéo Guendouzi,matteo-guendouzi,3052,Fenerbahçe,7.4,1,0.73,11,15,1,90.53
+1065508,Deniz Dilmen,deniz-dilmen,3086,Başakşehir FK,7.4,0,,0,0,0,70.59
+840297,Ali Emre Yanar,ali-emre-yanar,6063,Kasımpaşa,7.4,0,,0,0,0,62.07
+827418,Muhammed Şengezer,muhammed-sengezer,3086,Başakşehir FK,7.39,0,,1,2,1,71.49
+361004,Marco Asensio,marco-asensio,3052,Fenerbahçe,7.31,11,6.29,17,14,12,86.6
+1128844,Emersonn,emersonn,3054,Göztepe,7.3,1,0.28,3,4,0,62.96
+359332,Majid Hosseini,majid-hosseini,3072,Kayserispor,7.3,0,,2,7,0,89.84
+1210422,Jankat Yılmaz,jankat-yilmaz,7040,Eyüpspor,7.29,0,,0,0,0,61.67
+353282,Oleksandr Zubkov,oleksandr-zubkov,3051,Trabzonspor,7.24,4,4.11,38,31,7,78.94
+981395,Arseniy Batagov,arseniy-batagov,3051,Trabzonspor,7.23,0,1.05,8,47,2,89.23
+252577,Rafa Silva,rafa-silva,3050,Beşiktaş JK,7.23,5,4.49,17,9,1,80.67
+857738,Yunus Akgün,yunus-akgun,3061,Galatasaray,7.22,7,6.06,24,21,9,85.95
+283847,Ivo Grbić,ivo-grbic,4954,Fatih Karagümrük,7.22,0,,0,5,0,75.02
+329245,Talisca,talisca,3052,Fenerbahçe,7.21,19,16.3,15,9,4,81.67
+913593,Gabriel Sara,gabriel-sara,3061,Galatasaray,7.18,5,2.48,17,28,4,86.96
+791355,Eldor Shomurodov,eldor-shomurodov,3086,Başakşehir FK,7.18,22,15.42,30,28,5,75.7
+293519,Leroy Sané,leroy-sane,3061,Galatasaray,7.18,7,6.18,67,32,5,84.45
+180511,Alexandru Maxim,alexandru-maxim,5138,Gaziantep FK,7.17,5,5.59,20,31,7,87.07
+76265,Stefan Savić,stefan-savic,3051,Trabzonspor,7.16,1,0.85,3,15,1,90.13
+354860,Florent Hadergjonaj,florent-hadergjonaj,6362,Alanyaspor,7.15,6,3.0,11,23,9,77.05
+295123,Paul Onuachu,paul-onuachu,3051,Trabzonspor,7.15,22,16.9,24,6,2,73.46
+43559,Güray Vural,guray-vural,3056,Antalyaspor,7.15,2,1.35,1,4,0,72.55
+924670,Ernest Muçi,ernest-muci,3051,Trabzonspor,7.14,11,7.78,27,18,3,86.19
+845792,Ricardo Velho,ricardo-velho,7802,Gençlerbirliği,7.13,0,,1,1,0,55.72
+124737,Gabriel Paulista,gabriel-paulista,3050,Beşiktaş JK,7.13,0,0.39,1,8,1,85.36
+217110,Julián Cuesta,julian-cuesta,3056,Antalyaspor,7.13,0,,1,2,0,61.24
+928295,Adrian Benedyczak,adrian-benedyczak,6063,Kasımpaşa,7.13,10,6.92,3,11,1,65.22
+896364,Yusuf Sarı,yusuf-sari,3086,Başakşehir FK,7.13,1,2.62,24,10,6,85.8
+754330,Uğurcan Çakır,ugurcan-cakir,3061,Galatasaray,7.12,0,,1,0,0,77.01
+178963,Abdülkerim Bardakcı,abdulkerim-bardakc,3061,Galatasaray,7.12,0,1.9,10,40,1,89.66
+1013842,Emmanuel Agbadou,emmanuel-agbadou,3050,Beşiktaş JK,7.12,1,0.38,5,25,1,88.84
+254979,Haris Hajradinović,haris-hajradinovic,6063,Kasımpaşa,7.11,2,1.93,5,18,0,75.23
+243623,Fred,fred,3052,Fenerbahçe,7.11,3,3.88,16,42,4,85.06
+787498,André Onana,andre-onana,3051,Trabzonspor,7.11,0,,3,0,1,75.35
+187205,Milan Škriniar,milan-skriniar,3052,Fenerbahçe,7.11,2,1.14,3,40,0,93.26
+1479523,Yusuf Akçiçek,akcicek-yusuf,3052,Fenerbahçe,7.1,0,,0,0,0,92.59
+867595,Batuhan Şen,batuhan-ahmet-sen,3061,Galatasaray,7.1,0,,0,0,0,78.57
+1618417,Arda Yavuz,yavuz-arda,7040,Eyüpspor,7.1,0,,0,3,0,57.89
+358524,Marcos Felipe,marcos-felipe,7040,Eyüpspor,7.1,0,,0,0,0,71.28
+1108094,Adamo Nagalo,adamo-nagalo,3085,Konyaspor,7.1,0,0.09,4,8,0,89.47
+904096,Barış Alper Yılmaz,baris-alper-yilmaz,3061,Galatasaray,7.09,8,8.13,47,23,11,78.58
+754794,Lucas Torreira,lucas-torreira,3061,Galatasaray,7.09,3,1.01,7,51,4,91.07
+234148,N'Golo Kanté,n-golo-kante,3052,Fenerbahçe,7.09,2,0.36,9,37,0,88.41
+997705,Erhan Erentürk,erhan-erenturk,7802,Gençlerbirliği,7.09,0,,0,0,0,49.47
+1010634,Hyeon-gyu Oh,hyun-gyu-oh,3050,Beşiktaş JK,7.08,6,3.63,4,3,1,74.02
+284395,Qazim Laci,qazim-laci,3064,Çaykur Rizespor,7.07,7,5.25,20,43,9,83.53
+566102,Davinson Sánchez,davinson-sanchez,3061,Galatasaray,7.07,1,1.26,9,47,0,90.04
+1888002,Christ Inao Oulaï,christ-inao-oulai,3051,Trabzonspor,7.07,2,1.07,41,49,4,91.41
+903324,Kerem Aktürkoğlu,kerem-akturkoglu,3052,Fenerbahçe,7.07,8,6.36,22,21,7,75.71
+822471,Victor Osimhen,victor-osimhen,3061,Galatasaray,7.06,15,16.89,8,14,5,74.09
+105971,Enzo Roco,enzo-roco,4954,Fatih Karagümrük,7.06,0,0.09,1,8,0,82.05
+803023,Rick Van Drongelen,rick-van-drongelen,3053,Samsunspor,7.06,2,1.78,11,48,1,87.36
+2335264,Eren Yagmur,eren-yagmur,3085,Konyaspor,7.05,1,0.45,2,4,1,55.0
+105974,Ertuğrul Taşkıran,ertugrul-taskran,6362,Alanyaspor,7.05,0,,0,2,0,74.15
+798375,Mateusz Lis,mateusz-lis,3054,Göztepe,7.05,0,,0,0,0,38.19
+758608,Çağlar Söyüncü,caglar-soyuncu,3052,Fenerbahçe,7.04,0,0.16,0,19,1,88.74
+974582,Hrvoje Smolčić,hrvoje-smolcic,3065,Kocaelispor,7.03,1,0.92,15,31,1,85.11
+357746,Diogo Gonçalves,diogo-goncalves,3085,Konyaspor,7.03,2,1.13,1,5,0,75.51
+895009,Emirhan Topçu,emirhan-topcu,3050,Beşiktaş JK,7.03,1,0.82,10,50,0,83.26
+226986,İrfan Can Kahveci,irfan-can-kahveci,6063,Kasımpaşa,7.03,2,2.29,18,33,3,76.55
+825850,Bilal Bayazit,bilal-bayazit,3072,Kayserispor,7.03,0,,1,1,0,64.44
+792142,Felix Uduokhai,felix-uduokhai,3050,Beşiktaş JK,7.03,0,0.23,2,24,0,91.1
+1102788,Dorgeles Nene,nene-dorgeles,3052,Fenerbahçe,7.02,9,5.53,12,25,3,81.74
+875136,Noa Lang,noa-lang,3061,Galatasaray,7.02,0,0.93,13,6,3,83.38
+34142,Paulo Victor,paulo-victor,6362,Alanyaspor,7.01,0,,0,0,0,65.61
+221566,Igor Lichnovsky,igor-lichnovsky,4954,Fatih Karagümrük,7.01,0,0.37,1,14,2,88.34
+1382235,Bertuğ Yıldırım,bertug-ozgur-yildirim,3086,Başakşehir FK,7.01,7,3.57,4,6,1,49.43
+1063395,Arda Kurtulan,arda-kurtulan,3054,Göztepe,7.0,4,3.21,30,57,2,66.13
+839110,Peter Etebo,peter-etebo,7802,Gençlerbirliği,7.0,0,,0,3,0,85.71
+173933,Sokratis Dioudis,sokratis-dioudis,5138,Gaziantep FK,7.0,0,,0,0,0,69.23
+868049,Ruan,ruan,3054,Göztepe,7.0,0,,3,3,0,72.22
+97001,João Mário,joao-mario,3050,Beşiktaş JK,7.0,0,0.23,2,4,0,86.27
+1101362,Jesurun Rak-Sakyi,jesurun-rak-sakyi,3064,Çaykur Rizespor,6.99,4,3.08,15,9,1,80.93
+839982,Léo Duarte,leo-duarte,3086,Başakşehir FK,6.99,0,0.73,7,37,1,92.77
+257497,Dimitris Goutas,dimitris-goutas,7802,Gençlerbirliği,6.98,3,2.45,2,40,0,84.29
+913656,Ersin Destanoğlu,ersin-destanoglu,3050,Beşiktaş JK,6.98,0,,0,0,0,76.06
+1016033,Alassane Ndao,ndao-alassane,3085,Konyaspor,6.98,2,1.21,7,9,3,78.33
+974577,Jhon Durán,jhon-duran,3052,Fenerbahçe,6.98,3,1.91,5,4,2,77.78
+142619,Kerem Demirbay,kerem-demirbay,6063,Kasımpaşa,6.98,1,1.61,14,67,0,78.94
+1142613,Demir Ege Tıknaz,demir-ege-tiknaz,3050,Beşiktaş JK,6.98,0,0.15,6,12,1,85.65
+2430541,Ali Diabaté,ali-diabate,3053,Samsunspor,6.98,0,0.1,0,7,1,85.4
+876857,Berat Özdemir,berat-ayberk-ozdemir,3086,Başakşehir FK,6.98,0,0.46,1,13,0,87.67
+138154,Robin Yalçın,robin-yalcn,7040,Eyüpspor,6.97,0,0.44,4,25,0,88.98
+863600,Samet Akaydın,samet-akaydin,3064,Çaykur Rizespor,6.97,3,1.75,11,52,1,86.7
+60317,Gökhan Değirmenci,gokhan-degirmenci,3065,Kocaelispor,6.97,0,,0,0,0,68.16
+916182,Ivan Brnić,ivan-brnic,3086,Başakşehir FK,6.97,4,1.92,20,5,3,77.34
+45853,İlkay Gündoğan,ilkay-gundogan,3061,Galatasaray,6.97,2,2.15,8,22,3,92.91
+354558,László Bénes,laszlo-benes,3072,Kayserispor,6.97,7,3.82,10,22,2,82.98
+984602,Kacper Kozłowski,kacper-kozlowski,5138,Gaziantep FK,6.96,6,4.27,43,39,2,81.22
+603902,Ahmet Oğuz,ahmet-oguz,3065,Kocaelispor,6.96,0,0.15,4,63,2,75.68
+1009738,Archie Brown,brown-archie,3052,Fenerbahçe,6.96,3,1.79,19,37,2,83.41
+1124357,Junior Olaitan,junior-olaitan,3050,Beşiktaş JK,6.96,4,5.71,44,25,2,79.84
+827522,Amine Harit,amine-harit,3086,Başakşehir FK,6.95,2,2.18,51,17,3,86.96
+1133200,Yiğit Efe Demir,yigit-efe-demir,3052,Fenerbahçe,6.95,0,0.51,1,20,0,91.3
+858977,Christopher Operi,christopher-operi,3086,Başakşehir FK,6.95,0,0.51,15,30,4,84.96
+787949,Adil Demirbağ,adil-demirbag,3085,Konyaspor,6.95,2,1.68,6,25,2,90.55
+280447,Olivier Kemen,olivier-kemen,3086,Başakşehir FK,6.94,0,3.24,21,37,3,82.79
+186949,Ramzi Safouri,ramzi-safouri,3056,Antalyaspor,6.94,1,0.68,27,19,5,77.86
+997165,Bartuğ Elmaz,bartug-elmaz,4954,Fatih Karagümrük,6.94,1,0.69,3,23,0,87.27
+1090458,David Datro Fofana,david-datro-fofana,4954,Fatih Karagümrük,6.94,6,4.07,25,5,0,70.48
+807289,Bahadır Han Güngördü,bahadir-han-gungordu,3085,Konyaspor,6.94,0,,2,0,0,67.06
+958167,Drissa Camara,drissa-camara,5138,Gaziantep FK,6.94,3,4.97,54,26,6,80.0
+355088,Roland Sallai,roland-sallai,3061,Galatasaray,6.93,1,3.79,10,47,3,87.67
+2119726,Renato Nhaga,renato-nhaga,3061,Galatasaray,6.93,1,0.85,0,3,0,93.83
+1513625,Wagner Pina,wagner-pina,3051,Trabzonspor,6.93,0,0.43,12,64,7,85.96
+284767,Umut Nayir,umut-nayir,3051,Trabzonspor,6.93,9,7.44,7,5,3,65.96
+1215110,Baran Ali Gezek,baran-ali-gezek,7040,Eyüpspor,6.93,0,0.36,6,36,0,83.87
+920391,Antoine Makoumbou,antoine-makoumbou,3053,Samsunspor,6.93,1,0.86,10,30,1,89.43
+1118429,Abbosbek Fayzullaev,abbosbek-fayzullaev,3086,Başakşehir FK,6.93,3,4.01,13,28,3,78.1
+605580,Daniele Verde,daniele-verde,4954,Fatih Karagümrük,6.93,1,1.49,6,0,4,78.98
+1063942,Oğulcan Ülgün,ogulcan-ulgun,7802,Gençlerbirliği,6.92,4,1.97,5,17,3,70.22
+252207,Deniz Türüç,deniz-turuc,3085,Konyaspor,6.92,1,1.29,14,24,2,79.41
+307284,Mario Lemina,mario-lemina,3061,Galatasaray,6.92,2,3.24,4,33,1,91.53
+929631,Elayis Tavsan,elayis-tavsan,3053,Samsunspor,6.92,2,2.56,14,21,2,81.86
+1215071,Ümit Akdağ,umit-akdag,6362,Alanyaspor,6.92,1,1.3,18,36,2,82.64
+1106446,Tim Jabol-Folcarelli,tim-jabol-folcarelli,3051,Trabzonspor,6.92,0,0.91,27,64,3,89.93
+952600,İsmail Yüksek,ismail-yuksek,3052,Fenerbahçe,6.92,1,1.9,29,76,2,85.16
+254491,Ederson,ederson,3052,Fenerbahçe,6.92,0,,0,0,0,74.32
+981483,Eren Elmalı,eren-elmali,3061,Galatasaray,6.92,3,1.41,9,31,0,89.12
+1144096,Adedire Mebude,adedire-mebude,3064,Çaykur Rizespor,6.92,2,1.87,12,5,3,81.36
+909318,Mohamed Bayo,mohamed-bayo,5138,Gaziantep FK,6.91,15,13.38,27,9,3,72.4
+385296,Fidan Aliti,fidan-aliti,6362,Alanyaspor,6.91,0,0.35,3,36,1,91.1
+1009928,Juan Santos da Silva,juan,3054,Göztepe,6.91,11,9.93,31,28,4,60.65
+352676,Olivier Ntcham,olivier-ntcham,3053,Samsunspor,6.9,2,4.06,17,11,1,85.97
+1035954,Yiğit Emre Çeltik,yigit-emre-celtik,3072,Kayserispor,6.9,0,,0,3,0,100.0
+1102775,Serhat Öztaşdelen,serhat-oztasdelen,3065,Kocaelispor,6.9,0,,0,0,0,63.73
+826944,Nany Dimata,nany-dimata,3053,Samsunspor,6.9,0,0.23,0,2,0,84.21
+1499364,Salih Malkoçoğlu,salih-malkocoglu,3051,Trabzonspor,6.9,0,0.04,2,8,0,88.27
+1048324,Jayden Oosterwolde,jayden-oosterwolde,3052,Fenerbahçe,6.9,0,1.5,16,36,0,89.0
+899069,Mustafa Eskihellaç,mustafa-eskihellac,3051,Trabzonspor,6.9,0,1.42,34,41,4,87.67
+978285,Wilfried Singo,wilfried-singo,3061,Galatasaray,6.89,2,0.9,6,17,1,89.06
+883355,Christopher Lungoyi,christopher-lungoyi,5138,Gaziantep FK,6.89,3,3.4,46,23,2,79.71
+251907,Ozan Tufan,ozan-tufan,3051,Trabzonspor,6.89,1,0.65,4,30,2,89.29
+988906,Calegari,calegari,7040,Eyüpspor,6.89,1,0.46,15,37,2,79.32
+309306,Bruno Petković,bruno-petkovic,3065,Kocaelispor,6.89,7,5.37,6,12,0,62.28
+892735,Tiago Djaló,tiago-djalo,3050,Beşiktaş JK,6.89,2,1.13,2,24,0,92.19
+252821,Nélson Semedo,nelson-semedo,3052,Fenerbahçe,6.88,1,0.36,31,51,3,86.6
+787885,Wilfred Ndidi,wilfred-ndidi,3050,Beşiktaş JK,6.88,2,2.29,11,57,0,85.62
+1110708,Loide Augusto,loide-augusto,3064,Çaykur Rizespor,6.88,3,1.8,28,8,2,85.31
+837012,Carlo Holse,carlo-holse,3053,Samsunspor,6.88,8,6.17,21,61,3,83.14
+904845,Tom Dele-Bashiru,tom-dele-bashiru,7802,Gençlerbirliği,6.88,0,0.5,17,40,1,86.95
+1106681,Felipe Augusto,felipe-augusto,3051,Trabzonspor,6.88,13,8.5,23,28,0,77.22
+1133301,Nuno Lima,nuno-lima,6362,Alanyaspor,6.88,1,0.92,2,25,1,88.45
+1002146,Maestro,maestro,6362,Alanyaspor,6.88,1,0.97,23,29,1,94.18
+236746,Andreas Gianniotis,andreas-gianniotis,6063,Kasımpaşa,6.88,1,0.01,2,1,0,63.87
+355024,Enis Bardhi,enis-bardhi,3085,Konyaspor,6.88,5,5.49,18,29,4,83.94
+855672,Afonso Sousa,afonso-sousa,3053,Samsunspor,6.87,1,0.55,4,4,1,91.07
+325155,Semih Güler,semih-guler,3072,Kayserispor,6.87,0,0.98,3,44,0,87.73
+927649,Jackson Muleka,jackson-muleka,3085,Konyaspor,6.87,6,7.95,41,34,3,74.91
+187437,Davie Selke,davie-selke,3086,Başakşehir FK,6.87,10,8.15,2,2,0,64.89
+138152,Kaan Ayhan,kaan-ayhan,3061,Galatasaray,6.87,1,1.02,2,11,0,93.04
+1388550,Baran Mogultay,baran-mogultay,6362,Alanyaspor,6.87,0,,1,0,0,84.44
+998462,Melih İbrahimoğlu,melih-ibrahimoglu,3085,Konyaspor,6.86,1,0.95,26,56,1,84.87
+983510,Botond Balogh,botond-balogh,3065,Kocaelispor,6.86,0,0.44,0,26,0,84.72
+802150,Nicolas Janvier,nicolas-janvier,6362,Alanyaspor,6.86,1,1.11,4,24,1,89.72
+987088,Allan,allan,3054,Göztepe,6.86,0,1.07,6,34,2,73.15
+849301,Serginho,serginho,4954,Fatih Karagümrük,6.86,8,6.99,38,41,1,68.1
+217782,Halil Akbunar,halil-akbunar,7040,Eyüpspor,6.86,2,2.23,8,13,0,82.64
+1019026,Jakub Kałuziński,jakub-kaluzinski,3086,Başakşehir FK,6.85,0,0.38,2,10,1,88.83
+992912,Berkan Kutlu,berkan-kutlu,3085,Konyaspor,6.85,2,1.49,9,17,1,80.51
+998209,Luccas Claro,luccas-claro,7040,Eyüpspor,6.85,1,0.7,1,12,0,86.52
+1400494,Ruan Pereira Duarte,ruan-pereira-duarte,6362,Alanyaspor,6.85,1,2.25,32,36,1,82.49
+756344,Ianis Hagi,ianis-hagi,6362,Alanyaspor,6.85,3,2.08,14,20,2,80.09
+233114,Mauro Icardi,mauro-icardi,3061,Galatasaray,6.85,14,10.53,5,0,1,76.39
+190179,Okan Kocuk,okan-kocuk,3053,Samsunspor,6.85,0,,0,2,0,71.45
+846470,Youssef En-Nesyri,youssef-en-nesyri,3052,Fenerbahçe,6.84,7,8.79,3,4,0,75.16
+1011895,Jota Silva,jota-silva,3050,Beşiktaş JK,6.84,4,2.95,4,9,0,73.56
+920514,Jerome Opoku,opoku-jerome,3086,Başakşehir FK,6.84,0,1.24,5,22,1,89.58
+847151,Edson Álvarez,edson-alvarez,3052,Fenerbahçe,6.84,0,0.71,6,28,1,87.79
+1008173,Ibrahim Olawoyin,ibrahim-olawoyin,3064,Çaykur Rizespor,6.84,1,1.02,36,42,1,81.71
+946291,Svit Sešlar,svit-seslar,7040,Eyüpspor,6.83,1,0.91,4,8,1,83.7
+126680,Filip Mladenović,filip-mladenovic,4954,Fatih Karagümrük,6.83,1,0.35,3,5,0,79.04
+943593,Marius Mouandilmadji,marius-mouandilmadji,3053,Samsunspor,6.83,10,9.43,15,7,4,58.55
+1103597,Novatus Miroshi,novatus-miroshi,3054,Göztepe,6.83,2,3.9,4,60,2,78.34
+843180,Luis Pérez,luis-perez,5138,Gaziantep FK,6.83,0,0.13,5,40,1,79.91
+966811,Kartal Kayra Yılmaz,kartal-kayra-yilmaz,3050,Beşiktaş JK,6.82,0,0.25,5,14,1,87.98
+103457,Günay Güvenç,gunay-guvenc,3061,Galatasaray,6.82,0,,0,1,0,84.06
+857376,João Mendes,joao-mendes,3072,Kayserispor,6.82,0,1.69,19,18,4,81.67
+869839,Umut Bozok,umut-bozok,7040,Eyüpspor,6.82,6,6.94,12,9,6,82.72
+98276,Veysel Sarı,veysel-sar,3056,Antalyaspor,6.82,1,0.77,0,37,1,77.75
+972410,Miguel Crespo,miguel-crespo,3086,Başakşehir FK,6.82,0,2.46,19,22,5,82.65
+904759,Modibo Sagnan,modibo-sagnan,3064,Çaykur Rizespor,6.82,1,0.52,6,37,1,88.09
+605548,Yhoan Andzouana,yhoan-andzouana,3085,Konyaspor,6.81,2,1.54,42,39,4,83.6
+202032,Emre Kılınç,emre-klnc,3053,Samsunspor,6.81,1,2.08,8,28,5,78.75
+790783,Bahadır Öztürk,bahadir-ozturk,3056,Antalyaspor,6.81,0,0.47,0,4,0,84.56
+149796,Nikola Storm,nikola-storm,3056,Antalyaspor,6.81,4,1.65,23,15,1,74.87
+610766,Tammy Abraham,tammy-abraham,3050,Beşiktaş JK,6.81,7,8.2,3,5,1,73.91
+758876,Cengiz Ünder,cengiz-under,3050,Beşiktaş JK,6.81,5,5.75,11,13,3,83.65
+925242,Valentin Mihăilă,valentin-mihaila,3064,Çaykur Rizespor,6.81,5,2.66,18,9,3,75.64
+343527,Emre Akbaba,emre-akbaba,7040,Eyüpspor,6.81,4,3.61,11,32,0,81.57
+1084164,Talha Ülvan,talha-ulvan,7040,Eyüpspor,6.81,2,0.52,8,29,0,78.13
+2018238,Adem Arous,adem-arous,6063,Kasımpaşa,6.81,1,0.33,4,32,0,78.49
+967214,Bünyamin Balcı,bunyamin-balci,3056,Antalyaspor,6.8,0,0.51,9,64,4,76.9
+928418,German Onugkha,german-onugkha,3072,Kayserispor,6.8,8,8.94,8,8,1,63.12
+1533919,Ege Yildirim,yildirim-ege,3054,Göztepe,6.8,0,,0,0,0,100.0
+1892942,Egemen Aydin,egemen-aydin,3085,Konyaspor,6.8,0,,0,0,0,75.0
+359272,Sofyan Amrabat,sofyan-amrabat,3052,Fenerbahçe,6.8,0,,0,1,0,91.53
+1030711,David Jurásek,david-jurasek,3050,Beşiktaş JK,6.8,0,0.2,7,13,0,81.37
+1124590,Enver Kulašin,enver-kulasin,5138,Gaziantep FK,6.8,0,0.04,0,5,0,80.49
+2434516,Ousmane Diabate,ousmane-diabate,7802,Gençlerbirliği,6.8,0,0.02,2,6,0,82.05
+344009,Miguel Cardoso,miguel-cardoso,3072,Kayserispor,6.8,2,5.6,19,38,6,82.04
+802850,Youssef Aït Bennasser,youssef-ait-bennasser,3072,Kayserispor,6.8,0,0.12,3,25,0,88.2
+900809,Metehan Mimaroğlu,metehan-mimaroglu,7802,Gençlerbirliği,6.79,6,4.95,27,20,4,73.13
+140735,Zeki Yavru,zeki-yavru,3053,Samsunspor,6.79,0,0.34,9,38,1,81.8
+1085938,Levent Mercan,levent-mercan,3052,Fenerbahçe,6.79,0,0.38,12,26,3,85.19
+957798,Metehan Altunbaş,metehan-altunbas,7040,Eyüpspor,6.79,7,4.23,6,21,0,76.4
+922725,Héliton,heliton,3054,Göztepe,6.79,0,2.81,5,29,1,74.77
+876782,Umut Güneş,umut-gunes,3086,Başakşehir FK,6.79,1,0.88,5,31,0,89.88
+169425,Nazım Sangaré,nazm-sangare,5138,Gaziantep FK,6.79,0,0.23,7,40,0,78.51
+877977,Yahia Fofana,yahia-fofana,3064,Çaykur Rizespor,6.79,0,,2,1,1,65.75
+280631,Václav Černý,vaclav-cerny,3050,Beşiktaş JK,6.78,5,7.45,26,15,8,82.66
+992024,Rhaldney,rhaldney,3054,Göztepe,6.78,1,1.22,5,33,1,85.79
+1195772,Deniz Ertaş,deniz-ertas,3085,Konyaspor,6.78,0,,0,0,1,62.83
+1082953,Habib Keita,habib-keita,3065,Kocaelispor,6.78,1,0.79,8,39,2,84.43
+1101279,Taha Altıkardeş,taha-altikardes,3054,Göztepe,6.78,1,0.68,0,20,0,64.35
+295495,Georgi Dzhikiya,georgi-dzhikiya,3056,Antalyaspor,6.78,2,0.28,1,8,0,84.7
+98199,Jonas Svensson,jonas-svensson,3050,Beşiktaş JK,6.78,0,0.06,0,13,0,82.5
+996405,Ibrahim Kaya,ibrahim-kaya,6362,Alanyaspor,6.78,6,2.89,13,7,1,78.26
+979473,Anthony Musaba,anthony-musaba,3052,Fenerbahçe,6.78,5,7.53,47,24,4,73.61
+800971,Aleksandar Jovanović,aleksandar-jovanovic,3065,Kocaelispor,6.78,0,,0,0,0,63.69
+1484438,Anthony Dennis,anthony-dennis,3054,Göztepe,6.78,3,1.11,28,56,0,77.86
+930907,Zafer Görgen,zafer-gorgen,5138,Gaziantep FK,6.78,0,,0,0,0,66.78
+800411,Milot Rashica,milot-rashica,3050,Beşiktaş JK,6.77,1,2.23,11,17,3,77.55
+234232,Kévin Rodrigues,kevin-rodrigues,5138,Gaziantep FK,6.77,2,0.92,12,70,3,84.8
+800458,Efkan Bekiroğlu,efkan-bekiroglu,3054,Göztepe,6.77,3,2.13,16,13,3,75.7
+806972,Celil Yüksel,celil-yuksel,3053,Samsunspor,6.77,0,0.58,11,43,1,81.24
+954060,Tanguy Coulibaly,tanguy-coulibaly,3053,Samsunspor,6.77,2,1.41,12,18,0,79.65
+1094487,Amine Cherni,cherni-amine,3054,Göztepe,6.77,0,1.0,11,54,4,68.73
+355582,Žan Žužek,zan-zuzek,7802,Gençlerbirliği,6.77,2,1.39,4,43,0,83.63
+1134704,Atakan Mujde,atakan-mujde,6063,Kasımpaşa,6.77,0,,3,6,1,64.44
+1562294,Hamza Güreler,hamza-gureler,3086,Başakşehir FK,6.77,0,,0,2,0,87.21
+804703,Bruno Viana,bruno-viana,6362,Alanyaspor,6.77,0,0.03,0,9,0,86.7
+919225,Mortadha Ben Ouanes,mortadha-ben-ouanes,6063,Kasımpaşa,6.76,2,2.07,14,18,6,78.46
+1622183,Charles-Andre Raux Yao,charles-andre-raux-yao,7040,Eyüpspor,6.76,2,1.14,10,12,0,77.08
+847983,Sebastian Szymański,sebastian-szymanski,3052,Fenerbahçe,6.76,1,0.83,2,8,0,82.89
+933115,Show,show,3065,Kocaelispor,6.76,0,0.62,9,44,0,85.08
+155998,Cláudio Winck,claudio-winck,6063,Kasımpaşa,6.76,3,2.61,13,54,1,69.18
+904303,Uğurcan Yazğılı,ugurcan-yazgili,3085,Konyaspor,6.76,0,1.26,2,44,1,86.24
+932856,Andri Fannar Baldursson,andri-fannar-baldursson,6063,Kasımpaşa,6.76,0,0.65,7,71,1,75.68
+1021269,Jesper Ceesay,jesper-ceesay,3056,Antalyaspor,6.76,0,0.32,2,52,0,85.05
+885683,Nicholas Opoku,nicholas-opoku,6063,Kasımpaşa,6.76,0,0.44,1,31,0,90.12
+143344,Massadio Haïdara,massadio-haidara,3065,Kocaelispor,6.76,0,0.65,10,28,1,81.63
+797602,Deian Sorescu,deian-sorescu,5138,Gaziantep FK,6.76,3,3.74,9,22,2,75.65
+965015,Franco Tongya,franco-tongya,7802,Gençlerbirliği,6.75,5,5.02,12,48,3,86.36
+910086,Rıdvan Yılmaz,ridvan-yilmaz,3050,Beşiktaş JK,6.75,0,0.83,11,45,0,81.56
+848385,Dario Šarić,dario-saric,3056,Antalyaspor,6.75,1,0.77,10,33,1,81.25
+1015939,Pedrinho,pedrinho,3085,Konyaspor,6.75,1,1.39,9,19,0,80.44
+864898,Nicolò Zaniolo,nicolo-zaniolo,3061,Galatasaray,6.75,0,0.05,2,1,1,78.95
+997155,Metehan Baltacı,metehan-baltaci,3061,Galatasaray,6.75,0,,0,1,0,88.89
+1550760,Deniz Eren Dönmezer,donmezer-deniz-eren,3072,Kayserispor,6.75,0,,0,0,0,73.47
+966663,Samuel Ballet,samuel-ballet,3056,Antalyaspor,6.75,5,2.21,52,49,0,72.89
+229800,Sam Larsson,sam-larsson,4954,Fatih Karagümrük,6.75,3,4.74,27,25,3,76.86
+923888,Prince Ampem,prince-ampem,7040,Eyüpspor,6.75,2,1.48,22,5,0,79.44
+124728,Kamil Ahmet Çörekçi,kamil-ahmet-corekci,6063,Kasımpaşa,6.74,0,,4,22,0,81.43
+929739,Rayyan Baniya,rayyan-baniya,3085,Konyaspor,6.74,0,0.33,0,5,0,88.24
+1066726,Erdem Canpolat,erdem-canpolat,3064,Çaykur Rizespor,6.74,0,,0,0,0,50.82
+980612,Muhammet Tunahan Taşçı,muhammet-tunahan-tasci,3085,Konyaspor,6.74,1,0.22,4,6,1,80.95
+982615,El Bilal Touré,el-bilal-toure,3050,Beşiktaş JK,6.74,5,7.42,23,21,4,76.44
+1019710,Jo Jin-ho,jin-ho-jo,3085,Konyaspor,6.74,1,1.48,14,32,1,87.29
+858266,Logi Tomasson,logi-tomasson,3053,Samsunspor,6.74,1,0.82,18,38,4,82.1
+988632,Jim Allevinah,jim-allevinah,6063,Kasımpaşa,6.74,1,1.12,6,10,0,74.0
+45604,Taras Stepanenko,taras-stepanenko,7040,Eyüpspor,6.74,0,0.06,0,15,0,83.51
+233856,Lautaro Giannetti,lautaro-giannetti,3056,Antalyaspor,6.74,1,0.92,1,34,1,86.43
+310068,Marko Jevtović,marko-jevtovic,3085,Konyaspor,6.74,0,1.28,1,27,0,81.26
+45377,Danijel Aleksić,danijel-aleksic,3085,Konyaspor,6.73,1,1.05,0,4,0,82.28
+999396,Oğuz Aydın,oguz-aydin,3052,Fenerbahçe,6.73,0,1.03,4,11,2,86.5
+1138102,Bedirhan Özyurt,bedirhan-ozyurt,7040,Eyüpspor,6.73,0,0.27,1,10,1,84.63
+228342,Badou Ndiaye,badou-ndiaye,5138,Gaziantep FK,6.73,0,0.11,3,9,1,88.1
+980608,Samed Onur,samed-onur,7802,Gençlerbirliği,6.73,0,0.61,5,16,1,83.86
+896596,Lenny Pintor,lenny-pintor,7040,Eyüpspor,6.73,0,0.79,19,22,0,79.53
+897291,Ismail Jakobs,ismail-jakobs,3061,Galatasaray,6.72,0,0.39,10,27,1,83.2
+962620,Çağtay Kurukalıp,cagtay-kurukalip,4954,Fatih Karagümrük,6.72,0,0.19,9,25,2,81.34
+814599,Fedor Chalov,fedor-chalov,3072,Kayserispor,6.72,2,2.43,5,4,1,74.07
+103912,Ömer Ali Şahiner,omer-ali-sahiner,3086,Başakşehir FK,6.72,2,1.35,6,23,0,83.74
+804405,Blaž Kramer,blaz-kramer,3085,Konyaspor,6.72,5,4.24,5,5,0,68.99
+226992,Furkan Soyalp,furkan-soyalp,3072,Kayserispor,6.72,1,1.68,16,63,0,76.17
+889430,Ousseynou Ba,ousseynou-ba,3086,Başakşehir FK,6.72,0,0.5,2,10,0,93.4
+868268,Cherif Ndiaye,cherif-ndiaye,3053,Samsunspor,6.72,7,5.41,9,15,1,79.17
+827922,Fatih Aksoy,fatih-aksoy,6362,Alanyaspor,6.72,0,0.47,4,12,0,85.37
+1008884,Kazımcan Karataş,kazimcan-karatas,3086,Başakşehir FK,6.72,0,0.94,5,31,3,82.19
+1394729,Taha Şahin,taha-sahin,3064,Çaykur Rizespor,6.72,1,0.57,19,33,0,83.61
+913994,Hüseyin Türkmen,huseyin-turkmen,3056,Antalyaspor,6.72,0,0.2,1,22,0,83.68
+220155,Sander van de Streek,sander-van-de-streek,3056,Antalyaspor,6.71,6,6.14,9,36,4,70.95
+847013,Gaius Makouta,gaius-makouta,6362,Alanyaspor,6.71,1,1.29,16,32,0,86.88
+1016393,Mithat Pala,mithat-pala,3064,Çaykur Rizespor,6.71,2,1.62,22,48,0,85.64
+796555,Yasir Subaşı,yasir-subasi,3085,Konyaspor,6.71,0,,1,11,0,89.61
+1088715,Talha Sariarslan,talha-sariarslan,3072,Kayserispor,6.71,2,0.71,0,4,2,71.43
+826162,Güven Yalçın,guven-yalcin,6362,Alanyaspor,6.71,8,3.92,10,2,0,65.44
+1122632,Malcom Bokele,malcom-bokele,3054,Göztepe,6.71,3,2.51,4,20,0,76.02
+823092,Attila Szalai,attila-szalai,6063,Kasımpaşa,6.71,0,0.65,2,20,1,82.32
+135695,Salih Uçan,salih-ucan,3050,Beşiktaş JK,6.71,0,0.49,7,20,0,84.17
+142494,Onur Bulut,onur-bulut,3086,Başakşehir FK,6.71,0,0.24,0,21,1,85.57
+945548,Yalçın Kayan,yalcin-kayan,3053,Samsunspor,6.7,0,2.3,38,33,5,83.63
+869199,Anfernee Jamal Dijksteel,anfernee-jamal-dijksteel,3065,Kocaelispor,6.7,0,0.15,20,47,0,87.15
+797732,Yohan Boli,yohan-boli,3056,Antalyaspor,6.7,2,2.25,10,7,1,83.25
+1198959,Anıl Yiğit Çınar,anil-yigit-cinar,4954,Fatih Karagümrük,6.7,2,0.6,2,13,0,76.87
+836683,Mert Müldür,mert-muldur,3052,Fenerbahçe,6.7,1,1.3,10,40,2,82.86
+828872,Melih Kabasakal,melih-kabasakal,5138,Gaziantep FK,6.7,1,0.2,9,57,1,89.09
+1142614,Serkan Emrecan Terzi,serkan-emrecan-terzi,3050,Beşiktaş JK,6.7,0,,0,0,0,93.75
+1823965,Onuralp Çakıroğlu,onuralp-cakiroglu,3051,Trabzonspor,6.7,0,,0,0,0,62.5
+213542,Onurcan Piri,onurcan-piri,3072,Kayserispor,6.7,0,,0,0,0,65.79
+957582,Muharrem Cinan,muharrem-cinan,3065,Kocaelispor,6.7,0,0.19,2,11,0,81.05
+795001,Görkem Sağlam,gorkem-saglam,3072,Kayserispor,6.7,0,0.14,1,7,0,83.67
+890695,Arbnor Muja,arbnor-muja,3053,Samsunspor,6.7,0,0.14,1,2,0,84.21
+2161813,Ali Osman Kalın,kaln-ali-osman,5138,Gaziantep FK,6.7,0,0.03,0,2,0,87.5
+2325510,Kamil Efe Üregen,kamil-efe-uregen,3052,Fenerbahçe,6.7,0,0.02,0,0,0,100.0
+281233,Casper Højer,casper-hjer,3064,Çaykur Rizespor,6.7,0,1.07,15,41,1,82.84
+847782,Soner Dikmen,soner-dikmen,3056,Antalyaspor,6.7,4,2.36,10,33,0,81.56
+859783,Ogün Özçiçek,ogun-ozcicek,5138,Gaziantep FK,6.7,0,0.11,10,20,0,85.93
+291237,Daniel Johnson,daniel-johnson,4954,Fatih Karagümrük,6.69,1,0.75,5,6,3,83.82
+893009,Onur Ergün,onur-ergun,3086,Başakşehir FK,6.69,0,0.59,0,11,1,85.71
+997007,Göktan Gürpüz,goktan-gurpuz,7802,Gençlerbirliği,6.69,0,2.14,44,31,5,79.2
+903999,Ogün Bayrak,ogun-bayrak,3054,Göztepe,6.69,0,0.16,4,8,1,76.39
+980418,Sacha Boey,sacha-boey,3061,Galatasaray,6.69,1,0.31,4,18,0,90.57
+97967,Okay Yokuşlu,okay-yokuslu,3051,Trabzonspor,6.69,1,0.33,2,10,0,89.0
+209374,Nuno Da Costa,nuno-da-costa,3086,Başakşehir FK,6.69,3,3.69,19,15,1,69.36
+122922,Lionel Carole,lionel-carole,3072,Kayserispor,6.69,0,0.01,3,31,0,81.0
+863277,Thalisson,thalisson,7802,Gençlerbirliği,6.68,2,1.47,6,46,0,84.76
+886843,Toni Borevković,toni-borevkovic,3053,Samsunspor,6.68,1,0.74,1,24,0,87.69
+335317,Dorin Rotariu,dorin-rotariu,7040,Eyüpspor,6.68,0,0.04,1,1,1,64.71
+190191,Emre Taşdemir,emre-tasdemir,6063,Kasımpaşa,6.68,0,,0,0,0,68.75
+1046446,Benjamin Bouchouari,benjamin-bouchouari,3051,Trabzonspor,6.68,0,0.35,5,14,0,88.86
+867727,Soner Gönül,soner-gonul,3053,Samsunspor,6.68,0,0.16,2,18,0,79.1
+897168,Enes Keskin,enes-keskin,6362,Alanyaspor,6.67,0,0.78,7,20,1,80.33
+1063325,Yunus Emre Çift,yunus-emre-cift,3053,Samsunspor,6.67,0,0.09,4,28,0,83.8
+123917,Serdar Dursun,serdar-dursun,3065,Kocaelispor,6.67,6,6.33,1,7,2,71.68
+171911,Taşkın Ilter,taskn-ilter,7040,Eyüpspor,6.67,0,0.33,1,30,0,83.93
+295159,Matías Kranevitter,matias-kranevitter,4954,Fatih Karagümrük,6.67,1,0.92,7,32,0,81.81
+865516,Alexis Antunes,alexis-antunes,3054,Göztepe,6.67,1,1.37,5,13,1,80.25
+555422,Myenty Abena,myenty-abena,5138,Gaziantep FK,6.67,1,1.38,2,26,1,92.69
+109779,Edin Višća,edin-visca,3051,Trabzonspor,6.67,0,0.35,1,2,0,80.3
+1064080,Mateusz Łęgowski,mateusz-legowski,7040,Eyüpspor,6.67,2,0.86,7,27,1,77.48
+190197,Taylan Antalyalı,taylan-antalyal,3064,Çaykur Rizespor,6.67,0,0.66,9,23,0,85.37
+1149138,Joseph Nonge,joseph-nonge-boende,3065,Kocaelispor,6.66,0,0.38,16,21,0,82.58
+187231,Ľubomír Šatka,lubomir-satka,3053,Samsunspor,6.66,0,0.21,5,30,1,88.95
+862078,Meschak Elia,meschak-elia,6362,Alanyaspor,6.66,3,0.84,10,8,0,83.06
+921358,Morten Bjørlo,morten-bjorlo,3085,Konyaspor,6.66,0,0.93,10,17,3,84.79
+904112,Firatcan Üzüm,firatcan-uzum,7802,Gençlerbirliği,6.66,0,0.11,1,4,0,70.19
+991742,Altin Zeqiri,altin-zeqiri,3064,Çaykur Rizespor,6.66,1,1.44,13,14,0,74.66
+189135,Karol Linetty,karol-linetty,3065,Kocaelispor,6.66,0,1.76,3,31,2,82.27
+935556,Filip Krastev,filip-krastev,3054,Göztepe,6.65,0,0.78,9,24,1,71.53
+1136280,Shavy Babicka,shavy-babicka,4954,Fatih Karagümrük,6.65,1,1.41,19,10,1,62.57
+889382,Attila Mocsi,attila-mocsi,3064,Çaykur Rizespor,6.65,2,1.63,3,31,0,84.4
+110956,Cafú,cafu,6063,Kasımpaşa,6.65,0,0.8,8,9,1,87.06
+1514452,Jaures Assoumou,assoumou-jaures,3053,Samsunspor,6.65,1,0.64,4,5,0,71.84
+142541,Erdoğan Yeşilyurt,erdogan-yesilyurt,3056,Antalyaspor,6.65,0,0.22,1,6,1,81.63
+2031279,Hasan Yakub İlçin,hasan-yakub-ilcin,3056,Antalyaspor,6.65,0,,2,4,0,85.71
+1092769,Yáser Asprilla,yaser-asprilla,3061,Galatasaray,6.65,0,0.94,4,0,0,92.77
+788971,Juninho Bacuna,juninho-bacuna,5138,Gaziantep FK,6.65,0,0.42,3,8,0,80.6
+97404,Stefano Denswil,stefano-denswil,3072,Kayserispor,6.65,1,1.63,1,28,0,88.11
+1480663,Emrecan Bulut,emrecan-bulut,3064,Çaykur Rizespor,6.65,1,0.98,15,16,2,68.0
+224112,Guilherme Haubert Sityá,guilherme-haubert-sitya,3085,Konyaspor,6.65,0,0.39,6,33,1,79.95
+954090,Ángel Torres,angel-torres,7040,Eyüpspor,6.65,0,0.34,19,8,1,79.4
+180981,Mame Thiam,mame-thiam,7040,Eyüpspor,6.64,2,3.29,0,14,0,78.24
+1133715,Mathias Løvik,lovik-mathias-fjortoft,3051,Trabzonspor,6.64,0,0.01,7,13,2,83.33
+233252,Davide Biraschi,davide-biraschi,4954,Fatih Karagümrük,6.64,0,0.13,3,9,0,75.82
+839493,Amir Murillo,amir-murillo,3050,Beşiktaş JK,6.64,1,1.04,9,12,1,83.09
+849329,Ahmed Ildız,ahmed-ildiz,3054,Göztepe,6.64,0,0.09,1,2,0,84.62
+139455,Anthony Nwakaeme,anthony-nwakaeme,3051,Trabzonspor,6.64,0,1.08,7,5,2,86.53
+930775,Halil Dervişoğlu,halil-dervisoglu,3064,Çaykur Rizespor,6.64,1,1.71,19,9,0,74.39
+1003161,Furkan Bayır,furkan-bayir,3054,Göztepe,6.64,0,0.04,0,5,0,64.94
+793227,Dan Agyei,dan-agyei,3065,Kocaelispor,6.64,5,4.25,26,8,0,71.47
+1066338,Atakan Çankaya,atakan-cankaya,4954,Fatih Karagümrük,6.64,1,1.58,14,29,1,76.57
+883275,Abdurrahim Dursun,abdurrahim-dursun,7802,Gençlerbirliği,6.64,0,0.14,4,22,1,73.64
+1462989,Janderson,janderson,3054,Göztepe,6.63,6,8.71,29,30,3,55.64
+806964,Berkay Özcan,berkay-ozcan,4954,Fatih Karagümrük,6.63,0,1.74,23,30,1,87.45
+1136727,Sam Mather,sam-mather,3072,Kayserispor,6.63,0,,3,2,0,71.43
+1121174,Husniddin Aliqulov,husniddin-aliqulov,3064,Çaykur Rizespor,6.63,0,0.13,0,3,0,84.65
+2166295,Ismail Esat Buga,ismail-esat-buga,3085,Konyaspor,6.63,0,0.08,2,3,0,54.55
+791314,Hwang Ui-Jo,hwang-ui-jo,6362,Alanyaspor,6.63,4,4.24,19,11,6,81.33
+255957,Tayfur Bingöl,tayfur-bingol,3065,Kocaelispor,6.63,5,4.46,22,35,2,79.88
+1134586,Muhamed Buljubašić,muhamed-buljubasic,3064,Çaykur Rizespor,6.63,0,0.67,13,19,0,86.74
+934201,Burak Bozan,burak-bozan,5138,Gaziantep FK,6.63,0,,0,0,2,55.36
+1528256,Karamba Gassama,karamba-gassama,5138,Gaziantep FK,6.63,0,0.75,4,10,1,81.48
+796374,Fousseni Diabaté,fousseni-diabate,6063,Kasımpaşa,6.63,1,1.7,14,23,4,79.66
+52797,Ryan Mendes,ryan-mendes,3065,Kocaelispor,6.63,0,0.26,3,3,0,73.13
+1464636,Arda Ünyay,arda-unyay,3061,Galatasaray,6.63,0,0.1,0,3,0,89.21
+1004346,Kazeem Olaigbe,kazeem-olaigbe,3085,Konyaspor,6.62,0,2.54,39,26,1,80.76
+1172372,Adama Malouda Traoré,adama-malouda-traore,7802,Gençlerbirliği,6.62,2,1.84,9,10,1,75.56
+1084884,Yusuf Özdemir,yusuf-ozdemir,6362,Alanyaspor,6.62,1,1.53,3,14,1,76.59
+609746,Umut Meraş,umut-meras,7040,Eyüpspor,6.62,0,0.5,5,36,2,77.53
+594618,İrfan Can Eğribayat,irfan-can-egribayat,3053,Samsunspor,6.62,0,,1,0,0,75.69
+988637,Marius Ștefănescu,marius-stefanescu,3085,Konyaspor,6.62,0,0.36,2,2,0,80.65
+876345,Darko Churlinov,darko-churlinov,3065,Kocaelispor,6.62,0,2.18,25,15,3,75.27
+851909,Tayyip Talha Sanuç,tayyip-talha-sanuc,5138,Gaziantep FK,6.61,0,0.73,4,20,0,88.91
+1156644,Mahamadou Susoho,susoho-mahamadou,3065,Kocaelispor,6.61,0,0.12,0,7,0,85.08
+72127,Cenk Tosun,cenk-tosun,6063,Kasımpaşa,6.61,1,0.64,1,1,1,62.82
+1387006,Cem Üstündag,cem-ustundag,6063,Kasımpaşa,6.61,0,0.27,3,27,0,79.42
+996820,Kristjan Asllani,kristjan-asllani,3050,Beşiktaş JK,6.6,2,2.55,1,9,2,87.5
+1996846,Uchenna Ogundu,uchenna-ogundu,6362,Alanyaspor,6.6,2,3.48,7,7,1,63.19
+858004,Nihad Mujakić,nihad-mujakic,5138,Gaziantep FK,6.6,0,0.02,9,25,1,86.82
+190419,Dominik Livaković,dominik-livakovic,3052,Fenerbahçe,6.6,0,,0,0,0,68.0
+847494,Berke Özer,berke-ozer,7040,Eyüpspor,6.6,0,,0,0,0,85.71
+1931486,Oğuzhan Ertem,oguzhan-ertem,3051,Trabzonspor,6.6,0,,0,1,0,77.78
+964758,Rob Nizet,rob-nizet,5138,Gaziantep FK,6.6,0,,0,1,0,90.0
+934507,Furkan Bekleviç,furkan-beklevic,4954,Fatih Karagümrük,6.6,0,,0,0,0,67.61
+1145695,Alper Demirol,alper-demirol,4954,Fatih Karagümrük,6.6,0,,2,1,0,75.0
+2460449,Abdou Sy,abdou-sy,7040,Eyüpspor,6.6,0,,1,2,0,60.0
+1000187,Yusuf Barası,yusuf-barasi,6063,Kasımpaşa,6.6,0,0.15,3,3,0,84.62
+760480,Michał Nalepa,michal-nalepa,7802,Gençlerbirliği,6.6,0,0.15,2,5,0,75.68
+1084880,Serdar Saatçı,serdar-saatci,3051,Trabzonspor,6.6,0,0.04,0,3,0,92.06
+60510,Efecan Karaca,efecan-karaca,6362,Alanyaspor,6.6,0,0.01,5,8,0,84.78
+904228,Arda Kızıldağ,arda-kizildag,5138,Gaziantep FK,6.6,1,1.36,0,28,0,86.23
+1138095,Arif Boşluk,arif-bosluk,3085,Konyaspor,6.6,0,0.76,21,50,0,81.05
+345035,Steve Mounié,steve-mounie,6362,Alanyaspor,6.6,2,3.88,2,11,0,72.43
+828953,Kubilay Kanatsızkuş,kubilay-kanatsizkus,6063,Kasımpaşa,6.6,1,0.99,4,7,1,64.95
+826836,İzzet Çelik,celik-izzet,6362,Alanyaspor,6.59,0,0.1,3,8,0,77.45
+171625,Jure Balkovec,jure-balkovec,4954,Fatih Karagümrük,6.59,0,0.35,3,19,0,77.7
+1127335,Cihan Çanak,cihan-canak,7802,Gençlerbirliği,6.59,0,0.19,13,8,0,84.18
+929098,Jhon Espinoza,jhon-espinoza,6063,Kasımpaşa,6.59,0,0.18,3,8,0,79.36
+880207,Rodrigo Becão,rodrigo-becao,6063,Kasımpaşa,6.59,0,0.11,2,12,1,83.33
+1418644,Taylan Bulut,taylan-bulut,3050,Beşiktaş JK,6.58,0,0.1,2,11,0,83.44
+1133258,Josafat Mendes,josafat-mendes,3053,Samsunspor,6.58,0,0.45,9,18,1,90.5
+1464661,Jeh,jeh,3054,Göztepe,6.58,2,3.13,8,4,0,55.17
+595396,Gökhan Sazdağı,gokhan-sazdagi,3050,Beşiktaş JK,6.58,0,0.22,16,42,0,75.3
+238394,Ali Sowe,ali-sowe,3064,Çaykur Rizespor,6.58,8,13.93,18,9,4,76.71
+139228,M'Baye Niang,mbaye-niang,7802,Gençlerbirliği,6.58,4,5.87,14,6,2,70.75
+955978,Denis Makarov,denis-makarov,3072,Kayserispor,6.58,0,1.71,11,8,0,63.64
+69369,Sinan Osmanoğlu,sinan-osmanoglu,7802,Gençlerbirliği,6.58,0,0.37,0,3,0,71.43
+879542,Kevin Csoboth,kevin-csoboth,7802,Gençlerbirliği,6.58,0,0.15,1,1,0,58.33
+822710,Sekou Koita,sekou-koita,7802,Gençlerbirliği,6.57,6,4.75,19,22,0,70.99
+807291,Pedro Pereira,pedro-pereira,7802,Gençlerbirliği,6.57,0,0.57,14,54,1,78.11
+856988,Giannis Papanikolaou,giannis-papanikolaou,3064,Çaykur Rizespor,6.57,1,2.47,9,49,0,84.18
+826155,Abdülkadir Ömür,abdulkadir-omur,3056,Antalyaspor,6.57,0,1.34,6,30,1,80.83
+995383,Uğur Kaan Yıldız,ugur-kaan-yildiz,3054,Göztepe,6.57,0,0.18,0,2,0,82.35
+983059,Festy Ebosele,festy-ebosele,3086,Başakşehir FK,6.57,0,0.04,12,35,0,80.57
+1514916,Sidiki Cherif,sidiki-cherif,3052,Fenerbahçe,6.57,2,2.72,2,5,0,72.12
+1632791,Gidado Victor Ntino-Emo,gidado-victor-ntino-emo,5138,Gaziantep FK,6.57,0,0.15,0,13,0,80.11
+841199,Denis Drăguş,denis-dragus,5138,Gaziantep FK,6.57,0,2.29,44,26,1,76.37
+1102676,Denis Radu,denis-radu,7040,Eyüpspor,6.56,0,0.09,4,4,2,77.17
+1534046,Baris Kalayci,baris-kalayci,4954,Fatih Karagümrük,6.56,1,2.24,6,18,3,79.78
+164099,Tarkan Serbest,tarkan-serbest,3065,Kocaelispor,6.56,0,0.05,0,0,0,86.21
+225850,Václav Jurečka,vaclav-jurecka,3064,Çaykur Rizespor,6.56,1,2.27,1,4,0,77.12
+1011955,Mehmet Eray Özbek,mehmet-eray-ozbek,3072,Kayserispor,6.56,0,0.02,0,4,0,75.38
+2266454,Christ Sadia,christ-sadia,7040,Eyüpspor,6.55,0,,0,1,0,66.67
+1130115,Eyüp Aydın,eyup-aydin,6063,Kasımpaşa,6.55,0,0.37,2,12,0,83.85
+339253,Cihat Çelik,cihat-celik,3065,Kocaelispor,6.55,0,0.02,0,0,0,100.0
+836686,Burak Kapacak,burak-kapacak,3072,Kayserispor,6.55,0,0.06,1,17,1,70.64
+1631434,Guilherme Luiz,guilherme-luiz-oliveira-da-silva,3054,Göztepe,6.55,0,0.55,8,2,0,61.54
+97000,Ricardo Esgaio,ricardo-esgaio,4954,Fatih Karagümrük,6.54,0,0.14,6,64,0,76.68
+918408,Can Keleş,can-keles,3065,Kocaelispor,6.54,0,0.99,12,10,1,73.05
+979109,Dal Varešanović,dal-varesanovic,7802,Gençlerbirliği,6.54,1,0.95,3,6,0,84.62
+827515,Abdullah Yiğiter,abdullah-yigiter,3056,Antalyaspor,6.54,0,,2,0,0,56.5
+985412,Indrit Tuci,indrit-tuci,3072,Kayserispor,6.54,3,3.66,3,8,0,65.29
+807093,Fatih Kurucuk,fatih-kurucuk,4954,Fatih Karagümrük,6.53,0,,0,5,0,78.89
+2273226,Devrim Şahin,devrim-sahin,3050,Beşiktaş JK,6.53,0,0.17,6,2,0,55.88
+984096,Yaw Ackah,yaw-ackah,3072,Kayserispor,6.53,0,0.06,1,0,0,84.81
+881966,Mert Yilmaz,mert-yilmaz,3056,Antalyaspor,6.53,0,0.06,0,1,0,66.67
+285997,Kenneth Paal,kenneth-paal,3056,Antalyaspor,6.53,0,0.35,15,65,0,85.42
+1148625,Samet Karakoc,samet-karakoc,3056,Antalyaspor,6.53,0,0.56,11,6,3,67.55
+1524303,Mustafa Hekimoğlu,mustafa-hekimoglu,3050,Beşiktaş JK,6.53,1,1.89,4,6,0,76.71
+387050,Oğulcan Çağlayan,ogulcan-caglayan,3065,Kocaelispor,6.53,0,0.19,2,2,0,65.96
+796114,Doğukan Sinik,dogukan-sinik,3056,Antalyaspor,6.52,0,2.45,27,13,2,76.11
+320905,Matěj Hanousek,matej-hanousek,7802,Gençlerbirliği,6.52,0,0.02,2,26,0,79.96
+999646,Seyfettin Anıl Yaşar,seyfettin-anil-yasar,7040,Eyüpspor,6.52,0,0.01,0,5,0,84.85
+1134447,Tiago Cukur,tiago-cukur,4954,Fatih Karagümrük,6.52,2,3.04,5,19,3,72.13
+781408,Ramazan Civelek,ramazan-civelek,3072,Kayserispor,6.52,0,0.48,10,36,2,85.02
+1135583,Polat Yaldır,polat-yaldir,3053,Samsunspor,6.52,0,0.71,3,2,0,72.73
+1091815,Emir Ortakaya,emir-ortakaya,3064,Çaykur Rizespor,6.52,0,0.18,0,11,0,84.63
+880778,Habib Gueye,habib-gueye,6063,Kasımpaşa,6.52,5,4.96,12,15,0,65.93
+2430477,Ahmed Traore,ahmed-traore,4954,Fatih Karagümrük,6.51,1,0.67,4,8,0,74.49
+796133,Dorukhan Toköz,dorukhan-tokoz,3072,Kayserispor,6.51,0,0.42,5,29,0,79.21
+929163,Tomáš Čvančara,tomas-cvancara,3056,Antalyaspor,6.51,1,1.41,5,4,0,65.12
+1105505,Musah Mohammed,musah-mohammed,3054,Göztepe,6.51,0,0.07,0,2,0,61.04
+296438,Joshua Brenet,joshua-brenet,3072,Kayserispor,6.51,0,0.72,3,6,2,78.54
+945479,Danylo Sikan,danylo-sikan,3051,Trabzonspor,6.5,1,1.46,2,5,0,75.32
+859748,Carlos Mané,carlos-mane,3072,Kayserispor,6.5,0,1.48,11,23,1,74.74
+976993,Nurettin Korkmaz,nurettin-korkmaz,3072,Kayserispor,6.5,0,0.03,2,1,1,84.51
+286087,Mateusz Wieteska,mateusz-wieteska,3065,Kocaelispor,6.5,0,,0,0,0,57.14
+2169898,Ismaila Manga,ismaila-manga,7040,Eyüpspor,6.5,0,,0,1,0,90.91
+96520,Serdar Gürler,serdar-gurler,7040,Eyüpspor,6.5,0,1.77,8,15,0,81.01
+910091,Ali Yavuz Kol,ali-yavuz-kol,6063,Kasımpaşa,6.5,0,1.12,20,20,0,77.34
+166987,Andraž Šporar,andraz-sporar,6362,Alanyaspor,6.5,0,0.56,0,1,0,73.53
+73951,Andre Gray,andre-gray,4954,Fatih Karagümrük,6.5,0,0.26,1,3,0,75.79
+2311147,Ayaz Özcan,ayaz-ozcan,7802,Gençlerbirliği,6.5,0,0.23,0,1,0,0.0
+227196,Riechedly Bazoer,riechedly-bazoer,3085,Konyaspor,6.5,0,0.13,1,11,0,89.41
+69351,Soner Aydoğdu,soner-aydogdu,3053,Samsunspor,6.5,0,0.04,1,2,0,78.72
+1022881,Ömer Faruk Beyaz,omer-faruk-beyaz,3086,Başakşehir FK,6.5,0,0.04,1,1,0,76.92
+1907100,Dilhan Demir,dilhan-demir,7802,Gençlerbirliği,6.5,0,0.03,2,3,0,80.0
+859021,Batista Mendy,batista-mendy,3051,Trabzonspor,6.5,0,0.03,0,1,0,86.36
+930136,Aaron Opoku,aaron-opoku,3072,Kayserispor,6.49,0,0.53,17,14,2,76.66
+39573,Mert Günok,mert-gunok,3052,Fenerbahçe,6.48,0,,0,0,0,67.9
+900798,Abdulsamet Burak,abdulsamet-burak,3072,Kayserispor,6.48,0,,1,6,0,80.12
+43605,İsmail Köybaşı,ismail-koybas,3054,Göztepe,6.48,0,0.04,2,3,0,51.72
+1476229,Kaan Akyazı,akyazi-kaan,3085,Konyaspor,6.47,0,,0,3,0,85.71
+1133195,Melih Bostan,melih-bostan,3085,Konyaspor,6.46,0,0.74,1,1,0,62.86
+327053,Sander Svendsen,sander-svendsen,3085,Konyaspor,6.46,0,0.59,1,1,0,66.15
+906049,Ahmed Kutucu,ahmed-kutucu,3061,Galatasaray,6.46,0,0.41,1,3,1,80.0
+1195797,Poyraz Efe Yıldırım,poyraz-efe-yildirim,3056,Antalyaspor,6.46,0,0.17,1,2,0,78.57
+1392102,Yasin Özcan,yasin-ozcan,3050,Beşiktaş JK,6.45,0,,1,7,0,89.89
+43394,Necip Uysal,necip-uysal,3050,Beşiktaş JK,6.45,0,,0,1,0,86.49
+803869,Ali Karimi,ali-karimi,3072,Kayserispor,6.45,0,,0,1,0,76.92
+2029551,Salem Bouajila,salem-bouajila,3054,Göztepe,6.45,0,,0,0,0,33.33
+317677,João Camacho,joao-camacho,4954,Fatih Karagümrük,6.45,0,0.39,3,3,0,67.16
+1129463,Furkan Gedik,furkan-gedik,3065,Kocaelispor,6.45,0,0.07,0,0,0,81.25
+822228,Mamadou Fall,mamadou-fall,6063,Kasımpaşa,6.44,0,1.69,7,16,0,70.29
+1142702,Jadel Katongo,jadel-katongo,3072,Kayserispor,6.44,0,0.09,2,12,0,86.79
+580392,Emmanuel Boateng,emmanuel-boateng,5138,Gaziantep FK,6.44,1,1.34,1,3,0,70.24
+943278,Frantzdy Pierrot,frantzdy-pierrot,3064,Çaykur Rizespor,6.43,0,0.51,1,0,0,63.64
+1981253,Muzaffer Utku Eriş,muzaffer-utku-eris,3085,Konyaspor,6.43,0,0.04,3,3,0,85.22
+225012,Gökhan Akkan,gokhan-akkan,7802,Gençlerbirliği,6.43,0,,0,0,0,51.56
+1130113,Yusuf Kabadayi,yusuf-kabadayi,5138,Gaziantep FK,6.42,1,1.11,10,9,0,70.09
+837742,Rigoberto Rivas,rigoberto-rivas,3065,Kocaelispor,6.42,1,1.81,10,21,1,76.38
+1907330,Marius Tresor Doh,marius-tresor-doh,4954,Fatih Karagümrük,6.42,0,0.73,4,25,0,77.16
+931743,Godfried Frimpong,frimpong,6063,Kasımpaşa,6.41,0,0.11,8,20,1,77.87
+809220,Henry Onyekuru,henry-onyekuru,7802,Gençlerbirliği,6.41,0,1.25,2,2,0,77.27
+958901,Muhammed-Cham Saračević,muhammed-cham-saracevic,3051,Trabzonspor,6.4,0,,0,0,0,100.0
+1417078,Onuralp Çevikkan,onuralp-cevikkan,3051,Trabzonspor,6.4,0,,0,0,0,88.0
+845165,Daniel Popa,daniel-popa,7802,Gençlerbirliği,6.4,0,,0,1,0,83.33
+2216420,Ebrima Ceesay,ebrima-ceesay,3053,Samsunspor,6.4,0,,0,0,0,100.0
+1640309,Burhan Ersoy,burhan-ersoy,4954,Fatih Karagümrük,6.4,0,,0,0,0,85.71
+1082393,Tuğbey Akgün,tugbey-akgun,4954,Fatih Karagümrük,6.4,0,,0,0,0,100.0
+984742,Mesut Can Tunalı,mesut-can-tunali,3065,Kocaelispor,6.4,0,,0,0,0,37.5
+1099267,Moussa Kyabou,moussa-kyabou,7802,Gençlerbirliği,6.4,0,,0,4,0,96.67
+1498789,Taylan Utku Aydın,aydin-taylan-utku,6063,Kasımpaşa,6.4,0,,0,0,0,80.0
+2494206,Ahmet Dagdevir,ahmet-dagdevir,3085,Konyaspor,6.4,0,0.18,0,0,0,77.78
+2404778,Esat Yusuf Narin,esat-yusuf-narin,3065,Kocaelispor,6.4,0,0.11,0,0,0,0.0
+580750,Jérôme Onguene,jerome-onguene,7040,Eyüpspor,6.39,0,0.09,1,10,2,83.0
+172331,Josip Ćalušić,josip-calusic,3085,Konyaspor,6.38,0,,0,2,0,89.44
+2018983,Tarik Bugra Kalpakli,tarik-bugra-kalpakli,4954,Fatih Karagümrük,6.36,0,0.14,2,7,0,74.6
+1522038,Ibrahim Sabra,ibrahim-sabra,3054,Göztepe,6.36,1,0.53,1,0,0,70.0
+909289,Mirza Cihan,mirza-cihan,5138,Gaziantep FK,6.35,0,,1,0,0,66.67
+785850,Aaron Appindangoyé,aaron-appindangoye,3065,Kocaelispor,6.35,0,0.06,0,1,0,80.58
+2430490,Abdul Kader Moussa Kone,abdul-kader-moussa-kone,4954,Fatih Karagümrük,6.35,0,0.03,0,0,0,57.14
+2237105,Tahsin Bülbül ,tahsin-bulbul,3053,Samsunspor,6.35,0,0.02,2,1,0,95.45
+2044133,Muhammed Kadıoğlu,muhammed-kadioglu,4954,Fatih Karagümrük,6.33,0,0.1,0,6,0,80.66
+941378,Ahmet Sivri,ahmet-sivri,4954,Fatih Karagümrük,6.32,0,0.43,2,10,0,66.67
+789102,Samet Yalçın,samet-yalcin,3065,Kocaelispor,6.31,0,0.19,0,6,0,70.91
+2128605,Yigithan Cubukcu,yigithan-cubukcu,3051,Trabzonspor,6.3,0,,0,0,0,100.0
+2056436,Berk Can Yildizli,berk-can-yildizli,6063,Kasımpaşa,6.3,0,,0,0,0,0.0
+2492573,Arda Ozyar,arda-ozyar,3065,Kocaelispor,6.3,0,,0,0,0,60.0
+1006105,Nikoloz Ugrekhelidze,nikoloz-ugrekhelidze,4954,Fatih Karagümrük,6.3,0,0.05,0,3,0,74.67
+1982283,Kayra Cihan,kayra-cihan,3072,Kayserispor,6.28,0,,0,4,0,81.25
+976367,Oleksandr Syrota,oleksandr-syrota,3065,Kocaelispor,6.26,0,,0,5,0,84.88
+288439,Gideon Jung,gideon-jung,3072,Kayserispor,6.23,0,0.43,0,2,0,75.86
+962283,Yusuf Demir,yusuf-demir,3061,Galatasaray,6.2,0,0.35,1,0,0,63.64
+1431471,Enes Albak,albak-enes,3053,Samsunspor,6.17,0,,0,0,0,81.82
+1134270,Ömer Faruk Gümüş,omer-faruk-gumus,4954,Fatih Karagümrük,6.15,0,0.02,0,1,0,80.0
+1907056,Ahmet Doğan Yıldırım,ahmet-dogan-yildirim,3051,Trabzonspor,6.1,0,,0,0,0,42.86
+1822943,Furkan Orak,furkan-orak,3064,Çaykur Rizespor,6.1,0,,0,0,0,50.0
+2405904,Muhammet Akmelek,muhammet-akmelek,5138,Gaziantep FK,6.1,0,,0,0,0,100.0
+1173638,Arif Kocaman,arif-kocaman,3072,Kayserispor,6.1,0,0.42,0,3,0,84.43
+2128093,Ata Yanık,ata-yanik,3085,Konyaspor,6.1,0,0.14,2,1,0,88.0
+940367,Salem M'Bakata,salem-mbakata,5138,Gaziantep FK,6.0,0,,0,0,0,85.71
+1974312,Boran Başkan,boran-baskan,3051,Trabzonspor,5.9,0,0.01,1,2,0,86.96
+1974398,Taha Emre Ince,taha-emre-ince,3051,Trabzonspor,5.8,0,,0,0,0,82.61
+289977,Alexander Djiku,alexander-djiku,3052,Fenerbahçe,0.0,0,,0,1,0,0.0
+1861964,Can Armando Güner,can-armando-guner,3061,Galatasaray,0.0,0,,0,0,0,0.0
+2128081,Ada Yüzgeç,ada-yuzgec,3061,Galatasaray,0.0,0,,0,0,0,100.0
+1823934,Haydar Karataş,haydar-karatas,3052,Fenerbahçe,0.0,0,,0,0,0,0.0
+99527,Samu Sáiz,samu-saiz,7040,Eyüpspor,0.0,0,,0,0,0,100.0
+1839258,Kerem Kayaarasi,kayaarasi-kerem,3056,Antalyaspor,0.0,0,,0,0,0,100.0
+2128089,Ali Demirbilek,ali-demirbilek,3056,Antalyaspor,0.0,0,,0,0,0,80.0
+1195735,Batuhan Yavuz,yavuz-batuhan,6362,Alanyaspor,0.0,0,,0,0,0,0.0
+859546,Ufuk Akyol,ufuk-akyol,3085,Konyaspor,0.0,0,,0,0,0,100.0
+845929,Mete Demir,mete-demir,7040,Eyüpspor,0.0,0,,0,1,0,0.0
+873812,Ensar Kemaloğlu,ensar-kemaloglu,7802,Gençlerbirliği,0.0,0,,0,0,0,0.0
+2023967,Tibet Durakcay,tibet-durakcay,3054,Göztepe,0.0,0,,0,0,0,0.0
+2486668,Omer Cobanoglu,omer-cobanoglu,3085,Konyaspor,0.0,0,,0,0,0,50.0
+1981257,Ahmet Tirpanci,ahmet-tirpanci,3085,Konyaspor,0.0,0,,0,0,0,0.0
+2494208,Enes Seven,enes-seven,3085,Konyaspor,0.0,0,,0,0,0,0.0
+815131,Ahmet Sağat,ahmet-sagat,3065,Kocaelispor,0.0,0,,0,0,0,0.0
+1149209,Mücahit Ibrahimoglu,mucahit-ibrahimoglu,3085,Konyaspor,0.0,0,,1,0,0,100.0
+1417051,Gökdeniz Gürpüz,gokdeniz-gurpuz,3061,Galatasaray,0.0,0,0.09,0,1,0,100.0

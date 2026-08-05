@@ -4,7 +4,11 @@ export type LeagueValue =
   | "bundesliga"
   | "serie_a"
   | "ligue_1"
-  | "egyptian_premier_league";
+  | "egyptian_premier_league"
+  | "algerian_ligue_1"
+  | "botola_pro"
+  | "saudi_pro_league"
+  | "turkish_super_lig";
 
 export const LEAGUES: {
   value: LeagueValue;
@@ -47,6 +51,30 @@ export const LEAGUES: {
     label: "Egyptian Premier League",
     icon: "/league-icons/egypt_egyptian-premier-league.football-logos.cc.svg",
     tablePrefix: "EPL",
+  },
+  {
+    value: "algerian_ligue_1",
+    label: "Algerian Ligue 1",
+    icon: "/league-icons/algeria_ligue-1.football-logos.cc.svg",
+    tablePrefix: "algerian",
+  },
+  {
+    value: "botola_pro",
+    label: "Botola Pro",
+    icon: "/league-icons/morocco_botola-pro.football-logos.cc.svg",
+    tablePrefix: "botola",
+  },
+  {
+    value: "saudi_pro_league",
+    label: "Saudi Pro League",
+    icon: "/league-icons/saudi-arabia_saudi-professional-league.football-logos.cc.svg",
+    tablePrefix: "saudi",
+  },
+  {
+    value: "turkish_super_lig",
+    label: "Turkish Süper Lig",
+    icon: "/league-icons/turkey_super-lig.football-logos.cc.svg",
+    tablePrefix: "turkish",
   },
 ];
 

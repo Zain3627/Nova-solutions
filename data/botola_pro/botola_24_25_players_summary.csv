@@ -1,0 +1,594 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+1401589,Amine Zouhzouh,amine-zouhzouh,24394,AS FAR Rabat,7.69,6.0,,83.0,,11.0,79.19
+797021,Adam Ennafati,adam-ennafati,41757,Raja Club Athletic,7.61,9.0,,83.0,,4.0,69.46
+919551,Yahia El Filali,yahia-el-filali,55049,Moghreb Atlético Tetuán,7.59,0.0,,0.0,,0.0,79.22
+970617,Mohamed El Khaloui,mohamed-el-khaloui,297607,Jeunesse Sportive Soualem,7.45,2.0,,85.0,,2.0,80.38
+1961648,Khalid Kasbi,khalid-kasbi,118834,Union Touarga Sport,7.4,0.0,,0.0,,0.0,68.42
+919532,Yassine Labhiri,yassine-labhiri,80395,RS Berkane,7.36,5.0,,76.0,,1.0,82.63
+1140885,Mehdi Al Harrar,mehdi-harrar,41757,Raja Club Athletic,7.33,0.0,,0.0,,0.0,90.75
+359278,Walid Sabbar,walid-sabbar,263373,Renaissance Zemamra,7.31,3.0,,21.0,,2.0,81.43
+1004248,Anas Serrhat,anas-serrhat,55027,Fath Union Sport,7.28,3.0,,41.0,,3.0,82.84
+2021585,Zakaria Fathi,zakaria-fathi,327830,SC Chabab Mohammédia,7.28,0.0,,24.0,,0.0,68.13
+359284,Omar Arjoune,omar-arjoune,55043,Difaâ Hassani El-Jadidi,7.27,5.0,,23.0,,2.0,84.68
+1007546,Yousri Bouzok,yousri-bouzok,41757,Raja Club Athletic,7.27,3.0,,20.0,,2.0,80.89
+880101,Hamza El Wasti,hamza-el-wasti,87180,Ittihad Tanger,7.24,7.0,,53.0,,1.0,77.25
+1140870,Ismail Moutaraji,ismail-moutaraji,36268,Wydad Casablanca,7.24,3.0,,8.0,,4.0,78.98
+1140878,Karim El Oualadi,karim-el-oualadi,55025,CODM Meknès,7.23,0.0,,0.0,,0.0,89.47
+1471574,Ali El Harrak,ali-el-harrak,87180,Ittihad Tanger,7.22,7.0,,34.0,,1.0,82.13
+1140820,Salaheddine Chihab,salaheddine-chihab,55035,MAS de Fès,7.22,0.0,,1.0,,0.0,80.79
+972816,Mohamed Walid Bencherifa,mohamed-walid-bencherifa,87180,Ittihad Tanger,7.21,0.0,,24.0,,1.0,76.33
+1461329,Yahya Ben Khaleq,yahya-ben-khaleq,55027,Fath Union Sport,7.21,0.0,,19.0,,1.0,85.96
+1802069,Marouane Samoudi,marouane-samoudi,55037,Olympic Safi,7.2,0.0,,1.0,,0.0,0.0
+340547,Hamza Sakhi,hamza-sakhi,36268,Wydad Casablanca,7.19,2.0,,12.0,,2.0,80.81
+1407530,Zakaria Fatihi,zakaria-fatihi,36268,Wydad Casablanca,7.19,2.0,,104.0,,0.0,70.0
+1182630,Mohamed Bakhkhach,mohamed-bakhkhach,55039,Hassania d'Agadir,7.19,6.0,,63.0,,4.0,65.28
+788969,Mohsine Moutouali,mohsine-moutouali,87180,Ittihad Tanger,7.18,5.0,,7.0,,4.0,78.05
+307470,Anas Zniti,anas-zniti,41757,Raja Club Athletic,7.18,0.0,,0.0,,0.0,91.46
+364758,Issoufou Dayo,issoufou-dayo,80395,RS Berkane,7.18,7.0,,2.0,,1.0,87.28
+782542,Hamza El Moussaoui,hamza-el-moussaoui,80395,RS Berkane,7.18,1.0,,26.0,,1.0,79.17
+919942,Amine El Msane,amine-el-msane,55027,Fath Union Sport,7.18,2.0,,7.0,,2.0,86.25
+970819,Mohamed Boulacsout,mohamed-boulacsout,41757,Raja Club Athletic,7.17,2.0,,43.0,,2.0,82.99
+1008872,Abdelfettah Hadraf,abdelfettah-hadraf,24394,AS FAR Rabat,7.17,4.0,,25.0,,5.0,82.99
+919489,Mohamed Rabie Hrimat,mohamed-rabie-hrimat,24394,AS FAR Rabat,7.16,7.0,,26.0,,3.0,88.87
+978955,Youssef El Fahli,youssef-el-fahli,24394,AS FAR Rabat,7.16,11.0,,66.0,,0.0,64.62
+1605928,Mouad Dahak,mouad-dahak,118834,Union Touarga Sport,7.16,8.0,,41.0,,1.0,74.52
+970766,Abdellah Khafifi,abdellah-khafifi,41757,Raja Club Athletic,7.15,0.0,,4.0,,0.0,90.15
+919774,Ayoub Lakhal,ayoub-lakhal,55049,Moghreb Atlético Tetuán,7.14,5.0,,34.0,,1.0,75.68
+1095725,Ayoub Mouloua,ayoub-mouloua,55027,Fath Union Sport,7.13,11.0,,32.0,,3.0,70.08
+1095734,Youssef Laghzal,youssef-laghzal,87180,Ittihad Tanger,7.13,0.0,,0.0,,0.0,89.53
+1004521,Mouhcine Rabja,rabja-mouhcine,55025,CODM Meknès,7.13,3.0,,7.0,,0.0,77.14
+1000473,Adil Tahif,adil-tahif,80395,RS Berkane,7.13,1.0,,6.0,,1.0,88.12
+953991,Reda Bounaga,reda-bounaga,55025,CODM Meknès,7.13,0.0,,0.0,,0.0,81.03
+1004247,Jawad Rhabra,jawad-rhabra,87180,Ittihad Tanger,7.12,5.0,,38.0,,1.0,77.32
+919577,Tarik Asstati,tarik-asstati,55035,MAS de Fès,7.12,0.0,,19.0,,1.0,77.45
+1008347,Jamal Ech-Chammakh,jamal-ech-chammakh,55039,Hassania d'Agadir,7.12,4.0,,62.0,,2.0,68.68
+1140833,Oussama Lamlioui,oussama-lamlioui,80395,RS Berkane,7.12,10.0,,13.0,,2.0,77.92
+1463237,Badreddine Abyir,badreddine-abyir,55039,Hassania d'Agadir,7.12,0.0,,0.0,,0.0,75.44
+1140920,Bilal El Ouadghiri,bilal-el-ouadghiri,87180,Ittihad Tanger,7.11,1.0,,0.0,,0.0,86.34
+1003317,Nassim Chadli,nassim-chadli,36268,Wydad Casablanca,7.1,1.0,,45.0,,1.0,78.46
+1866202,Abderrahim Bou Irkane,abderrahim-bou-irkane,118834,Union Touarga Sport,7.1,0.0,,0.0,,0.0,0.0
+1140957,Kamal Belarbi,kamal-belarbi,118834,Union Touarga Sport,7.1,0.0,,3.0,,0.0,85.0
+1503267,Youssef Bouamar,youssef-bouamar,55035,MAS de Fès,7.1,0.0,,2.0,,0.0,0.0
+1140922,Bilal Soufi,bilal-soufi,263373,Renaissance Zemamra,7.1,0.0,,0.0,,0.0,89.13
+1140862,Hassan Doughmi,hassan-doughmi,297607,Jeunesse Sportive Soualem,7.1,0.0,,0.0,,0.0,84.7
+1021138,Mohamed Amine Essahel,mohamed-amine-essahel,118834,Union Touarga Sport,7.1,1.0,,45.0,,1.0,81.32
+1170317,Imad Riahi,imad-riahi,80395,RS Berkane,7.1,2.0,,41.0,,5.0,77.05
+1545322,Katulondi  Kati,katulondi-kati,55039,Hassania d'Agadir,7.09,8.0,,46.0,,3.0,68.77
+1020959,Amine Souane,amine-souane,55027,Fath Union Sport,7.09,9.0,,44.0,,1.0,66.83
+1011367,Aymane Mourid,aymane-mourid,118834,Union Touarga Sport,7.08,0.0,,7.0,,1.0,82.79
+1401535,Amine Azri,amine-azri,263373,Renaissance Zemamra,7.08,6.0,,80.0,,2.0,66.74
+919486,Naoufel Zerhouni,naoufel-zerhouni,41757,Raja Club Athletic,7.07,0.0,,22.0,,3.0,81.45
+1525328,Youssef Kajai,youssef-kajai,118834,Union Touarga Sport,7.07,2.0,,4.0,,1.0,80.63
+141967,Munir El Kajoui,munir-mohamedi,80395,RS Berkane,7.06,0.0,,1.0,,0.0,87.14
+1140806,Walid Rhailouf,walid-rhailouf,55037,Olympic Safi,7.06,0.0,,14.0,,1.0,80.43
+919342,Mohammad El Fakih,mohammad-el-fakih,55049,Moghreb Atlético Tetuán,7.06,1.0,,22.0,,1.0,84.45
+1140961,Khalid Baba,khalid-baba,55043,Difaâ Hassani El-Jadidi,7.06,7.0,,66.0,,3.0,72.61
+919484,Youssef Belammari,youssef-belammari,41757,Raja Club Athletic,7.05,2.0,,27.0,,2.0,85.22
+1140930,Salaheddine Errahouli,salaheddine-errahouli,55037,Olympic Safi,7.05,5.0,,55.0,,3.0,73.15
+970630,El Mehdi Benabid,el-mehdi-benabid,36268,Wydad Casablanca,7.05,0.0,,1.0,,0.0,87.83
+1402221,Abdelhay El Forsy,abdelhay-el-forsy,263373,Renaissance Zemamra,7.04,1.0,,25.0,,5.0,78.57
+1004526,Saifeddine Bouhra,bouhra-saifeddine,36268,Wydad Casablanca,7.04,0.0,,36.0,,0.0,70.04
+919633,Ayoub Moudden,moudden-ayoub,55027,Fath Union Sport,7.04,0.0,,1.0,,0.0,85.26
+919623,Abdoulaye Diarra,abdoulaye-diarra,55037,Olympic Safi,7.04,9.0,,50.0,,2.0,74.61
+1140803,Abdelhak Assal,abdelhak-assal,80395,RS Berkane,7.04,0.0,,11.0,,2.0,89.62
+1619134,Driss El-Jabli,driss-el-jabli,55035,MAS de Fès,7.04,0.0,,4.0,,0.0,82.26
+359288,Mohamed Saoud,mohamed-saoud,87180,Ittihad Tanger,7.04,1.0,,4.0,,1.0,76.22
+1919299,Anas El Mahraoui,anas-el-mahraoui,55025,CODM Meknès,7.04,10.0,,40.0,,3.0,77.85
+919753,Marouane Fakhr,marouane-fakhr,263373,Renaissance Zemamra,7.03,0.0,,0.0,,0.0,82.94
+933770,Hamza Hannouri,hamza-hannouri,55027,Fath Union Sport,7.03,8.0,,24.0,,2.0,73.61
+919329,Achraf Harmach,achraf-harmach,55035,MAS de Fès,7.03,1.0,,36.0,,0.0,85.47
+340511,Mohamed Rayhi,mohamed-rayhi,36268,Wydad Casablanca,7.03,11.0,,32.0,,0.0,75.76
+1004511,Youssef Arbidi,arbidi-youssef,55043,Difaâ Hassani El-Jadidi,7.02,4.0,,56.0,,3.0,81.47
+919477,Anas Bach,anas-bach,24394,AS FAR Rabat,7.02,2.0,,30.0,,4.0,81.8
+978956,Ayoub Khairi,ayoub-khairi,80395,RS Berkane,7.02,7.0,,6.0,,2.0,85.56
+1401592,Ayoub El Khayati,ayoub-el-khayati,24394,AS FAR Rabat,7.02,0.0,,0.0,,0.0,84.72
+970761,Jamal Harkass,jamal-harkass,36268,Wydad Casablanca,7.02,2.0,,17.0,,0.0,87.83
+1010890,Hamid Ahdad,hamid-ahdad,55035,MAS de Fès,7.01,3.0,,9.0,,2.0,73.71
+1008598,Mohamed Zrida,mohamed-zrida,41757,Raja Club Athletic,7.01,1.0,,14.0,,1.0,85.05
+1004249,Mehdi El Jourbaoui,mehdi-el-jourbaoui,55049,Moghreb Atlético Tetuán,7.01,0.0,,0.0,,0.0,85.42
+944009,Kabelo Seakanyeng,kabelo-seakanyeng,55035,MAS de Fès,7.0,5.0,,44.0,,6.0,74.54
+1141125,Houssine Rahimi,houssine-rahimi,41757,Raja Club Athletic,7.0,11.0,,14.0,,0.0,80.11
+1095732,Oussama Zemraoui,oussama-zemraoui,36268,Wydad Casablanca,7.0,5.0,,40.0,,1.0,86.96
+1398858,Cassius Mailula,cassius-mailula,36268,Wydad Casablanca,7.0,5.0,,29.0,,7.0,80.09
+1212072,Rachid Ghanimi,rachid-ghanimi,55027,Fath Union Sport,6.99,0.0,,1.0,,0.0,81.82
+359280,Ahmed Reda Tagnaouti,ahmed-reda-tagnaouti,55049,Moghreb Atlético Tetuán,6.99,0.0,,0.0,,0.0,78.82
+1140850,Mustapha Sahd,mustapha-sahd,55043,Difaâ Hassani El-Jadidi,6.98,9.0,,21.0,,3.0,78.46
+919688,Abderhmane El Houasli,abderhmane-el-houasli,118834,Union Touarga Sport,6.98,0.0,,0.0,,0.0,90.48
+1009758,Youssef Limouri,youssef-limouri,297607,Jeunesse Sportive Soualem,6.98,0.0,,12.0,,0.0,85.32
+1612935,Mehdi Bellarabi Boubker,mehdi-bellarabi-boubker,297607,Jeunesse Sportive Soualem,6.98,0.0,,0.0,,0.0,84.39
+1140796,Youssef El Motie,youssef-el-motie,36268,Wydad Casablanca,6.98,0.0,,1.0,,0.0,86.13
+1545317,Cheickna Samake,cheickna-samake,55037,Olympic Safi,6.97,8.0,,21.0,,0.0,65.52
+1063892,Hamza Darai,hamza-darai,55049,Moghreb Atlético Tetuán,6.97,9.0,,29.0,,2.0,70.09
+1140818,Abdessamad Badaoui,abdessamad-badaoui,263373,Renaissance Zemamra,6.97,0.0,,13.0,,0.0,78.53
+919340,Mohamed Kamal,mohamed-kamal,55049,Moghreb Atlético Tetuán,6.97,5.0,,18.0,,1.0,65.5
+970755,Mehdi Maftah,mehdi-maftah,80395,RS Berkane,6.97,0.0,,0.0,,0.0,97.65
+861023,Hicham El Allouch,hicham-el-allouch,297607,Jeunesse Sportive Soualem,6.97,0.0,,1.0,,0.0,87.27
+1592863,Assane Beye,assane-beye,55039,Hassania d'Agadir,6.96,3.0,,4.0,,0.0,77.97
+970611,Abderrahim Khadou,abderrahim-khadou,263373,Renaissance Zemamra,6.96,2.0,,0.0,,0.0,83.11
+1095727,Haytam Manaout,haytam-manaout,80395,RS Berkane,6.96,0.0,,11.0,,0.0,79.34
+1138481,Luis Enrique Nsue,luis-enrique-nsue,55025,CODM Meknès,6.96,0.0,,1.0,,0.0,80.65
+1166995,Soumaila Sidibe,soumaila-sidibe,80395,RS Berkane,6.96,0.0,,19.0,,0.0,87.17
+919695,Yassine Rami,rami-yassine,55039,Hassania d'Agadir,6.95,0.0,,3.0,,1.0,78.45
+1099451,Henoc Inonga,henoc-inonga,24394,AS FAR Rabat,6.95,0.0,,3.0,,0.0,87.8
+1500985,Mouad Hmamouchi,mouad-hmamouchi,55035,MAS de Fès,6.95,1.0,,1.0,,0.0,61.9
+919476,El Mehdi El Bassil,el-mehdi-el-bassil,55027,Fath Union Sport,6.95,1.0,,3.0,,0.0,88.78
+2022157,Mouad Bougaizane,mouad-bougaizane,24394,AS FAR Rabat,6.95,0.0,,1.0,,1.0,78.38
+1878240,Aymane Zerri,aymane-zerri,55049,Moghreb Atlético Tetuán,6.95,0.0,,0.0,,0.0,84.75
+970586,Achraf Hilali,achraf-hilali,55027,Fath Union Sport,6.95,0.0,,0.0,,0.0,87.26
+1009912,Khalid Kbiri Alaoui,khalid-kbiri-alaoui,55037,Olympic Safi,6.95,0.0,,0.0,,0.0,84.19
+1182584,Youssef Mehri,youssef-mehri,80395,RS Berkane,6.95,5.0,,51.0,,1.0,78.65
+1022302,Abdessamad Mahir,abdessamad-mahir,55027,Fath Union Sport,6.95,2.0,,24.0,,0.0,82.52
+1140890,Abdelghafour Lamirat,abdelghafour-lamirat,55037,Olympic Safi,6.95,1.0,,11.0,,1.0,73.66
+2033935,Youness Dahmani,youness-dahmani,118834,Union Touarga Sport,6.95,2.0,,33.0,,1.0,63.78
+801066,Fahd Moufi,fahd-moufi,36268,Wydad Casablanca,6.95,0.0,,13.0,,0.0,71.6
+1014728,El Mehdi Moubarik,moubarik-el-mehdi,36268,Wydad Casablanca,6.95,2.0,,4.0,,0.0,90.49
+1155596,Mamadou Lamine Camara,camara-mamadou-lamine,80395,RS Berkane,6.94,1.0,,7.0,,1.0,82.36
+1140815,Salah Moussadak,salah-moussadak,263373,Renaissance Zemamra,6.94,2.0,,7.0,,0.0,84.19
+970606,Ayoub Boucheta,ayoub-boucheta,36268,Wydad Casablanca,6.94,0.0,,31.0,,1.0,80.37
+78536,Ilias Haddad,ilias-haddad,118834,Union Touarga Sport,6.93,1.0,,1.0,,0.0,87.44
+1597135,Taha Benrhozil,benrhozil-taha,55027,Fath Union Sport,6.93,0.0,,0.0,,0.0,74.58
+919555,Marouane Hadhoudi,marouane-hadhoudi,55043,Difaâ Hassani El-Jadidi,6.93,1.0,,3.0,,0.0,90.17
+919533,Ahmed Hammoudan,ahmed-hammoudan,24394,AS FAR Rabat,6.93,3.0,,51.0,,1.0,70.28
+1000500,Akram Nakach,akram-nakach,24394,AS FAR Rabat,6.93,1.0,,9.0,,1.0,85.67
+894744,Thembinkosi Lorch,thembinkosi-lorch,36268,Wydad Casablanca,6.93,2.0,,14.0,,0.0,68.95
+1952096,Ayoub Maamouri,ayoub-maamouri,41757,Raja Club Athletic,6.93,4.0,,43.0,,4.0,72.64
+919699,Saad Morsli,morsli-saad,55037,Olympic Safi,6.93,0.0,,34.0,,3.0,75.27
+1140958,Moncef Amri,moncef-amri,55027,Fath Union Sport,6.92,1.0,,13.0,,1.0,76.53
+919671,Mohamed El Morabit,mohamed-el-morabit,80395,RS Berkane,6.92,2.0,,18.0,,4.0,80.26
+1140934,Salaheddine Benyachou,salaheddine-benyachou,55027,Fath Union Sport,6.92,1.0,,58.0,,4.0,70.64
+1461399,Hatim Essaouabi,hatim-essaouabi,24394,AS FAR Rabat,6.92,0.0,,3.0,,0.0,89.1
+190411,Reda Jaadi,reda-jaadi,55049,Moghreb Atlético Tetuán,6.92,0.0,,4.0,,1.0,80.3
+191192,Mohamed Chemlal,mohamed-chemlal,118834,Union Touarga Sport,6.91,3.0,,22.0,,3.0,80.43
+1016138,Hassan Houbeib,hassan-houbeib,24394,AS FAR Rabat,6.91,0.0,,1.0,,0.0,89.77
+1461306,Mouad Goulouss,mouad-goulouss,55025,CODM Meknès,6.91,2.0,,41.0,,3.0,74.7
+796155,Sabir Bougrine,sabir-bougrine,41757,Raja Club Athletic,6.91,0.0,,27.0,,3.0,81.36
+1459304,Sidi Amar Bouna,sidi-amar-bouna,36268,Wydad Casablanca,6.91,2.0,,28.0,,1.0,69.54
+1606003,Hossam Essadak,hossam-essadak,118834,Union Touarga Sport,6.91,2.0,,9.0,,2.0,78.12
+884821,Youssef Anouar,youssef-anouar,55035,MAS de Fès,6.9,2.0,,56.0,,2.0,75.98
+1004540,Faouzi Abdoul Mutalib,mutalib-faouzi-abdoul,87180,Ittihad Tanger,6.9,3.0,,14.0,,3.0,82.26
+1857030,Abdsselam Lachhab,abdsselam-lachhab,55027,Fath Union Sport,6.9,0.0,,2.0,,0.0,0.0
+1919296,Amine Machkour,amine-machkour,55025,CODM Meknès,6.9,0.0,,0.0,,0.0,83.33
+796466,Reda Hajhouj,reda-hajhouj,55049,Moghreb Atlético Tetuán,6.9,0.0,,1.0,,0.0,0.0
+2121451,Aiman Echchennikh,aiman-echchennikh,55027,Fath Union Sport,6.9,0.0,,1.0,,0.0,0.0
+2046059,Fallou Formose Mendy,fallou-formose-mendy,24394,AS FAR Rabat,6.9,0.0,,0.0,,0.0,87.84
+1525302,Hicham Ait Brahim,hicham-ait-brahim,55025,CODM Meknès,6.9,0.0,,13.0,,0.0,71.79
+373898,Mohamed El Yousfi,mohamed-el-yousfi,55043,Difaâ Hassani El-Jadidi,6.9,0.0,,0.0,,0.0,88.0
+1140891,Abderrahmane Qassaq,abderrahmane-qassaq,55037,Olympic Safi,6.9,1.0,,49.0,,6.0,74.18
+1186787,Youness Najari,youness-najari,41757,Raja Club Athletic,6.89,2.0,,18.0,,1.0,75.12
+973414,Abdelmounaim Boutouil,boutouil-abdelmounaim,36268,Wydad Casablanca,6.89,1.0,,9.0,,0.0,82.72
+879567,Badereddine Benaachour,badereddine-benaachour,87180,Ittihad Tanger,6.89,0.0,,0.0,,0.0,77.63
+923882,Tó Carneiro,to-carneiro,24394,AS FAR Rabat,6.89,1.0,,24.0,,0.0,83.12
+1004547,Haytham El Bahja,el-bahja-haytham,87180,Ittihad Tanger,6.88,4.0,,19.0,,1.0,77.39
+919474,Saad Ait Khorsa,saad-ait-khorsa,55035,MAS de Fès,6.88,1.0,,9.0,,0.0,87.14
+970834,Houdaifa El Mahasni,houdaifa-el-mahasni,55027,Fath Union Sport,6.88,1.0,,6.0,,2.0,74.75
+1942512,Faffa El Yazid,faffa-el-yazid,263373,Renaissance Zemamra,6.88,2.0,,61.0,,0.0,75.41
+1401596,Yassine El Khalej,yassine-el-khalej,118834,Union Touarga Sport,6.88,0.0,,3.0,,0.0,75.58
+919690,Zakaria Nassik,zakaria-nassik,36268,Wydad Casablanca,6.87,0.0,,3.0,,1.0,83.89
+1004427,Omar Jerrari,jerrari-omar,55043,Difaâ Hassani El-Jadidi,6.87,0.0,,8.0,,2.0,80.71
+919954,Youssef Zghoudi,youssef-zghoudi,80395,RS Berkane,6.87,2.0,,37.0,,1.0,77.84
+1015235,Oussama Soukhane,oussama-soukhane,55027,Fath Union Sport,6.87,0.0,,15.0,,5.0,75.21
+1545318,Hamza Malki,hamza-malki,55025,CODM Meknès,6.86,0.0,,2.0,,0.0,71.89
+855858,Hicham Boussefiane,hicham-boussefiane,24394,AS FAR Rabat,6.86,1.0,,5.0,,0.0,74.29
+1416474,Taoufik Razko,taoufik-razko,297607,Jeunesse Sportive Soualem,6.86,3.0,,19.0,,2.0,81.28
+1402635,Soulaimane El Bouchqali,soulaimane-el-bouchqali,263373,Renaissance Zemamra,6.86,3.0,,34.0,,0.0,81.82
+1009910,Jad Assouab,jad-assouab,297607,Jeunesse Sportive Soualem,6.86,0.0,,6.0,,0.0,81.08
+1401604,Redouan Ait Lamkadem,redouan-ait-lamkadem,118834,Union Touarga Sport,6.85,0.0,,50.0,,0.0,76.6
+884819,Mahmoud Benhalib,mahmoud-benhalib,24394,AS FAR Rabat,6.85,1.0,,10.0,,3.0,73.98
+1461780,Mehdi Ashabi,mehdi-ashabi,55037,Olympic Safi,6.85,1.0,,10.0,,0.0,83.64
+1863859,Mouad Enzo,enzo-mori,36268,Wydad Casablanca,6.84,0.0,,16.0,,1.0,78.91
+1845576,Oussama Errahmany,oussama-errahmany,327830,SC Chabab Mohammédia,6.84,0.0,,0.0,,0.0,75.73
+919326,Mohamed Cheikhi,mohamed-cheikhi,55049,Moghreb Atlético Tetuán,6.84,0.0,,10.0,,0.0,86.2
+1526456,Ayoub Lakhlifi,ayoub-lakhlifi,297607,Jeunesse Sportive Soualem,6.84,1.0,,7.0,,0.0,82.71
+1404139,Yassine Lamine,yassine-lamine,55027,Fath Union Sport,6.84,2.0,,17.0,,1.0,80.0
+1008634,Mohamed Ferni,mohamed-ferni,263373,Renaissance Zemamra,6.84,0.0,,0.0,,0.0,83.58
+1525299,Brahim El Idrissi Bouzidi,brahim-el-idrissi-bouzidi,55025,CODM Meknès,6.84,2.0,,6.0,,0.0,77.71
+1546488,Papa Amady Gadio,papa-amady-gadio,118834,Union Touarga Sport,6.84,1.0,,25.0,,1.0,71.64
+1465411,Reda Laalaoui,reda-laalaoui,55027,Fath Union Sport,6.84,4.0,,11.0,,1.0,80.92
+1416350,Mohamed El Badoui,mohamed-el-badoui,55035,MAS de Fès,6.84,7.0,,19.0,,0.0,67.77
+1473503,Hamza Ghatas,hamza-ghatas,263373,Renaissance Zemamra,6.83,2.0,,2.0,,0.0,65.79
+1151070,Tahar El Khalej,tahar-el-khalej,118834,Union Touarga Sport,6.83,2.0,,2.0,,0.0,82.46
+1140943,Oussama Mahrous,oussama-mahrous,36268,Wydad Casablanca,6.83,0.0,,1.0,,0.0,89.33
+1140945,Hamza El Janati,hamza-el-janati,55035,MAS de Fès,6.83,5.0,,10.0,,1.0,76.08
+1114480,Reda Hajji,reda-hajji,80395,RS Berkane,6.83,1.0,,5.0,,0.0,80.54
+1476706,Khalid Ait Ouarkhane,khalid-ait-ouarkhane,24394,AS FAR Rabat,6.83,1.0,,34.0,,0.0,83.93
+867084,Mohammed Nahiri,mohammed-nahiri,55049,Moghreb Atlético Tetuán,6.83,1.0,,0.0,,0.0,86.81
+1015212,Lahcen Dahdouh,lahcen-dahdouh,297607,Jeunesse Sportive Soualem,6.83,1.0,,18.0,,0.0,61.98
+1919304,Mohamed Amine Hamoudi,mohamed-amine-hamoudi,55025,CODM Meknès,6.83,0.0,,3.0,,0.0,78.97
+1502265,Mehdi Mchakh'chekh,mehdi-mchakhchekh,41757,Raja Club Athletic,6.83,0.0,,2.0,,0.0,87.65
+1017984,Joel Beya,joel-beya,24394,AS FAR Rabat,6.82,5.0,,10.0,,1.0,81.22
+1210560,Walid Nassi,walid-nassi,36268,Wydad Casablanca,6.82,2.0,,37.0,,0.0,73.58
+1140872,Mohamed Moufid,mohamed-moufid,36268,Wydad Casablanca,6.82,0.0,,21.0,,0.0,77.22
+1089964,Hicham El Mejhed,hicham-el-mejhed,55039,Hassania d'Agadir,6.82,0.0,,0.0,,0.0,83.02
+1000536,Anas Nanah,anas-nanah,118834,Union Touarga Sport,6.82,0.0,,3.0,,0.0,77.27
+1525306,James Ajako,james-ajako,263373,Renaissance Zemamra,6.82,0.0,,8.0,,0.0,80.11
+919620,Imad El Rahouli,imad-el-rahouli,55049,Moghreb Atlético Tetuán,6.82,1.0,,13.0,,0.0,84.58
+919761,Larbi Naji,larbi-najji,24394,AS FAR Rabat,6.8,0.0,,8.0,,0.0,83.24
+1471617,Ismail Mihrab,ismail-mihrab,55025,CODM Meknès,6.8,3.0,,58.0,,1.0,73.46
+990661,Tumisang Orebonye,tumisang-orebonye,24394,AS FAR Rabat,6.8,3.0,,4.0,,0.0,73.75
+919771,Hamza Kalai,hamza-kalai,55039,Hassania d'Agadir,6.8,2.0,,18.0,,3.0,73.74
+970599,Hamza Moujahid,hamza-moujahid,55037,Olympic Safi,6.8,2.0,,9.0,,2.0,82.97
+2003720,Baba Ilou,baba-ilou,80395,RS Berkane,6.8,1.0,,2.0,,0.0,83.72
+1545331,Youness Khoutari,youness-khoutari,263373,Renaissance Zemamra,6.8,0.0,,0.0,,0.0,81.82
+1924036,Hakim Mohammdi,hakim-mohammdi,55049,Moghreb Atlético Tetuán,6.8,0.0,,1.0,,0.0,0.0
+1941603,Yacine Ghazouani,yacine-ghazouani,55049,Moghreb Atlético Tetuán,6.8,0.0,,1.0,,0.0,68.75
+2021713,Omar Aqzdaou,omar-aqzdaou,36268,Wydad Casablanca,6.8,0.0,,0.0,,0.0,85.0
+2127981,Salah Eddine El Ayoubi,salah-eddine-el-ayoubi,327830,SC Chabab Mohammédia,6.8,0.0,,5.0,,0.0,68.0
+1100773,Ayoub Ouadrassi,ayoub-ouadrassi,55049,Moghreb Atlético Tetuán,6.8,0.0,,1.0,,0.0,89.47
+1940063,Aymen El Hassani,aymen-el-hassani,327830,SC Chabab Mohammédia,6.8,0.0,,2.0,,0.0,75.0
+1923778,Mourad Abdelwadie,mourad-abdelwadie,327830,SC Chabab Mohammédia,6.8,0.0,,0.0,,0.0,76.21
+1919276,Abdellatif El Bajjani,abdellatif-el-bajjani,263373,Renaissance Zemamra,6.8,1.0,,12.0,,0.0,88.64
+1525285,Abdel Hamid Maali,abdel-hamid-maali,87180,Ittihad Tanger,6.79,0.0,,42.0,,2.0,75.36
+1461782,Zakaria Ami,zakaria-ami,55039,Hassania d'Agadir,6.79,0.0,,4.0,,1.0,76.52
+1140954,Nabil Marmouk,marmouk-nabil,36268,Wydad Casablanca,6.79,1.0,,1.0,,0.0,92.13
+1525301,Faraji Karmoune,faraji-karmoune,55037,Olympic Safi,6.79,0.0,,11.0,,0.0,79.66
+1103558,Marouane Ouhrou,marouane-ouhrou,297607,Jeunesse Sportive Soualem,6.79,1.0,,29.0,,1.0,72.68
+1019894,Azzedine Sellak,azzedine-sellak,297607,Jeunesse Sportive Soualem,6.79,0.0,,5.0,,0.0,76.38
+1168799,Bouchaib Arrassi,bouchaib-arrassi,41757,Raja Club Athletic,6.79,0.0,,3.0,,0.0,88.7
+1855780,Anas El Makkaoui,anas-el-makkaoui,55027,Fath Union Sport,6.79,0.0,,9.0,,0.0,85.51
+782482,Mehdi Khallati,mehdi-khallati,297607,Jeunesse Sportive Soualem,6.79,0.0,,0.0,,0.0,90.04
+1140855,Hamza Afsal,hamza-afsal,55035,MAS de Fès,6.79,2.0,,7.0,,2.0,81.36
+1382913,Arthur Wenderroscky,arthur-wenderroscky,36268,Wydad Casablanca,6.79,0.0,,10.0,,2.0,79.12
+1182631,Fahd Bendahmane,fahd-bendahmane,55039,Hassania d'Agadir,6.79,2.0,,35.0,,1.0,53.49
+839388,Matar Dieye,dieye-matar,55035,MAS de Fès,6.78,1.0,,17.0,,0.0,78.57
+1457871,Mahamadou Camara,mahamadou-camara,263373,Renaissance Zemamra,6.78,1.0,,4.0,,0.0,85.02
+1140828,Ayman Dairani,ayman-dairani,36268,Wydad Casablanca,6.78,0.0,,2.0,,2.0,85.93
+884820,Omar Boutayeb,omar-boutayeb,297607,Jeunesse Sportive Soualem,6.78,0.0,,20.0,,1.0,73.75
+919485,Lamine Diakité,lamine-diakite,55027,Fath Union Sport,6.78,1.0,,5.0,,0.0,81.34
+1004428,Achraf Marzak,marzak-achraf,263373,Renaissance Zemamra,6.78,0.0,,8.0,,0.0,78.95
+1140933,Chouaib Faidi,chouaib-faidi,55027,Fath Union Sport,6.78,0.0,,19.0,,0.0,75.47
+1655612,Soufiane Et Tazi,soufiane-et-tazi,55027,Fath Union Sport,6.78,3.0,,18.0,,0.0,80.49
+1525311,Mohamed Habbali,mohamed-habbali,263373,Renaissance Zemamra,6.78,0.0,,6.0,,2.0,75.82
+1140846,Oussama Al Aiz,oussama-al-aiz,87180,Ittihad Tanger,6.77,0.0,,2.0,,0.0,82.92
+904837,Mateus Criciuma,mateus-criciuma,80395,RS Berkane,6.77,1.0,,28.0,,1.0,77.88
+1401904,Rochdi Oulad Abdelouahab,rochdi-oulad-abdelouahab,55049,Moghreb Atlético Tetuán,6.77,0.0,,8.0,,0.0,84.68
+919554,Youssef Aguerdoum,youssef-aguerdoum,55043,Difaâ Hassani El-Jadidi,6.77,0.0,,1.0,,0.0,89.0
+919570,Adil El Hassnaoui,adil-el-hassnaoui,55043,Difaâ Hassani El-Jadidi,6.77,0.0,,6.0,,0.0,85.33
+884817,Zouhair El Ouassli,zouhair-el-ouassli,297607,Jeunesse Sportive Soualem,6.77,0.0,,14.0,,2.0,73.33
+1399957,Hassan Aqboub,hassan-aqboub,118834,Union Touarga Sport,6.77,0.0,,7.0,,0.0,79.31
+1655428,Ismail Hrila,ismail-hrila,55039,Hassania d'Agadir,6.77,0.0,,0.0,,0.0,68.42
+1461307,Yassine Amhih,yassine-amhih,55049,Moghreb Atlético Tetuán,6.77,0.0,,2.0,,1.0,87.04
+919505,Ayoub El Jorfi,ayoub-el-jorfi,87180,Ittihad Tanger,6.76,0.0,,1.0,,0.0,83.78
+919579,Bilal El Megri,bilal-el-megri,55049,Moghreb Atlético Tetuán,6.76,1.0,,35.0,,3.0,69.68
+1140894,Zakaria Bahrou,zakaria-bahrou,263373,Renaissance Zemamra,6.76,4.0,,17.0,,3.0,69.81
+1459151,Moad  Karmoun,moad-karmoun,55049,Moghreb Atlético Tetuán,6.76,0.0,,18.0,,0.0,83.01
+1140874,Kamal El Keraa,kamal-el-keraa,297607,Jeunesse Sportive Soualem,6.76,6.0,,10.0,,1.0,77.78
+919701,Abdelkarim Baadi,baadi-abdelkarim,41757,Raja Club Athletic,6.76,1.0,,8.0,,0.0,76.7
+1008280,Hilal Ferdaoussi,hilal-ferdaoussi,41757,Raja Club Athletic,6.76,0.0,,8.0,,0.0,84.47
+1411493,Selemani Mwalimu,selemani-mwalimu,36268,Wydad Casablanca,6.75,0.0,,1.0,,0.0,66.67
+1525293,Amine El Maswab,amine-el-maswab,80395,RS Berkane,6.75,0.0,,1.0,,0.0,88.3
+1004260,Zakaria Kiani,zakaria-kiani,87180,Ittihad Tanger,6.75,0.0,,25.0,,0.0,76.7
+1525307,Karim Lagrouch,karim-lagrouch,297607,Jeunesse Sportive Soualem,6.75,6.0,,9.0,,0.0,66.08
+577276,Mehdi Karnass,mehdi-karnass,55025,CODM Meknès,6.74,0.0,,13.0,,1.0,82.67
+919481,Badr Boulahroud,badr-boulahroud,263373,Renaissance Zemamra,6.74,0.0,,2.0,,0.0,90.32
+1402176,Anass Moulhami,anass-moulhami,55035,MAS de Fès,6.74,0.0,,3.0,,0.0,80.12
+1919331,Hassan Faris,hassan-faris,55043,Difaâ Hassani El-Jadidi,6.74,1.0,,9.0,,1.0,79.1
+1433799,Chams Eddine Knaidil,chams-eddine-knaidil,297607,Jeunesse Sportive Soualem,6.74,0.0,,26.0,,1.0,78.72
+1597138,Mohamed Amine Katiba,mohamed-amine-katiba,55039,Hassania d'Agadir,6.74,3.0,,33.0,,1.0,77.57
+1004515,Hamza Hamiani,hamza-hamiani,24394,AS FAR Rabat,6.74,0.0,,0.0,,0.0,92.42
+1546502,Ayoub Tine,ayoub-tine,263373,Renaissance Zemamra,6.74,1.0,,8.0,,0.0,73.98
+1459302,Semelo Gueï,semelo-guei,55035,MAS de Fès,6.74,0.0,,7.0,,0.0,78.56
+1185396,Hamza El Moudene,hamza-el-moudene,87180,Ittihad Tanger,6.73,0.0,,9.0,,0.0,83.96
+981300,Ennaama El Bellali,ennaama-el-bellali,87180,Ittihad Tanger,6.73,0.0,,8.0,,0.0,92.65
+1919273,Yassine Fatine,yassine-fatine,55043,Difaâ Hassani El-Jadidi,6.73,4.0,,1.0,,0.0,86.32
+1004426,Ayman Chabani,chabani-ayman,55035,MAS de Fès,6.73,0.0,,6.0,,0.0,83.36
+997038,Zacarias Ghailan,zacarias-ghailan,55049,Moghreb Atlético Tetuán,6.73,0.0,,12.0,,1.0,75.21
+970592,Mohamed Aymen Sadil,mohamed-aymen-sadil,80395,RS Berkane,6.73,0.0,,6.0,,0.0,84.32
+1013918,Mohamed Rahim,mohamed-rahim,55049,Moghreb Atlético Tetuán,6.73,1.0,,2.0,,0.0,79.27
+1008631,Zinedine Derrag,zinedine-derrag,24394,AS FAR Rabat,6.73,0.0,,6.0,,2.0,85.63
+919947,Issam Chouikh,issam-chouikh,297607,Jeunesse Sportive Soualem,6.73,0.0,,10.0,,0.0,85.96
+1798512,Ahmad El Houari,ahmad-el-houari,327830,SC Chabab Mohammédia,6.73,1.0,,22.0,,1.0,81.13
+919946,Abdelouahed Hasty,abdelouahed-hasty,297607,Jeunesse Sportive Soualem,6.72,0.0,,38.0,,0.0,67.04
+1923776,Ahmed Rhailouf,ahmed-rhailouf,327830,SC Chabab Mohammédia,6.72,3.0,,3.0,,0.0,75.63
+1919315,Manawa Emmanuel Kpatai,manawa-emmanuel-kpatai,55043,Difaâ Hassani El-Jadidi,6.72,2.0,,14.0,,0.0,76.24
+1021152,Oussama Raoui,oussama-raoui,55027,Fath Union Sport,6.72,1.0,,13.0,,3.0,73.66
+1894253,Zakaria Ajoughlal,zakaria-ajoughlal,24394,AS FAR Rabat,6.72,2.0,,19.0,,1.0,74.52
+1004256,Marouane Lemzaouri,marouane-lemzaouri,55043,Difaâ Hassani El-Jadidi,6.72,0.0,,27.0,,2.0,71.81
+1823726,Mohammed Ouyahya,mohammed-ouyahya,80395,RS Berkane,6.72,0.0,,2.0,,0.0,76.74
+1140935,El Habib Brija,el-habib-brija,55035,MAS de Fès,6.72,2.0,,7.0,,0.0,86.81
+1014377,Et-Tayeb Boukhriss,et-tayeb-boukhriss,24394,AS FAR Rabat,6.72,0.0,,13.0,,1.0,79.68
+868978,Sofian El Moudane,soufian-el-moudane,55039,Hassania d'Agadir,6.71,0.0,,12.0,,1.0,72.44
+1994372,Marouane Oujeddou,marouane-oujeddou,263373,Renaissance Zemamra,6.71,1.0,,8.0,,0.0,80.3
+1140857,Mouad Bahsain,mouad-bahsain,55027,Fath Union Sport,6.71,0.0,,4.0,,0.0,81.8
+1095721,Abdellah Farah,abdellah-farah,263373,Renaissance Zemamra,6.7,1.0,,24.0,,0.0,73.02
+1473502,Mohamed Radouani,mohamed-radouani,55025,CODM Meknès,6.7,1.0,,17.0,,0.0,84.27
+1102957,Paul Bassène,paul-bassene,80395,RS Berkane,6.7,1.0,,13.0,,1.0,78.93
+1919278,Zouhir Eddib,zouhir-eddib,55025,CODM Meknès,6.7,2.0,,32.0,,1.0,67.58
+1140840,Aziz Ennakhli,aziz-ennakhli,327830,SC Chabab Mohammédia,6.7,1.0,,8.0,,0.0,79.13
+1919284,Adnane Berdad,adnane-berdad,55025,CODM Meknès,6.7,1.0,,10.0,,0.0,84.92
+782500,Anas Lamrabat,anas-lamrabat,87180,Ittihad Tanger,6.7,0.0,,4.0,,3.0,70.8
+1153980,Abdelghafour Mehri,abdelghafour-mehri,55025,CODM Meknès,6.7,0.0,,8.0,,2.0,70.75
+1461320,Mohamed Loumim,mohamed-loumim,55035,MAS de Fès,6.7,0.0,,5.0,,1.0,78.57
+1386878,Ahmadou Ama Camara,ahmadou-ama-camara,41757,Raja Club Athletic,6.7,0.0,,0.0,,0.0,88.1
+893189,Herve Guy,herve-guy,41757,Raja Club Athletic,6.7,0.0,,0.0,,0.0,0.0
+1875400,Mohamed El Guartit,mohamed-el-guartit,87180,Ittihad Tanger,6.7,0.0,,1.0,,0.0,0.0
+1000467,Abderrahmane Kernane,abderrahmane-kernane,55037,Olympic Safi,6.7,0.0,,0.0,,0.0,66.67
+1140944,Hamza El Ichaoui,hamza-el-ichaoui,55035,MAS de Fès,6.7,0.0,,0.0,,0.0,76.47
+1923950,Soulaymane Ait Dani,soulaymane-ait-dani,87180,Ittihad Tanger,6.7,0.0,,1.0,,0.0,0.0
+1924142,Reda Abardi,reda-abardi,263373,Renaissance Zemamra,6.7,0.0,,1.0,,0.0,0.0
+2148987,Errafiy Said,errafiy-said,118834,Union Touarga Sport,6.7,0.0,,1.0,,0.0,0.0
+2046113,Adam Annahla,adam-annahla,327830,SC Chabab Mohammédia,6.7,0.0,,0.0,,0.0,0.0
+1410431,Zakaria Labib,zakaria-labib,41757,Raja Club Athletic,6.7,0.0,,3.0,,0.0,64.91
+950142,Samuel Obeng,samuel-obeng,36268,Wydad Casablanca,6.69,2.0,,4.0,,2.0,71.05
+1407508,Omar El Hanoudi,omar-el-hanoudi,55043,Difaâ Hassani El-Jadidi,6.69,1.0,,31.0,,2.0,63.08
+953996,Salaheddine Bahi,salaheddine-bahi,55039,Hassania d'Agadir,6.69,0.0,,4.0,,1.0,78.82
+1095728,Ismail Gourad,ismail-gourad,263373,Renaissance Zemamra,6.69,1.0,,2.0,,1.0,79.25
+970791,Benaissa Benamar,benaissa-benamar,41757,Raja Club Athletic,6.69,0.0,,1.0,,0.0,90.06
+919762,Yasser Jarici,yasser-jarici,263373,Renaissance Zemamra,6.69,0.0,,3.0,,0.0,85.92
+1477128,Ilyass Lagrimi,ilyass-lagrimi,118834,Union Touarga Sport,6.68,1.0,,5.0,,0.0,79.78
+970604,Haytem Aina,haytem-aina,55035,MAS de Fès,6.68,0.0,,5.0,,1.0,73.68
+1140816,Abderrazak Ennakouss,abderrazak-ennakouss,327830,SC Chabab Mohammédia,6.68,1.0,,3.0,,0.0,56.98
+1013197,Jalal Tachtach,jalal-tachtach,55039,Hassania d'Agadir,6.68,0.0,,14.0,,0.0,84.59
+1008871,Soulaiman El Amrani,soulaiman-el-amrani,55037,Olympic Safi,6.68,0.0,,9.0,,0.0,79.45
+1502274,Soufiane Mestari,soufiane-mestari,55035,MAS de Fès,6.68,0.0,,3.0,,2.0,77.98
+1140800,Yassine Kordani,yassine-kordani,55037,Olympic Safi,6.68,0.0,,0.0,,0.0,81.78
+1064770,Bodda Mouhsine,bodda-mouhsine,41757,Raja Club Athletic,6.68,0.0,,8.0,,0.0,86.99
+139228,M'Baye Niang,mbaye-niang,36268,Wydad Casablanca,6.68,2.0,,3.0,,0.0,75.86
+919788,Souhail Yechou,yechou-souhail,55037,Olympic Safi,6.68,1.0,,3.0,,0.0,66.99
+1401595,Reda Asmama,reda-asmama,118834,Union Touarga Sport,6.68,0.0,,1.0,,0.0,79.8
+1140881,Marouane Zila,marouane-zila,41757,Raja Club Athletic,6.67,0.0,,17.0,,0.0,74.15
+1100484,Abderahmane Soussi,abderahmane-soussi,41757,Raja Club Athletic,6.67,0.0,,6.0,,0.0,62.75
+1465418,Houssam Ben Youssef,houssam-ben-youssef,55049,Moghreb Atlético Tetuán,6.67,0.0,,2.0,,0.0,74.71
+1657203,Aymane Foutat,aymane-foutat,327830,SC Chabab Mohammédia,6.66,2.0,,36.0,,1.0,69.14
+970634,Marouane Bessak,marouane-bessak,55043,Difaâ Hassani El-Jadidi,6.66,0.0,,1.0,,0.0,86.94
+942832,Amadou Dia Ndiaye,amadou-dia-ndiaye,118834,Union Touarga Sport,6.66,3.0,,7.0,,0.0,72.83
+1501716,Anas Nqaiti,anas-nqaiti,55037,Olympic Safi,6.66,1.0,,3.0,,0.0,70.37
+1008606,Zakaria Habti,zakaria-habti,55037,Olympic Safi,6.66,0.0,,9.0,,0.0,80.52
+1597143,Fouad Zahouani,zahouani-fouad,118834,Union Touarga Sport,6.66,0.0,,3.0,,0.0,68.93
+1020148,Achraf Hmaidou,achraf-hmaidou,297607,Jeunesse Sportive Soualem,6.66,0.0,,6.0,,0.0,83.83
+1402175,Marouane Afalah,marouane-afalah,55025,CODM Meknès,6.66,0.0,,1.0,,0.0,88.21
+1102955,Pape Ousmane Sakho,pape-ousmane-sakho,41757,Raja Club Athletic,6.66,1.0,,16.0,,3.0,80.11
+919739,Abdelali Mhamdi,abdelali-mhamdi,36268,Wydad Casablanca,6.65,0.0,,0.0,,0.0,85.51
+1140843,Badreddine Octobre,badreddine-octobre,55039,Hassania d'Agadir,6.65,0.0,,1.0,,0.0,67.65
+1525291,Aissa Saidi,aissa-saidi,118834,Union Touarga Sport,6.65,0.0,,1.0,,0.0,0.0
+1021418,Brahim Dahmoun,brahim-dahmoun,55039,Hassania d'Agadir,6.65,0.0,,9.0,,0.0,78.57
+977069,Imran Fiddi,imran-fiddi,55025,CODM Meknès,6.65,0.0,,10.0,,0.0,70.42
+1140918,Ayoub Chaboud,ayoub-chaboud,55049,Moghreb Atlético Tetuán,6.65,0.0,,10.0,,0.0,77.53
+1923775,Walid Sani,walid-sani,327830,SC Chabab Mohammédia,6.65,0.0,,6.0,,0.0,75.89
+1140831,Ayman El Hadry,ayman-el-hadry,55037,Olympic Safi,6.64,0.0,,0.0,,1.0,80.7
+1919306,Mohamed Bazzar,mohamed-bazzar,55025,CODM Meknès,6.64,0.0,,11.0,,1.0,72.28
+1525289,Abdoul Draman Ouedraogo,abdoul-draman-ouedraogo,55037,Olympic Safi,6.64,0.0,,10.0,,0.0,75.61
+1005381,Youssouf Traoré,youssouf-traore,327830,SC Chabab Mohammédia,6.64,0.0,,0.0,,0.0,82.53
+2033440,Yassine Senhaji,yassine-senhaji,55025,CODM Meknès,6.64,1.0,,2.0,,0.0,64.86
+1496358,Yassine Karraz,yassine-karraz,55049,Moghreb Atlético Tetuán,6.64,0.0,,0.0,,0.0,80.47
+2119729,Youssef Erraoui,youssef-erraoui,327830,SC Chabab Mohammédia,6.63,0.0,,2.0,,0.0,64.0
+1526455,Hamza Belouad,hamza-belouad,297607,Jeunesse Sportive Soualem,6.63,0.0,,0.0,,0.0,81.25
+1140936,Salaheddine Ben Marzouka,salaheddine-ben-marzouka,55049,Moghreb Atlético Tetuán,6.63,0.0,,0.0,,0.0,81.08
+1475210,Anass Eddaou,anass-eddaou,118834,Union Touarga Sport,6.63,2.0,,19.0,,0.0,72.09
+285941,Zakaria Bakkali,zakaria-bakkali,87180,Ittihad Tanger,6.63,1.0,,12.0,,0.0,79.09
+1141122,Mouad Fekkak,mouad-fekkak,55025,CODM Meknès,6.63,0.0,,5.0,,1.0,73.63
+1802068,Oussama Ichou,oussama-ichou,55037,Olympic Safi,6.63,0.0,,1.0,,0.0,77.67
+1525316,Oussama Daoui,oussama-daoui,55025,CODM Meknès,6.62,0.0,,22.0,,2.0,73.56
+1534400,Anas Boukram,anas-boukram,327830,SC Chabab Mohammédia,6.62,0.0,,17.0,,0.0,70.37
+1957278,Ishak Zidani,ishak-zidani,263373,Renaissance Zemamra,6.62,1.0,,11.0,,0.0,81.45
+1140799,Abdallah Boukhanfer,abdallah-boukhanfer,55039,Hassania d'Agadir,6.61,2.0,,25.0,,1.0,73.15
+1897485,Livty Kpolo,livty-kpolo,87180,Ittihad Tanger,6.61,0.0,,4.0,,1.0,80.0
+1990600,Ayman Tarrazi,ayman-tarrazi,55039,Hassania d'Agadir,6.61,0.0,,8.0,,1.0,67.69
+1939981,Jawad Essaghir,jawad-essaghir,263373,Renaissance Zemamra,6.61,0.0,,2.0,,2.0,68.57
+1140899,Youssef Michte,youssef-michte,55037,Olympic Safi,6.61,0.0,,20.0,,1.0,84.76
+1528418,Youssef Dalouzi,youssef-dalouzi,327830,SC Chabab Mohammédia,6.61,1.0,,14.0,,1.0,67.33
+2029741,Yasir Laasri,yasir-laasri,327830,SC Chabab Mohammédia,6.61,1.0,,14.0,,0.0,71.2
+1919288,Reda Majji,reda-majji,55043,Difaâ Hassani El-Jadidi,6.61,2.0,,43.0,,0.0,75.19
+1401967,Zaid Ben Khajjou,zaid-ben-khajjou,55049,Moghreb Atlético Tetuán,6.6,0.0,,8.0,,0.0,87.33
+919495,Brahim El Bahraoui,brahim-el-bahraoui,55037,Olympic Safi,6.6,4.0,,7.0,,0.0,74.13
+919770,Zakaria Fati,fati-zakaria,55035,MAS de Fès,6.6,2.0,,9.0,,0.0,84.62
+360866,Mickaël Malsa,mickael-malsa,36268,Wydad Casablanca,6.6,1.0,,0.0,,0.0,86.3
+1632047,Younes Sakhi,younes-sakhi,297607,Jeunesse Sportive Soualem,6.6,1.0,,7.0,,0.0,74.69
+2148926,Chamss Eddine El Allaly,chamss-eddine-el-allaly,36268,Wydad Casablanca,6.6,0.0,,0.0,,0.0,0.0
+1597137,Mehdi Akoumi,mehdi-akoumi,55039,Hassania d'Agadir,6.6,0.0,,0.0,,0.0,0.0
+1008140,Banfa Sylla,banfa-sylla,118834,Union Touarga Sport,6.6,0.0,,0.0,,0.0,0.0
+1973173,Omar Farouk Roussafi,omar-farouk-roussafi,36268,Wydad Casablanca,6.6,0.0,,1.0,,0.0,0.0
+1401883,Joe Amian,joe-amian,55039,Hassania d'Agadir,6.6,0.0,,0.0,,0.0,0.0
+1923025,Oualid Alaoui,oualid-alaoui,55035,MAS de Fès,6.6,0.0,,0.0,,0.0,0.0
+2057114,Abdellah Boudlal,abdellah-boudlal,118834,Union Touarga Sport,6.6,0.0,,0.0,,0.0,0.0
+1919330,Hadi Idrissou,hadi-idrissou,55043,Difaâ Hassani El-Jadidi,6.6,0.0,,1.0,,0.0,82.0
+1924033,Zaid Kerrouch,zaid-kerrouch,55049,Moghreb Atlético Tetuán,6.6,0.0,,0.0,,0.0,0.0
+1459787,Renan Viana,renan-viana,36268,Wydad Casablanca,6.6,0.0,,0.0,,0.0,0.0
+919150,Hani Amamou,hani-amamou,41757,Raja Club Athletic,6.6,0.0,,0.0,,0.0,0.0
+2002332,Anouar Aalam,anouar-aalam,41757,Raja Club Athletic,6.6,0.0,,0.0,,0.0,68.97
+2004533,Mohamed Radouane,mohamed-radouane,55027,Fath Union Sport,6.6,0.0,,0.0,,0.0,0.0
+1984773,Houdaifa Jamaane,houdaifa-jamaane,55043,Difaâ Hassani El-Jadidi,6.6,0.0,,0.0,,0.0,0.0
+1213239,Mohamed Radid,mohamed-radid,118834,Union Touarga Sport,6.6,0.0,,2.0,,0.0,73.33
+1008878,Soufiane Barrouhou,soufiane-barrouhou,55025,CODM Meknès,6.6,0.0,,0.0,,0.0,84.44
+1919291,Akram El Wahabi,akram-el-wahabi,87180,Ittihad Tanger,6.6,0.0,,0.0,,0.0,69.23
+2022965,Zoubir Housni,zoubir-housni,118834,Union Touarga Sport,6.6,0.0,,2.0,,0.0,0.0
+919467,Mohamed Chennouf,mohamed-chennouf,297607,Jeunesse Sportive Soualem,6.6,0.0,,0.0,,0.0,87.56
+1866207,Hamza El Belghyty,hamza-el-belghyty,55039,Hassania d'Agadir,6.6,0.0,,2.0,,0.0,60.61
+1007531,Addam Bossu,addam-bossu,55043,Difaâ Hassani El-Jadidi,6.6,0.0,,4.0,,0.0,80.0
+1000439,Zakaria Driouech,zakaria-driouech,327830,SC Chabab Mohammédia,6.6,0.0,,4.0,,0.0,76.98
+1140842,Aziz Kaidi,aziz-kaidi,55039,Hassania d'Agadir,6.6,0.0,,8.0,,0.0,62.5
+1146872,Hicham Alaoui,hicham-alaoui,297607,Jeunesse Sportive Soualem,6.59,1.0,,7.0,,0.0,82.82
+1008599,Abdelilah Madkour,abdelilah-madkour,55049,Moghreb Atlético Tetuán,6.59,0.0,,19.0,,0.0,76.75
+1946556,Anas Samoudi,anas-samoudi,55037,Olympic Safi,6.59,0.0,,11.0,,0.0,63.27
+1947611,Hamza Moumadi,hamza-moumadi,55039,Hassania d'Agadir,6.59,0.0,,15.0,,0.0,69.27
+1919272,Abdellah Cherrad,abdellah-cherrad,297607,Jeunesse Sportive Soualem,6.59,1.0,,19.0,,0.0,76.55
+1401587,Achraf Berqi,achraf-berqi,118834,Union Touarga Sport,6.59,0.0,,1.0,,0.0,81.51
+1919320,Cheikh Omar Faye,cheikh-omar-faye,55025,CODM Meknès,6.59,1.0,,3.0,,0.0,73.47
+1107604,Amine El Ouaad,amine-el-ouaad,87180,Ittihad Tanger,6.58,0.0,,0.0,,0.0,79.84
+1010827,Moustapha Chichane,moustapha-chichane,55043,Difaâ Hassani El-Jadidi,6.58,0.0,,3.0,,0.0,83.73
+970588,Youssef Chaina,youssef-chaina,87180,Ittihad Tanger,6.58,1.0,,10.0,,0.0,81.1
+1013923,Abderrazak Rhazouat,abderrazak-rhazouat,80395,RS Berkane,6.58,0.0,,1.0,,0.0,83.44
+1110093,Abdoulaye Kanou,abdoulaye-kanou,55043,Difaâ Hassani El-Jadidi,6.58,0.0,,1.0,,0.0,64.29
+826571,Zakaria Hamadi,zakaria-hamadi,55035,MAS de Fès,6.58,0.0,,18.0,,1.0,79.05
+1401902,Youssef El Houari,youssef-el-houari,55049,Moghreb Atlético Tetuán,6.58,0.0,0.3,9.0,2.0,0.0,67.29
+914161,Federico Bikoro,federico-bikoro,41757,Raja Club Athletic,6.57,0.0,,12.0,,0.0,81.52
+1937706,Youness El Amali,youness-el-amali,55039,Hassania d'Agadir,6.57,0.0,,2.0,,0.0,60.71
+1923780,Yasser El Machouat,yasser-el-machouat,327830,SC Chabab Mohammédia,6.57,0.0,,0.0,,0.0,62.5
+281093,Soufyan Ahannach,soufyan-ahannach,118834,Union Touarga Sport,6.56,0.0,,4.0,,0.0,77.06
+1503256,Mouad Gari,mouad-gari,327830,SC Chabab Mohammédia,6.56,0.0,,14.0,,0.0,76.11
+1093011,Salaheddine Icharane,salaheddine-icharane,297607,Jeunesse Sportive Soualem,6.56,0.0,,4.0,,0.0,65.0
+1919274,Yassine Zraa,yassine-zraa,118834,Union Touarga Sport,6.55,0.0,,7.0,,0.0,71.22
+2146480,Ibrahim El Hajjami,ibrahim-el-hajjami,55025,CODM Meknès,6.55,0.0,,0.0,,0.0,0.0
+2023858,Mustapha Hbil,mustapha-hbil,327830,SC Chabab Mohammédia,6.55,0.0,,0.0,,0.0,89.47
+2012693,Aniss Zouagui,aniss-zouagui,55039,Hassania d'Agadir,6.55,0.0,,0.0,,0.0,0.0
+1470902,Ilyas El Khabchi,ilyas-el-khabchi,55025,CODM Meknès,6.55,0.0,,6.0,,0.0,77.03
+1177186,Anas Soufeir,anas-soufeir,55037,Olympic Safi,6.55,0.0,,5.0,,0.0,75.45
+2013060,Mohamed Moujahid,mohamed-moujahid,87180,Ittihad Tanger,6.55,0.0,,4.0,,0.0,61.9
+1919297,Oussama Benchchaoui,oussama-benchchaoui,55043,Difaâ Hassani El-Jadidi,6.55,0.0,,6.0,,0.0,77.94
+1011278,Reda Mhannaoui,reda-mhannaoui,55035,MAS de Fès,6.54,0.0,,20.0,,2.0,72.4
+1941265,Akram Mejdoub,akram-mejdoub,55049,Moghreb Atlético Tetuán,6.54,0.0,,1.0,,0.0,76.14
+939864,Ismael Benktib,ismael-benktib,55049,Moghreb Atlético Tetuán,6.54,1.0,,11.0,,1.0,89.96
+1548496,Jaafar  By,jaafar-by,327830,SC Chabab Mohammédia,6.54,1.0,,7.0,,0.0,71.3
+373896,Zaid Krouch,zaid-krouch,55049,Moghreb Atlético Tetuán,6.54,0.0,,0.0,,0.0,84.85
+1008488,Junior Mbele,junior-mbele,55039,Hassania d'Agadir,6.54,1.0,,8.0,,0.0,77.27
+919542,Yassine El Ghazouani,yassine-el-ghazouani,55049,Moghreb Atlético Tetuán,6.53,0.0,,1.0,,0.0,84.13
+1533732,Ouail el Merabet,ouail-el-merabet,55049,Moghreb Atlético Tetuán,6.53,0.0,,0.0,,0.0,85.42
+1459757,Salaheddine Cheffani,salaheddine-cheffani,87180,Ittihad Tanger,6.53,0.0,,1.0,,0.0,50.0
+2046074,Taha Ilyass,taha-ilyass,55049,Moghreb Atlético Tetuán,6.53,0.0,,0.0,,0.0,53.85
+1973335,Diae Eddine Eddaoudi,diae-eddine-eddaoudi,55049,Moghreb Atlético Tetuán,6.53,0.0,,23.0,,0.0,71.69
+970808,Ismail Harache,ismail-harache,55035,MAS de Fès,6.53,2.0,,36.0,,0.0,62.67
+359282,Yassine Jbira,yassine-jbira,55025,CODM Meknès,6.53,0.0,,4.0,,0.0,68.75
+919514,Nouaman Aarab,nouaman-aarab,87180,Ittihad Tanger,6.53,0.0,,5.0,,1.0,68.26
+1924030,Dades Mohamed,dades-mohamed,55049,Moghreb Atlético Tetuán,6.53,0.0,,6.0,,0.0,79.46
+1140810,Abdelkarim Ialioune,abdelkarim-ialioune,55039,Hassania d'Agadir,6.52,0.0,,1.0,,0.0,80.85
+1923777,El Mehdi El Ghaz,el-mehdi-el-ghaz,327830,SC Chabab Mohammédia,6.52,0.0,,7.0,,0.0,77.65
+1461412,Hamza Bahaj,hamza-bahaj,55025,CODM Meknès,6.51,0.0,,1.0,,0.0,67.27
+1525856,Souhayl Zamrat,souhayl-zamrat,118834,Union Touarga Sport,6.51,0.0,,2.0,,0.0,74.19
+2121452,Zakaria Allaoui,zakaria-allaoui,55035,MAS de Fès,6.5,0.0,,0.0,,0.0,0.0
+1140963,Lahcen Gourbi,lahcen-gourbi,55035,MAS de Fès,6.5,0.0,,0.0,,0.0,75.0
+919722,Yassine Dahbi,yassine-dahbi,55043,Difaâ Hassani El-Jadidi,6.5,0.0,,0.0,,0.0,0.0
+1919329,Ismail Ezzahi,ismail-ezzahi,263373,Renaissance Zemamra,6.5,0.0,,0.0,,0.0,76.0
+1919287,Ahmed Harboul,ahmed-harboul,55043,Difaâ Hassani El-Jadidi,6.5,0.0,,0.0,,0.0,0.0
+2142520,Mohammed Indam,mohammed-indam,327830,SC Chabab Mohammédia,6.5,0.0,,0.0,,0.0,0.0
+1924031,Aziz Essaadi,aziz-essaadi,55049,Moghreb Atlético Tetuán,6.5,0.0,,2.0,,0.0,80.0
+2007230,Yahya Zekri,yahya-zekri,87180,Ittihad Tanger,6.5,0.0,,0.0,,0.0,0.0
+2012692,Oussama El Karouaoui,oussama-el-karouaoui,55039,Hassania d'Agadir,6.5,0.0,,0.0,,0.0,0.0
+2143814,Adnan  Hichy,adnan-hichy,327830,SC Chabab Mohammédia,6.5,0.0,,0.0,,0.0,0.0
+2007231,Louay El Moussaoui,louay-el-moussaoui,87180,Ittihad Tanger,6.5,0.0,,1.0,,0.0,0.0
+1140915,Yassine Belfadla,yassine-belfadla,55037,Olympic Safi,6.5,0.0,,0.0,,0.0,0.0
+1919282,Adil El Yousfi,adil-el-yousfi,297607,Jeunesse Sportive Soualem,6.5,0.0,,0.0,,0.0,0.0
+2140735,Younes Essalaoui,younes-essalaoui,55043,Difaâ Hassani El-Jadidi,6.5,0.0,,1.0,,0.0,0.0
+1919280,Adam Chakir,adam-chakir,118834,Union Touarga Sport,6.5,0.0,,0.0,,0.0,90.48
+1140866,Ilyas El Qaada,ilyas-el-qaada,55039,Hassania d'Agadir,6.5,0.0,,2.0,,0.0,75.24
+1975820,Hamza Houmaimssa,hamza-houmaimssa,327830,SC Chabab Mohammédia,6.49,0.0,,0.0,,0.0,82.77
+1626588,Mehdi Dabdoubi,mehdi-dabdoubi,327830,SC Chabab Mohammédia,6.49,0.0,,2.0,,1.0,78.33
+1919308,Mohamed Gharmal ,mohamed-gharmal,55025,CODM Meknès,6.48,0.0,,0.0,,0.0,78.38
+1923779,Walid Es Saqy,walid-es-saqy,327830,SC Chabab Mohammédia,6.48,0.0,,4.0,,0.0,75.48
+1919290,Soufiane Abaaziz,soufiane-abaaziz,55043,Difaâ Hassani El-Jadidi,6.47,0.0,,12.0,,0.0,75.06
+1182107,Abraham Wayo,abraham-wayo,55049,Moghreb Atlético Tetuán,6.47,0.0,,22.0,,0.0,70.43
+971041,Mohamed El Jaaouani,mohamed-el-jaaouani,55025,CODM Meknès,6.47,0.0,,0.0,,0.0,84.62
+882322,Badr Gaddarine,badr-gaddarine,87180,Ittihad Tanger,6.47,0.0,,1.0,,0.0,84.72
+1413860,Tiago Lopes,tiago-lopes,118834,Union Touarga Sport,6.47,0.0,,0.0,,0.0,82.35
+1564087,Adil  Jeddaoui,adil-jeddaoui,263373,Renaissance Zemamra,6.47,0.0,,1.0,,0.0,75.0
+1548495,Mohamed  Archidi,mohamed-archidi,327830,SC Chabab Mohammédia,6.47,0.0,,7.0,,0.0,62.59
+1199422,Pedrinho,pedrinho,36268,Wydad Casablanca,6.46,0.0,,1.0,,0.0,86.49
+1547062,Adnane Bentagana,adnane-bentagana,297607,Jeunesse Sportive Soualem,6.46,0.0,,0.0,,0.0,74.29
+1545329,Bernard Obounou,bernard-obounou,263373,Renaissance Zemamra,6.45,0.0,,1.0,,0.0,58.33
+2050110,Azzedine Laftah,azzedine-laftah,41757,Raja Club Athletic,6.45,0.0,,0.0,,0.0,81.25
+1545312,Walid Nekaila,walid-nekaila,327830,SC Chabab Mohammédia,6.45,0.0,,9.0,,0.0,74.72
+1392556,Youness Akharraz,youness-akharraz,118834,Union Touarga Sport,6.45,0.0,,18.0,,0.0,73.43
+1922498,Redouane Marmouch,redouane-marmouch,327830,SC Chabab Mohammédia,6.44,0.0,,3.0,,0.0,83.33
+1923147,Rayan Azouagh,rayan-azouagh,87180,Ittihad Tanger,6.44,0.0,,0.0,,0.0,50.0
+2053850,Adam Darazi,adama-darazi,87180,Ittihad Tanger,6.43,0.0,,0.0,,0.0,0.0
+2046419,Akram Haimoud,akram-haimoud,55039,Hassania d'Agadir,6.43,0.0,,1.0,,0.0,73.13
+1924082,Ayoub Lourhraz,ayoub-lourhraz,55025,CODM Meknès,6.43,0.0,,4.0,,0.0,83.65
+1632065,Oussama Essafi,oussama-essafi,297607,Jeunesse Sportive Soualem,6.43,0.0,,0.0,,0.0,77.78
+1155867,Mohammed El Ouardi,mohammed-el-ouardi,55025,CODM Meknès,6.42,0.0,0.0,1.0,0.0,0.0,76.6
+2150417,Adam   Brika,adam-brika,55035,MAS de Fès,6.4,0.0,,0.0,,0.0,0.0
+1585741,Monir El Habach,monir-el-habach,36268,Wydad Casablanca,6.4,0.0,,0.0,,0.0,0.0
+1474715,Mohssine Bourika,mohssine-bourika,55035,MAS de Fès,6.4,0.0,,0.0,,0.0,50.0
+1561842,Mansour Nachet,mansour-nachet,41757,Raja Club Athletic,6.4,0.0,,0.0,,0.0,0.0
+1867116,Tsoumou Likibi,tsoumou-likibi,55025,CODM Meknès,6.4,0.0,,1.0,,0.0,0.0
+2050924,Moussa Kote,moussa-kote,87180,Ittihad Tanger,6.4,0.0,,0.0,,0.0,0.0
+1920270,Ayoub Ait Wahmane,ayoub-ait-wahmane,55043,Difaâ Hassani El-Jadidi,6.4,0.0,,0.0,,0.0,66.67
+2029871,Mohamed Mekkaoui,mohamed-mekkaoui,327830,SC Chabab Mohammédia,6.4,0.0,,0.0,,0.0,0.0
+1924034,Zaitouni Mohamed,zaitouni-mohamed,55049,Moghreb Atlético Tetuán,6.4,0.0,,0.0,,0.0,0.0
+1875407,Mohamed Mhamdi,mohamed-mhamdi,55049,Moghreb Atlético Tetuán,6.4,0.0,,0.0,,0.0,0.0
+830513,Yasser Balde,yasser-balde,41757,Raja Club Athletic,6.4,0.0,,0.0,,0.0,83.82
+1799533,Mohamed Amine Ouakaf,mohamed-amine-ouakaf,55035,MAS de Fès,6.4,0.0,,0.0,,0.0,70.0
+2045636,Mostafa Marroun,mostafa-marroun,55025,CODM Meknès,6.4,0.0,,0.0,,0.0,72.34
+1424464,Ismail Laghzali,ismail-laghzali,55035,MAS de Fès,6.4,0.0,,0.0,,0.0,72.5
+1525325,Youness Moukhlis,youness-moukhlis,297607,Jeunesse Sportive Soualem,6.4,0.0,,2.0,,0.0,84.62
+1800535,El Mehdi El Haddouni,el-mehdi-el-haddouni,327830,SC Chabab Mohammédia,6.4,0.0,,0.0,,0.0,76.47
+1799905,Yasser Ezzine,yasser-ezzine,327830,SC Chabab Mohammédia,6.4,0.0,,11.0,,1.0,68.6
+1845545,Mohammed El Jadidi,mohammed-el-jadidi,327830,SC Chabab Mohammédia,6.37,0.0,,0.0,,0.0,93.75
+930851,Siriki Sanogo,siriki-sanogo,87180,Ittihad Tanger,6.35,0.0,,2.0,,0.0,90.48
+2029640,Oussama Msahli,oussama-msahli,55025,CODM Meknès,6.35,0.0,,2.0,,0.0,50.0
+1545315,Mohamed Malik,mohamed-malik,327830,SC Chabab Mohammédia,6.3,0.0,,3.0,,0.0,81.18
+2142026,Rayane Mahtou,rayane-mahtou,36268,Wydad Casablanca,6.3,0.0,,0.0,,0.0,90.0
+1153320,Mehdi El Khamlichi,mehdi-el-khamlichi,55049,Moghreb Atlético Tetuán,6.3,0.0,,0.0,,0.0,0.0
+2073090,Rayane Bouguadir,rayane-bouguadir,297607,Jeunesse Sportive Soualem,6.3,0.0,,0.0,,0.0,0.0
+1924035,Hamza Boutass,hamza-boutass,55049,Moghreb Atlético Tetuán,6.3,0.0,,0.0,,0.0,53.85
+1922411,Walid Outichat,walid-outichat,327830,SC Chabab Mohammédia,6.3,0.0,,0.0,,0.0,73.63
+2143795,Akram Khlifi,akram-khlifi,55035,MAS de Fès,6.3,0.0,0.0,0.0,0.0,0.0,75.0
+2050911,Yahia Laamech,yahia-laamech,297607,Jeunesse Sportive Soualem,6.25,0.0,,0.0,,0.0,81.08
+1937707,Ayoub Kazbat,ayoub-kazbat,55039,Hassania d'Agadir,6.2,0.0,,0.0,,0.0,0.0
+1919309,Mohamed Hadda,mohamed-hadda,55025,CODM Meknès,6.16,0.0,,1.0,,0.0,80.45
+1920271,Adam Baallal,adam-baallal,118834,Union Touarga Sport,6.15,0.0,,0.0,,0.0,61.54
+1140849,Charki El Bahri,charki-el-bahri,55037,Olympic Safi,6.13,1.0,,0.0,,0.0,76.67
+2022156,Saad Farid,saad-farid,41757,Raja Club Athletic,6.1,0.0,,0.0,,0.0,0.0
+1533731,Mohamed Yassine Abouzra,mohamed-yassine-abouzra,55043,Difaâ Hassani El-Jadidi,6.1,0.0,,0.0,,0.0,70.73
+1923024,Othmane Sbika,othmane-sbika,55035,MAS de Fès,6.1,0.0,,0.0,,0.0,60.0
+1952097,Mehdi Eshabi,mehdi-eshabi,55037,Olympic Safi,,,,0.0,,,80.0
+2161839,Mohamed Adjar,mohamed-adjar,204299,Olympique Dcheira,,1.0,,,,0.0,
+1525321,Soufiane Jazouli,soufiane-jazouli,204299,Olympique Dcheira,,1.0,,,,0.0,
+2161830,Amine Aghou,amine-aghou,204299,Olympique Dcheira,,1.0,,,,0.0,
+1464128,Cheick Keita,cheick-keita,204299,Olympique Dcheira,,0.0,,,,1.0,
+2161847,Brahim Amzili,brahim-amzili,204299,Olympique Dcheira,,0.0,,,,1.0,
+1489938,Samuel Obeng,samuel-obeng,36268,Wydad Casablanca,,0.0,,,,1.0,
+2127597,Ayoub Ait Khassou,ayoub-ait-khassou,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1401965,Anwar Oussarhan,oussarhan,204299,Olympique Dcheira,,0.0,,,,0.0,
+1387222,Hamza Janan Allah,hamza-janan-allah,204299,Olympique Dcheira,,0.0,,,,0.0,
+1525286,Abdellah Ait Brayim,abdellah-ait-brahim,55039,Hassania d'Agadir,,0.0,,,,0.0,
+2161828,Ameur Aboujemaa,ameur-aboujemaa,204299,Olympique Dcheira,,0.0,,,,0.0,
+1461681,Nizar Guessous,nizar-guessous,55035,MAS de Fès,,0.0,,,,0.0,
+1418569,Mahmoud El Kayssoumi,mahmoud-el-kayssoumi,80393,Raja Beni Mellal,,0.0,,,,0.0,
+982608,Drissa Diarra,drissa-diarra,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1920160,Hiudaifa Jamaane,hiudaifa-jamaane,55043,Difaâ Hassani El-Jadidi,,0.0,,,,0.0,
+2002659,Kankonde Tshisungu,kankonde-tshisungu,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2045584,Yassine Senhaji,yassine-senhaji,55025,CODM Meknès,,0.0,,,,0.0,
+1140863,Mohssine Abba,mohssine-abba,204299,Olympique Dcheira,,0.0,,,,0.0,
+1004432,Yassine Boughaz,boughaz-yassine,204299,Olympique Dcheira,,0.0,,,,0.0,
+1923105,Reda Abardi,reda-abardi,263373,Renaissance Zemamra,,0.0,,,,0.0,
+2119658,Ayman Echchennikh,ayman-echchennikh,55027,Fath Union Sport,,0.0,,,,0.0,
+2012060,Anis Zouagui,anis-zouagui,55039,Hassania d'Agadir,,0.0,,,,0.0,
+1922406,Tumisang Orebonye,tumisang-orebonye,24394,AS FAR Rabat,,0.0,,,,0.0,
+2003724,Mohamed Sadil,mohamed-sadil,80395,RS Berkane,,0.0,,,,0.0,
+2127834,Salah El Ayoubi,salah-el-ayoubi,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+2161840,Redouane Oubidar,redouane-oubidar,204299,Olympique Dcheira,,0.0,,,,0.0,
+1189854,Ziendine Brighet,ziendine-brighet,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1655432,Ayoub Aloum,ayoub-aloum,55035,MAS de Fès,,0.0,,,,0.0,
+2161824,Abdullah Mani,abdullah-mani,204299,Olympique Dcheira,,0.0,,,,0.0,
+2161829,Youssef Fahmi,youssef-fahmi,204299,Olympique Dcheira,,0.0,,,,0.0,
+1140907,Amjad Sabile,amjad-sabile,55037,Olympic Safi,,0.0,,0.0,,0.0,0.0
+1937630,Ayman Hassani,ayman-hassani,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+2008180,Mouad Frizit,mouad-frizit,87180,Ittihad Tanger,,0.0,,0.0,,0.0,0.0
+2033439,Imad Errahouli,imad-errahouli,55049,Moghreb Atlético Tetuán,,0.0,,,,0.0,
+1845593,Walid Otishat,walid-otishat,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+1923951,Ali El  Moussia,ali-el-moussia,55039,Hassania d'Agadir,,0.0,,0.0,,0.0,0.0
+1874627,Emmanuel Obounou,emmanuel-obounou,263373,Renaissance Zemamra,,0.0,,,,0.0,
+2073789,Habil,habil,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+2073793,Jarmoni,jarmoni,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+2127596,Niokhor Ba,niokhor-ba,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1632064,Hamza Beloued,hamza-beloued,297607,Jeunesse Sportive Soualem,,0.0,,,,0.0,
+1941276,Mohammed Loumim,mohammed-loumim,55035,MAS de Fès,,0.0,,,,0.0,
+2162509,Hassan Boulaabar,hassan-boulaabar,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2162533,Ilyass Aouadi,ilyass-aouadi,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1868945,Hamza Elbelghity,hamza-elbelghity,55039,Hassania d'Agadir,,0.0,,,,0.0,
+2166457,Kamal Saalhi,kamal-saalhi,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1163255,Laaz,laaz,87180,Ittihad Tanger,,0.0,,,,0.0,
+2127595,Kamal Salhi,kamal-salhi,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1140802,Yahia Laamach,yahia-laamach,297607,Jeunesse Sportive Soualem,,0.0,,,,0.0,
+1140950,Hamza Lazaar,hamza-lazaar,55037,Olympic Safi,,0.0,,0.0,,0.0,0.0
+1800469,Yasser Al-Zein,yasser-al-zein,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+1805630,Aymane Foulat,aymane-foulat,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+2045181,Yasser Laasri,yasser-laasri,327830,SC Chabab Mohammédia,,0.0,,,,0.0,
+2013538,Jaouad Rhabra,jaouad-rhabra,87180,Ittihad Tanger,,0.0,,2.0,,0.0,72.0
+2161833,Ayoub Benaadi ,ayoub-benaadi,204299,Olympique Dcheira,,0.0,,,,0.0,
+2161843,Mohamed Idar,mohamed-idar,204299,Olympique Dcheira,,0.0,,,,0.0,
+2161836,Ayoub El Khaffi,ayoub-el-khaffi,204299,Olympique Dcheira,,0.0,,,,0.0,
+2161834,Brahim Ait Hammou,brahim-ait-hammou,204299,Olympique Dcheira,,0.0,,,,0.0,
+1392544,Abdessamad Ammal,abdessamad-ammal,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2127598,Mohamed Hilali,mohamed-hilali,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2127600,Reda Ech-Chgraoui,reda-ech-chgraoui,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2161841,Hamza Saoud,hamza-saoud,204299,Olympique Dcheira,,0.0,,,,0.0,
+1140914,Ayoub Adila,ayoub-adila,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1140956,Mouhcine Boumlik,mouhcine-boumlik,204299,Olympique Dcheira,,0.0,,,,0.0,
+2127605,Abdelhai Nahli,abdelhai-nahli,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2127603,Amine Ghanimi,amine-ghanimi,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2127606,Ayoub Ouallou,ayoub-ouallou,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2127607,Soufiane Lotfi,soufiane-lotfi,80393,Raja Beni Mellal,,0.0,,,,0.0,
+2162512,Zakaria Zarouali,zakaria-zarouali,80393,Raja Beni Mellal,,0.0,,,,0.0,
+1017344,Mehdi Bellarabi,mehdi-bellarabi,297607,Jeunesse Sportive Soualem,,0.0,,,,0.0,
+2051799,Ayman Mellali,ayman-mellali,263373,Renaissance Zemamra,,0.0,,0.0,,0.0,0.0
+1948502,Abdullah Sharad,abdullah-sharad,297607,Jeunesse Sportive Soualem,,0.0,,,,0.0,
+1972600,Diae-Eddine Eddaoudi,diae-eddine-eddaoudi,55049,Moghreb Atlético Tetuán,,0.0,,,,0.0,
