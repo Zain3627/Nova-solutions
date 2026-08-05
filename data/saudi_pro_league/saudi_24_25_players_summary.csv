@@ -1,0 +1,511 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+160893,Salem Al-Dawsari,salem-al-dawsari,21895,Al-Hilal,7.93,15,,69,49,15,82.24
+551772,Malcom,malcom,21895,Al-Hilal,7.76,9,,48,8,10,89.7
+3306,Karim Benzema,karim-benzema,34315,Al-Ittihad,7.74,21,,29,14,9,81.91
+280955,Rúben Neves,ruben-neves,21895,Al-Hilal,7.72,1,,7,47,8,91.75
+1106234,Musab Al Juwayr,musab-fahd-aljuwayr,34313,Al-Shabab,7.63,5,,32,67,10,86.48
+789438,Cristian Guanca,cristian-guanca,34313,Al-Shabab,7.61,12,,20,31,11,89.12
+880790,Mourad Batna,mourad-batna,56023,Al-Fateh,7.61,13,,71,16,6,84.23
+115577,Kostas Fortounis,kostas-fortounis,167228,Al-Khaleej,7.6,9,,75,25,5,81.12
+750,Cristiano Ronaldo,cristiano-ronaldo,23400,Al-Nassr,7.6,25,,17,6,3,82.1
+312110,Alex Telles,alex-telles,23400,Al-Nassr,7.6,0,,2,5,0,92.04
+331447,Sergej Milinković-Savić,sergej-milinkovic-savic,21895,Al-Hilal,7.58,12,,24,43,6,81.93
+920497,Mohammed Al-Yami,mohammed-al-rubaie,21895,Al-Hilal,7.55,0,,0,0,0,69.77
+158213,Riyad Mahrez,riyad-mahrez,34469,Al-Ahli,7.55,8,,25,34,10,85.2
+108800,Marcelo Brozović,marcelo-brozovic,23400,Al-Nassr,7.55,2,,12,57,5,90.75
+249061,Lucas Zelarayán,lucas-zelarayan,56023,Al-Fateh,7.55,1,,36,12,2,81.51
+217704,Sadio Mané,sadio-mane,23400,Al-Nassr,7.53,14,,49,43,11,80.4
+916176,Cameron Puertas,cameron-puertas,56027,Al-Qadsiah,7.53,3,,38,83,9,85.44
+843114,Julián Quiñones,julian-quinones,56027,Al-Qadsiah,7.53,20,,36,16,5,76.69
+244801,Otávio,otavio,23400,Al-Nassr,7.52,1,,31,57,5,86.81
+818749,Ahmed Al-Kassar,ahmed-al-kassar,56027,Al-Qadsiah,7.5,0,,0,0,0,83.33
+869271,Rakan Najjar,rakan-najjar,336456,Al-Okhdood,7.5,0,,0,1,0,61.82
+192144,Aleksandar Mitrović,aleksandar-mitrovic,21895,Al-Hilal,7.48,19,,8,13,2,74.73
+859767,Alex Collado,alex-collado,269199,Al-Kholood,7.48,5,,61,62,2,83.5
+855817,Moussa Diaby,moussa-diaby,34315,Al-Ittihad,7.47,5,,39,13,14,84.44
+361798,Steven Bergwijn,steven-bergwijn,34315,Al-Ittihad,7.47,13,,39,23,7,89.28
+234148,N'Golo Kanté,n-golo-kante,34315,Al-Ittihad,7.47,4,,50,76,3,90.48
+883367,Mailson,mailson,56021,Al-Taawoun,7.44,0,,0,0,0,70.7
+51498,Pierre-Emerick Aubameyang,pierre-emerick-aubameyang,56027,Al-Qadsiah,7.43,17,,22,9,3,77.07
+290927,Ivan Toney,ivan-toney,34469,Al-Ahli,7.43,23,,12,19,4,71.88
+138892,João Cancelo,joao-cancelo,21895,Al-Hilal,7.42,0,,53,55,5,85.25
+329245,Talisca,talisca,23400,Al-Nassr,7.4,6,,6,6,0,81.09
+818123,Waled Al Enazi,waled-al-enazi,56023,Al-Fateh,7.4,0,,0,0,0,69.23
+342909,Georges-Kévin N'Koudou,georges-kevin-nkoudou,204126,Damac FC,7.39,13,,78,26,3,79.75
+851150,Renan Lodi,renan-lodi,21895,Al-Hilal,7.39,3,,12,40,7,86.29
+1857290,Hamed Al-Shanqity,hamed-al-shanqity,34315,Al-Ittihad,7.37,0,,0,0,0,65.45
+826961,Abderazak Hamdallah,abderazak-hamdallah,34313,Al-Shabab,7.36,21,,26,12,2,80.48
+79413,Milan Borjan,milan-borjan,168088,Al-Riyadh,7.35,0,,3,1,0,59.85
+893191,Mohamed Fouzair,mohamed-fouzair,56031,Al Raed,7.35,2,,11,16,0,70.59
+309154,Amir Saâyoud,amir-saayoud,56031,Al Raed,7.34,8,,66,11,7,78.21
+1014518,Nawaf Al-Aqidi,nawaf-al-aqidi,56023,Al-Fateh,7.33,0,,0,1,1,70.92
+1396009,Kaio César,kaio-cesar,21895,Al-Hilal,7.32,3,,23,14,3,82.8
+972585,Juan Pedroza,juan-pedroza,336456,Al-Okhdood,7.31,1,,24,93,2,84.14
+850035,Luiz Felipe,luiz-felipe,34315,Al-Ittihad,7.3,0,,0,0,0,92.31
+143697,Roberto Firmino,roberto-firmino,34469,Al-Ahli,7.29,5,,22,21,3,79.91
+143786,Fayçal Fajr,faycal-fajr,56021,Al-Taawoun,7.28,0,,14,42,6,87.37
+1089231,Tozé,toze,168088,Al-Riyadh,7.28,5,,24,63,4,86.8
+358694,Marek Rodák,marek-rodak,34318,Al-Ettifaq,7.27,0,,2,2,0,71.44
+842745,Faïz Selemani,faiz-selemani,168088,Al-Riyadh,7.27,6,,48,37,4,75.42
+868576,Rafi Al Ruwaili,rafi-al-ruwaili,114259,Al Orobah,7.27,0,,0,0,0,40.85
+846081,Houssem Aouar,houssem-aouar,34315,Al-Ittihad,7.26,12,,59,32,4,83.72
+308764,Daniel Podence,daniel-podence,34313,Al-Shabab,7.25,2,,23,15,7,78.08
+888949,Roger Ibañez,roger-ibanez,34469,Al-Ahli,7.25,5,,13,66,1,86.32
+1003012,Ezequiel Fernández,ezequiel-fernandez,56027,Al-Qadsiah,7.25,1,,24,78,3,89.68
+807400,Abdelhamid Sabiri,abdelhamid-sabiri,56021,Al-Taawoun,7.23,2,,17,17,1,83.25
+1804369,Mohammed Abu Al-Shamat,mohammed-waheeb-abu-al-shamat,56027,Al-Qadsiah,7.23,1,,48,79,6,76.3
+791575,Omar Al Soma,omar-al-soma,114259,Al Orobah,7.21,10,,10,5,2,67.75
+862194,Zaydou Youssouf,zaydou-youssouf,56023,Al-Fateh,7.21,0,,22,55,1,85.47
+108673,Nicolae Stanciu,nicolae-stanciu,204126,Damac FC,7.2,5,,18,34,7,81.38
+986400,Nawaf Boushal,nawaf-boushal,23400,Al-Nassr,7.2,1,,38,83,6,87.62
+974577,Jhon Durán,jhon-duran,23400,Al-Nassr,7.2,8,,6,13,0,76.62
+788348,Ashraf El Mahdioui,ashraf-el-mahdioui,56021,Al-Taawoun,7.2,0,,10,62,0,92.88
+153964,Alejandro Pozuelo,alejandro-pozuelo,168094,Al-Fayha,7.2,4,,40,25,4,81.57
+925459,Abdulquddus Atiah,abdulquddus-atiah,56021,Al-Taawoun,7.19,0,,2,2,0,72.77
+182001,Yannick Carrasco,yannick-carrasco,34313,Al-Shabab,7.19,2,,25,8,4,84.33
+965177,Turki Alammar,turki-alammar,56027,Al-Qadsiah,7.19,4,,49,23,6,86.98
+1006089,Mario Mitaj,mitaj-mario,34315,Al-Ittihad,7.19,1,,19,36,2,91.72
+927649,Jackson Muleka,jackson-muleka,269199,Al-Kholood,7.18,7,,43,26,5,75.33
+919719,Karim El Berkaoui,el-berkaoui-karim,56031,Al Raed,7.18,11,,10,12,0,76.46
+70987,Koen Casteels,koen-casteels,56027,Al-Qadsiah,7.18,0,,0,1,0,79.11
+242054,Vitinho,vitinho,34318,Al-Ettifaq,7.17,6,,23,47,7,81.85
+916680,Musa Barrow,musa-barrow,56021,Al-Taawoun,7.17,13,,39,24,3,84.72
+336813,Wesley Hoedt,wesley-hoedt,34313,Al-Shabab,7.17,5,,2,45,1,89.71
+845754,Wenderson Galeno,wenderson-galeno,34469,Al-Ahli,7.16,3,,22,11,2,70.45
+118159,Abdullah Al Mayouf,abdullah-al-mayouf,34313,Al-Shabab,7.16,0,,1,1,0,71.76
+243585,Fabinho,fabinho,34315,Al-Ittihad,7.15,2,,13,84,1,92.88
+851262,Myziane Maolida,myziane-maolida,269199,Al-Kholood,7.15,15,,97,24,0,84.63
+1007546,Yousri Bouzok,yousri-bouzok,56031,Al Raed,7.15,1,,22,24,6,81.4
+873364,Mohammed Mazyad Alshammari,mohammed-mazyad-alshammari,269199,Al-Kholood,7.15,0,,0,0,0,63.27
+872275,Abdulrahman Alobud,abdulrahman-alobud,34315,Al-Ittihad,7.15,7,,15,38,7,80.38
+589620,Nahitan Nández,nahitan-nandez,56027,Al-Qadsiah,7.14,0,,30,73,5,82.72
+917035,Ali Majrashi,ali-majrashi,34469,Al-Ahli,7.14,0,,29,95,0,76.69
+845609,Sofiane Bendebka,sofiane-bendebka,56023,Al-Fateh,7.13,12,,13,50,1,83.25
+1519331,Mohammed Al Shwirekh,mohammed-al-shwirekh,34313,Al-Shabab,7.13,4,,3,26,0,84.74
+63952,Ibrahim Šehić,ibrahim-sehic,167228,Al-Khaleej,7.13,0,,0,1,0,76.17
+945063,Mohamed Simakan,mohamed-simakan,23400,Al-Nassr,7.13,1,,10,37,1,91.36
+1047227,Marcos Leonardo,marcos-leonardo,21895,Al-Hilal,7.13,17,,8,3,2,72.07
+847714,Marwane Saadane,marwane-saadane,56023,Al-Fateh,7.13,0,,3,37,0,83.7
+83551,Florin Niță,florin-nita,204126,Damac FC,7.12,0,,0,3,0,66.95
+796723,Matías Vargas,matias-vargas,56023,Al-Fateh,7.12,7,,17,29,4,77.15
+22126,Georginio Wijnaldum,georginio-wijnaldum,34318,Al-Ettifaq,7.11,14,,24,20,4,89.53
+886041,Orlando Mosquera,orlando-mosquera,168094,Al-Fayha,7.11,0,,1,1,1,67.21
+99545,Danilo Pereira,danilo-pereira,34315,Al-Ittihad,7.11,2,,10,21,0,93.95
+1185617,Alexsander,alexsander,34469,Al-Ahli,7.11,0,,19,22,1,87.85
+1016104,Bento,bento,23400,Al-Nassr,7.11,0,,3,1,0,80.0
+537018,Álvaro Medrán,alvaro-medran,34318,Al-Ettifaq,7.1,2,,23,40,4,83.83
+1633326,Adil Khadhari,khadhari-adal-adal-mohammed,32994,Al Wehda,7.1,1,,0,0,0,100.0
+791416,Mohammed Al-Owais,mohammed-al-owais,21895,Al-Hilal,7.1,0,,0,0,0,78.95
+791578,Saleh Al-Amri,saleh-al-amri,56031,Al Raed,7.1,6,,31,38,3,83.19
+806968,Merih Demiral,merih-demiral,34469,Al-Ahli,7.1,1,,4,34,2,86.85
+552678,Mohammed Petros,petros,336456,Al-Okhdood,7.09,0,,9,54,1,89.13
+1086455,Ângelo,angelo,23400,Al-Nassr,7.09,1,,42,33,5,79.71
+818218,Christian Bassogog,christian-bassogog,336456,Al-Okhdood,7.09,6,,78,25,1,80.8
+830126,Sultan Al-Ghannam,sultan-al-ghannam,23400,Al-Nassr,7.09,2,,18,26,1,87.05
+1010505,Gabri Veiga,gabri-veiga,34469,Al-Ahli,7.08,7,,26,49,5,78.95
+69404,Nacho Fernández,nacho-fernandez,56027,Al-Qadsiah,7.08,0,,3,22,1,93.32
+190139,Rebocho,rebocho,167228,Al-Khaleej,7.08,0,,37,52,7,86.77
+36784,Giacomo Bonaventura,giacomo-bonaventura,34313,Al-Shabab,7.08,2,,28,20,2,87.91
+1130539,Ayman Yahya,ayman-yahya,23400,Al-Nassr,7.08,5,,7,31,3,84.3
+149734,Aymeric Laporte,aymeric-laporte,23400,Al-Nassr,7.08,4,,2,17,0,93.38
+344243,Roger Martínez,roger-martinez,56021,Al-Taawoun,7.07,5,,27,8,2,76.33
+188107,Predrag Rajković,predrag-rajkovic,34315,Al-Ittihad,7.07,0,,0,2,0,77.88
+359226,Franck Kessié,franck-kessie,34469,Al-Ahli,7.07,2,,19,37,5,85.64
+1797651,Saad Haqawi,saad-haqawi,23400,Al-Nassr,7.07,0,,0,4,1,78.57
+818674,Abdullah Al-Salem,abdullah-al-salem,167228,Al-Khaleej,7.06,10,,10,14,4,78.13
+1089085,Raed Ozaybi,ozaybi-raed,167228,Al-Khaleej,7.06,0,,0,0,0,71.35
+220113,Craig Goodwin,craig-goodwin,32994,Al Wehda,7.05,6,,15,20,7,80.07
+861003,Paulo Vítor,paulo-vitor,336456,Al-Okhdood,7.05,0,,4,0,0,58.44
+845074,Edouard Mendy,edouard-mendy,34469,Al-Ahli,7.05,0,,0,0,1,80.8
+933780,Aliou Dieng,aliou-dieng,269199,Al-Kholood,7.04,3,,29,49,0,86.87
+1134250,Saad Al-Mousa,saad-al-mousa,34315,Al-Ittihad,7.03,0,,5,37,0,92.54
+1210554,Mohammed Hamad Alqahtani,alqahtani-mohammed-hamad,21895,Al-Hilal,7.02,2,,34,11,0,89.66
+539948,Damion Lowe,damion-lowe,336456,Al-Okhdood,7.01,0,,4,34,1,81.08
+876626,Fashion Sakala,fashion-sakala,168094,Al-Fayha,7.01,8,,90,21,4,78.77
+826242,Ala'a Al-Hejji,alaa-al-hejji,32994,Al Wehda,7.01,1,,17,46,3,84.5
+815630,Mateus,mateus,56021,Al-Taawoun,7.01,0,,6,9,1,74.34
+128089,Dimitris Kourbelis,dimitris-kourbelis,167228,Al-Khaleej,7.01,2,,11,37,1,89.57
+580392,Emmanuel Boateng,emmanuel-boateng,114259,Al Orobah,7.01,2,,5,5,2,74.85
+828524,Mohamed Kanno,mohamed-kanno,21895,Al-Hilal,7.0,2,,14,35,2,92.34
+126071,Kalidou Koulibaly,kalidou-koulibaly,21895,Al-Hilal,7.0,2,,7,52,0,89.64
+1170547,Unai Hernández,unai-hernandez,34315,Al-Ittihad,7.0,1,,9,13,3,88.89
+1022679,Moteb Al-Harbi,moteb-al-harbi,21895,Al-Hilal,7.0,0,,14,32,1,86.32
+976548,Abdullah Hussein Alowayshir,abdullah-hussein-al-owisher,32994,Al Wehda,7.0,0,,1,0,1,54.98
+1168640,Mohammed Al-Absi,mohammed-al-absi,34313,Al-Shabab,7.0,0,,0,0,0,62.5
+1917037,Malik Al Shammary,malik-al-shammary,114259,Al Orobah,7.0,0,,2,1,0,83.33
+972698,Mshari Sanyoor,mshari-sanyoor,56031,Al Raed,7.0,0,,0,2,0,59.76
+118368,Knowledge Musona,knowledge-musona,336456,Al-Okhdood,6.99,5,,17,25,3,82.83
+546220,Bernard Mensah,bernard-mensah,168088,Al-Riyadh,6.99,5,,46,29,4,89.46
+1191278,Robert Renan,robert-renan,34313,Al-Shabab,6.99,0,,21,58,3,89.93
+1118494,Saad Al-Nasser,saad-al-nasser,56021,Al-Taawoun,6.98,1,,24,67,2,84.84
+840118,Lucas Kal,lucas-kal,168088,Al-Riyadh,6.98,3,,15,38,2,84.92
+39427,Marcelo Grohe,marcelo-grohe,269199,Al-Kholood,6.98,0,,1,1,0,70.78
+190065,Khaled Narey,khaled-narey,167228,Al-Khaleej,6.98,3,,7,22,3,75.64
+576272,André Moreira,andre-moreira,56031,Al Raed,6.98,0,,0,0,0,66.43
+1133883,Enes Sali,enes-sali,168088,Al-Riyadh,6.98,1,,14,6,1,75.95
+235686,Kim Seung-gyu,kim-seung-gyu,34313,Al-Shabab,6.98,0,,0,0,0,69.44
+978400,Waleed Al-Ahmed,waleed-al-ahmed,56021,Al-Taawoun,6.97,2,,2,40,0,88.8
+906407,Abdelkader Bedrane,abdelkader-bedrane,204126,Damac FC,6.97,0,,18,48,2,80.15
+358890,Otabek Shukurov,otabek-shukurov,168094,Al-Fayha,6.96,0,,19,53,1,88.79
+138813,Georgiy Bushchan,georgiy-bushchan,34313,Al-Shabab,6.96,0,,0,1,0,76.3
+1048372,Ziyad Aljohani,ziyad-aljohani,34469,Al-Ahli,6.96,2,,18,53,1,87.89
+369544,Yoann Barbet,yoann-barbet,168088,Al-Riyadh,6.96,1,,3,26,1,84.38
+880083,Farouk Chafaï,farouk-chafai,204126,Damac FC,6.96,3,,8,33,1,86.31
+975869,Djaniny,djaniny,56023,Al-Fateh,6.95,5,,21,8,0,79.68
+191188,Seko Fofana,seko-fofana,34318,Al-Ettifaq,6.95,0,,9,14,0,88.74
+318653,Moussa Dembélé,moussa-dembele,34318,Al-Ettifaq,6.95,7,,17,6,4,71.13
+818667,Ali Lajami,ali-lajami,23400,Al-Nassr,6.95,0,,9,26,1,92.05
+894437,Muhannad Shanqeeti,muhannad-shanqeeti,34315,Al-Ittihad,6.95,1,,31,45,5,82.09
+984415,Ahmed Al-Ghamdi,ahmed-al-ghamdi,34315,Al-Ittihad,6.95,0,,0,3,0,84.09
+893514,Fahad Bin Jumayah,fahad-bin-jumayah,56021,Al-Taawoun,6.95,0,,10,44,3,85.52
+788971,Juninho Bacuna,juninho-bacuna,32994,Al Wehda,6.95,3,,27,45,4,79.88
+794989,Gaëtan Coucke,gaetan-coucke,114259,Al Orobah,6.95,0,,0,2,0,68.6
+893307,Firas Al-Buraikan,firas-al-buraikan,34469,Al-Ahli,6.94,3,,9,40,5,72.83
+794836,Andrei Girotto,andrei-girotto,56021,Al-Taawoun,6.94,1,,1,59,0,86.08
+802159,Habibou Diallo,habibou-diallo,204126,Damac FC,6.94,7,,17,5,3,70.27
+193064,Fábio Martins,fabio-martins,167228,Al-Khaleej,6.94,7,,37,49,1,80.85
+1457521,Muath Faqeehi,muath-faqeehi,34315,Al-Ittihad,6.94,0,,3,7,1,90.13
+1066728,Abdulrahman Al Sanbi,abdulrahman-al-sanbi,34469,Al-Ahli,6.94,0,,0,0,0,78.34
+926513,Renzo López,renzo-lopez,168094,Al-Fayha,6.93,8,,10,24,1,68.69
+359650,Saviour Godwin,saviour-godwin,336456,Al-Okhdood,6.93,7,,44,13,4,74.66
+954639,Saeed Al-Rabiei,saeed-al-rabiei,336456,Al-Okhdood,6.93,1,,5,36,0,88.15
+980578,Gastón Álvarez,gaston-alvarez,56027,Al-Qadsiah,6.92,1,,2,50,0,90.4
+1114775,Mohannad Abu Taha,mohannad-abu-taha,114259,Al Orobah,6.92,2,,16,40,5,78.25
+814673,Jorge Fernandes,jorge-fernandes,56023,Al-Fateh,6.92,0,,2,22,0,89.36
+839521,Flávio,flavio,56021,Al-Taawoun,6.92,0,,9,32,1,87.97
+803307,Péter Szappanos,peter-szappanos,56023,Al-Fateh,6.92,0,,0,0,0,64.8
+1519328,Abdulelah Al Khaibari,abdulelah-al-khaibari,168088,Al-Riyadh,6.92,0,,26,76,1,85.51
+351734,Joao Pedro,joao-pedro,56021,Al-Taawoun,6.92,3,,14,6,0,79.23
+877103,Jawad El Yamiq,jawad-el-yamiq,32994,Al Wehda,6.91,2,,8,21,0,82.49
+881838,Ali Al Asmari,ali-al-asmari,34469,Al-Ahli,6.91,1,,4,12,0,82.87
+1589416,Leandrinho,leandrinho,34313,Al-Shabab,6.91,0,,5,11,1,87.63
+49805,Jóhann Guðmundsson,johann-gumundsson,114259,Al Orobah,6.9,3,,12,19,4,81.21
+893180,Ziyad Al Hunayti,zeyad-al-hunayti,114259,Al Orobah,6.9,1,,1,7,0,76.64
+1935203,Abdulrahman Al-Ghamdi,abdul-rahman-al-ghamdi,56021,Al-Taawoun,6.9,0,,0,0,0,83.33
+160909,Fahad Al-Muwallad,fahad-al-muwallad,34313,Al-Shabab,6.9,0,,2,2,0,85.19
+795696,Jack Hendry,jack-hendry,34318,Al-Ettifaq,6.9,0,,2,12,0,89.92
+881831,Abdulelah Al-Amri,abdulelah-al-amri,34315,Al-Ittihad,6.89,0,,8,22,1,87.33
+1392829,Amine Sbai,amine-sbai,56023,Al-Fateh,6.89,5,,31,20,4,74.25
+818813,Madallah Al-Olayan,madallah-al-olayan,34318,Al-Ettifaq,6.89,1,,9,71,1,83.6
+847379,Muteb Al-Mufarrij,muteb-almufarrij,56021,Al-Taawoun,6.89,1,,0,23,0,88.89
+47741,Chris Smalling,chris-smalling,168094,Al-Fayha,6.89,1,,2,28,0,89.84
+788258,Mukhtar Ali,ali-mukhtar,34318,Al-Ettifaq,6.88,0,,5,25,0,89.07
+1066588,Saad Yaslam Balobaid,saad-yaslam-balobaid,34469,Al-Ahli,6.88,1,,15,64,1,79.47
+872205,Saeed Almuwallad,saeed-al-muwallad,32994,Al Wehda,6.88,0,,13,35,2,75.0
+803052,Hattan Bahebri,hattan-bahebri,56021,Al-Taawoun,6.88,2,,9,6,1,84.07
+872607,Nasser Al-Dawsari,nasser-al-dawsari,21895,Al-Hilal,6.88,1,,12,53,1,91.53
+923040,Nader Al Sharari,nader-abdullah-al-sharari,34313,Al-Shabab,6.88,0,,8,43,1,89.46
+1836904,Hammam Al-Hammami,al-hammami-hammam,269199,Al-Kholood,6.88,4,,71,35,3,78.86
+842931,Karl Toko Ekambi,karl-toko-ekambi,34318,Al-Ettifaq,6.88,1,,30,18,2,83.39
+355152,Demarai Gray,demarai-gray,34318,Al-Ettifaq,6.87,0,,30,16,0,86.1
+915991,Abdullah Al-Hamdan,abdullah-al-hamdan,21895,Al-Hilal,6.87,2,,1,9,4,77.93
+818581,Mansour Hamzi,mansour-hamzi,167228,Al-Khaleej,6.87,1,,11,63,1,83.2
+920498,Abdullah Khateeb,abdullah-khateeb,34318,Al-Ettifaq,6.87,1,,2,31,1,93.32
+1133141,Mohammed Abdulrahman,mohammed-abdulrahman,34318,Al-Ettifaq,6.86,1,,24,48,1,81.12
+954643,Mohammed Al-Thani,mohammed-al-thain,34313,Al-Shabab,6.86,2,,13,67,0,80.7
+1429250,Saleh Abu Al-Shamat,saleh-aboulshamat,167228,Al-Khaleej,6.86,1,,40,36,6,78.33
+1845169,Jehad Thakri,jehad-thakri,56027,Al-Qadsiah,6.86,0,,7,38,0,90.97
+920815,Ibrahim Bayesh,ibrahim-bayesh,168088,Al-Riyadh,6.85,5,,66,71,2,81.59
+350060,Ahmad Asiri,ahmad-asiri,168088,Al-Riyadh,6.85,1,,1,25,0,87.08
+1138857,Ali Al-Bulaihi,ali-al-bulaihi,21895,Al-Hilal,6.85,4,,1,19,0,92.63
+893198,Sami Al-Khaibary,sami-al-khaibary,168094,Al-Fayha,6.85,0,,1,24,0,85.36
+970835,Mohamed Al Makahasi,mohamed-al-makahasi,32994,Al Wehda,6.85,1,,10,45,1,89.45
+881837,Hassan Tambakti,hassan-altambakti,21895,Al-Hilal,6.85,0,,1,20,1,92.54
+842744,Oumar Gonzalez,oumar-gonzalez,56031,Al Raed,6.84,3,,3,42,0,88.39
+563030,Saad Bguir,bguir-saad,32994,Al Wehda,6.84,3,,6,18,0,79.36
+149677,Thomas Murg,thomas-murg,167228,Al-Khaleej,6.84,1,,20,12,0,85.71
+1884430,Abdulaziz Al-Othman,abdulaziz-al-othman,56027,Al-Qadsiah,6.84,4,,5,9,0,72.73
+847235,Hassan Kadesh,hassan-kadesh,34315,Al-Ittihad,6.84,2,,5,47,1,92.36
+794347,Abdullah Madu,abdullah-madu,34318,Al-Ettifaq,6.84,1,,7,19,0,91.54
+893167,Sumaihan Al-Nabit,sumaihan-al-nabit,34469,Al-Ahli,6.84,2,,5,6,0,77.78
+963642,Radhi Al-Oteibi,radhi-al-oteibi,34318,Al-Ettifaq,6.84,0,,13,31,1,84.51
+1116671,Lucas Chávez,lucas-chavez,56021,Al-Taawoun,6.84,1,,5,13,1,85.87
+1475427,Salem Alnajdi,salem-alnajdi,23400,Al-Nassr,6.84,1,,6,36,1,83.62
+538320,Abdulmajeed Al Sulayhim,abdulmajeed-al-sulayhim,23400,Al-Nassr,6.84,0,,7,17,1,90.24
+1397478,João Costa,joao-costa,34318,Al-Ettifaq,6.83,4,,34,30,1,77.49
+1211632,Wesley,wesley,23400,Al-Nassr,6.83,0,,13,8,0,84.14
+818779,Saleh Al-Shehri,saleh-al-shehri,34315,Al-Ittihad,6.83,4,,7,12,1,82.27
+338651,Marcel Tisserand,marcel-tisserand,167228,Al-Khaleej,6.82,0,,7,15,0,84.53
+360938,Yassine Bounou,bono,21895,Al-Hilal,6.82,0,,0,1,0,83.17
+965309,Ramzi Sawlan,sawlan-ramzi,204126,Damac FC,6.82,1,,18,68,3,79.25
+196396,Yahya Al Shehri,yahya-al-shehri,168088,Al-Riyadh,6.82,1,,6,31,1,87.44
+897590,Karlo Muhar,karlo-muhar,114259,Al Orobah,6.82,0,,15,92,1,82.14
+1854314,Mohammed Sulaiman Bakor,mohammed-sulaiman-bakor,34469,Al-Ahli,6.82,2,,11,25,0,81.37
+1513656,Iker Almena,almena-iker,56027,Al-Qadsiah,6.82,0,,15,18,1,85.15
+114157,Cristian Tello,cristian-tello,114259,Al Orobah,6.82,5,,15,17,3,78.12
+1521953,Saeed Baattia,saeed-baattia,56023,Al-Fateh,6.82,0,,18,53,0,83.07
+1085115,Abdulaziz Noor,abdulaziz-noor,32994,Al Wehda,6.82,7,,16,15,0,73.91
+1171233,Rakan Kaabi,rakan-kaabi,168094,Al-Fayha,6.82,0,,8,30,0,89.74
+983833,Faris Abdi,abdi-faris,168094,Al-Fayha,6.81,1,,33,114,1,87.36
+867179,Abdullah Al-Khaibari,abdullah-alkhaibari,23400,Al-Nassr,6.81,0,,9,43,0,92.71
+934196,Ismael Kandouss,ismael-kandouss,114259,Al Orobah,6.81,2,,2,57,0,84.29
+818568,Sultan Mandash,sultan-mandash,56021,Al-Taawoun,6.81,3,,41,30,1,83.36
+352664,Jason Denayer,jason-denayer,56023,Al-Fateh,6.81,0,,4,12,0,91.75
+1014447,Abdulrahman Ghareeb,abdulrahman-ghareeb,23400,Al-Nassr,6.81,0,,9,10,1,90.41
+1096521,Othman Al-Othman,othman-al-othman,56023,Al-Fateh,6.81,0,,20,29,1,77.81
+1214301,Dhari Al-Enezi,dhari-al-enezi,204126,Damac FC,6.8,0,,31,75,1,78.01
+1495868,Meshal Alaeli,meshal-alaeli,32994,Al Wehda,6.8,1,,14,48,1,71.63
+973568,Renné Rivas,rivas-renne,56021,Al-Taawoun,6.8,1,,8,28,1,82.91
+979394,Nawaf Alazizi,nawaf-al-azizi,32994,Al Wehda,6.8,0,,1,4,0,82.14
+116604,Gojko Cimirot,gojko-cimirot,168094,Al-Fayha,6.8,0,,13,22,1,90.56
+1549082,Murad Al Hawsawi,murad-al-hawsawi,167228,Al-Khaleej,6.79,1,,8,70,0,83.52
+338991,William Troost-Ekong,william-troost-ekong,269199,Al-Kholood,6.79,2,,4,33,1,82.66
+918784,Mohamed Sherif,mohamed-sherif,167228,Al-Khaleej,6.78,3,,7,4,0,86.06
+893373,Khalid Alsubaie,khalid-alsubaie,56031,Al Raed,6.78,0,,5,17,0,80.95
+919697,Ayoub Qasmi,qasmi-ayoub,56031,Al Raed,6.78,1,,4,33,0,87.87
+1797652,Jalal Adel Al-Salem,jalal-adel-al-salem,34318,Al-Ettifaq,6.78,0,,6,0,0,80.85
+873630,Ibrahima Kone,ibrahima-kone,336456,Al-Okhdood,6.77,3,,1,8,1,68.35
+985140,Hamed Al-Ghamdi,hamed-al-ghamdi,34315,Al-Ittihad,6.77,1,,6,13,1,90.64
+73056,Mehdi Abeid,mehdi-abeid,56031,Al Raed,6.77,2,,10,61,0,88.55
+374524,Abdulfattah Asiri,abdulfattah-asiri,269199,Al-Kholood,6.77,0,,9,3,1,80.49
+1429251,Rayan Hamed,rayan-hamed,34469,Al-Ahli,6.77,0,,0,13,0,86.36
+292665,Glen Kamara,glen-kamara,34313,Al-Shabab,6.77,0,,4,14,0,94.23
+818696,Mohammed Al-Khabrani,mohammed-al-khabrani,167228,Al-Khaleej,6.77,0,,2,35,0,88.86
+580800,François Kamano,francois-kamano,204126,Damac FC,6.76,4,,26,19,2,76.01
+818572,Fawaz Al-Sagour,fawaz-al-sagour,34315,Al-Ittihad,6.76,2,,1,14,2,84.86
+1517641,Ayman Fallatah,ayman-fallatah,204126,Damac FC,6.76,1,,31,37,0,80.51
+305282,Jean Michaël Seri,jean-michael-seri,114259,Al Orobah,6.76,1,,3,3,0,89.38
+868411,Abdulraoof Al-Deqeel,abdulraoof-al-deqeel,168094,Al-Fayha,6.76,0,,0,0,0,52.17
+925947,Ali Al-Hassan,ali-al-hassan,23400,Al-Nassr,6.76,2,,7,22,0,90.52
+1521216,Fahad Al Abdulrazzaq,fahad-al-abdulrazzaq,56021,Al-Taawoun,6.76,0,,11,21,0,88.77
+29774,Odion Ighalo,odion-ighalo,32994,Al Wehda,6.76,6,,13,13,2,74.89
+1113791,Ahmed Bahusayn,ahmed-bahusayn,56021,Al-Taawoun,6.76,0,,9,14,0,86.99
+160901,Abdullah Al-Hafith,abdullah-al-hafith,32994,Al Wehda,6.75,1,,1,35,0,83.17
+1019662,Sekou Lega,lega-sekou,168088,Al-Riyadh,6.75,1,,5,8,1,67.31
+818493,Amin Al-Bukhari,amin-al-bukhari,204126,Damac FC,6.75,0,,0,1,0,69.57
+1085357,Bassam Al-Hurayji,bassam-al-hurayji,34469,Al-Ahli,6.75,0,,2,9,0,82.86
+818699,Ali Hazazi,ali-hazazi,56027,Al-Qadsiah,6.75,1,,6,26,0,88.84
+793916,Ibrahim Al-Zubaidi,ibrahim-al-zubaidi,114259,Al Orobah,6.75,0,,6,40,1,72.39
+2028904,Salomon Tweh,salomon-tweh,56031,Al Raed,6.75,0,,11,13,1,80.5
+160923,Yasser Al-Shahrani,yasser-al-shahrani,21895,Al-Hilal,6.75,0,,3,11,0,88.0
+817947,Abdullah Al-Fahad,al-fahad-abdullah,167228,Al-Khaleej,6.75,0,,2,28,0,85.87
+1162305,Matteo Dams,matteo-dams,34469,Al-Ahli,6.74,0,,1,6,0,86.19
+219008,Pato,pato,336456,Al-Okhdood,6.74,1,,1,6,2,79.19
+847233,Mohammed Al-Kuwaykibi,mohammed-al-kuwaykibi,56021,Al-Taawoun,6.74,0,,10,8,1,74.46
+1115775,Mohammed Marran,mohammed-marran,23400,Al-Nassr,6.74,1,,0,0,0,83.33
+952442,Abdulfattah Adam Mohammed,abdulfattah-adam-mohammed,56021,Al-Taawoun,6.74,4,,6,2,1,79.68
+1115888,Nawaf Al Sadi,nawaf-alsadi,34313,Al-Shabab,6.73,0,,17,35,1,83.68
+1106352,Youssef Amyn,youssef-amyn,32994,Al Wehda,6.73,4,,25,29,2,82.11
+224456,Norbert Gyömbér,norbert-gyomber,269199,Al-Kholood,6.73,0,,7,33,1,85.63
+823476,Kévin N'Doram,kevin-ndoram,269199,Al-Kholood,6.73,0,,7,42,0,83.88
+1434206,Abdullah Al-Anazi,abdullah-al-anazi,56023,Al-Fateh,6.73,1,,11,11,2,73.6
+328829,Mohammed Al Fatil,mohammed-al-fatil,23400,Al-Nassr,6.73,1,,1,15,1,94.54
+1092809,Mohammed Mahzari,mohammed-mahzari,56021,Al-Taawoun,6.73,0,,6,33,2,90.53
+893199,Mohammed Al Baqawi,mohammed-al-baqawi,168094,Al-Fayha,6.73,0,,9,44,2,81.87
+949218,Abdulbaset Hindi,abdulbaset-hindi,34318,Al-Ettifaq,6.73,0,,6,18,0,86.34
+1475443,Ahmed Al-Julaydan,ahmed-al-julaydan,56023,Al-Fateh,6.73,0,,13,25,2,78.54
+974064,Abdullah Al-Qahtani,abdullah-al-qahtani,204126,Damac FC,6.73,0,,5,1,0,78.95
+180059,Gustavo Cuéllar,gustavo-cuellar,34313,Al-Shabab,6.73,0,,0,14,0,92.75
+818840,Abdulelah Al-Malki,abdulelah-al-malki,34318,Al-Ettifaq,6.72,0,,13,20,0,86.26
+1652171,Suhayb Al-Zaid,suhayb-al-zaid,56023,Al-Fateh,6.72,0,,17,44,3,82.58
+1065328,Noor Al-Rashidi,noor-al-rashidi,204126,Damac FC,6.72,0,,14,44,0,76.07
+921767,Mokher Al-Rashidi,mokher-al-rashidi,168094,Al-Fayha,6.72,0,,4,45,0,88.75
+1445997,Fahad Zubaidi,fahad-zubaidi,114259,Al Orobah,6.71,2,,22,34,1,77.71
+565686,Mathias Normann,mathias-normann,56031,Al Raed,6.71,1,,9,22,1,82.3
+818668,Qasim Lajami,qasim-al-oujami,56027,Al-Qadsiah,6.71,0,,1,10,0,90.94
+1521471,Mohammed Al Jahif,mohammed-al-jahif,336456,Al-Okhdood,6.71,2,,13,8,0,73.13
+115182,André Carrillo,andre-carrillo,56027,Al-Qadsiah,6.7,0,,0,0,0,100.0
+1653551,Awad Aman,awad-aman,23400,Al-Nassr,6.7,0,,0,0,0,100.0
+385708,Vito van Crooij,vito-van-crooij,32994,Al Wehda,6.7,0,,0,1,0,80.0
+948594,Abdulbasit Hawsawi,abdulbasit-hawsawi,204126,Damac FC,6.7,0,,0,0,0,89.29
+2058331,Talal Al-Shubili,talal-al-shubili,168088,Al-Riyadh,6.7,0,,0,1,0,100.0
+1917036,Faraj,faraj,114259,Al Orobah,6.7,0,,0,1,0,50.0
+1547363,Redha Alabdullah,redha-alabdullah,168094,Al-Fayha,6.7,0,,0,0,0,100.0
+976206,Mohammed Al-Shanqiti,mohammed-al-shanqiti,114259,Al Orobah,6.7,0,,0,4,0,73.33
+1048000,Nawaf Al-Hawsawi,nawaf-al-hawsawi,168088,Al-Riyadh,6.7,0,,2,19,0,83.59
+1485273,Gabriel Vareta,gabriel-vareta,168094,Al-Fayha,6.7,0,,2,19,0,78.53
+881830,Awn Al-Saluli,awn-al-saluli,56021,Al-Taawoun,6.7,0,,1,6,0,83.09
+926730,Haroune Camara,haroune-camara,34313,Al-Shabab,6.7,6,,12,13,3,80.3
+1549247,Muhammad Sawan,muhammad-sawan,269199,Al-Kholood,6.7,1,,18,58,4,73.52
+1399144,Ali Makki,ali-makki,32994,Al Wehda,6.7,0,,1,24,1,83.91
+1917051,Hussain Al Zarie,hussain-al-zarie,56023,Al-Fateh,6.69,0,,11,52,1,79.96
+1398854,Zakaria Hawsawi,zakaria-al-hawsawi,56031,Al Raed,6.69,0,,33,45,5,77.17
+560168,Tarek Hamed,tarek-hamed,204126,Damac FC,6.69,0,,2,4,0,92.06
+893197,Ahmed Bamasud,ahmed-bamasud,34318,Al-Ettifaq,6.68,0,,1,4,0,80.0
+982351,Mansor Al-Beshe,mansor-al-beshe,168094,Al-Fayha,6.68,0,,20,41,1,76.69
+871619,Tariq Mohammed,tariq-mohammed,204126,Damac FC,6.68,0,,12,50,0,85.96
+1018709,Mohammed Al-Mahasneh,mohammed-al-mahasneh,34315,Al-Ittihad,6.68,0,,0,2,0,72.9
+828444,Majed Omar Kanabah,majed-omar-kanabah,34313,Al-Shabab,6.68,1,,5,37,1,91.33
+1127819,Abdullah Al-Hawsawi,abdullah-al-hawsawi,269199,Al-Kholood,6.68,0,,35,55,4,82.7
+879649,Mohanad Alqaydhi,mohanad-alqaydhi,336456,Al-Okhdood,6.68,1,,5,21,0,74.44
+817911,Abdullah Al-Amar,abdullah-al-amar,34469,Al-Ahli,6.68,0,,5,14,0,77.55
+791404,Awdh Faraj,awdh-faraj,336456,Al-Okhdood,6.68,0,,16,43,2,81.54
+148870,Mohammed Al-Qarni,mohammed-al-qarni,114259,Al Orobah,6.68,0,,2,26,0,88.69
+792331,Jamaan Al Dawsari,al-dawsari-jamaan,269199,Al-Kholood,6.68,0,,0,1,0,69.81
+1048753,Mohammed Al-Khaibari,mohammed-alkhaibari,204126,Damac FC,6.68,0,,1,30,0,80.32
+948046,Nawaf Al-Harthi,nawaf-al-harthi,168094,Al-Fayha,6.67,0,,17,43,2,82.73
+1548483,Saif Rashad Mohamed,saif-rashad-mohamed,56027,Al-Qadsiah,6.67,0,,9,3,0,82.61
+990189,Ali Al-Salem,ali-al-salem,32994,Al Wehda,6.67,1,,12,24,1,72.78
+1947429,Abdulaziz Awadh Masnom,abdulaziz-awadh-masnom,114259,Al Orobah,6.67,0,,0,0,0,45.45
+832313,Abdulrahman Al-Dosari,abdulrahman-al-dosari,56027,Al-Qadsiah,6.67,0,,0,3,0,98.15
+857390,Khaled Al-Semeiry,khaled-al-semeiry,167228,Al-Khaleej,6.67,0,,4,47,1,85.71
+1521660,Abdulaziz Al Hatila,abdulaziz-al-hatila,336456,Al-Okhdood,6.66,0,,12,12,0,73.72
+1084266,Saud Zidan,saud-zidan,168088,Al-Riyadh,6.66,0,,1,7,0,93.58
+893218,Husain Al-Qahtani,husain-al-monassar,56027,Al-Qadsiah,6.66,0,,10,23,0,87.82
+1147011,Diego Ferreira,ferreira-diego,336456,Al-Okhdood,6.66,0,,4,11,0,84.54
+948603,Hamed Al-Maghati,hamed-taleb,114259,Al Orobah,6.66,0,,11,43,2,76.86
+1201501,Mohammed Essa Harbush,mohammed-essa-harbush,34313,Al-Shabab,6.66,0,,2,7,0,83.61
+902358,Fwaz Altryes,fwaz-altryes,114259,Al Orobah,6.66,0,,8,11,2,87.5
+791417,Abdulaziz Al Bishi,abdulaziz-al-bishi,34315,Al-Ittihad,6.66,0,,5,3,0,79.73
+1521951,Sattam Al-Roqi,sattam-al-roqi,168094,Al-Fayha,6.65,0,,5,12,1,83.18
+1102071,Bader Munshi,bader-munshi,204126,Damac FC,6.65,0,,1,5,0,82.5
+1549265,Ahmed Al Rashidi,ahmed-al-rashidi,32994,Al Wehda,6.65,0,,0,0,0,55.26
+1521957,Mohamed Al Oqil,mohamed-al-oqil,168088,Al-Riyadh,6.65,0,,1,2,0,74.07
+818871,Osama Al Khalaf,osama-al-khalaf,114259,Al Orobah,6.65,0,,7,22,0,78.97
+1533745,Abduleallah Hawsawi,abduleallah-hawsawi,34315,Al-Ittihad,6.65,0,,15,15,0,87.8
+818573,Fahad Al-Reshedi,fahad-al-reshedi,114259,Al Orobah,6.65,0,,4,36,0,77.55
+1101759,Abdullah Radif,abdullah-radif,34318,Al-Ettifaq,6.65,3,,20,17,1,77.12
+791561,Mohammed Jahfali,mohammed-jahfali,269199,Al-Kholood,6.65,0,,0,3,0,85.97
+1525073,Hussain Al-Nuweqi,hussain-al-nuweqi,168088,Al-Riyadh,6.65,0,,7,20,0,76.82
+1521467,Eid Al Muwallad,eid-al-muwallad,34469,Al-Ahli,6.65,0,,4,33,0,88.95
+931837,Khalifah Al-Dawsari,khalifah-al-dawsari,21895,Al-Hilal,6.64,0,,1,12,0,90.61
+1127133,Mohammed Al Aqal,mohammed-al-aqal,168088,Al-Riyadh,6.64,1,,4,10,0,58.42
+818734,Naif Hazzazi,naif-hazzazi,56031,Al Raed,6.64,1,,2,19,0,86.95
+970908,Mohammed Al-Dosari,mohammed-al-dosari,56031,Al Raed,6.64,0,,25,59,1,77.73
+818705,Abdulrahman Al-Obaid,abdulrahman-al-obaid,204126,Damac FC,6.64,0,,6,22,0,83.38
+1927664,Bassem Al-Arini,bassem-al-arini,269199,Al-Kholood,6.64,1,,1,1,0,94.74
+1526736,Josen Escobar,josen-escobar,34318,Al-Ettifaq,6.64,0,,1,10,0,87.59
+540426,Mohammed Qasem,mohammed-qasem,56027,Al-Qadsiah,6.64,0,,4,17,0,81.43
+990187,Abdulrahman Al-Safri,abdulrahman-al-safri,269199,Al-Kholood,6.64,1,,3,30,1,82.23
+1019340,Mohammed Al-Konaideri,mohammed-al-konaideri,56023,Al-Fateh,6.64,0,,8,26,0,81.6
+1429814,Mubarak Al-Rajeh,mubarak-al-rajeh,56031,Al Raed,6.63,0,,8,40,1,78.86
+229678,Alexandru Crețu,alexandru-cretu,32994,Al Wehda,6.63,1,,7,46,3,83.41
+1185167,Ahmed Bandar Derwish,ahmed-bandar-derwish,32994,Al Wehda,6.63,1,,2,13,0,85.27
+1048371,Awad Al-Nashri,awad-al-nashri,34315,Al-Ittihad,6.63,0,,1,14,0,88.83
+1017888,Malek Al Abdulmonam,malek-al-abdulmonam,168094,Al-Fayha,6.63,0,,1,1,0,73.53
+1398849,Mohammed Al Abdullah,mohammed-al-abdullah,167228,Al-Khaleej,6.63,0,,0,2,1,85.0
+911303,Waleed Bakshween,waleed-bakshween,32994,Al Wehda,6.63,0,,11,44,0,86.81
+139227,Kurt Zouma,kurt-zouma,114259,Al Orobah,6.62,1,,4,8,0,87.32
+1152012,Hussain Al-Sebyani,hussain-alsebyani,34313,Al-Shabab,6.62,0,,13,15,0,81.21
+1429805,Nawaf Sahli,nawaf-sahli,56031,Al Raed,6.62,1,,2,5,0,84.15
+1067777,Abdulaziz Al-Aliwa,abdulaziz-al-aliwa,34318,Al-Ettifaq,6.62,0,,0,2,0,93.75
+2018186,Ambrose Ochigbo,ambrose-ochigbo,269199,Al-Kholood,6.62,0,,2,2,0,75.0
+831259,Ziyad Al-Sahafi,ziyad-al-sahafi,168094,Al-Fayha,6.62,1,,0,8,0,80.28
+818887,Abdulhadi Al-Harajin,abdulhadi-al-harajin,168094,Al-Fayha,6.62,0,,9,2,1,84.52
+1095802,Hazzaa Al-Ghamdi,hazzaa-al-ghamdi,204126,Damac FC,6.61,0,,8,17,1,66.84
+1536875,Thamer Al Khaibri,thamer-al-khaibri,56031,Al Raed,6.61,0,,8,4,0,71.7
+908619,Sultan Farhan,sultan-farhan,56021,Al-Taawoun,6.61,0,,1,29,1,88.52
+850011,Mohamed Konaté,mohamed-konate,168088,Al-Riyadh,6.6,4,,4,12,1,70.04
+1394760,Naif Assery,naif-assery,336456,Al-Okhdood,6.6,1,,0,39,0,84.38
+832312,Sami Al Naji,sami-al-naji,23400,Al-Nassr,6.6,0,,0,0,0,100.0
+1907743,Guga,guga,56027,Al-Qadsiah,6.6,0,,0,0,0,75.0
+831263,Riyadh Al Ibrahim,riyadh-al-ibrahim,269199,Al-Kholood,6.6,0,,0,1,0,72.73
+1940986,Karim Ashraf,karim-ashraf,336456,Al-Okhdood,6.6,0,,0,0,0,100.0
+867385,Hassan Abu Sharara,hassan-abu-sharara,204126,Damac FC,6.6,0,,0,1,0,92.86
+1477492,Aldry Contreras,aldry-contreras,168094,Al-Fayha,6.6,0,,0,0,0,82.61
+917267,Ibrahim Mahnashi,ibrahim-mahnashi,56027,Al-Qadsiah,6.6,0,,4,7,0,86.19
+818758,Hussain Al-Shuweish,hussain-al-showaish,114259,Al Orobah,6.6,0,,2,33,2,75.46
+958020,Yahya Sunbul,sunbul-yahya,56031,Al Raed,6.6,1,,17,20,0,83.14
+1170500,Ali Al Masoud,ali-al-masoud,56023,Al-Fateh,6.59,1,,0,8,0,81.67
+1798265,Naif Masoud,naif-masoud,56023,Al-Fateh,6.59,0,,2,9,0,84.13
+1630170,Nawaf Al Ghulaimish,nawaf-al-ghulaimish,34313,Al-Shabab,6.59,0,,4,4,0,86.78
+791558,Khalid Al-Kaabi,khalid-al-kaabi,168094,Al-Fayha,6.59,2,,13,11,0,84.02
+870365,Mohammed Al Saeed,mohammed-al-saeed,336456,Al-Okhdood,6.59,0,,4,11,0,84.48
+1653046,Hisham Al-Dubais,hisham-al-dubais,34313,Al-Shabab,6.59,1,,4,1,0,78.0
+1542651,Khalid Al Rammah,khalid-al-rammah,168094,Al-Fayha,6.58,0,,1,12,0,76.53
+1049202,Ziyad Aljari,ziyad-aljari,56023,Al-Fateh,6.58,0,,0,4,0,89.83
+818563,Saeed Al Hamsal,saeed-al-hamsal,167228,Al-Khaleej,6.58,0,,16,75,0,79.3
+1489408,Matheus Machado,matheus-machado,56023,Al-Fateh,6.58,2,,2,4,0,66.15
+1517639,Mourad Khodari,murad-khadhari,32994,Al Wehda,6.58,3,,0,6,0,80.65
+144377,Nawaf Al-Abed,nawaf-al-abed,168088,Al-Riyadh,6.58,0,,3,3,1,79.12
+892897,Abdullah Al Yousif,abdullah-al-yousif,56031,Al Raed,6.58,0,,0,23,0,83.64
+803055,Amaar Al Dohaim,amaar-al-dohaim,56023,Al-Fateh,6.58,0,,3,25,0,86.71
+1549237,Sultan Al Shehri,sultan-al-shehri,269199,Al-Kholood,6.57,0,,13,16,0,78.92
+1385284,Majed Mohammed,majed-mohammed,23400,Al-Nassr,6.57,0,,2,11,0,85.47
+976538,Khalid Al-Ghannam,khalid-al-ghannam,21895,Al-Hilal,6.57,0,,0,3,0,77.36
+1083046,Brad Young,brad-young,114259,Al Orobah,6.57,2,,10,7,1,83.19
+809220,Henry Onyekuru,henry-onyekuru,168094,Al-Fayha,6.57,0,,4,0,0,68.42
+1462375,Anas Al Zahrani,anas-al-zahrani,56031,Al Raed,6.57,0,,0,1,0,84.21
+1217924,Faisal Al-Sibyani,faisal-al-sibyani,204126,Damac FC,6.56,0,,7,48,0,82.2
+1118489,Haitham Asiri,haitham-asiri,56027,Al-Qadsiah,6.56,0,,2,5,0,78.26
+981158,Hamad Al Yami,hamad-al-yami,21895,Al-Hilal,6.56,0,,3,9,1,88.24
+989766,Saleh Al Abbas,saleh-al-abbas,336456,Al-Okhdood,6.56,3,,1,8,0,78.3
+1170706,Vinicius Rangel,rangel-vinicius,168094,Al-Fayha,6.56,0,,2,6,0,81.7
+846889,Abdulmalek Al-Shammari,abdulmalek-al-shammary,114259,Al Orobah,6.56,0,,13,33,0,76.22
+1494819,Saad Al-Shurafa,saad-al-shurafa,56023,Al-Fateh,6.56,0,,3,3,1,77.61
+974517,Fahad Al-Rashidi,fahad-al-rashidi,34469,Al-Ahli,6.56,0,,7,6,0,86.52
+948593,Abdullah Almogren,abdullah-almogren,204126,Damac FC,6.56,0,,0,5,0,83.33
+882132,Hamdan Al-Shamrani,hamdan-al-shamrani,269199,Al-Kholood,6.56,0,,11,55,0,72.29
+1547401,Majed Dawran,majed-dawran,34318,Al-Ettifaq,6.55,0,,3,2,0,82.35
+828525,Mohammed Al-Saiari,mohammed-al-saiari,114259,Al Orobah,6.55,0,,0,2,0,74.32
+1156413,Meshal Ali Khayrallah,meshal-ali-khayrallah,34318,Al-Ettifaq,6.54,0,,0,3,0,84.86
+1434209,Yaseen Al-Zubaidi,al-zubaidi-yaseen,336456,Al-Okhdood,6.54,0,,26,14,0,70.87
+1085415,Alhwsawi Sanousi Mohammed,alhwsawi-sanousi-mohammed,204126,Damac FC,6.54,0,,10,16,0,82.11
+1544937,Marzouq Tambakti,marzouq-tambakti,168088,Al-Riyadh,6.54,0,,13,23,0,87.13
+984587,Yahya Naji,yahya-naji,32994,Al Wehda,6.54,1,,10,2,0,76.37
+1182099,Saleh Al-Harthi,saleh-al-harthi,336456,Al-Okhdood,6.54,0,,0,6,0,80.0
+1501453,Farhah Ali Alshamrani,farhah-ali-alshamrani,269199,Al-Kholood,6.54,0,,2,13,0,80.35
+818614,Nouh Al-Mousa,nouh-al-mousa,56023,Al-Fateh,6.53,0,,1,6,1,89.94
+795468,Raed Al-Ghamdi,raed-al-ghamdi,56031,Al Raed,6.53,0,,2,0,0,72.0
+1868595,Zaid Al-Anazi,zaid-al-anazi,269199,Al-Kholood,6.53,0,,0,3,0,77.78
+1474690,Meshari Fahad Al-Nemer,meshari-fahad-al-nemer,204126,Damac FC,6.52,2,,8,12,0,73.76
+802975,Hamad Al-Jayzani,hamad-al-jayzani,56031,Al Raed,6.52,0,,11,34,0,84.09
+1085419,Hassan Al-Asmari,hassan-al-asmari,269199,Al-Kholood,6.52,0,,3,11,0,61.64
+1501473,Talal Haji,talal-haji,168088,Al-Riyadh,6.52,1,,1,1,0,63.04
+1916420,Ali Al Hussain,ali-al-hussain,168094,Al-Fayha,6.52,0,,2,2,0,67.21
+1917845,Ghassan Hawsawi,ghassan,336456,Al-Okhdood,6.52,0,,1,16,0,85.36
+1548473,Abdullah Hazazi,abdullah-hazazi,56031,Al Raed,6.52,0,,7,13,0,80.92
+1217919,Suwailem Al-Manhali,swailem-al-menhali,168088,Al-Riyadh,6.52,0,,0,8,0,79.44
+1548394,Abdulkarim Darisi,abdulkarim-darisi,34469,Al-Ahli,6.51,1,,0,4,0,66.67
+989764,Hussain Ahmed Al Issa,hussain-ahmed-al-issa,32994,Al Wehda,6.51,0,,2,9,0,86.15
+794331,Ahmed Sharahili,ahmed-sharahili,34315,Al-Ittihad,6.5,0,,0,0,0,100.0
+1916738,Mohammed Fallatah,mohammed-fallatah,34315,Al-Ittihad,6.5,0,,0,0,0,100.0
+1797659,Hassan Murtadh Al-Musallam,hassan-murtadh-al-musallam,167228,Al-Khaleej,6.5,0,,2,0,0,80.0
+1096522,Ali Al-Jassem,ali-salah-aljassem,56023,Al-Fateh,6.5,0,,0,0,0,78.57
+2154575,Babucarr Seye,babucarr-seye,167228,Al-Khaleej,6.5,0,,0,0,0,0.0
+1917846,Saif Balhareth,saif-balhareth,336456,Al-Okhdood,6.5,0,,0,0,0,100.0
+868647,Sultan Faqihi,sultan-faqihi,204126,Damac FC,6.5,0,,0,0,0,89.29
+881836,Saleh Alohaymid,saleh-alohaymid,56031,Al Raed,6.5,0,,0,0,0,83.33
+1935206,Anas Al Ghamdi,anas-al-ghamdi,56021,Al-Taawoun,6.5,0,,0,1,0,88.24
+2033144,Hussain Al Sultan,hussain-al-sultan,167228,Al-Khaleej,6.5,0,,1,1,0,63.64
+974152,Abdulrahman Al-Shammari,abdulrahman-al-shammeri,32994,Al Wehda,6.5,0,,0,0,0,78.5
+1084262,Arif Al-Haydar,arif-al-haydar,167228,Al-Khaleej,6.5,0,,3,1,0,76.92
+1523635,Abdulrahman Al Anzi,abdulrhman-al-anzi,114259,Al Orobah,6.48,0,,0,8,0,70.69
+1410509,Moses Turay,moses-turay,56031,Al Raed,6.48,0,,1,2,0,84.78
+1521661,Hussain Al Zabdani,hussain-al-zabdani,336456,Al-Okhdood,6.48,0,,1,21,1,83.22
+1926323,Majed Khalifah,majed-khalifah,269199,Al-Kholood,6.48,0,,0,3,0,75.86
+949069,Ibrahim Al-Shuail,ibrahim-al-shuail,56021,Al-Taawoun,6.48,0,,5,8,0,83.33
+1835249,Omar Shami,omar-shami,56031,Al Raed,6.47,0,,0,0,0,80.0
+1525046,Saud Salem,saud-salem,336456,Al-Okhdood,6.46,0,,0,6,0,92.31
+1521166,Ali Al Shaafi,ali-al-shaafi,167228,Al-Khaleej,6.45,0,,1,10,0,76.63
+1981305,Faisal Nahet,faisal-nahet,56031,Al Raed,6.45,0,,0,1,0,80.0
+893260,Mohammed Al-Majhad,mohammed-al-majhad,34469,Al-Ahli,6.45,0,,0,1,0,73.68
+1092811,Rayan Albloushi,rayan-albloushi,168088,Al-Riyadh,6.45,0,,0,0,0,84.21
+818616,Mohammed Al-Fuhaid,mohammed-al-fuhaid,56023,Al-Fateh,6.45,0,,3,13,0,87.13
+1847479,Majed Abdullah,majed-abdullah,34313,Al-Shabab,6.44,0,,0,0,0,70.0
+847483,Bandar Al Mutairi,bandar-al-mutairi,167228,Al-Khaleej,6.43,0,,1,5,0,90.23
+1398859,Nawaf Al Qamiri,nawaf-al-qamiri,114259,Al Orobah,6.42,0,,3,13,1,75.42
+1940720,Saad Al Qahtani,saad-al-qahtani,32994,Al Wehda,6.42,0,,2,0,0,72.5
+1585739,Kebba Sowe,kebba-sowe,269199,Al-Kholood,6.4,0,,0,0,0,100.0
+1015199,Abdullah Hassoun Tarmin,abdullah-hassoun-tarmin,56027,Al-Qadsiah,6.4,0,,0,1,0,81.25
+789933,Ignacio de Arruabarrena,ignacio-de-arruabarrena,32994,Al Wehda,6.4,0,,0,1,0,72.97
+804096,Mohammed Alburayk,mohammed-alburayk,21895,Al-Hilal,6.4,0,,0,0,0,80.0
+1194407,Rakan Al-Dosari,rakan-al-dosari,56031,Al Raed,6.4,0,,0,0,0,0.0
+1475444,Mohammed Barnawi,mohammed-barnawi,114259,Al Orobah,6.33,0,,2,6,0,75.86
+832497,Marwan Al-Haidari,marwan-al-haidari,34318,Al-Ettifaq,6.3,0,,0,0,0,66.67
+1935099,Turki Al Madani,turki-al-madani,34318,Al-Ettifaq,6.3,0,,0,2,0,92.31
+948595,Hussain Qasim,hussain-qasim,56023,Al-Fateh,6.25,0,,0,8,1,70.51
+1968481,Abdulmalik Al Harbi,abdulmalik-al-harbi,56021,Al-Taawoun,6.25,0,,0,1,0,87.18
+2124826,Azm Al Sayil,azm-al-sayil,56031,Al Raed,6.25,0,,0,0,0,100.0
+996459,Fahad Al Hamad,fahad-al-hamad,34469,Al-Ahli,6.25,0,,0,2,0,93.48
+1542652,Mohammed Al Dowaish,mohammed-al-dowaish,168094,Al-Fayha,6.25,0,,4,8,0,66.36
+1170502,Faisal Al Abdulwahed,faisal-al-abdulwahed,56023,Al-Fateh,6.23,0,,0,0,0,80.0
+982349,Abdulrahman Al Shammari,abdulrahman-al-shammari,168088,Al-Riyadh,6.2,0,,0,0,0,46.15
+1917053,Muntathir Al Shaqaq,muntathir-al-shaqaq,56023,Al-Fateh,6.2,0,,0,0,0,100.0
+1943702,Saud Al-Tumbukti,saud-al-tumbukti,168088,Al-Riyadh,6.2,0,,0,0,0,100.0
+948022,Abdullah Al Rashidi,abdullah-al-rashidi,269199,Al-Kholood,6.2,0,,0,1,0,66.67
+1977376,Emad Qaysi,emad-qaysi,34313,Al-Shabab,6.2,0,,0,0,0,75.0
+914887,Yazeed Al Bakr,yazeed-al-bakr,168088,Al-Riyadh,6.2,0,,0,0,0,52.63
+2040371,Ali Abdoulraouf Alabdrabalnabi,ali-abdoulraouf-alabdrabalnabi,167228,Al-Khaleej,6.2,0,,1,2,0,92.86
+1842132,Younes Al-Shanqeeti,al-shanqeeti-younes,34313,Al-Shabab,6.17,0,,0,5,0,90.0
+1520999,Ahmed Harisi,ahmed-harisi,204126,Damac FC,6.16,0,,7,1,0,87.3
+1935115,Abdulaziz Hadhood,abdulaziz-hadhood,21895,Al-Hilal,0.0,0,,0,0,0,80.0
+1085122,Hussain Alnattar,hussain-alnattar,56027,Al-Qadsiah,0.0,0,,1,0,0,75.0
+1542607,Turki Al Ghamil,turki-al-ghamil,21895,Al-Hilal,0.0,0,,0,0,0,0.0
+2035872,Adel Al Mutairi,adel-al-mutairi,34313,Al-Shabab,0.0,0,,0,0,0,0.0
+1895562,Hamad Al-Khorayef,hamad-al-khorayef,34313,Al-Shabab,0.0,0,,0,0,0,0.0
+1522210,Bander Whaeshi,bander-whaeshi,56031,Al Raed,0.0,0,,0,0,0,0.0
+1549240,Abdulmalik Al Harbi,abdulmalik-al-harbi,269199,Al-Kholood,0.0,0,,1,0,0,75.0
+2148767,Tamim Al Shuqayran,tamim-al-shuqayran,56031,Al Raed,0.0,0,,0,0,0,0.0
+1916966,Jawad Alhassan,jawad-alhassan,204126,Damac FC,0.0,0,,0,0,0,50.0
+2049458,Meshari Al Oufi,meshari-al-oufi,269199,Al-Kholood,0.0,0,,1,0,0,66.67
