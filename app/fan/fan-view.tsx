@@ -2,8 +2,18 @@
 
 import { signOutAction } from "@/lib/auth-actions";
 import { LeagueSwitcher } from "./league-switcher";
+import type { LeagueValue, SeasonValue } from "@/lib/leagues";
+import type { PlayerStatRow } from "@/lib/stats";
 
-export function FanView() {
+export function FanView({
+  league,
+  season,
+  players,
+}: {
+  league: LeagueValue;
+  season: SeasonValue;
+  players: PlayerStatRow[];
+}) {
   return (
     <div className="fan-root">
       <div className="bg" />
@@ -37,7 +47,11 @@ export function FanView() {
           Switch between leagues to see their statistics.
         </p>
 
-        <LeagueSwitcher />
+        <LeagueSwitcher
+          selectedLeague={league}
+          selectedSeason={season}
+          players={players}
+        />
       </main>
 
       <style jsx>{`
@@ -150,7 +164,7 @@ export function FanView() {
           position: relative;
           z-index: 10;
           width: 100%;
-          max-width: 620px;
+          max-width: 1240px;
           margin: 24px auto 60px;
           background: var(--glass-bg);
           border: 1px solid var(--glass-border);

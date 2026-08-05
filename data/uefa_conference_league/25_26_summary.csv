@@ -1,0 +1,890 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+94234,Simon Sluga,simon-sluga,2413,NK Celje,9.1,0,,0,0,0,89.13
+184679,Andreas Linde,andreas-linde,1760,BK Häcken,8.6,0,,0,1,0,79.17
+280637,Lukáš Sadílek,lukas-sadilek,2218,AC Sparta Praha,8.1,1,1.05,0,5,1,86.52
+578086,Johannes Kreidl,johannes-kreidl,2244,Kuopion Palloseura,8.1,0,,1,1,0,73.78
+1009362,Oliwier Zych,zych-oliwier,35268,Raków Częstochowa,7.9,0,,0,0,0,56.25
+120387,Hrvoje Miličević,hrvoje-milicevic,3404,AEK Larnaca,7.79,0,0.6,1,13,1,86.37
+1014536,Wessel Speel,wessel-speel,3174,Shelbourne,7.78,0,,0,0,0,46.7
+988190,Ibrahim Cissé,ibrahim-cisse,2244,Kuopion Palloseura,7.75,1,0.12,3,22,0,89.27
+54429,Artur Jędrzejczyk,artur-jedrzejczyk,3106,Legia Warszawa,7.7,0,0.12,0,2,0,91.43
+1145989,Ro-Zangelo Daal,ro-zangelo-daal,2950,AZ Alkmaar,7.63,2,1.47,18,8,3,81.46
+862223,Manor Solomon,manor-solomon,2693,Fiorentina,7.55,0,0.19,3,0,1,94.0
+976364,Ruslan Neshcheret,ruslan-neshcheret,3305,Dynamo Kyiv,7.52,0,,0,0,0,80.5
+355486,Stefan Posch,stefan-posch,2556,1. FSV Mainz 05,7.5,2,0.34,1,6,0,83.96
+1390323,Miłosz Piekutowski,milosz-piekutowski,7691,Jagiellonia Białystok,7.5,0,,0,0,0,77.05
+1149148,Mike Penders,mike-penders,1659,RC Strasbourg,7.5,0,,0,1,0,88.56
+978326,Žan-Luk Leban,leban-zan-luk,2413,NK Celje,7.49,0,,0,1,0,76.01
+1005998,Fotios Kitsos,fotios-kitsos,3395,Omonia Nicosia,7.48,0,0.08,4,16,0,89.94
+95666,Ante Majstorović,ante-majstorovic,2039,HNK Rijeka,7.43,1,0.12,1,5,0,89.22
+1514452,Jaures Assoumou,assoumou-jaures,3053,Samsunspor,7.4,0,0.44,6,9,1,84.44
+876680,Tjay De Barr,tjay-de-barr,126304,Lincoln Red Imps,7.38,1,0.97,16,5,1,66.83
+41021,Valentin Roberge,valentin-roberge,3404,AEK Larnaca,7.38,0,,0,6,0,91.41
+1127057,Valentín Barco,valentin-barco,1659,RC Strasbourg,7.37,1,0.95,11,14,0,83.26
+886339,Franko Kovačević,franko-kovacevic,2413,NK Celje,7.37,5,5.09,4,1,0,87.5
+852434,Barnabás Varga,barnabas-varga,3250,AEK Athens,7.37,1,1.62,6,3,0,56.86
+845286,Ismaïla Sarr,ismaila-sarr,7,Crystal Palace,7.36,9,8.1,16,4,0,73.39
+1127855,Abdou Karim Sow,abdou-karim-sow,2446,FC Lausanne-Sport,7.36,0,1.08,1,12,0,88.99
+793267,Stratos Svarnas,stratos-svarnas,35268,Raków Częstochowa,7.35,1,0.11,2,15,0,86.44
+345972,Damian Szymański,damian-szymanski,3106,Legia Warszawa,7.35,0,0.53,0,8,0,82.2
+41735,Henry Bonello,henry-bonello,33583,Ħamrun Spartans FC,7.33,0,,0,0,0,72.53
+187231,Ľubomír Šatka,lubomir-satka,3053,Samsunspor,7.33,0,0.21,3,9,0,90.44
+916183,Toni Fruk,toni-fruk,2039,HNK Rijeka,7.33,5,2.82,16,10,0,72.22
+890110,Aboubakary Koita,aboubakary-koita,3250,AEK Athens,7.33,4,2.3,17,11,0,83.13
+338475,Rafał Augustyniak,rafa-augustyniak,3106,Legia Warszawa,7.32,2,0.52,3,9,0,86.96
+325121,Lukáš Haraslín,lukas-haraslin,2218,AC Sparta Praha,7.31,2,1.54,16,4,1,82.11
+843746,Stjepan Radeljić,stjepan-radeljic,2039,HNK Rijeka,7.31,0,0.42,1,14,3,83.06
+809489,Joel Pereira,joel-pereira,3121,Lech Poznań,7.31,0,0.23,4,20,2,78.87
+987491,Bryan Okoh,bryan-okoh,2446,FC Lausanne-Sport,7.3,0,0.21,1,6,1,86.92
+1089580,Matthew Healy,matthew-healy,3177,Shamrock Rovers,7.3,0,0.1,2,8,1,89.8
+886365,Dominik Takáč,dominik-takac,2404,ŠK Slovan Bratislava,7.3,0,,0,0,0,69.18
+909506,Jaakko Oksanen,jaakko-oksanen,2244,Kuopion Palloseura,7.28,1,0.14,1,13,0,92.74
+94312,Daniel Batz,daniel-batz,2556,1. FSV Mainz 05,7.28,0,,0,0,0,61.11
+984624,Yéremy Pino,yeremy-pino,7,Crystal Palace,7.28,1,1.79,12,14,2,77.37
+209082,Marcus Rohdén,marcus-rohden,3404,AEK Larnaca,7.28,1,0.2,2,7,2,76.74
+102982,Zlatan Alomerović,zlatan-alomerovic,3404,AEK Larnaca,7.28,0,,0,1,0,58.74
+1652719,Gaoussou Diakite,gaoussou-diakite,2446,FC Lausanne-Sport,7.27,2,2.62,15,12,0,77.45
+137677,Vitaliy Buyalskiy,vitaliy-buyalskiy,3305,Dynamo Kyiv,7.27,1,1.13,4,2,1,72.15
+1021938,Jamie Roche,jamie-roche,2446,FC Lausanne-Sport,7.27,0,0.29,2,19,0,85.15
+137983,Gus Ledes,gus-ledes,3404,AEK Larnaca,7.26,0,0.13,2,4,1,89.7
+88528,Florian Lejeune,florian-lejeune,2818,Rayo Vallecano,7.25,1,1.69,1,26,1,88.01
+896421,Žan Karničnik,zan-karnicnik,2413,NK Celje,7.25,1,0.1,1,13,0,92.82
+208988,Pablo Marí,pablo-mari,2693,Fiorentina,7.25,0,0.23,1,6,0,91.9
+1028307,Kaishu Sano,kaishu-sano,2556,1. FSV Mainz 05,7.24,1,0.62,8,17,1,84.32
+43136,Guram Kashia,guram-kashia,2404,ŠK Slovan Bratislava,7.23,1,0.77,0,16,1,84.97
+604174,Bernardo Lopes,bernardo-lopes,126304,Lincoln Red Imps,7.23,1,0.42,3,6,1,80.87
+904850,Valerii Bondar,valerii-bondar,3313,Shakhtar Donetsk,7.23,0,0.76,2,7,0,96.01
+280729,Asger Sørensen,asger-srensen,2218,AC Sparta Praha,7.23,1,0.16,1,5,0,90.53
+1544436,Omar Janneh,omar-janneh,2446,FC Lausanne-Sport,7.2,1,0.31,4,0,1,61.29
+941338,Lazaros Rota,lazaros-rota,3250,AEK Athens,7.2,0,0.32,10,24,2,90.36
+46357,Vladimír Weiss,vladimir-weiss,2404,ŠK Slovan Bratislava,7.2,0,,1,5,1,70.24
+578364,Taras Romanczuk,taras-romanczuk,7691,Jagiellonia Białystok,7.2,0,0.4,3,18,1,87.57
+50826,Adam Matthews,adam-matthews,3177,Shamrock Rovers,7.2,0,,0,3,0,84.72
+931844,Chris Richards,chris-richards,7,Crystal Palace,7.2,0,1.18,5,29,0,88.52
+793995,Danylo Ignatenko,danylo-ignatenko,2404,ŠK Slovan Bratislava,7.2,0,0.49,2,14,0,88.1
+1471221,Alisson Santana,alisson,3313,Shakhtar Donetsk,7.18,3,0.93,15,8,0,81.82
+930660,Doni Arifi,doni-arifi,2244,Kuopion Palloseura,7.18,0,0.07,5,15,1,89.24
+1190938,Martial Godo,martial-godo,1659,RC Strasbourg,7.18,4,4.39,16,8,3,82.24
+922018,Peer Koopmeiners,peer-koopmeiners,2950,AZ Alkmaar,7.18,0,0.39,4,26,2,87.94
+885719,Martin Zlomislić,martin-zlomislic,2039,HNK Rijeka,7.18,0,,0,0,0,67.32
+1008111,Denso Kasius,denso-kasius,2950,AZ Alkmaar,7.18,0,0.68,4,8,2,81.68
+885709,Klisman Cake,klisman-cake,5413,KF Shkëndija,7.17,0,0.03,2,9,0,84.96
+1087931,Isak Steiner Jensen,isak-steiner-jensen,2950,AZ Alkmaar,7.16,5,2.22,14,6,1,83.19
+826043,Jan Král,jan-kral,2207,SK Sigma Olomouc,7.16,2,0.26,0,7,0,84.0
+1405756,Kees Smit,kees-smit,2950,AZ Alkmaar,7.16,0,1.83,16,16,4,86.89
+359670,Francis Uzoho,francis-uzoho,3395,Omonia Nicosia,7.16,0,,0,0,0,57.69
+1562120,Wojciech Mońka,monka-wojciech,3121,Lech Poznań,7.16,0,0.2,0,11,0,91.82
+946291,Svit Sešlar,svit-seslar,2413,NK Celje,7.15,2,1.68,3,3,1,77.93
+51225,Domagoj Vida,domagoj-vida,3250,AEK Athens,7.15,1,1.15,0,2,0,91.54
+827540,Alexandru Cicâldău,alexandru-cicaldau,116223,Universitatea Craiova,7.15,1,0.25,4,4,0,69.7
+850404,Orbelín Pineda,orbelin-pineda,3250,AEK Athens,7.15,0,0.67,20,22,2,87.76
+175177,Jesús Imaz,jesus-imaz,7691,Jagiellonia Białystok,7.14,3,1.15,2,3,0,78.57
+972886,Fabiano Parisi,fabiano-parisi,2693,Fiorentina,7.14,0,0.18,10,7,0,85.71
+1014718,Arb Manaj,arb-manaj,229755,FC Drita,7.14,2,0.6,0,5,0,63.64
+253303,Enric Saborit,enric-saborit,3404,AEK Larnaca,7.14,1,0.1,0,7,0,79.79
+1001765,Vincenzo Polito,vincenzo-polito,33583,Ħamrun Spartans FC,7.14,0,0.29,2,20,0,87.5
+1109771,Adam Wharton,adam-wharton,7,Crystal Palace,7.14,0,1.32,2,20,1,79.63
+1119294,Maxim Dekker,maxim-dekker,2950,AZ Alkmaar,7.13,0,,0,5,0,90.91
+1145982,Wouter Goes,wouter-goes,2950,AZ Alkmaar,7.13,0,0.07,3,8,0,89.81
+962404,Kevin Mouanga,kevin-mouanga,2446,FC Lausanne-Sport,7.13,0,0.42,6,15,1,86.02
+979665,Irakli Azarovi,azarovi-irakli,3313,Shakhtar Donetsk,7.13,0,0.02,0,6,1,83.47
+827372,Karlo Letica,karlo-letica,2446,FC Lausanne-Sport,7.13,0,,0,0,0,59.44
+794338,Daichi Kamada,daichi-kamada,7,Crystal Palace,7.12,1,0.99,7,29,4,87.06
+962068,Sebastian Nanasi,sebastian-nanasi,1659,RC Strasbourg,7.12,2,1.35,4,3,3,88.35
+833562,Yehor Nazaryna,yehor-nazaryna,3313,Shakhtar Donetsk,7.12,2,0.44,4,11,1,87.87
+980671,Sven Mijnans,sven-mijnans,2950,AZ Alkmaar,7.12,6,4.84,11,18,0,83.14
+1153198,Gabriel Sigua,sigua-gabriel,2446,FC Lausanne-Sport,7.12,1,0.43,5,11,1,85.82
+921157,Faton Maloku,faton-maloku,229755,FC Drita,7.11,0,,0,1,0,70.06
+905421,Luis Palma,luis-palma,3121,Lech Poznań,7.11,2,1.16,4,9,2,74.11
+204272,Graham Burke,graham-burke,3177,Shamrock Rovers,7.1,3,2.26,2,1,2,86.71
+157377,Silvan Widmer,silvan-widmer,2556,1. FSV Mainz 05,7.1,1,1.23,2,12,0,71.94
+64384,Kristinn Jónsson,kristinn-jonsson,1901,Breidablik Kópavogur,7.1,1,0.18,6,13,0,68.46
+909991,Simon Sohm,simon-sohm,2693,Fiorentina,7.1,1,0.13,2,1,0,79.12
+877558,Daniel Mandroiu,daniel-mandroiu,3177,Shamrock Rovers,7.1,1,0.07,3,1,0,96.55
+1185603,Kaden Rodney,kaden-rodney,7,Crystal Palace,7.1,0,,0,1,0,79.66
+134910,Tomáš Huk,tomas-huk,2207,SK Sigma Olomouc,7.1,0,,0,5,0,90.91
+856203,Martin Trnovský,martin-trnovsky,2404,ŠK Slovan Bratislava,7.1,0,,0,0,0,65.52
+905345,Yuki Kobayashi,yuki-kobayashi,7691,Jagiellonia Białystok,7.1,0,,0,3,0,88.64
+1149030,Sven Xerri,sven-xerri,33583,Ħamrun Spartans FC,7.1,0,,0,1,0,80.0
+1413197,Taras Mykhavko,taras-mykhavko,3305,Dynamo Kyiv,7.1,0,0.07,1,8,0,86.73
+2007717,Joel Drakes-Thomas,joel-drakes-thomas,7,Crystal Palace,7.1,0,0.06,3,2,0,84.0
+988275,Tyrick Mitchell,tyrick-mitchell,7,Crystal Palace,7.09,2,1.75,5,38,2,79.33
+943593,Marius Mouandilmadji,marius-mouandilmadji,3053,Samsunspor,7.09,8,6.79,1,7,2,61.49
+985403,Taofeek Ismaheel,taofeek-ismaheel,3121,Lech Poznań,7.09,3,3.44,6,4,3,82.02
+868329,Juanjo Nieto,juanjo-nieto,2413,NK Celje,7.09,0,0.26,10,20,0,89.98
+140735,Zeki Yavru,zeki-yavru,3053,Samsunspor,7.09,0,0.03,1,19,2,79.85
+353272,Mykola Matvienko,mykola-matvienko,3313,Shakhtar Donetsk,7.09,0,0.16,4,4,0,89.83
+175139,Jorge Miramón,jorge-miramon,3404,AEK Larnaca,7.09,0,0.85,3,18,0,77.42
+1426597,Lucas Høgsberg,lucas-hogsberg,1659,RC Strasbourg,7.08,0,0.04,1,12,0,84.83
+942335,Kamil Piątkowski,kamil-piatkowski,3106,Legia Warszawa,7.08,0,0.21,1,9,0,80.24
+1633781,Luca Meirelles,luca-oliveira-meirelles,3313,Shakhtar Donetsk,7.07,3,1.52,5,3,0,75.68
+877994,Marc Guéhi,marc-guehi,7,Crystal Palace,7.07,0,0.9,0,6,1,87.67
+879674,Maxence Lacroix,maxence-lacroix,7,Crystal Palace,7.06,2,1.56,1,20,1,90.4
+548178,Rolando Mandragora,rolando-mandragora,2693,Fiorentina,7.06,1,0.33,2,12,1,81.69
+35656,Etrit Berisha,etrit-berisha,1760,BK Häcken,7.06,0,,0,1,0,73.38
+1160858,Ermal Krasniqi,ermal-krasniqi,3106,Legia Warszawa,7.06,0,1.22,15,13,0,71.11
+1131931,Filipe Relvas,filipe-relvas,3250,AEK Athens,7.06,0,0.24,1,11,0,92.06
+876259,Hans Nicolussi Caviglia,hans-nicolussi-caviglia,2693,Fiorentina,7.06,0,0.14,4,6,0,84.82
+850895,Morgan Poaty,morgan-poaty,2446,FC Lausanne-Sport,7.06,0,,4,6,0,83.02
+358910,Augusto Batalla,augusto-batalla,2818,Rayo Vallecano,7.05,0,,3,2,1,61.84
+887806,Nardin Mulahusejnović,nardin-mulahusejnovic,262228,FC Noah,7.05,5,1.95,6,7,1,65.77
+1548899,Bartosz Mazurek,bartosz-mazurek,7691,Jagiellonia Białystok,7.05,3,2.07,9,7,0,87.73
+979473,Anthony Musaba,anthony-musaba,3053,Samsunspor,7.05,2,1.52,9,4,1,75.24
+550192,Vladyslav Kabaiev,vladyslav-kabaiev,3305,Dynamo Kyiv,7.05,2,0.77,2,5,1,84.44
+316196,Niclas Eliasson,niclas-eliasson,3250,AEK Athens,7.05,1,0.81,1,4,2,85.33
+151131,Muamer Tanković,muamer-tankovic,3395,Omonia Nicosia,7.05,1,0.92,2,0,0,74.14
+862933,Christian Rutjens,christian-rutjens,126304,Lincoln Red Imps,7.05,1,0.25,0,2,0,73.61
+792296,Oleksandr Pikhalyonok,oleksandr-pikhalyonok,3305,Dynamo Kyiv,7.05,0,0.21,1,14,2,87.85
+806972,Celil Yüksel,celil-yuksel,3053,Samsunspor,7.05,0,0.16,6,14,1,78.49
+1510503,Sekou Fofana,sekou-fofana,2446,FC Lausanne-Sport,7.05,0,0.11,2,7,1,83.33
+949605,Nikolas Panagiotou,nikolas-panagiotou,3395,Omonia Nicosia,7.05,0,,0,2,0,85.94
+982146,Sandro Cruz,sandro-cruz,2404,ŠK Slovan Bratislava,7.05,0,,3,14,0,81.37
+279563,Răzvan Marin,razvan-marin,3250,AEK Athens,7.04,3,2.31,3,18,2,83.33
+1093686,Matěj Ryneš,matej-rynes,2218,AC Sparta Praha,7.04,1,0.26,2,5,0,74.84
+874030,Pedrinho,pedrinho,3313,Shakhtar Donetsk,7.04,1,0.44,14,7,1,86.91
+893559,Mees De Wit,mees-de-wit,2950,AZ Alkmaar,7.04,1,1.14,5,20,1,89.96
+957138,Óli Valur Ómarsson,oli-valur-omarsson,1901,Breidablik Kópavogur,7.03,1,0.18,3,8,2,65.67
+841793,César Blackman,cesar-blackman,2404,ŠK Slovan Bratislava,7.03,1,0.27,15,7,0,85.31
+795934,Slobodan Jakovljević,slobodan-jakovljevic,5178,HŠK Zrinjski Mostar,7.03,1,0.26,0,2,0,77.94
+190179,Okan Kocuk,okan-kocuk,3053,Samsunspor,7.03,0,,0,0,0,76.06
+870360,Daniel Muñoz,daniel-munoz,7,Crystal Palace,7.03,1,1.1,1,33,1,79.02
+925880,Dušan Stojinović,dusan-stojinovic,7691,Jagiellonia Białystok,7.02,1,0.49,0,5,0,87.34
+945097,Tiago Dantas,tiago-dantas,2039,HNK Rijeka,7.02,0,0.23,3,5,3,86.32
+803023,Rick Van Drongelen,rick-van-drongelen,3053,Samsunspor,7.02,0,0.39,1,19,0,83.09
+913679,Pathé Ismaël Ciss,ismaila-ciss,2818,Rayo Vallecano,7.02,0,0.1,3,17,1,85.65
+919680,Saad Agouzoul,saad-agouzoul,3395,Omonia Nicosia,7.02,0,,0,8,0,77.22
+858501,Mateo Marić,mateo-maric,3395,Omonia Nicosia,7.02,0,0.07,2,12,0,91.18
+537552,Jae-sung Lee,jae-sung-lee,2556,1. FSV Mainz 05,7.01,1,0.45,0,6,2,82.73
+118204,Jaroslav Zelený,jaroslav-zeleny,2218,AC Sparta Praha,7.01,0,0.26,3,7,0,82.76
+911850,Mohamed Lamine Diaby,mohamed-lamine-diaby,35268,Raków Częstochowa,7.01,3,1.65,6,5,0,81.25
+940867,Oskar Repka,oskar-repka,35268,Raków Częstochowa,7.01,2,1.22,1,5,0,81.32
+326471,Gerard Gumbau,gerard-gumbau,2818,Rayo Vallecano,7.01,1,0.28,0,14,0,87.5
+1114422,Cher Ndour,cher-ndour,2693,Fiorentina,7.01,4,2.7,8,16,2,81.89
+789984,Dereck Kutesa,dereck-kutesa,3250,AEK Athens,7.0,3,1.49,8,3,1,77.92
+63896,Nemanja Bilbija,nemanja-bilbija,5178,HŠK Zrinjski Mostar,7.0,2,1.75,0,0,0,65.75
+352676,Olivier Ntcham,olivier-ntcham,3053,Samsunspor,7.0,1,1.41,9,5,0,84.83
+1596425,Matvii Ponomarenko,matvii-ponomarenko,3305,Dynamo Kyiv,7.0,1,0.38,0,0,0,83.33
+893998,Luca Ranieri,luca-ranieri,2693,Fiorentina,7.0,1,0.33,1,7,0,82.11
+283217,Johan Hammar,johan-hammar,1760,BK Häcken,7.0,1,0.19,1,2,0,91.23
+976375,Mykola Mykhailenko,mykola-mykhailenko,3305,Dynamo Kyiv,7.0,1,0.12,0,6,0,89.58
+935308,Robert Ljubičić,robert-ljubicic,3250,AEK Athens,7.0,0,,0,1,1,90.91
+1510499,Papa Souleymane N'Diaye,papa-souleymane-ndiaye,2446,FC Lausanne-Sport,7.0,0,,1,2,0,81.82
+1397756,Tommaso Martinelli,martinelli-tommaso,2693,Fiorentina,7.0,0,,0,0,0,82.69
+1213381,Billy van Duijl,billy-van-duijl,2950,AZ Alkmaar,7.0,0,,1,9,0,84.39
+232082,Damjan Vuklišević,damjan-vuklisevic,2413,NK Celje,7.0,0,0.34,0,2,0,89.07
+1124209,Artemijus Tutyškinas,artemijus-tutyskinas,2413,NK Celje,7.0,0,0.23,4,8,0,89.19
+110942,Antonio Milić,antonio-milic,3121,Lech Poznań,7.0,0,0.12,0,3,0,89.63
+1526569,Jeremie Gnali,jeremie-gnali,3404,AEK Larnaca,7.0,0,0.12,3,11,0,81.37
+796432,Jean Carlos Silva,jean-carlos-silva,35268,Raków Częstochowa,7.0,0,0.06,2,3,0,71.05
+929618,Matúš Malý,matus-maly,2207,SK Sigma Olomouc,7.0,0,0.03,0,4,0,86.84
+345111,Álvaro García,alvaro-garcia,2818,Rayo Vallecano,6.99,3,2.53,4,14,3,71.19
+1048958,Ante Oreč,ante-orec,2039,HNK Rijeka,6.99,0,0.33,8,28,1,70.2
+981527,Mateusz Skrzypczak,mateusz-skrzypczak,3121,Lech Poznań,6.99,0,0.02,1,4,0,94.3
+988473,Ștefan Baiaram,stefan-baiaram,116223,Universitatea Craiova,6.98,1,0.97,3,6,0,75.26
+80465,Petros Mantalos,petros-mantalos,3250,AEK Athens,6.98,0,0.43,8,10,0,81.79
+841413,Antonín Růsek,antonin-rusek,2207,SK Sigma Olomouc,6.98,1,1.06,6,5,0,70.45
+174345,Robin Zentner,robin-zentner,2556,1. FSV Mainz 05,6.98,0,,0,0,0,64.95
+807349,Baboucarr Gaye,baboucarr-gaye,5413,KF Shkëndija,6.98,0,,0,0,0,55.46
+1065442,Bernardo Vital,bernardo-vital,7691,Jagiellonia Białystok,6.98,0,0.58,1,12,0,87.16
+1446172,Daniel Adu-Adjei,adu-adjei-daniel,2039,HNK Rijeka,6.97,4,2.34,3,6,0,53.7
+152767,Mandi,mandi,126304,Lincoln Red Imps,6.96,0,0.82,7,12,0,78.4
+1105833,Marlon Gomes,marlon-gomes,3313,Shakhtar Donetsk,6.96,1,0.67,4,10,2,89.29
+973556,Julio Enciso,julio-enciso,1659,RC Strasbourg,6.95,3,4.31,6,4,3,78.07
+837012,Carlo Holse,carlo-holse,3053,Samsunspor,6.95,2,2.06,3,20,5,85.41
+1101198,Antoni Kozubal,antoni-kozubal,3121,Lech Poznań,6.95,2,2.28,3,18,0,81.9
+139248,Rudi Požeg Vancaš,rudi-pozeg-vancas,2413,NK Celje,6.95,1,1.05,2,5,1,79.66
+997198,Andrija Radulović,andrija-radulovic,2055,SK Rapid Wien,6.95,1,0.35,0,2,0,67.74
+138146,Louis Schaub,louis-schaub,2055,SK Rapid Wien,6.95,1,0.35,6,9,0,75.0
+793749,Mykola Shaparenko,mykola-shaparenko,3305,Dynamo Kyiv,6.95,0,0.2,3,2,2,89.09
+1398500,Ronaldo Webster,ronaldo-romario-webster,5413,KF Shkëndija,6.95,0,0.08,6,20,2,74.25
+228348,Marius Lode,marius-lode,1760,BK Häcken,6.95,0,,0,1,0,90.83
+227212,Thomas Strakosha,thomas-strakosha,3250,AEK Athens,6.95,0,,0,0,0,71.68
+106662,Stefan Bell,stefan-bell,2556,1. FSV Mainz 05,6.95,0,0.12,1,0,0,84.42
+829570,Jack Harrison,jack-harrison,2693,Fiorentina,6.95,0,0.11,7,7,0,79.64
+1020545,Norbert Wojtuszek,norbert-wojtuszek,7691,Jagiellonia Białystok,6.95,0,0.05,5,28,0,89.41
+588566,Unai López,unai-lopez,2818,Rayo Vallecano,6.95,2,1.41,3,20,0,88.1
+858194,Eddie Nketiah,eddie-nketiah,7,Crystal Palace,6.94,2,1.92,2,2,1,75.86
+1605921,Samir El Mourabet,el-mourabet-samir,1659,RC Strasbourg,6.94,1,0.94,7,20,0,89.4
+57291,Hovhannes Hambardzumyan,hovhannes-hambardzumyan,262228,FC Noah,6.94,1,0.06,1,3,0,65.63
+886909,Bartosz Mrozek,bartosz-mrozek,3121,Lech Poznań,6.94,0,,0,0,0,83.09
+1011994,Alaa Ghram,alaa-ghram,3313,Shakhtar Donetsk,6.94,0,0.02,1,4,0,91.13
+792659,Fran Tudor,fran-tudor,35268,Raków Częstochowa,6.94,0,0.02,2,17,0,81.62
+900008,Óscar Valentín,oscar-valentin,2818,Rayo Vallecano,6.94,0,0.12,1,20,1,89.52
+901850,Nicolò Fagioli,nicolo-fagioli,2693,Fiorentina,6.93,1,0.53,1,11,0,85.85
+1102501,Abdoulaye Sylla,abdoulaye-sylla,2207,SK Sigma Olomouc,6.93,1,0.43,0,11,0,79.77
+801073,Mikkel Rygaard,mikkel-rygaard,1760,BK Häcken,6.93,0,0.75,4,9,1,84.44
+194204,Hrvoje Barišić,hrvoje-barisic,5178,HŠK Zrinjski Mostar,6.93,0,,1,5,0,82.64
+1152849,Sławomir Abramowicz,slawomir-abramowicz,7691,Jagiellonia Białystok,6.93,0,,0,0,0,67.79
+1134525,Ben Bobzien,ben-bobzien,2556,1. FSV Mainz 05,6.93,0,0.05,3,2,0,86.36
+547862,Kaan Kairinen,kaan-kairinen,2218,AC Sparta Praha,6.93,0,0.05,1,12,0,92.36
+1471671,Jaydee Canvot,jaydee-canvot,7,Crystal Palace,6.93,0,0.05,4,20,0,89.28
+1046461,Nikita Iosifov,nikita-iosifov,2413,NK Celje,6.93,2,2.71,11,14,0,82.68
+1416941,Jan Koutný,jan-koutny,2207,SK Sigma Olomouc,6.93,0,,0,1,0,55.08
+1169719,Beyatt Lekoueiry,beyatt-lekweiry,2446,FC Lausanne-Sport,6.93,1,0.93,12,9,0,84.29
+983066,Andrew Omobamidele,andrew-omobamidele,1659,RC Strasbourg,6.93,0,0.16,0,6,0,93.91
+1884145,Christantus Uche,christantus-uche,7,Crystal Palace,6.93,2,1.04,3,2,0,73.58
+1930811,Abdoul Ouattara,abdoul-ouattara,1659,RC Strasbourg,6.93,2,0.9,3,9,0,91.01
+845906,Lee Grace,lee-grace,3177,Shamrock Rovers,6.93,0,0.42,0,3,0,75.0
+1175899,Samuli Miettinen,samuli-miettinen,2244,Kuopion Palloseura,6.93,0,0.13,0,3,0,89.49
+954060,Tanguy Coulibaly,tanguy-coulibaly,3053,Samsunspor,6.93,0,0.1,5,8,0,89.8
+152206,Dominik Kohr,dominik-kohr,2556,1. FSV Mainz 05,6.92,0,0.34,2,18,0,84.6
+327755,Nadiem Amiri,nadiem-amiri,2556,1. FSV Mainz 05,6.92,2,2.22,1,3,0,83.56
+14990,Edin Džeko,edin-dzeko,2693,Fiorentina,6.92,1,1.88,2,0,0,72.17
+887011,Adrian Rus,adrian-rus,116223,Universitatea Craiova,6.92,0,,1,5,0,84.89
+123875,Piotr Parzyszek,piotr-parzyszek,2244,Kuopion Palloseura,6.92,3,1.71,0,1,0,58.59
+930245,Evann Guessand,evann-guessand,7,Crystal Palace,6.92,1,1.06,7,6,0,83.87
+1391308,Furkan Demir,furkan-demir,2055,SK Rapid Wien,6.92,0,0.32,2,18,1,71.32
+1173222,Romeo Amane,romeo-amane,2055,SK Rapid Wien,6.92,0,0.26,5,15,0,83.95
+1397914,Kouadio Ange Ahoussou,ahoussou-kouadio-ange,2055,SK Rapid Wien,6.92,0,0.11,2,9,0,83.03
+941669,Dmytro Riznyk,dmytro-riznyk,3313,Shakhtar Donetsk,6.91,0,,0,0,0,75.4
+114062,Mikael Ishak,mikael-ishak,3121,Lech Poznań,6.91,8,8.61,4,1,1,78.11
+309648,Bartosz Kapustka,bartosz-kapustka,3106,Legia Warszawa,6.9,1,0.37,3,7,2,86.0
+1141593,N'Dri Koffi,ndri-koffi,33583,Ħamrun Spartans FC,6.9,1,1.6,9,6,1,70.59
+1083407,Silas Andersen,silas-andersen,1760,BK Häcken,6.9,1,0.81,3,12,1,84.18
+1090061,Matyáš Vojta,matyas-vojta,2218,AC Sparta Praha,6.9,1,0.8,2,1,0,83.33
+942921,Almir Ajzeraj,almir-ajzeraj,229755,FC Drita,6.9,1,0.68,4,13,0,80.58
+847467,Marin Pongračić,marin-pongracic,2693,Fiorentina,6.9,1,0.48,8,14,0,91.55
+1002514,John Mercado,john-mercado,2218,AC Sparta Praha,6.9,1,0.46,8,10,0,81.48
+937188,Oleksandr Romanchuk,oleksandr-romanchuk,116223,Universitatea Craiova,6.9,1,0.36,0,8,0,81.07
+244611,Matej Poplatnik,matej-poplatnik,2413,NK Celje,6.9,1,0.35,0,1,0,69.57
+842944,Vahan Bichakhchyan,vahan-bichakhchyan,3106,Legia Warszawa,6.9,1,0.34,0,2,0,75.86
+1119364,Samuele Vignato,samuele-vignato,2039,HNK Rijeka,6.9,0,0.65,4,5,1,84.0
+97926,Danny da Costa,danny-da-costa,2556,1. FSV Mainz 05,6.9,0,0.35,2,20,1,78.75
+1103106,Takuto Oshima,takuto-oshima,262228,FC Noah,6.9,0,0.22,2,8,1,91.72
+1117232,Yerson Chacón,yerson-chacon,3404,AEK Larnaca,6.9,0,0.03,1,0,1,85.71
+136366,Sean Kavanagh,sean-kavanagh,3177,Shamrock Rovers,6.9,0,,0,1,0,91.67
+1500650,Ásgeir Orrason,asgeir-orrason,1901,Breidablik Kópavogur,6.9,0,,0,4,0,76.19
+249859,Walter Benítez,walter-benitez,7,Crystal Palace,6.9,0,,0,0,0,79.37
+1118181,Lequincio Zeefuik,lequincio-zeefuik,2950,AZ Alkmaar,6.9,0,,2,1,0,100.0
+814180,Peter Vindahl,peter-vindahl,2218,AC Sparta Praha,6.9,0,,0,0,0,74.22
+1562510,Wassim Bouziane,wassim-bouziane,2950,AZ Alkmaar,6.9,0,0.09,2,0,0,74.07
+1032918,Drilon Islami,drilon-islami,5413,KF Shkëndija,6.9,0,0.03,1,7,0,89.74
+1177610,Alfie Dorrington,dorrington-alfie,2355,Aberdeen,6.9,0,0.01,1,7,0,84.51
+899982,Isi Palazón,isi-palazon,2818,Rayo Vallecano,6.89,3,2.71,6,13,3,80.63
+920391,Antoine Makoumbou,antoine-makoumbou,3053,Samsunspor,6.89,0,0.05,4,14,1,88.26
+1155252,Angelos Neophytou,angelos-neophytou,3395,Omonia Nicosia,6.89,3,0.84,2,1,0,76.09
+1407484,Samuel Amo-Ameyaw,amo-ameyaw-samuel,1659,RC Strasbourg,6.89,0,0.25,14,4,2,84.83
+966637,Fran Pérez,fran-perez,2818,Rayo Vallecano,6.88,2,1.13,4,2,1,88.19
+156416,Höskuldur Gunnlaugsson,hoskuldur-gunnlaugsson,1901,Breidablik Kópavogur,6.88,1,1.64,6,9,0,75.27
+958923,Artem Bondarenko,artem-bondarenko,3313,Shakhtar Donetsk,6.88,1,0.36,3,1,0,88.51
+1067639,Vinícius Tobias,vinicius-tobias,3313,Shakhtar Donetsk,6.88,0,0.35,13,25,1,88.41
+985279,Pavlo Isenko,pavlo-isenko,116223,Universitatea Craiova,6.88,0,,0,0,0,71.6
+1032178,Taneli Hämäläinen,taneli-hamalainen,2244,Kuopion Palloseura,6.88,0,,5,10,0,90.0
+230932,Kenan Bajrić,kenan-bajric,2404,ŠK Slovan Bratislava,6.88,0,0.1,2,11,0,86.39
+850035,Luiz Felipe,luiz-felipe,2818,Rayo Vallecano,6.88,0,0.07,0,9,0,92.34
+825070,Danijel Šturm,danijel-sturm,2207,SK Sigma Olomouc,6.88,1,1.8,11,9,2,84.21
+73624,Damir Muminović,damir-muminovic,1901,Breidablik Kópavogur,6.88,0,0.11,0,3,0,81.4
+319129,Luka Jović,luka-jovic,3250,AEK Athens,6.88,3,7.02,5,4,1,68.06
+975800,Benedict Hollerbach,benedict-hollerbach,2556,1. FSV Mainz 05,6.88,1,1.02,2,2,1,75.68
+881844,Ángelo Preciado,angelo-preciado,2218,AC Sparta Praha,6.88,1,0.09,4,4,1,77.36
+1010421,Pep Chavarría,josep-chavarria,2818,Rayo Vallecano,6.88,0,0.13,3,16,1,75.61
+963211,Brandon Soppy,brandon-soppy,2446,FC Lausanne-Sport,6.88,0,0.02,9,20,1,73.46
+1048102,Bogdan Racovițan,bogdan-racovitan,35268,Raków Częstochowa,6.88,0,0.39,2,12,0,85.56
+936874,Bartłomiej Wdowik,bartlomiej-wdowik,7691,Jagiellonia Białystok,6.88,0,0.29,4,20,0,78.75
+1009268,Mattia Viti,mattia-viti,2693,Fiorentina,6.88,0,0.29,0,3,0,86.71
+551468,Ewandro Costa,ewandro-costa,3395,Omonia Nicosia,6.87,0,0.62,2,13,1,75.9
+1014682,Pablo Rodríguez,pablo-rodriguez,3121,Lech Poznań,6.87,1,1.73,7,14,1,75.48
+1085180,Brennan Johnson,brennan-johnson,7,Crystal Palace,6.87,0,0.11,2,4,1,83.52
+797032,Anton Ari Einarsson,anton-ari-einarsson,1901,Breidablik Kópavogur,6.87,0,,0,0,0,80.1
+949819,Juergen Elitim,juergen-elitim,3106,Legia Warszawa,6.87,0,0.39,0,6,0,80.0
+792027,Samuel Leach Holm,samuel-leach-holm,1760,BK Häcken,6.87,0,0.04,0,1,0,74.58
+1122497,Duje Dujmović,duje-dujmovic,5178,HŠK Zrinjski Mostar,6.86,1,1.19,6,14,0,79.13
+193554,Will Hughes,will-hughes,7,Crystal Palace,6.86,0,0.09,1,9,0,88.89
+95494,Tigran Barseghyan,tigran-barseghyan,2404,ŠK Slovan Bratislava,6.86,0,1.02,6,3,1,72.41
+831510,Veljko Birmančević,veljko-birmancevic,2218,AC Sparta Praha,6.86,0,0.35,5,6,1,75.86
+1004278,Alexandre Penetra,alexandre-penetra,2950,AZ Alkmaar,6.86,0,0.14,0,12,0,93.48
+1426224,Mathis Amougou,mathis-amougou,1659,RC Strasbourg,6.86,0,0.09,4,8,0,92.31
+542634,Pacha,pacha,2818,Rayo Vallecano,6.86,2,0.4,5,19,1,83.45
+822518,Dodô,dodo,2693,Fiorentina,6.86,0,0.09,12,6,1,82.23
+1133258,Josafat Mendes,josafat-mendes,3053,Samsunspor,6.86,0,0.07,7,12,0,89.24
+826033,Mario Ćuže,mario-cuze,5178,HŠK Zrinjski Mostar,6.85,1,2.28,3,6,0,76.92
+41116,Andriy Yarmolenko,andriy-yarmolenko,3305,Dynamo Kyiv,6.85,1,0.29,1,3,0,80.0
+877978,Andy Pelmard,andy-pelmard,7691,Jagiellonia Białystok,6.85,0,,0,3,1,91.19
+2203670,Ágúst Orri Thorsteinsson,agust-orri-porsteinsson,1901,Breidablik Kópavogur,6.85,0,0.68,13,9,1,73.68
+331853,Marlon,marlon,3313,Shakhtar Donetsk,6.85,0,,0,2,0,96.34
+1135583,Polat Yaldır,polat-yaldir,3053,Samsunspor,6.85,0,,1,2,0,66.67
+1458073,Nobel Mendy,nobel-mendy,2818,Rayo Vallecano,6.85,0,,0,0,0,80.0
+1002780,Kiril Fesyun,fesyun-kiril,3313,Shakhtar Donetsk,6.85,0,,1,0,0,89.03
+797966,Goran Karačić,goran-karacic,5178,HŠK Zrinjski Mostar,6.85,0,,0,0,0,57.84
+188335,Stefan Simic,stefan-simic,3395,Omonia Nicosia,6.85,0,0.47,1,6,0,88.44
+795522,Dylan Watts,dylan-watts,3177,Shamrock Rovers,6.85,0,0.22,5,11,0,72.82
+1063977,Leon Flach,leon-flach,7691,Jagiellonia Białystok,6.85,0,0.21,0,19,0,84.18
+998962,Imran Fetai,imran-fetai,5413,KF Shkëndija,6.85,0,0.13,0,7,0,86.75
+986992,Nathanaël Saintini,nathanael-saintini,262228,FC Noah,6.85,0,0.07,2,7,0,87.06
+1028330,Seiya Maikuma,seiya-maikuma,2950,AZ Alkmaar,6.85,0,0.05,1,4,0,73.68
+1000408,Volodymyr Brazhko,volodymyr-brazhko,3305,Dynamo Kyiv,6.85,0,0.05,0,1,0,93.48
+889491,Amine Khammas,amine-khammas,3395,Omonia Nicosia,6.85,0,0.04,1,7,0,81.25
+940864,Clinton Antwi,clinton-antwi,2244,Kuopion Palloseura,6.84,1,0.19,3,5,1,84.92
+1175494,Adriano,adriano,35268,Raków Częstochowa,6.84,0,0.25,12,8,1,84.51
+1482841,Kauã Elias,elias-kaua,3313,Shakhtar Donetsk,6.84,2,2.8,12,13,3,78.77
+1145999,Rome Jayden Owusu-Oduro,rome-jayden-owusu-oduro,2950,AZ Alkmaar,6.84,0,,0,0,0,64.71
+887247,Denys Popov,denys-popov,3305,Dynamo Kyiv,6.83,1,0.32,1,5,0,89.44
+914749,Sergio Lozano,sergio-lozano,7691,Jagiellonia Białystok,6.83,1,0.18,0,1,0,68.42
+793239,Liridon Latifi,liridon-latifi,5413,KF Shkëndija,6.83,1,1.25,12,8,0,68.93
+1019038,Gustavo Sangaré,gustavo-sangare,262228,FC Noah,6.83,0,0.39,7,16,0,84.57
+882446,Monday Etim,monday-etim,116223,Universitatea Craiova,6.83,1,0.67,4,3,0,80.7
+979393,Patryk Makuch,makuch-patryk,35268,Raków Częstochowa,6.83,0,0.46,4,4,1,67.94
+971393,Michael Ameyaw,michael-ameyaw,35268,Raków Częstochowa,6.83,0,0.35,7,17,1,81.47
+153829,Sean Gannon,sean-gannon,3174,Shelbourne,6.83,0,,0,1,0,85.71
+1142233,Diego Moreira,diego-moreira,1659,RC Strasbourg,6.82,0,0.71,12,19,1,79.15
+1388767,Gisli Thordarson,gisli-thordarson,3121,Lech Poznań,6.82,0,0.53,2,7,0,89.19
+551338,Kyriakos Savvidis,kyriakos-savvidis,2404,ŠK Slovan Bratislava,6.82,0,0.18,1,8,0,89.43
+794294,Andreas Hanche Olsen,andreas-hanche-olsen,2556,1. FSV Mainz 05,6.82,0,0.13,2,5,0,85.97
+921550,Toni Kolega,toni-kolega,126304,Lincoln Red Imps,6.82,0,,3,22,1,70.07
+905109,Ognjen Bjeličić,ognjen-bjelicic,33583,Ħamrun Spartans FC,6.82,0,0.32,4,13,0,81.13
+804909,Albert Guðmundsson,albert-gudmundsson,2693,Fiorentina,6.81,4,2.17,4,5,2,88.98
+1526934,Niccolò Fortini,niccolo-fortini,2693,Fiorentina,6.81,0,0.53,5,15,0,83.54
+936848,Theo Bair,theo-bair,2446,FC Lausanne-Sport,6.8,2,2.32,3,4,0,71.3
+992951,Mileta Rajović,mileta-rajovic,3106,Legia Warszawa,6.8,2,2.02,1,1,0,62.9
+986321,Albert Dabiqaj,albert-dabiqaj,229755,FC Drita,6.8,2,0.79,2,12,0,79.17
+1028306,Sota Kawasaki,sota-kawasaki,2556,1. FSV Mainz 05,6.8,1,0.39,2,11,1,76.07
+1126979,Tomasz Pieńko,tomasz-pienko,35268,Raków Częstochowa,6.8,1,0.37,7,6,1,81.45
+858273,Kristofer Kristinsson,kristofer-kristinsson,1901,Breidablik Kópavogur,6.8,1,0.6,1,6,0,67.74
+357602,Ante Ćorić,ante-coric,33583,Ħamrun Spartans FC,6.8,1,0.28,4,2,0,90.14
+2055327,Bendegúz Kovács,bendeguz-kovacs,2950,AZ Alkmaar,6.8,0,,0,0,1,50.0
+900111,Sivert Mannsverk,sivert-mannsverk,2218,AC Sparta Praha,6.8,0,0.49,2,6,1,83.5
+1216491,Theo Bergvall,theo-bergvall,2446,FC Lausanne-Sport,6.8,0,,0,0,0,40.0
+1548919,Harry Hilvenius,harry-hilvenius,1760,BK Häcken,6.8,0,,0,2,0,87.5
+1590944,Rio Robbemond,robbemond-rio,2950,AZ Alkmaar,6.8,0,,1,3,0,80.95
+984163,Arttu Heinonen,arttu-heinonen,2244,Kuopion Palloseura,6.8,0,,0,0,0,81.82
+1476713,Cian Barrett,cian-barrett,3177,Shamrock Rovers,6.8,0,,0,2,0,75.0
+139272,Luca Lezzerini,luca-lezzerini,2693,Fiorentina,6.8,0,,0,0,0,57.58
+1048820,Noah Weißhaupt,noah-weisshaupt,3106,Legia Warszawa,6.8,0,,1,0,0,86.67
+1146002,Dave Kwakman,dave-kwakman,2950,AZ Alkmaar,6.8,0,,1,1,0,84.81
+169729,Gonçalo Silva,goncalo-silva,262228,FC Noah,6.8,0,,0,1,0,86.96
+576008,Paulo Ricardo,paulo-ricardo,2244,Kuopion Palloseura,6.8,0,,0,3,0,88.76
+829190,James Penrice,james-penrice,3250,AEK Athens,6.8,0,,0,2,0,84.54
+843039,Ercan Kara,ercan-kara,2055,SK Rapid Wien,6.8,0,1.34,4,2,0,61.97
+355796,Jefferson Lerma,jefferson-lerma,7,Crystal Palace,6.8,0,0.48,0,9,0,83.21
+1003419,Ivan Ćalušić,ivan-calusic,2413,NK Celje,6.8,0,0.23,3,4,0,85.09
+1865871,Uchenna Aririerisim,uchenna-aririerisim,2218,AC Sparta Praha,6.8,0,0.21,1,4,0,87.92
+1469007,Rio Cardines,rio-cardines,7,Crystal Palace,6.8,0,0.13,0,1,0,0.0
+189897,Paddy Barrett,paddy-barrett,3174,Shelbourne,6.8,0,0.12,0,2,0,80.74
+1146463,Reshat Ramadani,ramadani-reshat,5413,KF Shkëndija,6.8,0,0.12,3,11,0,88.19
+1808088,Bogdan Redushko,bogdan-redushko,3305,Dynamo Kyiv,6.8,0,0.11,0,2,0,80.0
+1906267,Amin Gröller,amin-groller,2055,SK Rapid Wien,6.8,0,0.08,1,5,0,79.78
+1121333,Amir Richardson,amir-richardson,2693,Fiorentina,6.8,0,0.06,4,6,0,88.16
+966651,Łukasz Bejger,lukasz-bejger,2413,NK Celje,6.79,0,0.08,2,9,0,90.44
+840521,Jonatan Braut Brunes,jonatan-braut-brunes,35268,Raków Częstochowa,6.79,3,3.43,5,1,1,80.3
+848080,Pozo,pozo,7691,Jagiellonia Białystok,6.79,0,0.5,5,7,0,79.08
+990140,Karol Struski,karol-struski,35268,Raków Częstochowa,6.79,1,0.55,1,7,1,77.87
+369940,Giannis Masouras,giannis-masouras,3395,Omonia Nicosia,6.79,1,0.48,6,14,0,69.07
+981031,Igor Savić,igor-savic,5178,HŠK Zrinjski Mostar,6.79,0,0.56,1,21,0,72.6
+352616,Godswill Ekpolo,godswill-ekpolo,3404,AEK Larnaca,6.79,0,0.21,2,10,0,79.2
+848082,Yan Eteki,yan-eteki,262228,FC Noah,6.79,0,0.02,2,10,0,90.87
+1110078,Jack Henry-Francis,jack-henry-francis,3174,Shelbourne,6.78,0,,4,10,0,81.43
+788134,Dean Henderson,dean-henderson,7,Crystal Palace,6.78,0,,0,0,0,59.72
+927169,Jiří Sláma,jiri-slama,2207,SK Sigma Olomouc,6.78,0,0.1,3,13,0,69.55
+1122387,Anel Husić,anel-husic,2039,HNK Rijeka,6.78,0,0.05,0,11,0,84.08
+876677,Jaylan Hankins,jaylan-hankins,126304,Lincoln Red Imps,6.78,0,,0,0,0,47.83
+849826,Jonathan Lunney,jonathan-lunney,3174,Shelbourne,6.78,0,,1,8,0,90.3
+962877,Adil Aouchiche,adil-aouchiche,2355,Aberdeen,6.78,0,0.24,1,14,0,77.9
+1153333,Rafael Luis,luis-rafael,1659,RC Strasbourg,6.78,0,0.12,0,8,0,88.89
+199092,Nicușor Bancu,nicusor-bancu,116223,Universitatea Craiova,6.78,0,0.12,9,13,0,78.42
+1002334,Zini,zini,3250,AEK Athens,6.78,2,1.26,5,1,0,81.82
+1124208,Armandas Kučys,armandas-kucys,2413,NK Celje,6.78,1,1.18,0,1,1,78.26
+1638822,Jakub Żewłakow,jakub-zewlakow,3106,Legia Warszawa,6.78,0,0.51,2,3,1,77.78
+1526933,Eddy Kouadio,eddy-kouadio,2693,Fiorentina,6.78,0,0.02,1,5,1,82.35
+1394149,Matěj Hadaš,hadas-matej,2207,SK Sigma Olomouc,6.78,0,0.44,7,13,0,78.68
+1406539,Panagiotis Andreou,andreou-panagiotis,3395,Omonia Nicosia,6.78,0,0.15,1,9,0,83.22
+951985,Jimmy Suárez,jimmy-suarez,3404,AEK Larnaca,6.78,0,0.03,0,2,0,81.65
+981604,Alemão,alemao,2818,Rayo Vallecano,6.77,4,2.49,2,8,0,63.54
+1012383,Kacper Urbański,kacper-urbanski,3106,Legia Warszawa,6.77,1,0.98,5,3,1,89.15
+1438837,Romain Esse,romain-esse,7,Crystal Palace,6.77,0,0.43,5,4,0,84.91
+1005916,Veton Tusha,veton-tusha,229755,FC Drita,6.77,0,0.24,3,3,0,67.74
+885049,Rron Broja,rron-broja,229755,FC Drita,6.77,0,0.15,0,7,0,85.71
+882074,Mladen Devetak,mladen-devetak,2039,HNK Rijeka,6.77,0,0.08,2,13,0,84.01
+785464,Ali Coote,ali-coote,3174,Shelbourne,6.77,0,0.05,2,1,0,72.73
+900669,Pedro Díaz,pedro-diaz,2818,Rayo Vallecano,6.76,0,0.27,6,10,2,89.14
+1030309,Abubakar Ghali,abubakar-ghali,2207,SK Sigma Olomouc,6.76,2,1.81,8,16,0,60.98
+1631907,Lucas Ferreira,lucas-dos-santos-ferreira,3313,Shakhtar Donetsk,6.76,1,1.67,8,15,1,85.71
+1198066,Mouad El Fanis,mouad-el-fanis,33583,Ħamrun Spartans FC,6.76,1,0.66,1,1,0,73.61
+139578,Emerson,emerson,33583,Ħamrun Spartans FC,6.76,0,,1,12,0,83.12
+369708,Ioannis Kousoulos,ioannis-kousoulos,3395,Omonia Nicosia,6.76,0,0.23,2,4,0,77.3
+1029004,Arnór Gauti Jónsson,arnor-gauti-jonsson,1901,Breidablik Kópavogur,6.76,0,0.17,0,7,0,84.09
+377118,Robin Gosens,robin-gosens,2693,Fiorentina,6.76,0,0.66,1,6,0,78.14
+910378,Darko Hrka,darko-hrka,2413,NK Celje,6.76,1,0.46,3,14,1,86.93
+974076,Stavros Pilios,stavros-pilios,3250,AEK Athens,6.76,0,0.61,7,16,2,76.16
+868268,Cherif Ndiaye,cherif-ndiaye,3053,Samsunspor,6.75,2,2.05,1,4,0,78.79
+795128,Harold Moukoudi,harold-moukoudi,3250,AEK Athens,6.75,1,1.76,2,9,0,88.04
+1471391,John Paul Dembe,dembe-john-paul,1760,BK Häcken,6.75,1,0.87,1,1,0,78.13
+1030954,Besnik Krasniqi,besnik-krasniqi,229755,FC Drita,6.75,0,0.12,3,12,2,76.99
+327419,Saku Savolainen,saku-savolainen,2244,Kuopion Palloseura,6.75,0,,4,8,1,71.43
+137095,Mario Kvesić,mario-kvesic,2413,NK Celje,6.75,0,0.96,10,6,1,80.22
+1423459,Michal Gurgul,gurgul-michal,3121,Lech Poznań,6.75,0,0.07,0,10,1,78.44
+1860094,Dominik Thaqi,dominik-thaqi,2039,HNK Rijeka,6.75,0,0.06,0,5,1,68.42
+822170,Viktor Karl Einarsson,viktor-karl-einarsson,1901,Breidablik Kópavogur,6.75,0,0.05,4,14,1,86.45
+1036147,Kacper Trelowski,kacper-trelowski,35268,Raków Częstochowa,6.75,0,,0,0,0,79.37
+1425402,Vladyslav Zakharchenko,vladyslav-zakharchenko,3305,Dynamo Kyiv,6.75,0,,0,1,0,81.52
+355478,Paul Gartler,paul-gartler,2055,SK Rapid Wien,6.75,0,,0,0,0,41.94
+43215,Nathaniel Clyne,nathaniel-clyne,7,Crystal Palace,6.75,0,,0,2,0,75.0
+905374,Petros Ioannou,petros-ioannou,3404,AEK Larnaca,6.75,0,,2,2,0,66.67
+1047268,Arttu Lötjönen,arttu-lotjonen,2244,Kuopion Palloseura,6.75,0,,1,2,0,85.0
+1049517,Ismael Doukouré,ismael-doukoure,1659,RC Strasbourg,6.75,0,0.96,4,11,0,89.82
+22801,Sivert Heltne Nilsen,sivert-heltne-nilsen,2355,Aberdeen,6.75,0,0.11,1,4,0,94.74
+1033264,Apostolos Konstantopoulos,apostolos-konstantopoulos,35268,Raków Częstochowa,6.75,0,0.1,1,3,0,77.27
+557336,Radovan Pankov,radovan-pankov,3106,Legia Warszawa,6.75,0,0.1,0,2,0,83.72
+202032,Emre Kılınç,emre-klnc,3053,Samsunspor,6.74,1,1.04,7,7,1,80.0
+869413,Waldo Rubio Marín,waldo-rubio-marin,3404,AEK Larnaca,6.74,1,1.08,7,2,0,72.22
+1002518,Péter Baráth,peter-barath,2207,SK Sigma Olomouc,6.74,0,0.99,3,18,1,78.85
+280835,Marko Grujić,marko-grujic,3250,AEK Athens,6.74,0,0.13,0,3,0,79.31
+141203,Kevin Wimmer,kevin-wimmer,2404,ŠK Slovan Bratislava,6.74,0,0.03,0,5,0,79.24
+998835,Nathan Butler-Oyedeji,butler-oyedeji-nathan,2446,FC Lausanne-Sport,6.74,1,0.91,4,4,0,81.02
+1111213,Raddy Ovouka,raddy-ovouka,229755,FC Drita,6.74,0,0.15,10,23,0,64.14
+297324,Karol Angielski,karol-angielski,3404,AEK Larnaca,6.73,1,1.17,1,0,0,92.31
+796721,Viktor Orn Margeirsson,viktor-orn-margeirsson,1901,Breidablik Kópavogur,6.73,1,0.86,0,8,0,85.66
+34317,Fabiano,fabiano,3395,Omonia Nicosia,6.73,0,,0,0,0,73.33
+927799,Alen Mustafić,alen-mustafic,2404,ŠK Slovan Bratislava,6.73,0,,0,2,0,86.67
+1916304,Borna Filipović,borna-filipovic,5178,HŠK Zrinjski Mostar,6.73,0,0.07,4,5,0,75.0
+995665,Kameron Ledwidge,kameron-ledwidge,3174,Shelbourne,6.73,0,0.02,4,6,0,80.84
+1119307,Milot Avdyli,milot-avdyli,2413,NK Celje,6.73,1,0.91,5,8,1,84.44
+980621,Paul Nebel,paul-nebel,2556,1. FSV Mainz 05,6.73,0,0.37,10,12,2,80.14
+886854,Antonio Ivančić,antonio-ivancic,5178,HŠK Zrinjski Mostar,6.73,0,0.56,2,11,0,75.0
+978405,Jonas Auer,jonas-auer,2055,SK Rapid Wien,6.73,0,,0,15,1,67.5
+179149,Jerry Voutilainen,jerry-voutilainen,2244,Kuopion Palloseura,6.73,0,0.06,1,1,1,77.14
+1120947,Jozhua Vertrouwd,jozhua-vertrouwd,2818,Rayo Vallecano,6.73,0,,2,8,0,91.63
+876681,Graeme Torrilla,graeme-torrilla,126304,Lincoln Red Imps,6.73,0,,1,13,0,87.32
+942690,Jiří Spáčil,jiri-spacil,2207,SK Sigma Olomouc,6.73,0,,0,1,0,88.0
+1548910,Kacper Potulski,kacper-potulski,2556,1. FSV Mainz 05,6.73,0,0.3,0,5,0,82.87
+867727,Soner Gönül,soner-gonul,3053,Samsunspor,6.73,0,0.06,0,1,0,77.78
+1138819,Filip Slavíček,filip-slavicek,2207,SK Sigma Olomouc,6.72,1,0.93,5,9,0,71.58
+966555,Troy Parrott,troy-parrott,2950,AZ Alkmaar,6.72,3,3.67,3,4,1,75.29
+326791,Blerim Krasniqi,blerim-krasniqi,229755,FC Drita,6.72,2,1.5,5,5,0,62.65
+802844,Tihomir Kostadinov,tihomir-kostadinov,2207,SK Sigma Olomouc,6.72,0,1.12,1,13,1,80.52
+886843,Toni Borevković,toni-borevkovic,3053,Samsunspor,6.72,0,,0,2,0,92.16
+937741,Senou Coulibaly,senou-coulibaly,3395,Omonia Nicosia,6.72,0,0.48,0,10,0,80.42
+227082,Petar Stojanović,petar-stojanovic,3106,Legia Warszawa,6.72,0,0.09,4,2,0,88.43
+117083,Stuart Armstrong,stuart-armstrong,2355,Aberdeen,6.72,0,0.04,5,4,0,81.08
+834986,Robert Gumny,robert-gumny,3121,Lech Poznań,6.72,0,0.01,1,11,0,76.27
+1410925,Joaquin Panichelli,panichelli-joaquin,1659,RC Strasbourg,6.72,2,2.52,0,2,0,72.92
+1134410,Ivica Vidović,ivica-vidovic,2413,NK Celje,6.72,1,1.88,6,3,0,82.61
+965031,Andrei Rațiu,andrei-ratiu,2818,Rayo Vallecano,6.72,1,1.77,15,29,0,72.53
+109296,Pavel Kadeřábek,pavel-kaderabek,2218,AC Sparta Praha,6.72,0,,0,13,1,80.48
+1523556,Bob Nii Armah,bob-nii-armah,2244,Kuopion Palloseura,6.72,0,0.15,4,7,1,85.16
+922371,Santiago Eneme,santiago-eneme,2218,AC Sparta Praha,6.72,0,0.01,3,6,0,89.74
+1146039,Adam Ševinský,adam-sevinsky,2218,AC Sparta Praha,6.71,0,0.46,1,8,0,88.2
+190917,Mijat Gaćinović,mijat-gacinovic,3250,AEK Athens,6.71,2,1.88,1,9,1,76.92
+331751,Riad Bajić,riad-bajic,3404,AEK Larnaca,6.71,2,1.64,4,2,0,63.77
+1002033,Guéla Doué,guela-doue,1659,RC Strasbourg,6.71,0,0.95,5,7,1,86.96
+1408999,Sergey Muradyan,sergey-muradyan,262228,FC Noah,6.71,0,,2,13,0,86.76
+1100817,Pedro Henrique,pedrinho,3313,Shakhtar Donetsk,6.7,1,0.14,17,9,1,90.72
+835601,Moise Kean,moise-kean,2693,Fiorentina,6.7,1,3.19,3,0,0,80.77
+1005646,John McGovern,john-mcgovern,3177,Shamrock Rovers,6.7,1,0.74,3,0,0,72.73
+1149352,Nicholas Pozo,nicholas-pozo,126304,Lincoln Red Imps,6.7,1,0.28,0,6,0,69.33
+1119332,Aziel Jackson,aziel-jackson,7691,Jagiellonia Białystok,6.7,0,,1,0,1,100.0
+1524000,Gabriel Snaer,gabriel-snaer,1901,Breidablik Kópavogur,6.7,0,,0,1,1,65.79
+802695,Ben Chilwell,ben-chilwell,1659,RC Strasbourg,6.7,0,0.7,3,4,1,84.65
+335887,Filip Jagiełło,filip-jagieo,3121,Lech Poznań,6.7,0,0.24,2,3,1,81.76
+796161,David Sualehe,david-sualehe,262228,FC Noah,6.7,0,0.22,10,16,1,84.42
+547280,Ivi López,ivi-lopez,35268,Raków Częstochowa,6.7,0,0.11,1,1,1,85.9
+1154657,Mamadou Sarr,sarr-mamadou,1659,RC Strasbourg,6.7,0,,0,0,0,95.95
+954090,Ángel Torres,angel-torres,3305,Dynamo Kyiv,6.7,0,,1,0,0,88.89
+1523953,Šimun Butić,simun-butic,2039,HNK Rijeka,6.7,0,,1,1,0,85.71
+1566213,Eaden Roka,eaden-roka,2055,SK Rapid Wien,6.7,0,,0,0,0,100.0
+1899553,George King,george-king,7,Crystal Palace,6.7,0,,0,0,0,82.05
+834232,Trevor Clarke,trevor-clarke,3177,Shamrock Rovers,6.7,0,,1,0,0,100.0
+1863763,Rasmus Tikkanen,rasmus-tikkanen,2244,Kuopion Palloseura,6.7,0,,1,3,0,66.67
+814820,Kamil Jóźwiak,kamil-jozwiak,7691,Jagiellonia Białystok,6.7,0,,0,6,0,76.92
+1099220,Youssuf Sylla,youssuf-sylla,7691,Jagiellonia Białystok,6.7,0,,1,1,0,60.0
+580842,Filip Panák,filip-panak,2218,AC Sparta Praha,6.7,0,,0,1,0,91.67
+2237105,Tahsin Bülbül ,tahsin-bulbul,3053,Samsunspor,6.7,0,,1,6,0,76.47
+883223,John Martin,john-martin,3174,Shelbourne,6.7,0,0.67,0,5,0,75.0
+784673,Marko Tolić,marko-tolic,2404,ŠK Slovan Bratislava,6.7,0,0.33,1,2,0,82.18
+988276,Marco Burch,marco-burch,3106,Legia Warszawa,6.7,0,0.32,1,5,0,84.16
+138126,Phillipp Mwene,phillipp-mwene,2556,1. FSV Mainz 05,6.7,0,0.26,4,12,0,77.19
+1029969,Mykola Kukharevych,mykola-kukharevych,2404,ŠK Slovan Bratislava,6.7,0,0.16,2,0,0,50.0
+263505,Pere Pons,pere-pons,3404,AEK Larnaca,6.7,0,0.14,2,11,0,70.89
+1638338,Gessime Yassine,yassine-gessime,1659,RC Strasbourg,6.7,0,0.11,2,6,0,84.93
+1188125,Niilo Kujasalo,kujasalo-niilo,2244,Kuopion Palloseura,6.7,0,0.11,1,3,0,82.18
+2048930,Victor Ozhianvuna,victor-ozhianvuna,3177,Shamrock Rovers,6.7,0,0.1,0,3,0,80.39
+1382153,Bogdan Mirčetić,bogdan-mircetic,35268,Raków Częstochowa,6.7,0,0.07,1,2,0,100.0
+1199192,Petter Nosakhare Dahl,petter-nosakhare-dahl,2055,SK Rapid Wien,6.7,0,0.07,0,1,0,66.67
+580638,Arkadiusz Reca,arkadiusz-reca,3106,Legia Warszawa,6.7,0,0.04,0,6,0,81.52
+1835892,Isaque,isaque,3313,Shakhtar Donetsk,6.69,2,1.76,10,22,1,84.96
+1390545,Eguinaldo,eguinaldo,3313,Shakhtar Donetsk,6.69,1,1.34,7,10,1,77.23
+1065117,Blerton Sheji,blerton-sheji,229755,FC Drita,6.69,0,0.38,3,15,1,72.53
+948251,Connor Malley,connor-malley,3177,Shamrock Rovers,6.68,1,0.12,2,4,0,91.67
+319307,Simon Gustafson,simon-gustafson,1760,BK Häcken,6.68,0,0.96,5,14,1,79.04
+851818,Mark Coyle,coyle-mark,3174,Shelbourne,6.68,0,,0,7,0,86.33
+1928472,Papa Daniel,papa-daniel,2413,NK Celje,6.68,0,0.01,2,9,0,81.22
+68819,Radim Breite,radim-breite,2207,SK Sigma Olomouc,6.68,0,0.12,0,13,1,74.5
+970524,Marko Vranjković,marko-vranjkovic,5178,HŠK Zrinjski Mostar,6.68,0,0.04,2,9,1,67.88
+1190951,Saliou Thioune,serigne-saliou-thioune,33583,Ħamrun Spartans FC,6.68,0,1.76,2,8,0,77.08
+987805,Michal Beran,michal-beran,2207,SK Sigma Olomouc,6.68,0,0.45,4,14,0,76.44
+899902,Matheus Aiás,matheus-aias,262228,FC Noah,6.68,1,1.69,4,6,1,65.88
+1084311,Justin Devenny,devenny-justin,7,Crystal Palace,6.68,1,0.55,2,2,1,70.59
+889052,Willy Semedo,willy-semedo,3395,Omonia Nicosia,6.68,1,2.54,12,6,0,82.35
+997886,Karlo Abramović,karlo-abramovic,5178,HŠK Zrinjski Mostar,6.68,1,0.26,3,2,0,77.42
+859393,Vladyslav Dubinchak,vladyslav-dubinchak,3305,Dynamo Kyiv,6.68,0,0.04,1,5,1,80.86
+167541,Egzon Bejtulai,egzon-bejtulai,229755,FC Drita,6.68,0,0.08,0,9,0,86.93
+808992,Ángel García,angel-garcia,3404,AEK Larnaca,6.68,0,0.04,5,0,0,72.73
+978286,Oleksandr Tymchyk,oleksandr-tymchyk,3305,Dynamo Kyiv,6.68,0,0.03,0,0,0,83.21
+975958,Alfonso Barco,alfonso-barco,2039,HNK Rijeka,6.68,0,0.02,1,7,0,86.79
+1858330,Florjan Jevsenak,florjan-jevsenak,2413,NK Celje,6.68,0,0.02,1,0,0,91.75
+69378,David De Gea,david-de-gea,2693,Fiorentina,6.67,0,,0,0,0,76.58
+963802,Jáchym Šíp,jachym-sip,2207,SK Sigma Olomouc,6.67,1,1.48,7,7,0,60.24
+1397170,Nino Marcelli,marcelli-nino,2404,ŠK Slovan Bratislava,6.67,1,2.1,3,3,1,84.83
+1485599,Newerton Palmares,newerton-palmares,3313,Shakhtar Donetsk,6.67,1,1.2,10,9,0,87.58
+1148427,Rafael Compri,rafael-compri,33583,Ħamrun Spartans FC,6.67,0,,4,13,1,77.78
+905063,Marko Bulat,marko-bulat,35268,Raków Częstochowa,6.67,0,0.09,2,3,1,83.33
+1065202,Harry Wood,harry-wood,3174,Shelbourne,6.67,0,0.3,6,11,0,78.05
+1159176,Timothy Ouma,ouma-timothy,3121,Lech Poznań,6.67,0,0.06,2,7,0,81.03
+886062,Stefano Surdanović,stefano-surdanovic,5178,HŠK Zrinjski Mostar,6.67,0,0.02,0,5,0,68.97
+1063325,Yunus Emre Çift,yunus-emre-cift,3053,Samsunspor,6.66,0,,0,9,0,78.64
+850770,Tasos Chatzigiovanis,tasos-chatzigiovanis,3395,Omonia Nicosia,6.66,0,1.04,3,2,0,82.67
+885730,Semir Smajlagić,semir-smajlagic,33583,Ħamrun Spartans FC,6.66,1,0.38,1,1,0,68.75
+791831,Justas Lasickas,justas-lasickas,2039,HNK Rijeka,6.66,0,0.27,10,14,0,72.22
+848276,Jean-Philippe Mateta,jean-philippe-mateta,7,Crystal Palace,6.66,2,6.19,2,4,3,68.87
+796014,Dejan Petrovič,dejan-petrovic,2039,HNK Rijeka,6.66,1,0.19,0,7,0,79.12
+994105,Adamu Alhassan,adamu-alhassan,5413,KF Shkëndija,6.66,0,,1,4,0,85.96
+1021083,Julius Lindberg,julius-lindberg,1760,BK Häcken,6.65,1,0.5,6,9,1,83.47
+142395,Antonio Čolak,antonio-colak,3106,Legia Warszawa,6.65,1,1.65,0,1,0,81.67
+834597,Jesper Karlsson,jesper-karlsson,2355,Aberdeen,6.65,1,0.96,6,4,0,70.08
+1804850,Alasana Yirajang,alasana-yirajang,2404,ŠK Slovan Bratislava,6.65,1,0.62,4,2,0,79.55
+856749,Vitalie Damașcan,vitalie-damascan,5178,HŠK Zrinjski Mostar,6.65,1,0.19,1,2,0,68.18
+839301,Vitaliy Lisakovich,lisakovich-vitali,2413,NK Celje,6.65,0,0.16,5,2,1,78.21
+307462,Pa Konate,pa-konate,2244,Kuopion Palloseura,6.65,0,,0,1,0,75.0
+920972,Marin Ljubić,marin-ljubic,5178,HŠK Zrinjski Mostar,6.65,0,,0,0,0,67.92
+1510500,Hamza Abdallah,hamza-abdallah,2446,FC Lausanne-Sport,6.65,0,,0,0,0,33.33
+1182513,Samuel Pasanen,samuel-pasanen,2244,Kuopion Palloseura,6.65,0,,0,2,0,80.33
+1216815,Juraj Badelj,badelj-juraj,116223,Universitatea Craiova,6.65,0,,1,7,0,81.29
+1006268,Matthias Seidl,matthias-seidl,2055,SK Rapid Wien,6.65,0,0.5,2,9,0,75.9
+359350,Ali Gholizadeh,ali-gholizadeh,3121,Lech Poznań,6.65,0,0.05,5,6,0,76.15
+283219,Adam Lundqvist,adam-lundqvist,1760,BK Häcken,6.65,0,0.04,1,15,0,86.9
+369056,Vasile Mogoș,vasile-mogos,116223,Universitatea Craiova,6.65,0,0.03,1,8,0,72.06
+910024,Sergio Camello,sergio-camello,2818,Rayo Vallecano,6.65,1,2.32,9,4,1,78.91
+905174,Ibrahim Sadiq,ibrahim-sadiq,2950,AZ Alkmaar,6.64,1,0.99,1,5,0,79.83
+1170900,Matěj Šín,matej-sin,2950,AZ Alkmaar,6.64,1,0.92,1,7,0,72.22
+1014575,Assad Al-Hamlawi,assad-al-hamlawi,116223,Universitatea Craiova,6.64,1,1.43,2,4,1,64.44
+1089108,Ilias Akhomach,ilias-akhomach,2818,Rayo Vallecano,6.64,1,0.68,2,6,0,77.19
+66758,Guðmundur Þórarinsson,gumundur-orarinsson,262228,FC Noah,6.64,0,0.03,2,5,0,90.77
+860157,Leo Bengtsson,leo-bengtsson,3121,Lech Poznań,6.64,1,0.39,5,6,0,77.11
+890996,Merveille Ndockyt,merveille-ndockyt,2039,HNK Rijeka,6.64,0,0.92,5,10,0,79.74
+991541,Liridon Balaj,liridon-balaj,229755,FC Drita,6.63,1,0.2,0,0,2,85.0
+1130793,Martin Suchomel,martin-suchomel,2218,AC Sparta Praha,6.63,1,0.35,0,3,0,76.81
+1002005,Vladislav Blănuță,vladislav-blanuta,3305,Dynamo Kyiv,6.63,1,0.29,0,1,0,80.0
+2020718,Enzo Kana-Biyik,enzo-kana-biyik,2446,FC Lausanne-Sport,6.63,0,0.16,2,2,1,71.88
+1513549,Kornel Lisman,kornel-lisman,3121,Lech Poznań,6.63,0,,2,1,0,94.74
+947853,Tyler Burey,tyler-burey,5178,HŠK Zrinjski Mostar,6.63,0,,1,1,0,80.0
+280471,Kerim Memija,kerim-memija,5178,HŠK Zrinjski Mostar,6.63,0,,3,12,0,74.04
+1064218,Chadi Riad,chadi-riad,7,Crystal Palace,6.63,0,0.95,1,3,0,80.71
+1130942,Félix Lemaréchal,felix-lemarechal,1659,RC Strasbourg,6.63,0,0.35,3,0,0,82.61
+1126860,Sanders Ngabo,sanders-ngabo,1760,BK Häcken,6.63,0,0.08,2,0,0,82.76
+1386461,Elijah Dijkstra,elijah-dijkstra,2950,AZ Alkmaar,6.63,0,0.09,4,16,0,88.21
+122701,Roberto Pereyra,roberto-pereyra,3250,AEK Athens,6.63,0,0.17,2,3,0,94.07
+900003,Jorge de Frutos,jorge-de-frutos,2818,Rayo Vallecano,6.63,1,2.44,10,5,0,77.33
+791080,Đorđe Ivanović,djordje-ivanovic,3404,AEK Larnaca,6.63,1,0.96,10,8,0,80.87
+892206,Hélder Ferreira,helder-ferreira,262228,FC Noah,6.63,0,1.01,5,19,1,72.95
+577266,Brice Wembangomo,brice-wembangomo,1760,BK Häcken,6.63,0,,1,1,0,73.91
+1536342,Wojciech Urbański,wojciech-urbanski,3106,Legia Warszawa,6.63,0,0.42,4,3,0,79.01
+807315,Sean Boyd,sean-boyd,3174,Shelbourne,6.63,0,0.22,1,3,0,57.5
+2125619,Jorgo Pëllumbi,pellumbi-jorgo,229755,FC Drita,6.63,0,0.1,3,10,0,87.1
+985134,Eduardo Guerrero,eduardo-guerrero,3305,Dynamo Kyiv,6.62,1,0.84,3,1,0,76.32
+1561784,Aliou Thiare,aliou-thiare,3305,Dynamo Kyiv,6.62,0,,3,7,0,90.81
+1935049,Mohamed Toure,mohamed-toure,2244,Kuopion Palloseura,6.62,0,0.07,7,6,0,78.51
+1210848,Pietro Comuzzo,comuzzo-pietro,2693,Fiorentina,6.62,0,,0,15,0,88.12
+168749,Filip Helander,filip-helander,1760,BK Häcken,6.62,0,0.04,0,6,1,88.92
+1548929,Oskar Pietuszewski,oskar-pietuszewski,7691,Jagiellonia Białystok,6.62,0,0.48,8,5,0,71.3
+1138150,Nikolas Veratschnig,nikolas-veratschnig,2556,1. FSV Mainz 05,6.62,0,0.18,1,4,0,74.56
+987620,Leo Mikić,leo-mikic,5178,HŠK Zrinjski Mostar,6.61,1,1.07,6,4,1,59.32
+1154114,Yannick Agnero,yannick-agnero,3121,Lech Poznań,6.61,1,1.89,2,3,0,76.0
+885512,Kike Gómez,kike-gomez,126304,Lincoln Red Imps,6.6,2,1.45,6,4,0,83.02
+1503765,Isak Brusberg,brusberg-isak,1760,BK Häcken,6.6,1,1.81,0,0,0,74.29
+881125,Sebastjan Spahiu,sebastjan-spahiu,5413,KF Shkëndija,6.6,1,1.26,13,7,0,79.87
+997082,Oleg Ocheretko,oleg-ocheretko,3313,Shakhtar Donetsk,6.6,1,1.09,3,12,0,87.33
+930247,Alpha Diounkou,alpha-diounkou,3395,Omonia Nicosia,6.6,0,,2,4,1,75.41
+876867,Neven Đurasek,neven-durasek,5178,HŠK Zrinjski Mostar,6.6,0,,1,6,1,84.7
+825274,Ryan Mmaee,ryan-mmaee,3395,Omonia Nicosia,6.6,0,1.62,1,2,1,79.41
+1139268,Matej Šakota,matej-sakota,5178,HŠK Zrinjski Mostar,6.6,0,0.16,5,4,1,69.23
+845464,Andy Irving,andy-irving,2218,AC Sparta Praha,6.6,0,0.07,1,1,1,84.29
+868611,Muhannad Al Saad,muhannad-al-saad,2446,FC Lausanne-Sport,6.6,0,,1,0,0,87.5
+1150242,Dimitrios Kaloskamis,dimitrios-kaloskamis,3250,AEK Athens,6.6,0,,0,0,0,100.0
+1423483,Ante Sušak,ante-susak,5178,HŠK Zrinjski Mostar,6.6,0,,0,0,0,50.0
+2198232,Samu Becerra,samu-becerra,2818,Rayo Vallecano,6.6,0,,0,0,0,100.0
+1546458,Derrick Agyei,derrick-agyei,2244,Kuopion Palloseura,6.6,0,,0,0,0,50.0
+877560,Tyreke Wilson,tyreke-wilson,3174,Shelbourne,6.6,0,,0,0,0,73.33
+862988,Artem Avanesyan,artem-avanesyan,262228,FC Noah,6.6,0,,0,0,0,100.0
+770399,Robert Mudražija,robert-mudrazija,3404,AEK Larnaca,6.6,0,,1,0,0,50.0
+909618,Alex Douglas,alex-douglas,3121,Lech Poznań,6.6,0,,1,1,0,88.0
+891420,Dominik Janošek,dominik-janosek,2207,SK Sigma Olomouc,6.6,0,,0,0,0,76.6
+186745,Chambos Kyriakou,chambos-kyriakou,3404,AEK Larnaca,6.6,0,,1,1,0,75.0
+852471,Bruno Bogojević,bruno-bogojevic,2039,HNK Rijeka,6.6,0,,3,1,0,83.33
+351016,Jesus Toscano,jesus-toscano,126304,Lincoln Red Imps,6.6,0,,0,2,0,75.0
+1153355,Maxi Oyedele,maxi-oyedele,1659,RC Strasbourg,6.6,0,,1,0,0,92.42
+40963,Jeroen Zoet,jeroen-zoet,2950,AZ Alkmaar,6.6,0,,0,0,0,72.73
+1535558,Daniel Gleiber,gleiber-daniel,2556,1. FSV Mainz 05,6.6,0,0.61,0,0,0,82.61
+1464025,Kendry Páez,kendry-paez,1659,RC Strasbourg,6.6,0,0.41,2,4,0,83.33
+848458,Arnaud Nordin,arnaud-nordin,2556,1. FSV Mainz 05,6.6,0,0.31,0,2,0,76.19
+1499691,Rion Ichihara,rion-ichihara,2950,AZ Alkmaar,6.6,0,0.2,0,3,0,83.87
+1149939,Dylan Lobban,dylan-lobban,2355,Aberdeen,6.6,0,0.14,2,7,0,86.42
+942382,Peter Pokorný,peter-pokorny,2404,ŠK Slovan Bratislava,6.6,0,0.13,2,5,0,80.6
+954043,Leighton Clarkson,leighton-clarkson,2355,Aberdeen,6.6,0,0.1,3,3,0,80.82
+921140,Bendegúz Bolla,bendeguz-bolla,2055,SK Rapid Wien,6.6,0,0.06,4,4,0,83.64
+927279,Marco Tilio,marco-tilio,2055,SK Rapid Wien,6.6,0,0.06,1,0,0,82.35
+1001957,Oleksandr Yatsyk,oleksandr-yatsyk,3305,Dynamo Kyiv,6.6,0,0.04,0,2,0,83.33
+1130937,Gašper Vodeb,gasper-vodeb,2413,NK Celje,6.6,0,0.03,0,0,0,84.62
+882730,Marijan Ćavar,marijan-cavar,5178,HŠK Zrinjski Mostar,6.6,0,0.03,0,2,0,71.43
+1087830,Artur Gajdoš,artur-gajdos,2404,ŠK Slovan Bratislava,6.6,0,0.03,1,0,0,90.0
+924969,Eric Boakye,eric-boakye,262228,FC Noah,6.6,0,0.02,2,10,0,81.85
+812946,Christian Kouamé,christian-kouame,2693,Fiorentina,6.6,0,0.01,0,1,0,76.67
+152446,Iván Balliu,ivan-balliu,2818,Rayo Vallecano,6.59,0,0.19,2,5,0,86.69
+1124624,Albion Rrahmani,albion-rrahmani,2218,AC Sparta Praha,6.59,1,1.13,3,8,0,71.43
+357638,Amer Gojak,amer-gojak,2039,HNK Rijeka,6.59,0,0.47,4,5,1,75.82
+909631,Nicky Beloko,nicky-beloko,2446,FC Lausanne-Sport,6.59,0,0.21,1,11,0,84.91
+803025,Carel Eiting,carel-eiting,3395,Omonia Nicosia,6.58,0,0.19,1,3,0,76.6
+963398,Janis Antiste,janis-antiste,2055,SK Rapid Wien,6.58,1,0.71,2,2,0,78.31
+1109961,Rahim Ibrahim,rahim-ibrahim,2404,ŠK Slovan Bratislava,6.58,1,0.08,5,5,0,87.1
+928431,João Moutinho,joao-moutinho,3121,Lech Poznań,6.58,0,0.06,1,5,0,81.14
+904852,Yukhym Konoplya,yukhym-konoplya,3313,Shakhtar Donetsk,6.58,0,,1,1,1,81.69
+1020202,Carlos Mora,carlos-mora,116223,Universitatea Craiova,6.58,0,0.06,10,2,1,64.94
+840529,Vladimir Screciu,vladimir-screciu,116223,Universitatea Craiova,6.58,0,,1,6,0,84.17
+1017655,Alexander Jensen,alexander-jensen,2355,Aberdeen,6.58,0,,2,2,0,85.58
+1129370,Gor Manvelyan,gor-manvelyan,262228,FC Noah,6.58,0,,1,1,0,88.24
+858266,Logi Tomasson,logi-tomasson,3053,Samsunspor,6.57,0,0.1,3,18,0,76.92
+965260,Anzor Mekvabishvili,anzor-mekvabishvili,116223,Universitatea Craiova,6.57,0,0.83,1,7,1,81.7
+847822,Juanje Argüez,juanje,126304,Lincoln Red Imps,6.57,0,0.15,3,3,1,80.6
+850088,Jovan Čađenović,jovan-cadenovic,33583,Ħamrun Spartans FC,6.57,0,0.03,2,3,1,83.05
+1499054,Luís Balbo,luis-balbo,2693,Fiorentina,6.57,0,,0,2,0,86.67
+897598,Ante Palaversa,ante-palaversa,2355,Aberdeen,6.57,0,,1,5,0,75.0
+879682,Rafael Muñoz,rafael-munoz,126304,Lincoln Red Imps,6.57,0,,2,1,0,82.81
+138273,Kamer Qaka,kamer-qaka,5413,KF Shkëndija,6.57,0,,1,4,0,89.91
+1067204,Giovanni Fabbian,giovanni-fabbian,2693,Fiorentina,6.57,0,1.0,2,0,0,77.23
+855824,Kerr McInroy,kerr-mcinroy,3174,Shelbourne,6.57,0,0.76,4,12,0,75.14
+885118,Toni,toni,126304,Lincoln Red Imps,6.57,0,0.27,5,6,0,78.45
+1384438,Lewis Temple,lewis-temple,3174,Shelbourne,6.57,0,0.01,0,2,0,86.36
+802281,Kevin Nisbet,kevin-nisbet,2355,Aberdeen,6.56,1,0.54,1,0,0,56.25
+1031451,Ilir Mustafa,ilir-mustafa,229755,FC Drita,6.56,0,,0,3,0,61.29
+239060,Aron Bjarnason,aron-bjarnason,1901,Breidablik Kópavogur,6.56,0,0.39,3,2,0,75.44
+79083,Jan Navrátil,jan-navratil,2207,SK Sigma Olomouc,6.56,0,0.3,0,2,0,77.03
+902681,Enzo Cabrera,enzo-cabrera,3404,AEK Larnaca,6.56,0,0.22,2,1,0,62.5
+1126520,Simion Michez,simion-michez,2207,SK Sigma Olomouc,6.55,0,,1,0,0,85.71
+989887,Serge-Philippe Raux-Yao,serge-philippe-raux-yao,2055,SK Rapid Wien,6.55,0,,1,3,0,86.08
+1155400,Andreas Christou,christou-andreas,3395,Omonia Nicosia,6.55,0,,0,5,0,67.86
+918421,Niklas Hedl,niklas-hedl,2055,SK Rapid Wien,6.55,0,,0,0,0,55.06
+74873,Graeme Shinnie,graeme-shinnie,2355,Aberdeen,6.55,0,,1,5,0,85.19
+1162592,Pontus Dahbo,dahbo-pontus,1760,BK Häcken,6.55,0,0.23,1,8,0,78.46
+2059250,Téo Barišić,teo-barisic,2039,HNK Rijeka,6.55,0,0.15,1,1,0,86.49
+1149220,Jakob Schöller,jakob-scholler,2055,SK Rapid Wien,6.55,0,0.03,0,3,0,81.25
+1012179,Jacopo Fazzini,jacopo-fazzini,2693,Fiorentina,6.54,0,0.63,11,12,1,77.55
+1189295,Dante Polvara,dante-polvara,2355,Aberdeen,6.54,0,,1,6,0,82.05
+1022355,Ademipo Odubeko,ademipo-odubeko,3174,Shelbourne,6.54,0,0.83,2,3,0,61.29
+886867,Arbin Zejnullai,arbin-zejnullai,5413,KF Shkëndija,6.54,0,0.14,4,5,0,77.91
+976407,Štěpán Langer,stepan-langer,2207,SK Sigma Olomouc,6.53,0,0.07,1,3,1,74.63
+1648756,Ayoub Oufkir,ayoub-oufkir,2950,AZ Alkmaar,6.53,0,,3,1,0,82.76
+912182,Paulius Golubickas,paulius-golubickas,2244,Kuopion Palloseura,6.53,0,,3,1,0,84.21
+1129537,Dominik Weixelbraun,dominik-weixelbraun,2055,SK Rapid Wien,6.53,0,,0,2,0,40.0
+927586,Daniel Kelly,daniel-kelly,3174,Shelbourne,6.53,0,0.3,1,7,0,62.22
+2216420,Ebrima Ceesay,ebrima-ceesay,3053,Samsunspor,6.53,0,0.24,1,2,0,64.29
+950892,Victor Villacañas Morales,victor-villacanas-morales,126304,Lincoln Red Imps,6.53,0,0.16,2,4,0,65.91
+67227,Andri Yeoman,andri-yeoman,1901,Breidablik Kópavogur,6.53,0,0.02,1,7,0,70.0
+1005834,Armindo Sieb,armindo-sieb,2556,1. FSV Mainz 05,6.53,1,1.19,3,1,0,59.32
+229678,Alexandru Crețu,alexandru-cretu,116223,Universitatea Craiova,6.53,0,,0,7,1,72.97
+945739,Stijn Meijer,stijn-meijer,33583,Ħamrun Spartans FC,6.53,0,,1,0,0,65.0
+137682,Oleksandr Karavaiev,oleksandr-karavaiev,3305,Dynamo Kyiv,6.53,0,0.94,2,4,0,80.0
+139152,Paweł Wszołek,pawe-wszoek,3106,Legia Warszawa,6.53,0,0.29,3,4,0,75.73
+911719,Lassina Traoré,lassina-traore,3313,Shakhtar Donetsk,6.53,0,0.11,0,0,0,80.0
+976127,Louka Prip,prip-louka,7691,Jagiellonia Białystok,6.53,0,0.05,4,1,0,79.31
+852435,Tudor Băluță,tudor-baluta,116223,Universitatea Craiova,6.53,0,0.02,0,4,0,70.67
+879184,Davíð Ingvarsson,david-ingvarsson,1901,Breidablik Kópavogur,6.52,1,1.23,3,6,0,76.64
+1647589,Shola Ogundana,oluwashola-ogundana,3305,Dynamo Kyiv,6.52,0,0.13,4,1,0,73.91
+983596,Muhamed Tijani,muhamed-tijani,2207,SK Sigma Olomouc,6.52,0,0.02,0,1,0,86.67
+1638685,Mateo Chávez,mateo-chavez,2950,AZ Alkmaar,6.51,0,0.32,2,15,0,81.73
+876599,Jørgen Strand Larsen,jorgen-strand-larsen,7,Crystal Palace,6.51,1,1.81,7,8,1,66.06
+1102081,Steven Nsimba,steven-nsimba,116223,Universitatea Craiova,6.5,1,0.97,0,1,0,64.91
+1169124,Garang Kuol,garang-kuol,2218,AC Sparta Praha,6.5,1,0.64,0,2,0,82.86
+1090458,David Datro Fofana,david-datro-fofana,1659,RC Strasbourg,6.5,0,,0,0,0,100.0
+1009281,Ariel Mosór,ariel-mosor,35268,Raków Częstochowa,6.5,0,,0,0,0,80.0
+981192,Daniel Håkans,daniel-hakans,3121,Lech Poznań,6.5,0,,1,1,0,70.0
+1518093,Severin Nioule,severin-nioule,1760,BK Häcken,6.5,0,,0,0,0,77.78
+139254,Matija Boben,matija-boben,2413,NK Celje,6.5,0,,0,0,0,100.0
+942070,Merlin Hadzi,merlin-hadzi,33583,Ħamrun Spartans FC,6.5,0,,1,0,0,70.59
+1381973,Kyle Clinton,kyle-clinton,126304,Lincoln Red Imps,6.5,0,,0,0,0,100.0
+1050245,Dan Lagumdzija,dan-lagumdzija,5178,HŠK Zrinjski Mostar,6.5,0,,0,0,0,33.33
+842556,Hovhannes Harutyunyan,hovhannes-harutyunyan,262228,FC Noah,6.5,0,,0,0,0,100.0
+1065051,Fabio Moreno Fell,fabio-moreno-fell,2556,1. FSV Mainz 05,6.5,0,,0,0,0,100.0
+1383377,Akseli Puukko,puukko-akseli,2244,Kuopion Palloseura,6.5,0,,1,0,0,74.07
+2312772,Oniks Grezda,oniks-grezda,229755,FC Drita,6.5,0,,1,1,0,50.0
+2328153,Mike Arthur,mike-arthur,229755,FC Drita,6.5,0,,0,0,0,80.0
+1513806,Anes Meljichi,anes-meliqi,5413,KF Shkëndija,6.5,0,,0,5,0,80.77
+576080,Lukas Grgić,lukas-grgic,2055,SK Rapid Wien,6.5,0,,0,6,0,81.03
+927616,Timothy Fayulu,timothy-fayulu,262228,FC Noah,6.5,0,,0,0,0,80.21
+1127213,Evangelos Andreou,evangelos-andreou,3395,Omonia Nicosia,6.5,0,1.34,4,12,0,83.59
+37126,Stevan Jovetić,stevan-jovetic,3395,Omonia Nicosia,6.5,0,1.08,0,0,0,77.14
+1888815,Dimitris Rallis,dimitris-rallis,7691,Jagiellonia Białystok,6.5,0,0.78,4,0,0,70.73
+822340,Phillip Tietz,phillip-tietz,2556,1. FSV Mainz 05,6.5,0,0.73,3,3,0,68.35
+36316,Petteri Pennanen,petteri-pennanen,2244,Kuopion Palloseura,6.5,0,0.61,1,9,0,88.73
+921289,Artur Dolznikov,artur-dolznikov,2207,SK Sigma Olomouc,6.5,0,0.49,3,3,0,75.0
+893962,Lennard Maloney,lennard-maloney,2556,1. FSV Mainz 05,6.5,0,0.49,0,6,0,74.55
+934255,Valgeir Valgeirsson,valgeir-valgeirsson,1901,Breidablik Kópavogur,6.5,0,0.42,7,8,0,78.57
+904859,Dmytro Kryskiv,dmytro-kryskiv,3313,Shakhtar Donetsk,6.5,0,0.39,0,1,0,86.54
+279521,Gustav Engvall,gustav-engvall,2244,Kuopion Palloseura,6.5,0,0.3,2,2,0,71.43
+1021075,William Bøving,william-boving,2556,1. FSV Mainz 05,6.5,0,0.29,2,3,0,83.7
+1200406,Valentín Gasc,valentin-gasc,2244,Kuopion Palloseura,6.5,0,0.19,1,5,0,83.12
+1103971,Danilo Al-Saed,al-saed-danilo,1760,BK Häcken,6.5,0,0.18,1,0,0,86.67
+940729,Florent Ramadani,florent-ramadani,229755,FC Drita,6.5,0,0.16,0,4,0,66.67
+341833,Claude Gonçalves,claude-goncalves,3106,Legia Warszawa,6.5,0,0.15,0,2,0,76.0
+993936,Joshua Honohan,joshua-honohan,3177,Shamrock Rovers,6.5,0,0.14,3,4,0,86.21
+1492676,Rabby Nzingoula,rabby-nzingoula,1659,RC Strasbourg,6.5,0,0.12,4,5,0,80.49
+858888,Imran Oulad Omar,imran-oulad-omar,262228,FC Noah,6.5,0,0.05,1,0,0,78.26
+1082436,Kemelho Nguena,kemelho-nguena,229755,FC Drita,6.5,0,0.04,0,3,0,77.27
+799677,Andrej Kotnik,andrej-kotnik,2413,NK Celje,6.5,0,0.02,0,2,0,77.08
+186987,Olivier Custodio,olivier-custodio,2446,FC Lausanne-Sport,6.49,0,1.2,3,3,0,85.25
+1187440,Boubacar Sidik Dabo,boubacar-sidik-dabo,126304,Lincoln Red Imps,6.48,0,0.48,11,6,0,83.15
+319149,Marin Jakoliš,marin-jakolis,262228,FC Noah,6.48,0,0.29,2,5,0,67.07
+1006066,Nazar Voloshyn,nazar-voloshyn,3305,Dynamo Kyiv,6.48,0,0.15,7,2,0,76.82
+890634,Novica Eraković,novica-erakovic,3395,Omonia Nicosia,6.48,0,0.07,2,6,0,78.61
+902070,Giorgos Naoum,giorgos-naoum,3404,AEK Larnaca,6.48,0,0.55,3,3,0,82.08
+866484,Ederson,eder,33583,Ħamrun Spartans FC,6.48,0,0.26,4,17,0,67.57
+1050378,Jakov Pranjic,jakov-pranjic,5178,HŠK Zrinjski Mostar,6.48,0,0.2,6,1,0,78.21
+69351,Soner Aydoğdu,soner-aydogdu,3053,Samsunspor,6.48,0,0.19,1,1,0,77.5
+846441,Rúben Vinagre,ruben-vinagre,3106,Legia Warszawa,6.48,0,0.03,5,4,0,82.24
+942334,Kacper Chodyna,kacper-chodyna,3106,Legia Warszawa,6.48,0,0.08,1,2,0,70.18
+1799485,Michael Noonan,michael-noonan,3177,Shamrock Rovers,6.48,0,0.04,0,0,0,78.57
+1123612,Vane Krstevski,vane-krstevski,5413,KF Shkëndija,6.48,0,0.02,0,0,0,83.33
+827688,Jannes Horn,jannes-horn,2055,SK Rapid Wien,6.47,0,,0,7,1,89.44
+840717,Aaron McEneff,aaron-mceneff,3177,Shamrock Rovers,6.47,0,,0,0,0,84.38
+1382909,Adrian Svanback,svanback-adrian,1760,BK Häcken,6.47,0,1.31,7,6,0,82.86
+997215,Marko Lazetić,marko-lazetic,2355,Aberdeen,6.47,0,0.9,8,2,0,70.83
+1123855,Patrik Vydra,patrik-vydra,2218,AC Sparta Praha,6.47,0,0.57,0,5,0,81.09
+991366,Kusini Yengi,kusini-yengi,2355,Aberdeen,6.47,0,0.13,0,0,0,80.0
+1152505,Nelson Weiper,nelson-weiper,2556,1. FSV Mainz 05,6.46,1,2.8,2,7,0,62.75
+1048333,Emmanuel Emegha,emanuel-emegha,1659,RC Strasbourg,6.46,2,2.44,1,3,0,65.63
+801023,Vesel Limaj,vesel-limaj,229755,FC Drita,6.46,0,0.46,2,5,1,81.13
+1887752,Aleksander Trumci,aleksander-trumci,5413,KF Shkëndija,6.46,0,0.08,2,11,0,75.12
+894463,Leonardo Rocha,leonardo-rocha,35268,Raków Częstochowa,6.45,0,,0,0,0,66.67
+1142416,Anton Glushchenko,anton-glushchenko,3313,Shakhtar Donetsk,6.45,0,,0,3,0,88.89
+97952,Mevlan Murati,mevlan-murati,5413,KF Shkëndija,6.45,0,,0,5,0,76.0
+888057,Ed McGinty,ed-mcginty,3177,Shamrock Rovers,6.45,0,,0,1,0,53.62
+1897251,Nikolaus Wurmbrand,nikolaus-wurmbrand,2055,SK Rapid Wien,6.45,0,0.99,4,7,0,61.29
+357584,Borna Sosa,borna-sosa,7,Crystal Palace,6.45,0,0.75,2,8,0,84.92
+54979,Besart Ibraimi,besart-ibraimi,5413,KF Shkëndija,6.45,0,0.51,7,2,0,78.75
+1590941,Kasper Boogaard,boogaard-kasper,2950,AZ Alkmaar,6.45,0,0.27,1,2,0,84.4
+344177,Alen Grgić,alen-grgic,262228,FC Noah,6.45,0,0.19,0,1,0,64.29
+998972,Fiton Ademi,fiton-ademi,5413,KF Shkëndija,6.45,0,0.09,0,0,0,100.0
+44679,Duje Čop,duje-cop,2039,HNK Rijeka,6.45,0,0.09,1,0,0,64.71
+1423502,Toni Majić,toni-majic,5178,HŠK Zrinjski Mostar,6.45,0,0.05,0,2,0,91.3
+1144266,Ante Matej Jurić,ante-matej-juric,2039,HNK Rijeka,6.44,0,0.34,4,6,0,68.29
+64386,Kristinn Steindorsson,kristinn-steindorsson,1901,Breidablik Kópavogur,6.44,0,,1,1,0,87.78
+795169,Luka Menalo,luka-menalo,2039,HNK Rijeka,6.44,0,0.44,5,2,0,81.25
+1046302,Alban Ajdini,alban-ajdini,2446,FC Lausanne-Sport,6.43,0,0.52,1,3,0,70.37
+858600,Imad Rondić,imad-rondic,35268,Raków Częstochowa,6.43,0,0.1,2,0,0,50.0
+285975,Domantas Šimkus,domantas-simkus,33583,Ħamrun Spartans FC,6.43,0,0.02,0,2,0,82.76
+958982,Roberto Piccoli,roberto-piccoli,2693,Fiorentina,6.43,3,4.77,0,4,1,64.12
+283831,Petar Mamić,petar-mamic,5178,HŠK Zrinjski Mostar,6.43,0,0.14,3,8,0,67.4
+895011,Matias Garcia,matias-garcia,33583,Ħamrun Spartans FC,6.43,0,0.26,0,5,0,69.01
+21949,Óscar Trejo,oscar-trejo,2818,Rayo Vallecano,6.43,0,0.05,2,5,0,86.0
+1083777,Kacper Tobiasz,kacper-tobiasz,3106,Legia Warszawa,6.42,0,,0,0,0,62.11
+338695,Amor Layouni,amor-layouni,1760,BK Häcken,6.42,0,0.76,1,2,0,82.5
+280461,Lyes Houri,lyes-houri,116223,Universitatea Craiova,6.42,0,0.14,1,4,0,77.5
+1153117,Mexx Meerdink,mexx-meerdink,2950,AZ Alkmaar,6.42,0,0.53,2,1,0,63.04
+1120017,Gabriel Rukavina,gabrijel-rukavina,2039,HNK Rijeka,6.4,0,,0,0,0,100.0
+1526932,Riccardo Braschi,riccardo-braschi,2693,Fiorentina,6.4,0,,0,0,0,33.33
+1513676,Prosper Obah,prosper-obah,3313,Shakhtar Donetsk,6.4,0,,0,0,0,66.67
+1931626,Hugo Sochurek,hugo-sochurek,2218,AC Sparta Praha,6.4,0,,1,3,0,95.65
+1173794,Salifu Ibrahim,salifu-ibrahim,229755,FC Drita,6.4,0,,0,0,0,71.43
+308826,Lee Casciaro,lee-casciaro,126304,Lincoln Red Imps,6.4,0,,0,0,0,100.0
+134365,Moses Odubajo,moses-odubajo,3395,Omonia Nicosia,6.4,0,,0,4,0,70.0
+1434582,Aleksey Ploshchadnyi,aleksey-ploshchadnyi,262228,FC Noah,6.4,0,,0,0,0,50.98
+909061,David Castro,david-castro,2413,NK Celje,6.4,0,,0,0,0,87.76
+892955,Ellis Chapman,ellis-chapman,3174,Shelbourne,6.4,0,,0,0,0,50.0
+1397549,Atdhe Mazari,mazari-atdhe,5413,KF Shkëndija,6.4,0,,0,0,0,75.0
+1175898,Otto Ruoppi,otto-ruoppi,2244,Kuopion Palloseura,6.4,0,1.21,7,12,0,80.12
+1091628,Nicolas Milanović,nicolas-milanovic,2355,Aberdeen,6.4,0,0.79,0,3,0,78.57
+1014588,Patrik Wålemark,patrik-walemark,3121,Lech Poznań,6.4,0,0.62,1,2,0,83.33
+1103241,Kevin-Prince Milla,kevin-prince-milla,2218,AC Sparta Praha,6.4,0,0.38,0,1,0,56.25
+895631,Claudy Mbuyi,claudy-mbuyi,2055,SK Rapid Wien,6.4,0,0.3,0,3,0,66.67
+1100965,Samed Baždar,samed-bazdar,7691,Jagiellonia Białystok,6.4,0,0.22,2,1,0,66.67
+127712,Tomi Jurić,tomi-juric,5178,HŠK Zrinjski Mostar,6.4,0,0.18,0,0,0,50.0
+1211028,Dawid Drachal,dawid-drachal,7691,Jagiellonia Białystok,6.4,0,0.14,2,4,0,75.0
+890649,Endrit Krasniqi,endrit-krasniqi,5413,KF Shkëndija,6.4,0,0.14,3,7,0,66.96
+147138,Pico,pico,3177,Shamrock Rovers,6.4,0,0.12,0,8,0,82.22
+1429107,Mathías González,mathias-gonzalez,3404,AEK Larnaca,6.4,0,0.06,0,1,0,96.55
+1899515,Benjamin Casey,benjamin-casey,7,Crystal Palace,6.4,0,0.03,0,0,0,0.0
+1138128,Shaisen Attard,shaisen-attard,33583,Ħamrun Spartans FC,6.4,0,0.03,0,1,0,50.0
+171625,Jure Balkovec,jure-balkovec,3395,Omonia Nicosia,6.4,0,0.03,1,0,0,74.77
+146552,Ryan Camenzuli,ryan-camenzuli,33583,Ħamrun Spartans FC,6.4,0,0.02,2,7,0,73.56
+1212015,Fabrice Tamba,fabrice-tamba,5413,KF Shkëndija,6.39,0,0.49,6,12,0,68.48
+1129179,Jack Milne,jack-milne,2355,Aberdeen,6.38,0,0.34,2,7,0,82.0
+1001667,Samuel Teles,samuel-teles,116223,Universitatea Craiova,6.38,0,0.27,5,4,0,69.13
+795251,Mats Knoester,mats-knoester,2355,Aberdeen,6.38,0,0.05,0,5,0,75.24
+1025669,Topi Keskinen,topi-keskinen,2355,Aberdeen,6.38,0,0.15,4,4,1,76.0
+1148468,Weslley Patati,weslley-patati,2950,AZ Alkmaar,6.37,0,1.41,11,12,0,78.36
+166987,Andraž Šporar,andraz-sporar,2404,ŠK Slovan Bratislava,6.37,0,0.25,1,1,1,76.92
+1047014,Agon Sadiku,agon-sadiku,2244,Kuopion Palloseura,6.37,0,0.62,0,1,0,81.82
+1128497,Evan Caffrey,evan-caffrey,3174,Shelbourne,6.37,0,0.17,0,2,0,79.03
+930511,Daniel Grant,daniel-grant,3177,Shamrock Rovers,6.36,1,1.73,2,7,0,64.13
+1392809,Mohamed Yasser,yasser-mohamed,2207,SK Sigma Olomouc,6.35,0,,3,0,0,77.78
+94826,Nermin Zolotić,nermin-zolotic,262228,FC Noah,6.35,0,,0,0,0,84.09
+868285,Yahav Garfinkel,yahav-garfinkel,3404,AEK Larnaca,6.35,0,,0,0,0,64.29
+109785,Aaron Greene,aaron-greene,3177,Shamrock Rovers,6.35,0,,0,1,0,60.0
+1518820,Emmanuel Gyamfi,emmanuel-gyamfi,2355,Aberdeen,6.35,0,,0,0,0,63.64
+150140,Tobias Thomsen,tobias-thomsen,1901,Breidablik Kópavogur,6.35,0,0.46,0,2,0,60.0
+1025993,Þorleifur Úlfarsson,thorleifur-ulfarsson,1901,Breidablik Kópavogur,6.35,0,0.35,0,1,0,50.0
+988833,Bryan Fiabema,bryan-fiabema,3121,Lech Poznań,6.35,0,0.25,0,0,0,80.95
+900127,Kristal Abazaj,kristal-abazaj,229755,FC Drita,6.34,0,0.34,1,1,0,78.26
+1886702,Ben Zidane,mamadou-soumahoro,229755,FC Drita,6.34,0,0.28,1,2,0,66.67
+1396499,Milan Mbeng,milan-mbeng,3174,Shelbourne,6.34,0,0.19,8,5,0,78.16
+1394226,Matěj Mikulenka,matej-mikulenka,2207,SK Sigma Olomouc,6.34,0,0.12,2,5,0,67.19
+824139,Jan Kuchta,jan-kuchta,2218,AC Sparta Praha,6.34,0,0.38,1,5,2,77.91
+151739,Jan Kliment,jan-kliment,2207,SK Sigma Olomouc,6.32,0,0.73,6,5,0,71.83
+790567,Nicky Devlin,nicky-devlin,2355,Aberdeen,6.32,1,0.67,0,7,0,83.08
+886127,Afimico Pululu,afimico-pululu,7691,Jagiellonia Białystok,6.3,1,1.25,8,2,2,72.86
+937325,Daniel Vašulín,daniel-vasulin,2207,SK Sigma Olomouc,6.3,1,1.92,1,1,0,62.86
+1899540,Dean Benamar,dean-benamar,7,Crystal Palace,6.3,0,,1,2,0,90.0
+1009284,Gabriel Kobylak,gabriel-kobylak,3106,Legia Warszawa,6.3,0,,0,0,0,75.0
+1000581,Andres Dumitrescu,andres-dumitrescu,2207,SK Sigma Olomouc,6.3,0,,0,0,0,100.0
+976373,Kristian Bilovar,kristian-bilovar,3305,Dynamo Kyiv,6.3,0,,0,2,0,85.71
+2181393,David Gerasimou,david-gerasimou,3404,AEK Larnaca,6.3,0,,0,0,0,85.71
+1138152,Nikolai Micallef,nikolai-micallef,33583,Ħamrun Spartans FC,6.3,0,,1,1,0,72.22
+1426622,Luca Băsceanu,luca-basceanu,116223,Universitatea Craiova,6.3,0,,0,0,0,80.0
+964140,Jakub Surovčík,jakub-surovcik,2218,AC Sparta Praha,6.3,0,,0,0,0,65.52
+981802,Darragh Nugent,nugent-darragh,3177,Shamrock Rovers,6.3,0,,0,3,0,43.75
+943278,Frantzdy Pierrot,frantzdy-pierrot,3250,AEK Athens,6.3,0,1.05,2,1,0,76.47
+996734,Tobias Fjeld Gulliksen,tobias-fjeld-gulliksen,2055,SK Rapid Wien,6.3,0,0.05,4,3,0,75.71
+87087,Róbert Mak,robert-mak,2404,ŠK Slovan Bratislava,6.3,0,0.05,0,2,0,81.93
+1121279,David Tkáč,david-tkac,2207,SK Sigma Olomouc,6.3,0,0.03,0,0,0,80.0
+1855215,Max Kovaleskis,max-kovaleskis,3177,Shamrock Rovers,6.3,0,0.03,3,0,0,85.71
+279445,Dan Cleary,dan-cleary,3177,Shamrock Rovers,6.28,0,,2,9,0,72.94
+88431,Nano,nano,126304,Lincoln Red Imps,6.28,0,0.28,1,12,0,66.67
+1019957,Steve Kapuadi,steve-kapuadi,3106,Legia Warszawa,6.28,0,0.08,1,3,0,84.75
+802859,Dimitar Mitov,dimitar-mitov,2355,Aberdeen,6.27,0,,0,0,0,45.83
+1397134,Valentyn Rubchynskyi,valentyn-rubchynskyi,3305,Dynamo Kyiv,6.27,0,0.08,2,4,0,79.31
+1187130,Olle Samuelsson,olle-samuelsson,1760,BK Häcken,6.27,0,0.01,1,4,0,86.54
+1503303,Seydou Traore,seydou-traore,2446,FC Lausanne-Sport,6.25,0,,0,1,0,69.23
+878471,Nenad Cvetković,nenad-cvetkovic,2055,SK Rapid Wien,6.25,0,,0,6,0,81.51
+1090475,Joe,joe,126304,Lincoln Red Imps,6.23,0,0.13,0,1,1,83.33
+1517711,Martin Ndzie,martin-ndzie,2055,SK Rapid Wien,6.23,0,,1,3,0,82.61
+834180,Nikola Stevanović,nikola-stevanovic,116223,Universitatea Craiova,6.23,0,,0,0,0,84.09
+337301,Zoran Arsenić,zoran-arsenic,35268,Raków Częstochowa,6.2,0,,0,0,0,83.33
+1069252,Lasse Riess,lasse-riess,2556,1. FSV Mainz 05,6.2,0,,0,0,0,61.11
+860306,Oliver Christensen,oliver-christensen,2693,Fiorentina,6.2,0,,0,0,0,48.65
+234230,Florent Mollet,florent-mollet,2446,FC Lausanne-Sport,6.2,0,,0,0,0,78.57
+966999,Ayman El Ghobashy,ayman-el-ghobashy,126304,Lincoln Red Imps,6.2,0,,2,0,0,90.0
+56883,Rory Gaffney,rory-gaffney,3177,Shamrock Rovers,6.2,0,2.0,4,0,0,73.97
+791170,Maryan Shved,maryan-shved,3313,Shakhtar Donetsk,6.2,0,0.11,1,0,0,79.17
+985721,Fahd Ndzengue,fahd-ndzengue,5413,KF Shkëndija,6.2,0,0.06,1,0,0,51.61
+941892,Ilija Mašić,ilija-masic,5178,HŠK Zrinjski Mostar,6.2,0,0.06,1,7,0,85.63
+846471,Anthony Caci,anthony-caci,2556,1. FSV Mainz 05,6.2,0,0.05,0,2,0,80.0
+1390889,Cory O'Sullivan,cory-osullivan,3177,Shamrock Rovers,6.18,0,,1,7,0,73.37
+1035622,Anton Logi Lúðvíksson,anton-logi-ludviksson,1901,Breidablik Kópavogur,6.13,0,,0,6,0,73.33
+949062,Silas,silas-katompa-mvumpa,2556,1. FSV Mainz 05,6.1,0,,0,1,0,66.67
+105531,Ibrahim Ayew,ibrahim-ayew,126304,Lincoln Red Imps,6.1,0,,0,1,0,77.78
+1008456,Oliver Sonne,oliver-sonne,2218,AC Sparta Praha,6.1,0,0.17,0,1,0,76.67
+965818,Niko Janković,niko-jankovic,2039,HNK Rijeka,6.03,0,,1,0,0,89.47
+976366,Kostiantyn Vivcharenko,kostiantyn-vivcharenko,3305,Dynamo Kyiv,6.0,0,0.02,0,2,0,80.77
+556474,Joseph Mbong,joseph-mbong,33583,Ħamrun Spartans FC,5.92,0,0.28,2,4,0,70.73
+795899,Ognjen Čančarević,ognjen-cancarevic,262228,FC Noah,5.8,0,,0,0,0,60.0
+1067195,Tornike Morchiladze,tornike-morchiladze,2039,HNK Rijeka,5.8,0,,0,0,0,100.0
+360892,Nauzet Garcia,nauzet-garcia,126304,Lincoln Red Imps,5.7,0,,0,0,0,58.33
+999133,James Norris,james-norris,3174,Shelbourne,5.6,0,,1,3,0,90.0
+1033514,Joslyn Luyeye-Lutumba,joslyn-luyeye-lutumba,2244,Kuopion Palloseura,5.48,0,0.29,1,0,0,85.19
+938675,Laurit Behluli,laurit-behluli,229755,FC Drita,5.1,0,,0,0,0,58.82
+1001858,Soumaila Coulibaly,soumaila-coulibaly,1659,RC Strasbourg,0.0,0,,0,0,0,0.0
+1526938,Giorgio Puzzoli,giorgio-puzzoli,2693,Fiorentina,0.0,0,,1,0,0,0.0
+2049628,Sidoine Fogning,sidoine-fogning,2404,ŠK Slovan Bratislava,0.0,0,,0,0,0,100.0
+1941359,Eryk Kozłowski,eryk-kozlowski,7691,Jagiellonia Białystok,0.0,0,,0,1,0,75.0
+1514356,Marian Faryna,maryan-faryna,3313,Shakhtar Donetsk,0.0,0,,0,0,0,100.0
+1405747,Mathijs Menu,mathijs-menu,2950,AZ Alkmaar,0.0,0,,0,0,0,0.0
+64548,Gudmundur Magnusson,gudmundur-magnusson,1901,Breidablik Kópavogur,0.0,0,,0,0,0,0.0
+1146464,Lorik Kaba Jakupi,lorik-kaba-jakupi,5413,KF Shkëndija,0.0,0,,0,0,0,0.0
+1938983,Engjell Sylejmani,engjell-sylejmani,229755,FC Drita,0.0,0,,0,0,0,100.0

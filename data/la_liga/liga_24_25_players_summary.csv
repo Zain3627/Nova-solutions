@@ -1,0 +1,590 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+99516,Aitor Fernández,aitor-fernandez,2820,Osasuna,8.4,0,,0,0,0,60.98
+1131909,Leo Román,leo-roman,2826,Mallorca,7.83,0,,1,0,0,53.6
+831005,Raphinha,raphinha,2817,FC Barcelona,7.8,18,19.38,52,36,9,79.46
+1402912,Lamine Yamal,lamine-yamal,2817,FC Barcelona,7.79,9,9.81,161,42,13,78.93
+826643,Kylian Mbappé,kylian-mbappe,2829,Real Madrid,7.7,31,25.93,83,8,3,85.28
+1119678,Sergio Arribas,sergio-arribas,2816,Real Betis,7.6,0,,0,7,0,68.29
+1094782,Unai Marrero,unai-marrero,2824,Real Sociedad,7.6,0,,0,0,0,77.78
+992587,Pedri,pedri,2817,FC Barcelona,7.59,4,2.18,40,61,5,89.03
+103417,Isco,isco,2816,Real Betis,7.54,9,8.62,27,20,8,86.21
+910031,Alex Baena,alex-baena,2819,Villarreal,7.48,7,7.18,21,28,9,74.02
+831808,Federico Valverde,federico-valverde,2829,Real Madrid,7.47,6,2.66,16,50,4,91.12
+991011,Jude Bellingham,jude-bellingham,2829,Real Madrid,7.45,9,11.5,41,61,8,87.54
+798835,Giovani Lo Celso,lo-celso-giovani,2816,Real Betis,7.41,8,4.77,21,34,3,84.82
+958380,Antony,antony,2816,Real Betis,7.41,5,2.87,24,25,2,84.02
+910536,Rodrygo,rodrygo,2829,Real Madrid,7.4,6,4.0,49,21,5,90.91
+930267,Joan García,joan-garcia,2814,Espanyol,7.39,0,0.07,0,0,0,66.95
+15466,Luka Modrić,luka-modric,2829,Real Madrid,7.38,2,1.55,14,31,6,91.33
+868812,Vinícius Júnior,vinicius-junior,2829,Real Madrid,7.37,11,10.69,82,21,8,79.03
+789071,Dani Olmo,dani-olmo,2817,FC Barcelona,7.27,10,6.51,23,16,3,83.33
+41789,Robert Lewandowski,robert-lewandowski,2817,FC Barcelona,7.27,27,27.11,20,10,2,74.66
+138572,Dani Carvajal,dani-carvajal,2829,Real Madrid,7.26,1,1.31,2,12,0,88.06
+887055,Cucho Hernández,cucho-hernandez,2816,Real Betis,7.26,5,3.79,17,15,1,74.66
+19356,Iago Aspas,iago-aspas,2821,Celta Vigo,7.25,10,8.71,15,13,5,76.69
+294377,Sergio Herrera,sergio-herrera,2820,Osasuna,7.24,0,,1,2,0,66.52
+1091116,Arda Güler,arda-guler,2829,Real Madrid,7.24,3,3.23,20,30,4,89.94
+944656,Julián Alvarez,julian-alvarez,2836,Atlético Madrid,7.24,17,14.22,34,25,4,78.52
+173883,Iñigo Martínez,inigo-martinez,2817,FC Barcelona,7.23,0,0.49,3,25,4,91.39
+873947,Dani Raba,dani-raba,2845,Leganés,7.23,8,7.55,46,37,6,73.8
+822519,Éder Militão,eder-militao,2829,Real Madrid,7.21,1,0.64,5,19,1,89.8
+1134396,Jon Magunazelaia,jon-magunazelaia,2824,Real Sociedad,7.2,0,,0,1,0,53.85
+345195,Ayoze Pérez,ayoze-perez,2819,Villarreal,7.19,19,12.8,34,27,2,77.92
+873189,Juan Foyth,juan-foyth,2819,Villarreal,7.19,1,2.39,4,25,0,87.54
+1066603,Luiz Júnior,luiz-junior,2819,Villarreal,7.19,0,,0,0,0,66.58
+1082981,Pablo Torre,pablo-torre,2817,FC Barcelona,7.18,3,0.37,2,5,1,85.44
+85859,Antoine Griezmann,antoine-griezmann,2836,Atlético Madrid,7.18,8,7.51,15,30,7,80.41
+827212,Jules Koundé,jules-kounde,2817,FC Barcelona,7.17,2,1.81,22,63,3,88.65
+353138,Marcos Llorente,marcos-llorente,2836,Atlético Madrid,7.17,2,0.77,14,69,4,87.9
+2087085,Yan Diomande,yan-diomande,2845,Leganés,7.16,2,1.72,23,14,1,87.08
+910978,Dani Vivian,dani-vivian,2825,Athletic Club,7.16,4,1.92,10,40,0,87.41
+973887,Eduardo Camavinga,eduardo-camavinga,2829,Real Madrid,7.16,1,0.44,15,42,2,88.96
+877102,Nayef Aguerd,nayef-aguerd,2824,Real Sociedad,7.16,0,2.4,5,30,0,87.74
+37318,Ante Budimir,ante-budimir,2820,Osasuna,7.14,21,18.59,10,20,4,57.21
+807116,Antonio Raíllo,antonio-raillo,2826,Mallorca,7.14,2,2.0,2,31,0,88.95
+896073,Nahuel Tenaglia,nahuel-tenaglia,2885,Deportivo Alavés,7.14,2,2.19,17,96,1,74.41
+547838,Dani Ceballos,dani-ceballos,2829,Real Madrid,7.13,0,0.35,8,41,0,95.11
+260031,Rubén García,ruben-garcia,2820,Osasuna,7.13,5,3.05,12,52,5,79.72
+249399,Rodrigo De Paul,rodrigo-de-paul,2836,Atlético Madrid,7.11,3,1.29,14,33,5,84.09
+855835,Sergio Gómez,sergio-gomez,2824,Real Sociedad,7.11,2,1.89,22,71,5,84.56
+593526,Nicolas Pépé,nicolas-pepe,2819,Villarreal,7.11,3,3.94,27,22,6,83.45
+70988,Thibaut Courtois,thibaut-courtois,2829,Real Madrid,7.11,0,,0,0,0,80.26
+69408,Marcos Alonso,marcos-alonso,2821,Celta Vigo,7.11,3,3.97,16,35,0,90.47
+146866,Gerard Moreno,gerard-moreno,2819,Villarreal,7.11,3,4.15,18,7,2,79.73
+807648,Yeray Álvarez,yeray-alvarez,2825,Athletic Club,7.1,1,0.48,6,25,0,84.4
+88528,Florian Lejeune,florian-lejeune,2818,Rayo Vallecano,7.1,2,3.56,4,46,3,84.02
+811629,Luis Milla,luis-milla,2859,Getafe,7.1,1,1.83,21,61,4,81.24
+925097,Ronald Araújo,ronald-araujo,2817,FC Barcelona,7.1,1,0.95,0,12,1,91.92
+263651,Juan Musso,juan-musso,2836,Atlético Madrid,7.1,0,,0,0,0,83.33
+859025,Aurélien Tchouaméni,aurelien-tchouameni,2829,Real Madrid,7.1,0,1.65,10,47,0,92.91
+580550,Clément Lenglet,clement-lenglet,2836,Atlético Madrid,7.1,2,2.41,3,27,1,87.76
+859773,Óscar Mingueza,oscar-mingueza,2821,Celta Vigo,7.09,4,1.46,25,38,6,80.89
+358910,Augusto Batalla,augusto-batalla,2818,Rayo Vallecano,7.09,0,,6,4,0,63.12
+791046,Dominik Greif,dominik-greif,2826,Mallorca,7.09,0,,2,0,0,66.96
+986245,Sergi Cardona,sergi-cardona,2819,Villarreal,7.08,1,2.46,10,71,7,79.98
+855833,Ferran Torres,ferran-torres,2817,FC Barcelona,7.08,10,7.95,11,8,6,77.58
+319735,Viktor Tsygankov,viktor-tsygankov,24264,Girona FC,7.07,2,2.81,15,19,5,81.67
+857574,Andriy Lunin,andriy-lunin,2829,Real Madrid,7.07,0,,0,1,1,84.8
+880218,Takefusa Kubo,takefusa-kubo,2824,Real Sociedad,7.07,5,3.56,75,31,0,77.03
+1066045,Arsen Zakharyan,arsen-zakharyan,2824,Real Sociedad,7.07,1,0.2,1,1,0,84.38
+797291,Unai Simón,unai-simon,2825,Athletic Club,7.07,0,,0,0,0,65.83
+900792,Alejandro Catena,alejandro-catena,2820,Osasuna,7.07,1,2.27,8,46,3,84.17
+847128,Marc Roca,marc-roca,2816,Real Betis,7.06,2,1.06,4,20,2,87.64
+823631,Dodi Lukebakio,dodi-lukebakio,2833,Sevilla,7.06,11,10.02,84,22,2,81.73
+843678,Santi Comesaña,santi-comesana,2819,Villarreal,7.06,4,4.67,18,85,2,85.63
+591750,Joan Jordán,joan-jordan,2885,Deportivo Alavés,7.06,5,4.78,6,32,2,81.82
+879694,Pape Gueye,pape-gueye,2819,Villarreal,7.05,4,3.31,11,54,0,81.55
+255239,Lucas Vázquez,lucas-vazquez,2829,Real Madrid,7.05,1,1.44,19,58,5,89.89
+99519,Marc Bartra,marc-bartra,2816,Real Betis,7.05,2,1.19,7,33,1,81.74
+84972,Kike García,kike-garcia,2885,Deportivo Alavés,7.05,13,9.84,13,19,0,66.9
+69768,Jan Oblak,jan-oblak,2836,Atlético Madrid,7.04,0,,2,0,0,76.31
+345111,Álvaro García,alvaro-garcia,2818,Rayo Vallecano,7.04,4,7.67,10,33,5,71.25
+253809,Rui Silva,rui-silva,2816,Real Betis,7.04,0,,0,0,0,75.66
+966801,Oihan Sancet,oihan-sancet,2825,Athletic Club,7.04,15,9.73,24,13,1,83.82
+954076,Fábio Silva,fabio-silva,6577,UD Las Palmas,7.04,10,8.8,21,12,3,68.56
+110783,Sergi Darder,sergi-darder,2826,Mallorca,7.04,2,2.21,34,40,6,81.43
+44864,Daley Blind,daley-blind,24264,Girona FC,7.04,0,0.48,15,49,2,90.2
+1000483,Marc Casadó,marc-casado,2817,FC Barcelona,7.03,1,1.06,4,44,3,89.89
+851271,Fran García,fran-garcia,2829,Real Madrid,7.03,0,0.87,8,51,2,88.96
+142622,Antonio Rüdiger,antonio-rudiger,2829,Real Madrid,7.03,0,1.72,3,20,0,92.22
+783374,Iñaki Williams,inaki-williams,2825,Athletic Club,7.03,6,7.39,33,17,8,70.49
+547246,Juan Soriano,juan-soriano,2845,Leganés,7.03,0,,0,1,0,47.27
+39182,Dani Parejo,dani-parejo,2819,Villarreal,7.03,3,2.5,8,52,3,88.98
+805137,Omar Alderete,omar-alderete,2859,Getafe,7.03,1,1.72,18,43,0,66.36
+908716,Miguel Gutiérrez,miguel-gutierrez,24264,Girona FC,7.03,1,1.64,29,37,5,88.36
+35612,Axel Witsel,axel-witsel,2836,Atlético Madrid,7.02,0,0.03,1,16,1,90.79
+369004,Antonio Sivera,antonio-sivera,2885,Deportivo Alavés,7.02,0,,0,2,0,51.12
+1153270,Fermín López,fermin-lopez,2817,FC Barcelona,7.02,6,5.67,25,19,5,86.15
+123865,Jasper Cillessen,jasper-cillessen,6577,UD Las Palmas,7.02,0,,0,1,0,63.36
+1089108,Ilias Akhomach,ilias-akhomach,2819,Villarreal,7.02,1,0.57,19,12,0,79.88
+966837,Martín Zubimendi,martin-zubimendi,2824,Real Sociedad,7.02,2,2.78,19,73,1,84.42
+797306,Mouctar Diakhaby,mouctar-diakhaby,2828,Valencia,7.02,2,1.3,2,8,0,84.59
+795222,Frenkie de Jong,frenkie-de-jong,2817,FC Barcelona,7.02,2,0.66,5,19,2,95.08
+892521,Unai Núñez,unai-nunez,2825,Athletic Club,7.01,0,0.23,2,10,0,87.08
+604258,David Soria,david-soria,2859,Getafe,7.01,0,,0,4,0,46.76
+305278,Diego Llorente,diego-llorente,2816,Real Betis,7.01,2,1.5,6,36,0,86.89
+309078,Alexander Sørloth,alexander-srloth,2836,Atlético Madrid,7.01,20,17.02,14,9,2,65.52
+94527,Marko Dmitrović,marko-dmitrovic,2845,Leganés,7.01,0,,1,1,0,38.37
+839585,Yangel Herrera,yangel-herrera,24264,Girona FC,7.0,4,3.61,19,66,3,84.43
+81992,Leandro Cabrera,leandro-cabrera,2814,Espanyol,7.0,4,1.18,1,40,2,76.53
+592012,Álex Berenguer,alex-berenguer,2825,Athletic Club,7.0,6,6.75,33,32,7,77.06
+826948,Pepelu,pepelu,2828,Valencia,7.0,2,2.08,8,43,2,84.12
+964985,Kirian Rodríguez,kirian-rodriguez,6577,UD Las Palmas,7.0,0,1.56,11,33,3,86.83
+877262,Edu Expósito,edu-exposito,2814,Espanyol,7.0,0,1.07,15,23,2,72.4
+1152139,Angel Ortiz,angel-ortiz,2816,Real Betis,7.0,0,0.04,4,12,1,79.41
+1513656,Iker Almena,almena-iker,24264,Girona FC,7.0,0,0.03,2,0,1,80.77
+794949,Iñaki Peña,inaki-pena,2817,FC Barcelona,7.0,0,,0,0,0,87.64
+1526618,Marc Bernal,marc-bernal,2817,FC Barcelona,7.0,0,0.07,2,8,0,92.5
+985329,Aimar Oroz,aimar-oroz,2820,Osasuna,6.99,5,4.16,49,35,4,83.98
+325355,José María Giménez,jose-maria-gimenez,2836,Atlético Madrid,6.99,0,0.45,2,26,1,91.81
+227922,José Luis Gayà,jose-luis-gaya,2828,Valencia,6.99,0,1.02,7,57,1,81.91
+876214,Eric García,eric-garcia,2817,FC Barcelona,6.99,2,2.32,5,38,3,92.39
+816763,Pablo Fornals,pablo-fornals,2816,Real Betis,6.99,2,1.84,7,21,0,82.88
+592098,Jorge Sáenz,jorge-saenz,2845,Leganés,6.99,1,1.36,4,37,0,83.89
+350560,Diego Rico,diego-rico,2859,Getafe,6.98,0,0.35,6,81,3,69.42
+1156645,Raúl Asencio,raul-asencio,2829,Real Madrid,6.98,0,0.12,6,22,1,93.87
+910026,Bryan Gil,bryan-gil,24264,Girona FC,6.98,3,2.26,41,34,3,89.67
+1395746,Thierno Barry,thierno-barry,2819,Villarreal,6.98,11,12.41,18,11,4,62.35
+788216,Pablo Maffeo,pablo-maffeo,2826,Mallorca,6.98,0,0.27,41,60,2,76.18
+1468046,Santiago Mouriño,santiago-mourino,2885,Deportivo Alavés,6.97,0,0.93,4,43,1,78.52
+1087316,Enzo Barrenechea,enzo-barrenechea,2828,Valencia,6.97,1,1.27,11,57,2,87.04
+360718,Carl Starfelt,carl-starfelt,2821,Celta Vigo,6.97,1,0.5,1,40,0,93.67
+188407,Sandro Ramírez,sandro-ramirez,6577,UD Las Palmas,6.97,9,4.06,16,27,3,74.08
+791773,Álex Remiro,alex-remiro,2824,Real Sociedad,6.97,0,,0,1,0,72.02
+116955,Saúl Ñíguez,saul-niguez,2833,Sevilla,6.97,1,2.85,12,47,6,80.31
+188365,Héctor Bellerín,hector-bellerin,2816,Real Betis,6.97,0,0.2,6,13,2,83.15
+21555,César Azpilicueta,cesar-azpilicueta,2836,Atlético Madrid,6.96,1,0.24,1,25,0,87.65
+855922,Dinko Horkaš,dinko-horkas,6577,UD Las Palmas,6.96,0,,1,0,0,73.56
+84531,Yuri Berchiche,yuri-berchiche,2825,Athletic Club,6.96,0,0.56,6,33,2,85.45
+1090681,Ramón Martínez,ramon-martinez,2833,Sevilla,6.96,1,0.34,1,6,0,92.62
+900433,Luis Rioja,luis-rioja,2828,Valencia,6.96,5,3.24,42,35,3,77.23
+874705,Samuel Lino,samuel-lino,2836,Atlético Madrid,6.96,3,5.94,27,33,4,82.01
+300522,Martin Valjent,martin-valjent,2826,Mallorca,6.96,3,0.81,6,30,0,86.8
+960006,Lucien Agoumé,lucien-agoume,2833,Sevilla,6.95,1,0.87,22,70,3,82.89
+899982,Isi Palazón,isi-palazon,2818,Rayo Vallecano,6.95,4,4.62,25,22,4,83.33
+1402913,Pau Cubarsí,pau-cubarsi,2817,FC Barcelona,6.95,0,0.83,6,34,3,93.63
+990169,Johnny Cardoso,johnny-cardoso,2816,Real Betis,6.95,3,2.03,26,55,1,86.04
+965031,Andrei Rațiu,andrei-ratiu,2818,Rayo Vallecano,6.95,2,1.83,76,71,3,84.15
+1097719,Kike Salas,kike-salas,2833,Sevilla,6.95,3,1.91,3,47,2,79.64
+155702,Lucas Ocampos,lucas-ocampos,2833,Sevilla,6.95,0,0.16,2,3,1,73.17
+41013,Aridane Hernández,aridane-hernandez,2818,Rayo Vallecano,6.95,0,0.92,3,13,0,88.02
+1014412,Julen Agirrezabala,julen-agirrezabala,2825,Athletic Club,6.94,0,,0,0,0,64.89
+984624,Yéremy Pino,yeremy-pino,2819,Villarreal,6.94,4,3.97,25,60,7,77.52
+1084399,Carlos Vicente,vicente-carlos,2885,Deportivo Alavés,6.94,5,3.48,34,47,5,74.51
+328145,Adnan Januzaj,adnan-januzaj,6577,UD Las Palmas,6.94,2,0.86,14,10,1,79.49
+310874,Vedat Muriqi,vedat-muriqi,2826,Mallorca,6.93,7,9.83,9,7,2,61.95
+1085400,Nico Williams,nico-williams,2825,Athletic Club,6.93,5,4.16,68,28,5,79.17
+1084081,Arnau Martínez,arnau-martinez,24264,Girona FC,6.93,2,1.25,20,51,2,88.14
+1403348,Jacobo Ramón,jacobo-naveros,2829,Real Madrid,6.93,1,0.16,0,7,0,93.33
+2150615,Ibrahim Alani,ibrahim-alani,2831,Real Valladolid,6.93,0,0.02,1,12,0,84.34
+349526,Dani Rodríguez,dani-rodriguez,2826,Mallorca,6.93,4,2.76,16,49,7,77.66
+893642,Marash Kumbulla,marash-kumbulla,2814,Espanyol,6.93,3,1.85,4,51,0,84.86
+1064026,Omar El Hilali,omar-el-hilali,2814,Espanyol,6.93,0,0.03,17,111,2,80.64
+1495844,Mikel Jauregizar,mikel-jauregizar,2825,Athletic Club,6.93,2,1.08,20,84,1,82.46
+96365,Iñigo Ruiz de Galarreta,inigo-ruiz-de-galarreta,2825,Athletic Club,6.93,0,0.51,16,36,4,83.46
+142018,Iván Sánchez,ivan-sanchez,2831,Real Valladolid,6.93,2,0.65,28,37,1,84.21
+997035,Alejandro Balde,alejandro-balde,2817,FC Barcelona,6.93,0,0.48,46,18,4,91.21
+1466116,Jon Martin,vicente-jon-martin,2824,Real Sociedad,6.92,0,0.6,0,11,1,86.83
+1084730,Bryan Zaragoza,bryan-zaragoza,2820,Osasuna,6.92,1,2.7,57,13,6,72.62
+164343,Paulo Gazzaniga,paulo-gazzaniga,24264,Girona FC,6.92,0,,3,1,0,78.2
+962890,Ilaix Moriba,ilaix-moriba,2821,Celta Vigo,6.92,1,1.72,15,68,1,86.29
+1103693,Gavi,gavi,2817,FC Barcelona,6.92,1,0.88,9,30,1,90.99
+96370,Suso,suso,2833,Sevilla,6.92,0,0.74,14,10,2,84.59
+385888,Mauro Arambarri,mauro-arambarri,2859,Getafe,6.92,10,8.23,18,48,0,74.68
+794937,Carles Aleñá,carles-alena,2885,Deportivo Alavés,6.92,0,1.62,15,25,2,79.78
+1011375,Abdessamad Ezzalzouli,abdessamad-ezzalzouli,2816,Real Betis,6.92,2,7.79,46,37,2,75.98
+845693,André Almeida,andre-almeida,2828,Valencia,6.91,0,1.21,22,48,4,88.62
+50490,Wojciech Szczęsny,wojciech-szczesny,2817,FC Barcelona,6.91,0,,1,1,0,87.47
+1069703,Carlos Domínguez,carlos-dominguez,2821,Celta Vigo,6.91,0,0.21,2,23,0,88.77
+1010421,Pep Chavarría,josep-chavarria,2818,Rayo Vallecano,6.91,0,1.17,10,46,1,82.06
+1099352,Giuliano Simeone,giuliano-simeone,2836,Atlético Madrid,6.91,2,2.2,30,27,6,78.8
+951008,Diego Conde,diego-conde,2819,Villarreal,6.91,0,,0,2,1,77.46
+1142588,Pablo Barrios,pablo-barrios,2836,Atlético Madrid,6.91,1,1.29,25,46,4,87.27
+1396048,Carlos Romero,carlos-romero,2814,Espanyol,6.91,2,1.99,22,73,1,75.86
+826004,Manu Morlanes,manu-morlanes,2826,Mallorca,6.9,0,0.57,3,44,0,89.64
+875890,Chidera Ejuke,chidera-ejuke,2833,Sevilla,6.9,2,1.08,47,19,1,84.15
+187313,Lucas Torró,lucas-torro,2820,Osasuna,6.9,3,2.33,6,74,0,75.78
+936234,Juan Cruz,juan-cruz,2845,Leganés,6.9,5,2.62,40,32,4,74.55
+1468090,Alfon González,alfon-gonzalez,2821,Celta Vigo,6.9,5,4.61,25,8,2,77.04
+799054,Djibril Sow,djibril-sow,2833,Sevilla,6.9,2,2.37,10,25,1,89.61
+1067582,Enzo Boyomo,enzo-boyomo,2820,Osasuna,6.9,2,1.5,10,74,0,87.64
+135116,David López,david-lopez,24264,Girona FC,6.9,1,0.87,6,32,1,92.35
+787751,Robin Le Normand,robin-le-normand,2836,Atlético Madrid,6.9,1,1.39,2,27,0,90.56
+1137814,Sergi Altimira,sergi-altimira,2816,Real Betis,6.9,0,1.75,16,61,1,89.67
+337671,Nabil Fekir,nabil-fekir,2816,Real Betis,6.9,0,0.69,0,3,1,86.11
+1521733,Vladyslav Krapyvtsov,vladyslav-krapyvtsov,24264,Girona FC,6.9,0,,0,0,0,70.18
+1513896,David López,david-lopez,2826,Mallorca,6.9,0,,0,3,0,82.69
+976141,Jon Moncayola,jon-moncayola,2820,Osasuna,6.9,0,1.68,4,70,0,80.21
+1003007,Tanguy Nianzou,tanguy-nianzou,2833,Sevilla,6.9,0,0.19,3,7,0,90.76
+32023,Vicente Guaita,vicente-guaita,2821,Celta Vigo,6.9,0,,0,0,0,77.94
+52663,Óscar de Marcos,oscar-de-marcos,2825,Athletic Club,6.9,0,1.0,4,32,4,79.31
+996928,César Tárrega,cesar-tarrega,2828,Valencia,6.89,2,2.03,11,50,0,84.7
+930997,Giorgi Mamardashvili,giorgi-mamardashvili,2828,Valencia,6.89,0,,0,2,0,63.88
+991591,Karl Hein,karl-hein,2831,Real Valladolid,6.89,0,,0,0,0,70.17
+856250,Ladislav Krejčí,ladislav-krejci,24264,Girona FC,6.89,2,1.66,7,23,0,90.47
+1092769,Yáser Asprilla,yaser-asprilla,24264,Girona FC,6.89,3,2.06,29,22,1,80.7
+846147,Abdul Mumin,abdul-mumin,2818,Rayo Vallecano,6.89,2,0.61,5,37,1,83.63
+1154587,Álvaro Rodriguez,alvaro-rodriguez,2859,Getafe,6.89,2,1.23,16,10,0,47.6
+866810,Andoni Gorosabel,andoni-gorosabel,2825,Athletic Club,6.89,0,0.33,7,47,2,83.71
+949156,Luka Sučić,luka-sucic,2824,Real Sociedad,6.89,1,3.24,25,25,1,84.48
+53739,Kiko Femenía,kiko-femenia,2819,Villarreal,6.89,0,0.36,17,50,1,90.43
+1110006,Dário Essugo,dario-essugo,6577,UD Las Palmas,6.89,1,0.68,12,59,0,85.64
+1884145,Christantus Uche,christantus-uche,2859,Getafe,6.89,4,3.73,32,35,6,67.49
+842419,Valentin Rosier,valentin-rosier,2845,Leganés,6.89,1,0.91,23,72,2,80.63
+835485,Brahim Díaz,brahim-diaz,2829,Real Madrid,6.89,4,5.51,24,25,2,88.4
+1526627,Javi Rodríguez,javi-rodriguez,2821,Celta Vigo,6.89,3,2.37,10,53,2,86.81
+84539,Koke,koke,2836,Atlético Madrid,6.88,1,1.09,9,46,1,89.15
+1392592,Roberto Fernández,roberto-fernandez,2814,Espanyol,6.88,6,3.47,11,4,0,72.76
+50539,Adrián,adrian,2816,Real Betis,6.88,0,,0,0,0,73.33
+909119,Hugo Duro,hugo-duro,2828,Valencia,6.88,11,9.37,7,13,2,70.41
+1015240,José Ángel Carmona,jose-angel-carmona,2833,Sevilla,6.88,0,0.53,19,83,0,82.07
+913695,José Copete,jose-copete,2826,Mallorca,6.88,0,0.46,4,29,0,84.17
+872919,Rubén Vargas,ruben-vargas,2833,Sevilla,6.88,2,1.98,12,7,1,73.63
+831253,Toni Martínez,toni-martinez,2885,Deportivo Alavés,6.88,4,3.86,9,12,0,60.26
+1088565,Ramón Terrats,ramon-terrats,2859,Getafe,6.88,4,2.13,26,23,1,73.18
+916654,Manuel Fuster,manuel-fuster,6577,UD Las Palmas,6.88,2,0.73,5,19,1,83.7
+877978,Andy Pelmard,andy-pelmard,6577,UD Las Palmas,6.88,0,0.01,1,5,0,88.78
+794927,Arthur,arthur,24264,Girona FC,6.87,0,0.21,8,25,0,93.39
+904970,Conor Gallagher,conor-gallagher,2836,Atlético Madrid,6.87,3,2.77,17,45,3,86.59
+891511,Javi Puado,javi-puado,2814,Espanyol,6.87,12,11.48,21,22,4,79.53
+913679,Pathé Ismaël Ciss,ismaila-ciss,2818,Rayo Vallecano,6.86,4,1.92,14,49,1,85.63
+988351,Samú Costa,samuel-costa,2826,Mallorca,6.86,0,1.84,13,88,2,81.59
+98440,Matija Nastasić,matija-nastasic,2845,Leganés,6.86,1,0.06,1,25,0,82.88
+1002764,Sergio Carreira,sergio-carreira,2821,Celta Vigo,6.86,0,0.6,14,28,4,78.53
+911853,Logan Costa,logan-costa,2819,Villarreal,6.86,2,0.7,0,38,1,87.92
+377234,Sergio González,sergio-gonzalez,2845,Leganés,6.85,2,1.47,4,40,0,84.16
+910024,Sergio Camello,sergio-camello,2818,Rayo Vallecano,6.85,3,4.03,13,9,2,80.63
+1031499,Viti Rozada,viti-rozada,6577,UD Las Palmas,6.85,0,0.07,9,71,2,84.13
+353154,Javier Muñoz,javier-munoz,6577,UD Las Palmas,6.85,1,1.27,21,45,3,79.81
+901892,Albert Sambi Lokonga,albert-sambi-lokonga,2833,Sevilla,6.85,0,0.92,4,22,2,89.62
+107414,James Rodríguez,james-rodriguez,2818,Rayo Vallecano,6.85,0,0.29,5,3,0,89.16
+785989,Borja Iglesias,borja-iglesias,2821,Celta Vigo,6.85,11,9.39,11,10,3,72.73
+1144630,Cristhian Mosquera,cristhian-mosquera,2828,Valencia,6.85,1,0.42,5,56,0,91.24
+949707,Juan Iglesias,juan-iglesias,2859,Getafe,6.85,0,1.6,13,81,1,60.46
+825133,Javi Galán,javi-galan,2836,Atlético Madrid,6.85,0,0.2,28,51,3,85.38
+605672,Gorka Guruzeta,gorka-guruzeta,2825,Athletic Club,6.85,7,6.6,11,16,2,74.0
+1015287,Natan,natan,2816,Real Betis,6.85,1,0.35,2,35,1,88.95
+928672,Adrià Pedrosa,adria-pedrosa,2833,Sevilla,6.85,1,0.9,17,56,1,78.54
+588566,Unai López,unai-lopez,2818,Rayo Vallecano,6.84,3,1.6,15,31,1,85.95
+869931,Yvan Neyou,yvan-neyou,2845,Leganés,6.84,1,0.62,19,53,1,88.1
+595576,Jonathan Bamba,jonathan-bamba,2821,Celta Vigo,6.84,0,0.81,15,12,1,82.77
+1002347,Alejandro Francés,alejandro-frances,24264,Girona FC,6.84,0,0.21,7,36,0,85.22
+576276,Domingos Duarte,domingos-duarte,2859,Getafe,6.84,1,0.2,0,28,0,78.7
+186795,Andreas Christensen,andreas-christensen,2817,FC Barcelona,6.84,0,0.02,0,6,0,91.82
+959872,Aitor Paredes,aitor-paredes,2825,Athletic Club,6.84,3,2.29,0,15,0,83.58
+835484,Fran Beltrán,fran-beltran,2821,Celta Vigo,6.84,2,1.01,10,50,1,88.99
+944165,Robert Navarro,robert-navarro,2826,Mallorca,6.83,1,1.99,35,30,0,79.95
+32048,Cristhian Stuani,cristhian-stuani,24264,Girona FC,6.83,11,8.25,2,9,2,70.2
+980383,Raúl Moro,raul-moro,2831,Real Valladolid,6.83,4,4.17,57,22,5,72.83
+352376,Renato Tapia,renato-tapia,2845,Leganés,6.83,1,0.57,19,61,0,79.54
+831799,Nahuel Molina,nahuel-molina,2836,Atlético Madrid,6.83,0,0.8,15,44,3,82.52
+68332,Nemanja Gudelj,nemanja-gudelj,2833,Sevilla,6.83,1,1.62,6,42,1,88.46
+1010655,Juanlu Sánchez,juanlu-sanchez,2833,Sevilla,6.83,4,2.15,11,50,4,85.33
+67769,Ricardo Rodríguez,ricardo-rodriguez,2816,Real Betis,6.83,0,0.18,4,29,1,85.32
+361790,Donny van de Beek,donny-van-de-beek,24264,Girona FC,6.83,2,1.54,6,29,2,83.72
+857178,Kike Pérez,kike-perez,2831,Real Valladolid,6.83,2,2.06,8,37,0,82.15
+1116388,Jon Aramburu,jon-aramburu,2824,Real Sociedad,6.83,1,0.45,8,102,1,80.8
+827064,Arnaut Danjuma,arnaut-danjuma,24264,Girona FC,6.83,4,4.39,24,10,0,81.72
+1006489,Loïc Badé,loic-bade,2833,Sevilla,6.83,1,0.63,17,47,1,86.44
+1606792,Abdulay Juma Bah,abdulay-juma-bah,2831,Real Valladolid,6.83,0,0.27,3,10,0,81.48
+929975,Francisco Vieites,francisco-vieites,2816,Real Betis,6.83,0,0.03,0,0,0,58.25
+96373,José Campaña,jose-campana,6577,UD Las Palmas,6.82,0,0.13,8,21,3,87.14
+352544,Sheraldo Becker,sheraldo-becker,2824,Real Sociedad,6.82,2,2.0,4,3,1,77.05
+792073,Ferland Mendy,ferland-mendy,2829,Real Madrid,6.82,0,,3,17,1,94.32
+1184317,Yarek Gasiorowski,gasiorowski-yarek,2828,Valencia,6.82,0,1.08,0,20,0,81.64
+900669,Pedro Díaz,pedro-diaz,2818,Rayo Vallecano,6.82,3,2.37,20,23,0,84.17
+273227,Álex Muñoz,alex-munoz,6577,UD Las Palmas,6.82,3,0.79,2,39,0,82.32
+789381,Chimy Ávila,chimy-avila,2816,Real Betis,6.82,2,1.83,5,8,0,76.14
+845385,Brais Méndez,brais-mendez,2824,Real Sociedad,6.82,3,3.53,14,24,2,82.39
+88625,Marc-André Ter Stegen,marc-andre-ter-stegen,2817,FC Barcelona,6.81,0,,0,0,0,91.47
+1012444,Alberto Moleiro,alberto-moleiro,6577,UD Las Palmas,6.81,6,5.48,64,27,1,83.38
+1513451,Juanma Herzog,juanma-herzog,6577,UD Las Palmas,6.81,0,0.86,0,12,0,87.17
+893062,Aitor Ruibal,aitor-ruibal,2816,Real Betis,6.81,1,0.9,14,32,3,84.82
+367228,Oli McBurnie,oli-mcburnie,6577,UD Las Palmas,6.81,3,4.81,16,15,6,65.85
+362014,Hamari Traoré,hamari-traore,2824,Real Sociedad,6.81,0,0.05,6,19,1,87.43
+1094827,Gerard Martín,gerard-martin,2817,FC Barcelona,6.81,1,0.47,4,22,3,85.08
+823622,Mikel Oyarzabal,mikel-oyarzabal,2824,Real Sociedad,6.81,9,10.26,9,25,3,74.29
+1398524,Pablo Durán,pablo-duran,2821,Celta Vigo,6.81,4,3.75,12,17,4,73.73
+1154935,Hugo Álvarez,hugo-alvarez,2821,Celta Vigo,6.81,4,2.46,32,26,3,79.2
+826679,Álvaro Tejero,alvaro-tejero,2814,Espanyol,6.81,1,0.62,3,14,4,79.64
+1216080,Damián Rodríguez,damian-rodriguez,2821,Celta Vigo,6.81,0,0.11,0,14,0,91.69
+979146,Mika Mármol,mika-marmol,6577,UD Las Palmas,6.8,0,0.41,7,61,1,79.39
+1031567,Pau Víctor,pau-victor,2817,FC Barcelona,6.8,2,3.01,7,3,1,82.91
+1064009,Urko González,urko-gonzalez,2814,Espanyol,6.8,0,0.55,6,46,2,77.65
+111803,Youssouf Sabaly,youssouf-sabaly,2816,Real Betis,6.8,0,0.19,8,40,1,88.31
+548848,Pau López,pau-lopez,24264,Girona FC,6.8,0,,0,0,0,72.73
+1539149,Luken Beitia,luken-beitia,2824,Real Sociedad,6.8,0,,0,1,0,100.0
+1119702,Ferrán Ruiz,ferran-ruiz,24264,Girona FC,6.8,0,,0,0,0,50.0
+1139724,Pelayo Fernández,pelayo-fernandez,2818,Rayo Vallecano,6.8,0,,0,0,0,85.71
+848980,Iván Villar,ivan-villar,2821,Celta Vigo,6.8,0,,0,0,0,78.43
+962883,Ansu Fati,ansu-fati,2817,FC Barcelona,6.8,0,0.98,5,4,0,84.55
+1120669,Hugo Sotelo,hugo-sotelo,2821,Celta Vigo,6.8,0,0.19,8,28,0,88.62
+1402927,Adrián Niño,adrian-nino,2836,Atlético Madrid,6.8,0,0.19,0,0,0,0.0
+129861,Juanpe,juanpe,24264,Girona FC,6.8,0,0.07,0,8,0,87.46
+954317,Naci Ünüvar,naci-unuvar,2814,Espanyol,6.8,0,0.05,0,2,0,75.0
+973699,Iván Martín,ivan-martin,24264,Girona FC,6.79,1,1.73,25,32,1,91.37
+797290,Alfonso Pedraza,alfonso-pedraza,2819,Villarreal,6.79,0,0.6,9,3,2,78.66
+1526628,Fer López,fer-lopez,2821,Celta Vigo,6.79,2,2.75,18,9,0,86.61
+998950,Diego López,diego-lopez,2828,Valencia,6.79,8,6.7,23,31,5,75.71
+1012409,Beñat Prados,benat-prados,2825,Athletic Club,6.78,1,1.01,15,55,0,82.47
+965832,Dani Cárdenas,dani-cardenas,2818,Rayo Vallecano,6.78,0,,0,0,0,46.5
+22209,Ørjan Nyland,rjan-nyland,2833,Sevilla,6.78,0,,0,3,0,59.08
+879875,Facundo Garcés,facundo-garces,2885,Deportivo Alavés,6.78,0,0.1,0,6,0,76.41
+1101232,Abdel Abqar,abdel-abqar,2885,Deportivo Alavés,6.78,0,0.89,3,36,1,76.95
+1122488,Adrián Pica,adrian-hernandez-pica,2885,Deportivo Alavés,6.78,0,0.33,1,9,0,78.17
+186719,Florian Grillitsch,florian-grillitsch,2831,Real Valladolid,6.78,0,0.08,11,11,0,84.5
+350170,Munir El Haddadi,munir-el-haddadi,2845,Leganés,6.78,4,1.54,7,12,0,79.12
+1513673,Selvi Clúa,silvi-clua,24264,Girona FC,6.78,0,0.04,2,8,0,80.65
+1122610,Javier Guerra,javier-guerra,2828,Valencia,6.77,3,2.21,29,50,3,80.43
+344847,Johan Mojica,johan-mojica,2826,Mallorca,6.77,1,0.93,33,36,2,78.02
+801211,Selim Amallah,amallah-selim,2831,Real Valladolid,6.77,3,3.33,33,30,1,83.42
+794948,Óscar Rodríguez,oscar-rodriguez,2845,Leganés,6.77,1,2.09,21,32,4,76.78
+255999,Omar Mascarell,omar-mascarell,2826,Mallorca,6.77,1,0.51,10,27,0,84.78
+1929542,Alvaro Garcia-Pascual,alvaro-garcia-pascual,2833,Sevilla,6.76,1,1.09,1,5,0,68.57
+1010165,Abel Bretones,abel-bretones,2820,Osasuna,6.76,2,0.49,18,60,0,76.29
+1155116,Alex Padilla,padilla-alex,2825,Athletic Club,6.76,0,,0,0,0,49.52
+1390389,Duk,luis-henriques-de-barros-lopes,2845,Leganés,6.76,0,0.02,10,8,0,68.29
+1139409,Pablo Marín,pablo-marin,2824,Real Sociedad,6.76,1,1.42,20,25,2,82.12
+855832,Antonio Blanco,antonio-blanco,2885,Deportivo Alavés,6.76,0,0.83,15,67,1,80.79
+910267,Jesús Areso,jesus-areso,2820,Osasuna,6.76,0,0.22,24,53,3,80.92
+857205,Fernando Calero,fernando-calero,2814,Espanyol,6.76,1,0.22,0,18,0,85.83
+137978,William Carvalho,william-carvalho,2816,Real Betis,6.76,0,0.22,3,9,0,87.72
+542634,Pacha,pacha,2818,Rayo Vallecano,6.76,0,0.45,5,41,1,76.8
+873717,Carlos Benavídez,carlos-benavidez,2885,Deportivo Alavés,6.76,1,0.26,4,19,1,70.18
+601962,Anuar,anuar,2831,Real Valladolid,6.75,2,1.69,7,38,0,84.5
+973290,Tajon Buchanan,tajon-buchanan,2819,Villarreal,6.75,1,0.94,10,10,2,81.82
+838159,Igor Zubeldia,igor-zubeldia,2824,Real Sociedad,6.75,0,0.7,6,34,0,86.9
+1520799,Maroan Sannadi,maroan-sannadi,2825,Athletic Club,6.75,1,3.49,14,5,1,75.16
+944225,Jorge Herrando,jorge-herrando,2820,Osasuna,6.75,1,1.24,1,17,0,86.11
+1393673,Etta Eyong,etta-eyong,2819,Villarreal,6.75,1,0.37,0,0,0,0.0
+591132,Kike Barja,kike-barja,2820,Osasuna,6.75,0,0.19,7,5,1,79.17
+1983195,Sergio Vieira,sergio-vieira,6577,UD Las Palmas,6.75,0,0.02,1,1,0,88.24
+316152,Ángel Correa,angel-correa,2836,Atlético Madrid,6.75,4,4.54,13,9,1,79.76
+1800245,Jesús Rodriguez,jesus-rodriguez,2816,Real Betis,6.75,2,2.28,30,16,0,75.97
+138383,Denis Suárez,denis-suarez,2819,Villarreal,6.75,1,0.95,10,12,1,83.4
+1392054,Coba Da Costa,coba-da-costa,2859,Getafe,6.75,1,1.17,19,29,1,69.88
+604954,Borja Mayoral,borja-mayoral,2859,Getafe,6.75,5,3.51,6,5,1,81.25
+900003,Jorge de Frutos,jorge-de-frutos,2818,Rayo Vallecano,6.74,6,6.35,32,37,3,73.83
+945768,Bojan Miovski,bojan-miovski,24264,Girona FC,6.74,2,2.71,3,7,1,77.98
+825740,Alex Král,alex-kral,2814,Espanyol,6.74,0,1.62,29,55,1,75.19
+794861,Jailson,jailson,2821,Celta Vigo,6.74,0,0.15,3,13,0,90.61
+906065,Seydouba Cisse,seydouba-cisse,2845,Leganés,6.74,3,3.02,30,59,1,85.45
+1142566,Gabriel Misehouy,gabriel-misehouy,24264,Girona FC,6.73,1,0.9,7,1,0,92.63
+359742,Mikel Vesga,mikel-vesga,2825,Athletic Club,6.73,0,1.2,7,22,0,81.52
+1382235,Bertuğ Yıldırım,bertug-ozgur-yildirim,2859,Getafe,6.73,1,2.56,7,10,0,55.06
+326471,Gerard Gumbau,gerard-gumbau,2818,Rayo Vallecano,6.73,0,1.08,2,17,1,80.21
+980732,Adrià Altimira,altimira-adria,2845,Leganés,6.73,0,0.27,10,41,0,81.5
+788141,Jon Guridi,jon-guridi,2885,Deportivo Alavés,6.73,3,4.2,8,40,1,75.67
+358108,Scott McKenna,scott-mckenna,6577,UD Las Palmas,6.73,0,1.02,3,21,0,86.94
+851282,Thierry Correia,thierry-correia,2828,Valencia,6.73,0,0.32,9,27,0,73.37
+1863206,Pau Cabanes,pau-cabanes-de-la-torre,2885,Deportivo Alavés,6.73,1,0.51,9,12,0,79.45
+934383,Jon Pacheco,jon-pacheco,2824,Real Sociedad,6.73,0,0.09,1,15,0,83.33
+943713,Javi Sánchez,javi-sanchez,2831,Real Valladolid,6.73,2,0.48,2,26,0,87.82
+605552,Irvin Cardona,irvin-cardona,2814,Espanyol,6.73,1,1.08,3,8,1,65.49
+1010383,Jon Ander Olasagasti,jon-ander-olasagasti,2824,Real Sociedad,6.72,1,0.92,3,21,1,78.99
+1142636,Stefan Bajčetić,stefan-bajcetic,6577,UD Las Palmas,6.72,1,0.28,11,29,0,73.35
+828239,Toni Lato,toni-lato,2826,Mallorca,6.72,0,,0,17,0,77.78
+1493689,Assane Diao,assane-diao,2816,Real Betis,6.72,1,0.78,2,5,2,75.0
+953097,Cenk Özkaçar,cenk-ozkacar,2831,Real Valladolid,6.72,0,0.13,0,9,0,84.65
+1126779,Williot Swedberg,williot-swedberg,2821,Celta Vigo,6.72,4,5.31,10,23,5,76.32
+1402908,Hector Fort,fort-hector,2817,FC Barcelona,6.72,0,0.23,2,13,0,92.36
+128637,Allan Nyom,allan-nyom,2859,Getafe,6.72,1,0.51,4,18,2,80.0
+1131581,Carlos Martín,carlos-martin,2885,Deportivo Alavés,6.72,2,2.29,9,43,2,68.28
+346516,Adrián Embarba,adrian-embarba,2818,Rayo Vallecano,6.71,1,2.12,20,41,1,74.1
+1150391,Vitor Roque,vitor-roque,2816,Real Betis,6.71,4,6.11,10,11,0,73.4
+843180,Luis Pérez,luis-perez,2831,Real Valladolid,6.71,0,0.15,12,41,0,80.59
+1464648,Peio Canales,peio-canales,2825,Athletic Club,6.71,0,0.19,5,3,0,87.5
+309546,Takuma Asano,takuma-asano,2826,Mallorca,6.71,2,2.47,6,13,1,73.37
+970860,Lucas Rosa,lucas-rosa,2831,Real Valladolid,6.71,0,0.86,14,54,1,79.94
+989113,Rodrigo Riquelme,rodrigo-riquelme,2836,Atlético Madrid,6.71,0,0.86,6,11,1,87.22
+984789,Manuel Sánchez,manuel-sanchez,2885,Deportivo Alavés,6.71,1,1.68,8,83,0,73.08
+980410,Beñat Turrientes,benat-turrientes,2824,Real Sociedad,6.7,0,0.55,13,15,0,92.13
+932764,Randy Nteka,randy-nteka,2818,Rayo Vallecano,6.7,3,2.61,5,16,0,66.06
+69416,Oriol Romeu,oriol-romeu,24264,Girona FC,6.7,0,0.14,4,38,0,90.86
+997280,Raúl García de Haro,raul-garcia-de-haro,2820,Osasuna,6.7,4,3.46,11,13,0,71.7
+1526575,Arkaitz Mariezkurrena,arkaitz-mariezkurrena,2824,Real Sociedad,6.7,2,0.95,3,1,0,73.02
+566894,Stoichkov,stoichkov,2885,Deportivo Alavés,6.7,0,1.1,6,14,1,65.5
+1134538,Mateo Mejía,mateo-mejia,2833,Sevilla,6.7,0,,0,0,0,0.0
+1018516,Daniel Luna,daniel-luna,2826,Mallorca,6.7,0,,1,0,0,77.78
+377206,Daley Sinkgraven,daley-sinkgraven,6577,UD Las Palmas,6.7,0,,1,5,0,78.95
+66492,David Alaba,david-alaba,2829,Real Madrid,6.7,0,,0,1,0,91.89
+951986,Iván Jaime,ivan-jaime,2828,Valencia,6.7,0,0.58,5,8,0,80.61
+1031421,Rodri Sánchez,rodri-sanchez,2816,Real Betis,6.7,0,0.17,2,2,0,86.44
+1136806,Nabil Aberdin,nabil-aberdin,2859,Getafe,6.7,0,0.04,2,6,0,60.0
+2064599,Diego Martín,diego-martin,6577,UD Las Palmas,6.7,0,0.04,0,1,0,72.73
+925220,Pejiño,pejino,6577,UD Las Palmas,6.7,0,0.03,0,1,0,100.0
+2112915,Papa Ba,papa-ba,24264,Girona FC,6.7,0,0.03,1,1,0,41.67
+1214990,Dani Rodríguez,dani-rodriguez,2817,FC Barcelona,6.7,0,0.03,0,0,0,88.24
+900008,Óscar Valentín,oscar-valentin,2818,Rayo Vallecano,6.7,0,0.43,5,55,0,83.17
+351500,Brian Oliván,brian-olivan,2814,Espanyol,6.69,0,0.36,1,13,1,75.38
+307702,Djené,djene,2859,Getafe,6.69,0,0.36,7,25,0,77.96
+826010,Pol Lozano,pol-lozano,2814,Espanyol,6.69,0,0.17,5,53,1,85.13
+3041,Raúl Albiol,raul-albiol,2819,Villarreal,6.69,0,0.1,0,10,0,89.64
+801837,Íñigo Lekue,inigo-lekue,2825,Athletic Club,6.69,0,0.18,6,15,0,80.41
+824130,José Manuel Arnáiz,jose-manuel-arnaiz,2820,Osasuna,6.69,0,0.33,1,7,0,81.03
+966441,Aihen Muñoz,aihen-munoz,2824,Real Sociedad,6.69,0,0.16,7,24,0,77.39
+966679,Juanmi Latasa,juanmi-latasa,2831,Real Valladolid,6.69,3,4.4,8,4,0,60.24
+799195,Aleksandar Sedlar,aleksandar-sedlar,2885,Deportivo Alavés,6.69,0,0.03,0,18,0,82.83
+218616,Portu,portu,24264,Girona FC,6.69,1,1.6,4,13,2,78.74
+1099344,Antoniu Roca,antoniu-roca,2814,Espanyol,6.69,0,0.87,29,21,1,72.82
+966862,Ander Barrenetxea,ander-barrenetxea,2824,Real Sociedad,6.69,1,1.64,26,26,3,77.39
+11869,Jesús Navas,jesus-navas,2833,Sevilla,6.69,1,0.53,4,5,0,83.25
+794950,Carles Pérez,carles-perez,2859,Getafe,6.69,3,2.37,21,33,0,73.54
+152446,Iván Balliu,ivan-balliu,2818,Rayo Vallecano,6.68,0,0.01,3,17,0,77.59
+793761,Mamadou Sylla,mamadou-sylla,2831,Real Valladolid,6.68,5,5.06,5,9,2,65.04
+917485,Walid Cheddira,walid-cheddira,2814,Espanyol,6.68,1,1.0,4,5,1,72.28
+966940,José Gragera,jose-gragera,2814,Espanyol,6.68,0,0.05,0,24,0,87.96
+891931,Ander Guevara,ander-guevara,2885,Deportivo Alavés,6.68,0,0.86,9,49,1,77.45
+1019236,Jofre Carreras,jofre,2814,Espanyol,6.68,3,2.51,39,22,3,72.21
+1084381,Pablo Ibáñez,pablo-ibanez-lumbreras,2820,Osasuna,6.68,1,1.54,13,20,1,76.63
+252863,Darwin Machís,darwin-machis,2831,Real Valladolid,6.68,0,0.91,5,5,1,72.4
+1031658,Javier Hernández,javier-hernandez,2845,Leganés,6.68,2,0.76,16,26,1,77.16
+790179,Cyle Larin,cyle-larin,2826,Mallorca,6.68,7,6.47,8,12,2,69.06
+355048,Jesús Vallejo,jesus-vallejo,2829,Real Madrid,6.68,0,,0,0,1,89.55
+151138,Dimitri Foulquier,dimitri-foulquier,2828,Valencia,6.68,0,0.43,8,48,1,81.46
+82474,Ander Herrera,ander-herrera,2825,Athletic Club,6.68,0,1.73,2,8,0,90.91
+754710,Umar Sadiq,umar-sadiq,2828,Valencia,6.67,5,3.62,16,12,0,68.98
+1466124,Adam Aznou,adam-aznou,2831,Real Valladolid,6.67,0,0.28,19,28,0,70.99
+831424,Reinildo Mandava,reinildo-mandava,2836,Atlético Madrid,6.67,0,0.07,4,18,0,84.04
+827519,Romain Perraud,romain-perraud,2816,Real Betis,6.67,2,0.55,11,36,2,83.11
+1149152,Stanis Idumbo Muzambo,stanis-idumbo-muzambo,2833,Sevilla,6.67,1,0.62,9,9,1,83.33
+914848,Alex Suárez,alex-suarez,6577,UD Las Palmas,6.67,0,0.53,0,40,0,86.0
+997033,Peque Fernández,peque-fernandez,2833,Sevilla,6.67,1,2.49,11,16,1,82.01
+115665,Cédric Bakambu,cedric-bakambu,2816,Real Betis,6.66,2,3.18,1,6,2,68.29
+880157,Marcos André,marcos-andre,2831,Real Valladolid,6.66,1,2.69,17,10,2,66.83
+1127057,Valentín Barco,valentin-barco,2833,Sevilla,6.66,0,0.28,3,15,0,79.26
+949722,Antonio Sánchez,antonio-sanchez,2826,Mallorca,6.66,0,1.08,14,28,0,76.27
+175185,Pere Milla,pere-milla,2814,Espanyol,6.66,3,1.47,2,6,0,62.76
+94539,Darko Brašanac,darko-brasanac,2845,Leganés,6.65,1,1.75,2,26,2,77.0
+1160960,Álvaro Djaló,alvaro-djalo,2825,Athletic Club,6.65,1,0.83,14,8,0,71.43
+962378,Valery Fernández,valery-fernandez,2826,Mallorca,6.65,2,0.84,1,8,0,90.43
+1142094,Manu Bueno,bueno-manu,2833,Sevilla,6.65,1,0.15,1,4,0,91.78
+1145100,Yoel Lago,yoel-lago,2821,Celta Vigo,6.65,0,,3,12,1,92.45
+965822,Adrián Rodríguez,adrian-rodriguez,2885,Deportivo Alavés,6.65,0,,0,0,0,38.0
+125625,Sergi Gómez,sergi-gomez,2814,Espanyol,6.65,0,0.29,0,8,0,89.11
+842164,Siebe Van Der Heyden,siebe-van-der-heyden,2826,Mallorca,6.65,0,0.03,1,1,0,90.48
+992397,Aritz Arambarri,aritz-arambarri,2845,Leganés,6.65,0,0.02,0,1,0,73.13
+1525863,Pau Navarro,pau-navarro,2819,Villarreal,6.65,0,0.01,3,23,0,90.47
+1154549,Mario Martín,martin-mario,2831,Real Valladolid,6.64,0,1.76,19,62,1,85.75
+557008,Franco Cervi,franco-cervi,2821,Celta Vigo,6.64,0,,1,8,0,66.67
+894863,Anastasios Douvikas,anastasios-douvikas,2821,Celta Vigo,6.64,3,4.4,4,9,1,71.43
+996929,Jesús Vázquez,jesus-vazquez,2828,Valencia,6.64,0,0.16,14,23,0,77.04
+785468,Aritz Elustondo,aritz-elustondo,2824,Real Sociedad,6.64,0,0.43,3,20,0,86.34
+1393242,Tamás Nikitscher,nikitscher-tamas,2831,Real Valladolid,6.64,0,0.07,5,17,0,91.61
+826013,Abel Ruíz,abel-ruiz,24264,Girona FC,6.64,4,4.79,7,6,0,89.43
+96368,Juan Bernat,juan-bernat,2859,Getafe,6.63,0,0.46,15,28,2,76.64
+1174937,Endrick,endrick,2829,Real Madrid,6.63,1,2.45,4,1,0,80.28
+885259,Enric Franquesa,enric-franquesa,2845,Leganés,6.63,1,0.3,9,17,0,73.01
+355072,Asier Villalibre,asier-villalibre,2885,Deportivo Alavés,6.63,1,1.58,2,2,1,65.67
+822607,Tomás Conechny,tomas-conechny,2885,Deportivo Alavés,6.63,1,2.39,6,15,0,67.14
+1914318,Marc Domenech,marc-domenech,2826,Mallorca,6.63,0,0.68,1,4,0,71.11
+1116987,Alejo Véliz,alejo-veliz,2814,Espanyol,6.63,1,2.3,1,1,0,64.86
+1119586,Iker Muñoz,iker-munoz,2820,Osasuna,6.63,0,0.43,2,5,1,80.0
+814360,Juan Cruz,cruz-juan,2820,Osasuna,6.63,0,0.13,1,26,0,82.4
+960401,Marvin Park,marvin-park,6577,UD Las Palmas,6.62,0,0.25,2,25,0,78.85
+96369,Juanmi,juanmi,2859,Getafe,6.62,0,3.62,8,21,0,78.61
+1110904,Justin Smith,justin-smith,2814,Espanyol,6.62,0,,1,9,0,67.8
+992331,Iker Losada,iker-losada,2821,Celta Vigo,6.62,1,1.53,4,13,0,76.92
+990659,Jesús Owono,jesus-owono,2885,Deportivo Alavés,6.62,0,,1,1,0,58.0
+845168,Amath Ndiaye,amath-ndiaye,2831,Real Valladolid,6.62,0,0.36,7,2,1,80.0
+1121475,Diego García,diego-garcia,2845,Leganés,6.61,3,3.97,4,1,0,65.03
+146852,Abdón Prats,abdon-prats,2826,Mallorca,6.61,2,2.27,1,2,0,67.05
+149731,Sébastien Haller,sebastien-haller,2845,Leganés,6.61,0,0.39,1,2,0,60.0
+1136721,Willy Kambwala,kambwala-willy,2819,Villarreal,6.61,0,0.32,5,17,0,88.39
+916136,Álvaro Aguado,alvaro-aguado,2814,Espanyol,6.61,0,0.58,5,5,1,80.17
+1137584,Chuki,chuky,2831,Real Valladolid,6.61,2,2.06,4,8,0,74.64
+966637,Fran Pérez,fran-perez,2828,Valencia,6.6,0,0.31,8,17,0,81.63
+825754,Rafa Mir,rafa-mir,2828,Valencia,6.6,1,2.98,2,12,2,73.44
+1402716,Gonzalo García,gonzalo-garcia,2829,Real Madrid,6.6,0,0.49,0,0,1,95.0
+1086415,Mario Maroto,mario-maroto,2831,Real Valladolid,6.6,0,0.02,1,0,1,79.49
+997025,Arnau Solà,arnau-sola,2819,Villarreal,6.6,0,,0,0,0,50.0
+1493486,Iago Parente,iago-parente,2831,Real Valladolid,6.6,0,,0,0,0,75.0
+1487790,Isra Dominguez,dominguez-isra,2833,Sevilla,6.6,0,,0,0,0,100.0
+1014085,David Arguelles,david-arguelles,2859,Getafe,6.6,0,,0,0,0,60.0
+1563953,Iker Cordoba,iker-cordoba,2828,Valencia,6.6,0,,0,0,0,80.0
+1032022,Luka Romero,luka-romero,2885,Deportivo Alavés,6.6,0,0.81,1,4,0,79.49
+191182,Thomas Lemar,thomas-lemar,2836,Atlético Madrid,6.6,0,0.29,0,2,0,85.94
+1398511,Adama Boiro,adama-boiro,2825,Athletic Club,6.6,0,0.25,8,20,0,83.87
+962710,Germán Valera,german-valera,2828,Valencia,6.6,0,0.13,3,1,0,82.5
+894477,Fabio González,fabio-gonzalez,6577,UD Las Palmas,6.6,0,0.07,0,0,0,82.69
+1162309,Javi Llabrés,javi-llabres,2826,Mallorca,6.6,0,0.05,0,0,0,95.0
+822933,Gonzalo Montiel,gonzalo-montiel,2833,Sevilla,6.6,0,0.03,0,4,0,92.19
+1116580,Thiago Ojeda,thiago-ojeda,2819,Villarreal,6.6,0,0.01,0,0,0,100.0
+921417,Stanko Jurić,juric-stanko,2831,Real Valladolid,6.6,0,0.81,6,47,0,84.55
+1391375,Unai Gómez,unai-gomez,2825,Athletic Club,6.59,1,1.85,12,12,3,77.14
+852412,Álvaro Fernández,alvaro-fernandez,2833,Sevilla,6.59,0,,0,0,0,61.86
+985262,Moussa Diarra,moussa-diarra,2885,Deportivo Alavés,6.59,0,0.03,7,40,0,84.12
+1026015,Orri Óskarsson,orri-steinn-oskarsson,2824,Real Sociedad,6.59,3,5.1,2,6,0,55.68
+790833,Sergi Canós,sergi-canos,2828,Valencia,6.58,0,0.53,1,11,1,63.24
+958018,Roberto López,roberto-lopez,2845,Leganés,6.58,0,0.49,2,8,1,81.56
+1905699,Jan Salas,jan-salas,2826,Mallorca,6.58,0,0.04,0,3,0,80.0
+851226,Juan Berrocal,juan-berrocal,2859,Getafe,6.57,0,0.38,0,14,0,76.13
+888930,Dani Gómez,dani-gomez,2828,Valencia,6.57,2,2.65,3,3,0,74.07
+21949,Óscar Trejo,oscar-trejo,2818,Rayo Vallecano,6.57,1,0.59,8,8,0,86.78
+868223,Benito Ramírez,benito-ramirez,6577,UD Las Palmas,6.57,0,0.31,3,10,0,84.92
+351140,Jaime Mata,jaime-mata,6577,UD Las Palmas,6.57,0,2.51,5,8,0,71.02
+879543,Mateu Morey,mateu-morey,2826,Mallorca,6.57,0,0.44,9,22,0,82.08
+1214359,David Torres,david-torres,2831,Real Valladolid,6.57,0,0.27,1,14,0,82.95
+933426,Enzo Loiodice,enzo-loiodice,6577,UD Las Palmas,6.56,0,0.27,4,17,0,86.11
+359642,Kelechi Iheanacho,kelechi-iheanacho,2833,Sevilla,6.56,0,1.48,2,1,0,74.68
+1048927,Peter González,peter-gonzalez,2859,Getafe,6.56,0,1.25,3,11,0,69.81
+945404,Javi López,lopez-javi,2824,Real Sociedad,6.56,0,0.1,18,40,0,83.47
+141945,Sergi Guardiola,sergi-guardiola,2818,Rayo Vallecano,6.56,0,2.38,0,5,0,68.75
+822594,Julián Chicco,julian-chicco,2845,Leganés,6.55,0,0.36,2,11,1,79.85
+353250,Álvaro Odriozola,alvaro-odriozola,2824,Real Sociedad,6.55,0,,0,1,0,70.83
+138387,Raúl de Tomás,raul-de-tomas,2818,Rayo Vallecano,6.55,0,,0,2,0,83.33
+1632259,Carlos Guirao,carlos-guirao,2816,Real Betis,6.55,0,,1,5,0,80.0
+943645,Max Aarons,max-aarons,2828,Valencia,6.55,0,,1,4,0,76.0
+1019318,Nico Serrano,nico-serrano,2825,Athletic Club,6.55,0,0.16,3,1,0,77.42
+1100831,John Patrick,john-joe-patrick-finn,2859,Getafe,6.55,0,0.14,2,0,0,80.0
+255973,Rubén Peña,ruben-pena,2820,Osasuna,6.55,0,0.71,10,12,0,66.81
+1153335,Sergi Domínguez,sergi-dominguez,2817,FC Barcelona,6.53,0,,0,1,0,94.97
+1893910,Pablo García,pablo-garcia,2816,Real Betis,6.53,0,,1,0,0,81.82
+1211005,Yellu Santiago,yellu-santiago,2859,Getafe,6.53,0,0.02,1,14,0,73.28
+1018190,Isaac Romero,romero-isaac,2833,Sevilla,6.53,4,6.71,21,13,2,73.25
+966836,Álex Sola,alex-sola,2859,Getafe,6.53,0,0.97,21,21,1,68.78
+606346,Eric Bailly,eric-bailly,2819,Villarreal,6.53,0,0.32,3,12,0,87.7
+855830,Hugo Guillamón,hugo-guillamon,2828,Valencia,6.53,0,0.08,1,11,0,82.26
+1895964,Ismael Bekhoucha,ismael-bekhoucha,2859,Getafe,6.53,0,,2,1,0,75.0
+946381,Akor Adams,akor-adams,2833,Sevilla,6.53,0,0.43,1,0,0,74.07
+1462786,Martín Tejón,martin-tejon,2828,Valencia,6.53,0,0.08,2,2,0,80.0
+149370,Moi Gómez,moi-gomez,2820,Osasuna,6.52,0,0.46,14,13,0,82.76
+914212,Miguel de la Fuente,miguel-de-la-fuente,2845,Leganés,6.52,1,4.87,8,16,3,60.54
+1841875,Alberto Risco,alberto-risco,2859,Getafe,6.52,0,0.18,1,4,0,74.19
+210082,Javier Manquillo,javier-manquillo,2821,Celta Vigo,6.51,0,,0,7,0,90.38
+814023,Eray Cömert,eray-comert,2831,Real Valladolid,6.5,0,0.88,4,25,0,87.98
+363774,Mihailo Ristić,mihailo-ristic,2821,Celta Vigo,6.5,0,0.03,2,7,1,80.21
+335301,Borna Barišić,borna-barisic,2845,Leganés,6.5,0,,0,0,0,100.0
+1466128,Dani Díaz,dani-diaz,2824,Real Sociedad,6.5,0,,0,1,0,33.33
+1580022,David Otorbi,otorbi-david,2828,Valencia,6.5,0,,0,0,0,50.0
+990232,Alberto Mari,alberto-mari,2828,Valencia,6.5,0,,0,0,0,50.0
+1142092,Darío Benavides,dario-benavides,2833,Sevilla,6.5,0,,0,0,0,0.0
+2065347,Roger Hinojo,roger-hinojo,2814,Espanyol,6.5,0,,0,0,0,57.14
+1516599,Endika Buján,endika-bujan,2825,Athletic Club,6.5,0,,1,0,0,100.0
+1153345,Xavi Moreno,xavi-moreno,2831,Real Valladolid,6.5,0,,0,0,0,27.27
+1390614,Gorka Rivera,gorka-rivera,2859,Getafe,6.5,0,,0,2,0,33.33
+1464641,Chema Andrés,chema-andres,2829,Real Madrid,6.5,0,,0,0,0,100.0
+1458073,Nobel Mendy,nobel-mendy,2816,Real Betis,6.5,0,,0,0,0,86.79
+1086346,Iker Benito,iker-benito,2820,Osasuna,6.5,0,,0,0,0,81.82
+1892528,Min-su Kim,min-su-kim,24264,Girona FC,6.5,0,,0,1,0,90.0
+1082215,Javier Martón,javier-marton-anso,2825,Athletic Club,6.5,0,,0,0,0,85.71
+840951,Marcão,marcao,2833,Sevilla,6.5,0,,2,10,0,90.45
+1142091,Diego Hormigo,diego-hormigo,2833,Sevilla,6.5,0,0.09,0,0,0,71.43
+1082968,Abderrahman Rebbach,abderrahman-rebbach,2885,Deportivo Alavés,6.49,0,0.17,3,3,0,69.7
+788197,André Ferreira,andre-ferreira,2831,Real Valladolid,6.48,0,,0,0,0,66.67
+1001967,Hugo Novoa,hugo-novoa-ramos,2885,Deportivo Alavés,6.48,0,0.49,3,8,0,78.85
+1542697,Adrián Arnu,adrian-arnu,2831,Real Valladolid,6.48,0,0.38,0,1,0,90.0
+1015826,Chiquinho,chiquinho,2826,Mallorca,6.47,0,0.31,5,1,0,78.26
+1893864,Mateo Flores,mateo-flores,2816,Real Betis,6.47,0,,0,3,0,80.88
+841854,Marc Cardona,marc-cardona,6577,UD Las Palmas,6.46,0,0.38,1,4,0,80.85
+1010335,Víctor Meseguer,victor-meseguer,2831,Real Valladolid,6.45,0,0.69,1,10,0,78.92
+1106573,Jhon Solís,jhon-solis,24264,Girona FC,6.45,1,0.66,5,13,0,90.69
+1103233,Etienne Eto'o Pineda,etienne-etoo-pineda,2818,Rayo Vallecano,6.45,0,,0,0,0,20.0
+97951,Stole Dimitrievski,stole-dimitrievski,2828,Valencia,6.45,0,,0,0,0,39.81
+1168094,Abdoulaye Keita,abdoulaye-keita,2859,Getafe,6.43,0,0.05,1,2,0,56.0
+1636036,Aboubacar Bassinga,aboubacar-bassinga,6577,UD Las Palmas,6.4,0,,0,0,0,50.0
+1605227,Aingeru Olabarrieta,olabarrieta-aingeru,2825,Athletic Club,6.4,0,,1,0,0,64.29
+1521658,Daniel Requena,daniel-requena,2819,Villarreal,6.4,0,,0,0,0,80.0
+913732,Javi Martínez,javi-martinez,2820,Osasuna,6.4,0,,0,0,0,100.0
+2032380,Arturo Rodríguez,arturo-rodriguez,6577,UD Las Palmas,6.4,0,,0,0,0,100.0
+2161820,José Carlo González,jose-carlos-gonzalez,6577,UD Las Palmas,6.4,0,,0,0,0,88.89
+1841365,Rafael Bauzà,rafael-bauza,2814,Espanyol,6.4,0,0.06,1,5,0,85.19
+862464,Antonio Candela,antonio-candela,2831,Real Valladolid,6.38,0,0.04,6,9,0,80.67
+844752,Nacho Vidal,nacho-vidal,2820,Osasuna,6.38,0,,2,2,0,77.14
+796320,Joseph Aidoo,joseph-aidoo,2831,Real Valladolid,6.34,0,0.04,1,6,0,89.06
+1493226,Fran González,gonzalez-fran,2829,Real Madrid,6.3,0,,0,0,0,94.12
+800349,Maximiliano Caufriez,maximiliano-caufriez,2828,Valencia,6.3,0,,0,1,0,78.57
+1182710,Raúl Chasco,raul-chasco,2831,Real Valladolid,6.3,0,,0,4,0,66.67
+1145642,Víctor Muñoz,victor-munoz,2829,Real Madrid,6.3,0,0.49,0,0,0,100.0
+1158547,Leandro Antonetti,leandro-antonetti,2833,Sevilla,6.3,0,0.14,0,0,0,50.0
+336851,Henrique,henrique,2831,Real Valladolid,6.3,0,0.03,3,6,0,86.78
+846492,Luca De La Torre,luca-de-la-torre,2821,Celta Vigo,6.2,0,,0,0,0,80.0
+1391487,Malcom Ares,malcom-ares,2825,Athletic Club,6.2,0,,0,0,0,62.5
+330675,Unai García,unai-garcia,2820,Osasuna,6.2,0,,0,0,0,94.74
+1657026,Rodrigo Abajas,rodrigo-abajas,2828,Valencia,6.2,0,0.07,1,3,0,55.0
+801391,Kenedy,kenedy,2831,Real Valladolid,6.2,0,0.03,0,0,0,50.0
+1142235,Arnau Rafús,arnau-rafus,2831,Real Valladolid,6.0,0,,0,0,0,73.68
+1893819,Valentin Pezzolesi,valentin-pezzolesi,6577,UD Las Palmas,4.5,0,,0,0,0,40.0
+1546404,Daniel Yáñez,daniel-yanez,2829,Real Madrid,0.0,0,,0,0,0,0.0
+1108451,Tadeo Allende,tadeo-allende,2821,Celta Vigo,0.0,0,,0,0,0,33.33
+1526535,Lorenzo Aguado,lorenzo-aguado-herrera,2829,Real Madrid,0.0,0,,0,0,0,0.0

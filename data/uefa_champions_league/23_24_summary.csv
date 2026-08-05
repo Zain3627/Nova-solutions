@@ -1,0 +1,725 @@
+player_id,player_name,player_slug,team_id,team_name,rating,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage
+70996,Kevin De Bruyne,kevin-de-bruyne,17,Manchester City,8.65,2,1.16,2,4,1,84.13
+944656,Julián Alvarez,julian-alvarez,17,Manchester City,8.07,5,1.74,6,3,2,90.8
+859765,Phil Foden,phil-foden,17,Manchester City,8.04,5,3.26,11,1,3,89.93
+136924,Willi Orbán,willi-orban,36360,RB Leipzig,7.9,1,0.25,1,4,0,92.52
+827606,Rodri,rodri,17,Manchester City,7.86,1,0.81,10,14,2,91.88
+85859,Antoine Griezmann,antoine-griezmann,2836,Atlético Madrid,7.84,6,4.24,5,12,1,86.36
+831005,Raphinha,raphinha,2817,FC Barcelona,7.74,3,2.53,8,8,2,80.12
+991011,Jude Bellingham,jude-bellingham,2829,Real Madrid,7.74,4,3.02,19,20,5,90.14
+934235,Bukayo Saka,bukayo-saka,42,Arsenal,7.71,4,1.57,10,16,4,85.65
+162653,Nick Pope,nick-pope,39,Newcastle United,7.7,0,,0,0,0,63.0
+826643,Kylian Mbappé,kylian-mbappe,1644,Paris Saint-Germain,7.69,8,8.16,36,2,0,84.66
+868812,Vinícius Júnior,vinicius-junior,2829,Real Madrid,7.66,6,4.49,37,8,4,79.56
+997183,Xavi Simons,xavi-simons,36360,RB Leipzig,7.65,2,1.25,15,5,2,81.88
+108579,Harry Kane,harry-kane,2672,FC Bayern München,7.62,8,5.9,4,9,4,69.59
+138892,João Cancelo,joao-cancelo,2817,FC Barcelona,7.6,2,0.63,29,32,1,87.8
+138491,Alexander Meyer,alexander-meyer,2673,Borussia Dortmund,7.6,0,,0,0,0,84.44
+845754,Wenderson Galeno,wenderson-galeno,3002,FC Porto,7.59,5,2.87,9,7,3,70.27
+934386,Jérémy Doku,jeremy-doku,17,Manchester City,7.59,1,1.28,29,6,1,89.88
+857574,Andriy Lunin,andriy-lunin,2829,Real Madrid,7.58,0,,0,0,0,73.52
+592010,Mikel Merino,mikel-merino,2824,Real Sociedad,7.56,2,1.94,10,15,1,79.44
+856076,David Raum,david-raum,36360,RB Leipzig,7.56,1,0.21,0,17,3,84.49
+874705,Samuel Lino,samuel-lino,2836,Atlético Madrid,7.54,3,2.04,9,12,3,90.38
+16206,Yann Sommer,yann-sommer,2697,Inter,7.54,0,,0,0,0,82.64
+556866,Gregor Kobel,gregor-kobel,2673,Borussia Dortmund,7.54,0,,1,0,0,79.95
+282073,Alexander Schlager,alexander-schlager,2046,Red Bull Salzburg,7.53,0,,0,0,0,75.0
+812533,Mehdi Taremi,mehdi-taremi,3002,FC Porto,7.53,2,2.6,3,17,2,73.24
+577726,Ramy Bensebaini,ramy-bensebaini,2673,Borussia Dortmund,7.52,0,0.09,2,21,0,76.8
+857480,Calvin Stengs,calvin-stengs,2959,Feyenoord,7.52,1,0.4,12,8,1,78.73
+70988,Thibaut Courtois,thibaut-courtois,2829,Real Madrid,7.5,0,,0,0,0,77.78
+259117,Joshua Kimmich,joshua-kimmich,2672,FC Bayern München,7.49,1,0.73,4,23,2,90.88
+902029,Vitinha,vitinha,1644,Paris Saint-Germain,7.48,2,1.31,11,15,1,93.85
+288205,Bruno Fernandes,bruno-fernandes,35,Manchester United,7.47,2,1.56,7,13,2,75.1
+889689,Hwang In-beom,hwang-in-beom,5149,FK Crvena zvezda,7.47,1,0.91,3,19,1,80.67
+945122,Matheus Nunes,matheus-nunes,17,Manchester City,7.45,0,1.69,9,4,1,92.88
+26502,Toni Kroos,toni-kroos,2829,Real Madrid,7.44,0,0.32,2,21,2,95.24
+1015287,Natan,natan,2714,SSC Napoli,7.44,0,0.25,2,10,1,87.31
+189061,Jack Grealish,jack-grealish,17,Manchester City,7.44,0,1.15,6,3,2,89.01
+45853,İlkay Gündoğan,ilkay-gundogan,2817,FC Barcelona,7.43,0,0.94,10,5,4,90.68
+998490,Evanilson,evanilson,3002,FC Porto,7.41,4,1.75,5,6,1,80.19
+845385,Brais Méndez,brais-mendez,2824,Real Sociedad,7.41,3,1.66,8,13,1,82.14
+122951,Casemiro,casemiro,35,Manchester United,7.4,2,0.21,1,6,0,78.95
+30027,Ángel Di María,angel-di-maria,3006,Benfica,7.4,1,0.34,8,3,1,83.44
+547838,Dani Ceballos,dani-ceballos,2829,Real Madrid,7.4,1,0.19,3,3,0,91.3
+857764,Anthony Racioppi,anthony-racioppi,2445,BSC Young Boys,7.4,0,,0,0,0,66.3
+941669,Dmytro Riznyk,dmytro-riznyk,3313,Shakhtar Donetsk,7.4,0,,1,1,0,75.69
+875136,Noa Lang,noa-lang,2952,PSV Eindhoven,7.4,0,0.46,13,2,0,78.18
+964994,Joško Gvardiol,josko-gvardiol,17,Manchester City,7.38,1,0.13,6,7,1,94.17
+135700,Hakan Çalhanoğlu,hakan-calhanoglu,2697,Inter,7.38,1,1.14,1,10,0,88.26
+7635,Ivan Rakitić,ivan-rakitic,2833,Sevilla,7.37,0,0.1,1,11,3,80.77
+1190933,João Neves,joao-neves,3006,Benfica,7.37,0,0.39,13,24,0,81.61
+1088896,Johan Bakayoko,johan-bakayoko,2952,PSV Eindhoven,7.36,1,1.24,20,10,1,80.84
+16632,Mats Hummels,mats-hummels,2673,Borussia Dortmund,7.35,1,0.93,7,53,1,86.72
+22209,Ørjan Nyland,rjan-nyland,2833,Sevilla,7.35,0,,0,0,0,73.97
+818244,Ousmane Dembélé,ousmane-dembele,1644,Paris Saint-Germain,7.35,2,2.96,23,15,1,78.78
+97012,Bruma,bruma,2999,Sporting Braga,7.34,2,0.71,11,8,1,85.47
+363856,Nicolò Barella,nicolo-barella,2697,Inter,7.34,0,0.86,1,16,1,83.8
+547410,Martin Ødegaard,martin-degaard,42,Arsenal,7.33,2,1.33,12,11,1,89.15
+850816,Joey Veerman,joey-veerman,2952,PSV Eindhoven,7.33,0,0.37,6,13,0,80.34
+1010231,Jamal Musiala,jamal-musiala,2672,FC Bayern München,7.31,2,1.97,32,12,1,88.1
+794839,Gabriel Jesus,gabriel-jesus,42,Arsenal,7.3,4,2.16,11,8,3,82.03
+789071,Dani Olmo,dani-olmo,36360,RB Leipzig,7.3,1,0.89,3,4,0,80.0
+115665,Cédric Bakambu,cedric-bakambu,3061,Galatasaray,7.3,1,0.53,0,0,0,63.64
+41652,André Castro,andre-castro,2999,Sporting Braga,7.3,1,0.03,0,0,0,87.5
+981815,Igor Paixão,igor-paixao,2959,Feyenoord,7.3,0,1.41,10,4,0,78.23
+592794,Alex Meret,alex-meret,2714,SSC Napoli,7.29,0,,0,0,0,87.17
+319857,Benjamin Henrichs,benjamin-henrichs,36360,RB Leipzig,7.28,0,0.22,4,22,2,76.95
+191210,Mike Maignan,mike-maignan,2692,AC Milan,7.27,0,,0,0,0,77.12
+814594,Achraf Hakimi,achraf-hakimi,1644,Paris Saint-Germain,7.26,1,0.95,8,20,1,86.5
+880218,Takefusa Kubo,takefusa-kubo,2824,Real Sociedad,7.26,0,0.35,17,4,1,78.84
+226978,Julian Brandt,julian-brandt,2673,Borussia Dortmund,7.25,2,1.4,11,17,2,81.41
+1149127,Arthur Vermeeren,arthur-vermeeren,2836,Atlético Madrid,7.25,1,0.53,6,19,2,88.0
+314380,Ricardo Horta,ricardo-horta,2999,Sporting Braga,7.25,0,1.19,4,7,2,86.54
+1402912,Lamine Yamal,lamine-yamal,2817,FC Barcelona,7.24,0,1.72,23,9,2,79.84
+10710,Sergio Ramos,sergio-ramos,2833,Sevilla,7.24,2,1.8,1,2,1,84.81
+851284,Rafael Leão,rafael-leao,2692,AC Milan,7.24,1,1.1,18,7,0,70.18
+69768,Jan Oblak,jan-oblak,2836,Atlético Madrid,7.24,0,,0,0,0,67.24
+119151,Mohamed Elyounoussi,mohamed-elyounoussi,1284,FC København,7.24,3,2.1,10,20,0,73.99
+41789,Robert Lewandowski,robert-lewandowski,2817,FC Barcelona,7.23,3,2.96,2,7,1,72.02
+353282,Oleksandr Zubkov,oleksandr-zubkov,3313,Shakhtar Donetsk,7.23,0,0.4,9,11,2,77.13
+152420,Alessandro Florenzi,alessandro-florenzi,2692,AC Milan,7.23,0,0.04,2,7,0,82.14
+69418,Joselu,joselu,2829,Real Madrid,7.23,5,5.44,0,1,0,76.25
+5884,Pepe,pepe,3002,FC Porto,7.23,2,0.15,1,10,0,86.39
+886223,Stephen Eustaquio,stephen-eustaquio,3002,FC Porto,7.23,1,0.54,1,14,0,86.64
+153257,Giovanni Di Lorenzo,giovanni-di-lorenzo,2714,SSC Napoli,7.23,1,0.39,6,20,1,83.8
+889259,Khvicha Kvaratskhelia,khvicha-kvaratskhelia,2714,SSC Napoli,7.23,0,0.93,29,8,1,83.88
+856714,Declan Rice,declan-rice,42,Arsenal,7.22,0,0.24,16,14,1,89.32
+839956,Erling Haaland,erling-haaland,17,Manchester City,7.21,6,6.99,3,5,1,79.55
+184661,Leon Goretzka,leon-goretzka,2672,FC Bayern München,7.21,0,0.79,3,13,1,93.05
+280441,Kingsley Coman,kingsley-coman,2672,FC Bayern München,7.2,2,1.72,16,4,0,85.24
+286909,Przemysław Frankowski,przemysaw-frankowski,1648,RC Lens,7.2,1,0.79,3,20,2,76.61
+333373,Miguel Almirón,miguel-almiron,39,Newcastle United,7.2,1,1.39,1,15,0,77.33
+84251,Kevin Kampl,kevin-kampl,36360,RB Leipzig,7.2,0,0.05,2,8,2,92.31
+99545,Danilo Pereira,danilo-pereira,1644,Paris Saint-Germain,7.2,0,,0,4,0,94.81
+798583,Dayot Upamecano,dayot-upamecano,2672,FC Bayern München,7.2,0,0.28,0,16,0,93.17
+784655,Fabián Ruiz,fabian-ruiz,1644,Paris Saint-Germain,7.19,0,1.36,8,14,2,90.62
+855833,Ferran Torres,ferran-torres,2817,FC Barcelona,7.19,3,1.84,4,4,1,77.62
+111416,Luis Alberto,luis-alberto,2699,Lazio,7.19,0,0.87,4,4,1,85.14
+945479,Danylo Sikan,danylo-sikan,3313,Shakhtar Donetsk,7.18,4,3.03,6,6,0,75.51
+891829,Matt O'Riley,matt-oriley,2352,Celtic,7.18,0,0.14,3,14,3,80.28
+249437,Hakim Ziyech,hakim-ziyech,3061,Galatasaray,7.18,2,0.23,3,4,1,72.97
+353138,Marcos Llorente,marcos-llorente,2836,Atlético Madrid,7.18,0,0.25,4,10,1,85.42
+318941,Rúben Dias,ruben-dias,17,Manchester City,7.18,0,0.67,1,11,0,95.9
+383560,Manuel Akanji,manuel-akanji,17,Manchester City,7.18,2,0.95,1,12,0,94.99
+99090,Dan Burn,dan-burn,39,Newcastle United,7.18,1,0.22,0,6,0,69.89
+979665,Irakli Azarovi,azarovi-irakli,3313,Shakhtar Donetsk,7.18,0,0.07,0,9,1,85.81
+913186,Osman Bukari,osman-bukari,5149,FK Crvena zvezda,7.17,2,0.97,12,5,2,68.52
+879746,Leo Østigård,leo-ostigard,2714,SSC Napoli,7.17,1,0.38,1,4,0,84.78
+74915,Nicolás Otamendi,nicolas-otamendi,3006,Benfica,7.17,0,0.48,1,12,1,85.89
+797083,Omri Glazer,omri-glazer,5149,FK Crvena zvezda,7.17,0,,0,0,0,74.53
+581310,David Raya,david-raya,42,Arsenal,7.17,0,,0,0,0,73.23
+235672,Matteo Politano,matteo-politano,2714,SSC Napoli,7.16,1,0.58,6,3,1,77.82
+827212,Jules Koundé,jules-kounde,2817,FC Barcelona,7.16,0,0.05,5,11,0,88.09
+868958,Moatasem Al-Musrati,moatasem-al-musrati,2999,Sporting Braga,7.16,0,0.29,1,9,0,89.04
+37151,Henrikh Mkhitaryan,henrikh-mkhitaryan,2697,Inter,7.16,0,0.27,9,10,0,85.43
+1086417,Rasmus Højlund,rasmus-hojlund,35,Manchester United,7.15,5,3.31,5,0,0,67.61
+1171451,Nico Paz,nico-paz,2829,Real Madrid,7.15,1,0.01,5,2,0,91.67
+788027,Theo Hernández,theo-hernandez,2692,AC Milan,7.15,0,0.76,4,7,1,82.17
+284441,Ruben Loftus-Cheek,ruben-loftus-cheek,2692,AC Milan,7.15,0,0.55,13,3,0,74.36
+892235,David Carmo,david-carmo,3002,FC Porto,7.15,0,0.01,1,5,0,88.42
+917087,Kang-in Lee,kang-in-lee,1644,Paris Saint-Germain,7.14,1,1.21,5,7,1,92.08
+40878,Luuk de Jong,luuk-de-jong,2952,PSV Eindhoven,7.14,3,3.77,0,5,0,65.36
+331209,Bernardo Silva,bernardo-silva,17,Manchester City,7.14,2,1.77,3,11,0,89.85
+249399,Rodrigo De Paul,rodrigo-de-paul,2836,Atlético Madrid,7.14,1,0.71,6,10,0,82.62
+973887,Eduardo Camavinga,eduardo-camavinga,2829,Real Madrid,7.14,0,0.26,13,25,1,90.84
+922573,Gabriel Martinelli,gabriel-martinelli,42,Arsenal,7.13,2,1.81,20,4,1,83.45
+992587,Pedri,pedri,2817,FC Barcelona,7.13,0,0.34,3,10,3,84.52
+940871,Nico Schlotterbeck,nico-schlotterbeck,2673,Borussia Dortmund,7.13,0,0.35,2,26,2,85.11
+966575,Rodrigo Zalazar,rodrigo-zalazar,2999,Sporting Braga,7.13,0,0.13,6,18,1,87.92
+84539,Koke,koke,2836,Atlético Madrid,7.13,0,0.06,2,15,1,89.79
+910536,Rodrygo,rodrygo,2829,Real Madrid,7.13,5,5.71,18,8,2,92.18
+35166,Thomas Müller,thomas-muller,2672,FC Bayern München,7.13,1,1.32,1,5,1,80.37
+149380,Harry Maguire,harry-maguire,35,Manchester United,7.13,1,0.28,0,1,0,85.52
+97001,João Mário,joao-mario,3006,Benfica,7.12,3,1.46,6,2,0,89.61
+138572,Dani Carvajal,dani-carvajal,2829,Real Madrid,7.12,1,0.59,3,24,1,82.21
+989768,Nuno Mendes,nuno-mendes,1644,Paris Saint-Germain,7.12,0,0.2,7,11,0,87.76
+32493,Dries Mertens,dries-mertens,3061,Galatasaray,7.12,0,0.13,0,0,0,73.44
+151470,Lukas Lerager,lukas-lerager,1284,FC København,7.12,3,1.36,3,17,1,71.26
+959628,Mats Wieffer,mats-wieffer,2959,Feyenoord,7.12,1,0.63,9,9,1,86.17
+857482,Filip Ugrinić,filip-ugrinic,2445,BSC Young Boys,7.12,1,0.54,5,14,1,89.29
+966616,Anatoliy Trubin,anatoliy-trubin,3006,Benfica,7.12,0,,0,0,0,76.61
+788255,Fikayo Tomori,fikayo-tomori,2692,AC Milan,7.12,0,0.52,0,17,0,89.45
+332155,Amir Rrahmani,amir-rrahmani,2714,SSC Napoli,7.11,1,0.46,2,5,0,88.81
+1136731,Rico Lewis,rico-lewis,17,Manchester City,7.11,0,0.72,5,8,3,93.66
+293519,Leroy Sané,leroy-sane,2672,FC Bayern München,7.11,2,1.66,35,13,1,84.33
+835600,Davide Frattesi,davide-frattesi,2697,Inter,7.1,1,0.94,1,10,2,77.78
+831808,Federico Valverde,federico-valverde,2829,Real Madrid,7.1,1,1.15,10,21,0,90.16
+560128,Joelinton,joelinton,39,Newcastle United,7.1,1,0.54,5,5,0,84.14
+187205,Milan Škriniar,milan-skriniar,1644,Paris Saint-Germain,7.1,1,0.53,0,12,0,93.57
+566102,Davinson Sánchez,davinson-sanchez,3061,Galatasaray,7.1,0,0.38,2,8,2,84.3
+964753,Senne Lammens,senne-lammens,2889,Royal Antwerp FC,7.1,0,,0,0,0,40.38
+862953,Stephen Welsh,stephen-welsh,2352,Celtic,7.1,0,,0,3,0,89.47
+368134,Matt Targett,matt-targett,39,Newcastle United,7.1,0,,0,0,0,80.77
+137692,Frederik Rønnow,frederik-rnnow,2547,1. FC Union Berlin,7.1,0,,0,0,0,62.87
+319129,Luka Jović,luka-jovic,2692,AC Milan,7.1,0,0.56,0,0,0,75.0
+838159,Igor Zubeldia,igor-zubeldia,2824,Real Sociedad,7.09,0,0.29,1,14,0,86.95
+866469,Bruno Guimarães,bruno-guimaraes,39,Newcastle United,7.08,0,0.27,6,13,1,82.23
+69256,Kieran Trippier,kieran-trippier,39,Newcastle United,7.08,0,0.12,3,11,1,82.89
+164055,Brice Samba,brice-samba,1648,RC Lens,7.08,0,,0,0,0,70.49
+603946,Matheus,matheus,2999,Sporting Braga,7.08,0,,0,0,0,72.04
+308182,Ivan Provedel,ivan-provedel,2699,Lazio,7.08,1,0.47,0,0,0,82.63
+142622,Antonio Rüdiger,antonio-rudiger,2829,Real Madrid,7.08,0,0.74,1,11,2,90.62
+362014,Hamari Traoré,hamari-traore,2824,Real Sociedad,7.07,0,0.07,6,7,0,83.51
+135666,Leandro Trossard,leandro-trossard,42,Arsenal,7.07,4,1.55,4,4,1,77.4
+233114,Mauro Icardi,mauro-icardi,3061,Galatasaray,7.07,2,4.17,1,2,0,64.13
+138605,Piotr Zieliński,piotr-zielinski,2714,SSC Napoli,7.07,1,2.04,5,2,0,86.67
+1142251,Aleksandar Pavlović,aleksandar-pavlovic,2672,FC Bayern München,7.07,0,,2,1,0,93.92
+850976,Alexander Bah,alexander-bah,3006,Benfica,7.07,0,,2,11,0,75.38
+855835,Sergio Gómez,sergio-gomez,17,Manchester City,7.07,0,0.23,1,3,0,92.31
+293581,Mattia Zaccagni,mattia-zaccagni,2699,Lazio,7.07,0,0.23,8,8,0,80.0
+44614,Kyle Walker,kyle-walker,17,Manchester City,7.07,0,0.2,1,7,0,90.77
+980634,Tino Livramento,tino-livramento,39,Newcastle United,7.07,0,0.03,2,9,0,84.68
+835480,Loïs Openda,lois-openda,36360,RB Leipzig,7.06,4,3.52,10,2,0,71.58
+791773,Álex Remiro,alex-remiro,2824,Real Sociedad,7.06,0,,0,0,0,61.75
+6562,João Moutinho,joao-moutinho,2999,Sporting Braga,7.06,0,0.11,7,8,0,93.28
+787505,Benjamin Pavard,benjamin-pavard,2697,Inter,7.06,0,0.01,1,7,0,87.85
+133908,Marcel Sabitzer,marcel-sabitzer,2673,Borussia Dortmund,7.06,1,1.17,4,12,5,81.76
+357746,Diogo Gonçalves,diogo-goncalves,1284,FC København,7.06,2,1.93,5,9,1,84.41
+882664,Pepê,pepe,3002,FC Porto,7.06,1,1.19,10,10,2,76.73
+966862,Ander Barrenetxea,ander-barrenetxea,2824,Real Sociedad,7.06,1,0.4,16,12,1,78.7
+791079,Xaver Schlager,xaver-schlager,36360,RB Leipzig,7.05,1,0.06,5,21,2,86.18
+896117,Magnus Mattsson,magnus-mattsson,1284,FC København,7.05,1,0.54,1,6,0,65.0
+331837,Alireza Jahanbakhsh,alireza-jahanbakhsh,2959,Feyenoord,7.05,1,0.25,1,6,0,82.14
+980418,Sacha Boey,sacha-boey,2672,FC Bayern München,7.05,1,0.24,7,20,0,79.73
+1082714,Micah Hamilton,micah-hamilton,17,Manchester City,7.05,1,0.2,0,1,0,90.91
+155995,Marquinhos,marquinhos,1644,Paris Saint-Germain,7.05,0,0.44,1,17,1,90.82
+803031,Matthijs de Ligt,matthijs-de-ligt,2672,FC Bayern München,7.05,0,0.16,0,8,1,90.88
+966441,Aihen Muñoz,aihen-munoz,2824,Real Sociedad,7.05,0,0.09,3,13,1,83.9
+372336,Jacob Murphy,jacob-murphy,39,Newcastle United,7.05,0,0.07,0,2,1,85.71
+41837,Fernando,fernando-reges,2833,Sevilla,7.05,0,,3,13,0,89.52
+965828,Mario Gila,mario-gila,2699,Lazio,7.05,0,0.14,1,8,0,91.36
+293127,Denis Vavro,denis-vavro,1284,FC København,7.05,0,0.13,0,6,0,82.94
+583806,Kevin Diks,kevin-diks,1284,FC København,7.05,0,0.04,1,8,0,90.91
+976263,Ian Maatsen,ian-maatsen,2673,Borussia Dortmund,7.04,1,0.18,5,15,0,85.05
+1048950,Roko Šimić,roko-simic,2046,Red Bull Salzburg,7.04,1,1.2,3,2,1,61.11
+831799,Nahuel Molina,nahuel-molina,2836,Atlético Madrid,7.04,0,0.09,1,24,2,77.74
+976381,Gustav Isaksen,gustav-isaksen,2699,Lazio,7.04,0,0.74,8,0,1,79.07
+335033,Wendell,wendell,3002,FC Porto,7.04,0,0.15,5,16,0,85.06
+803039,Donyell Malen,donyell-malen,2673,Borussia Dortmund,7.04,1,2.09,7,3,0,77.27
+88625,Marc-André Ter Stegen,marc-andre-ter-stegen,2817,FC Barcelona,7.04,0,,1,0,0,78.71
+902080,Kamil Grabara,kamil-grabara,1284,FC København,7.04,0,,0,0,0,63.56
+138833,Memphis Depay,memphis-depay,2836,Atlético Madrid,7.03,1,1.02,3,0,0,85.71
+983542,Tomás Araújo,tomas-araujo,3006,Benfica,7.03,0,,3,3,0,78.57
+91046,Stefan de Vrij,stefan-de-vrij,2697,Inter,7.03,0,,1,9,0,93.6
+824509,Gianluigi Donnarumma,gianluigi-donnarumma,1644,Paris Saint-Germain,7.03,0,,0,1,0,84.47
+116660,Rasmus Falk,rasmus-falk,1284,FC København,7.03,0,0.08,3,19,1,86.4
+149663,Nathan Aké,nathan-ake,17,Manchester City,7.03,0,0.94,1,4,0,96.84
+1142672,Warren Zaïre-Emery,warren-zaire-emery,1644,Paris Saint-Germain,7.03,1,0.71,10,15,3,92.22
+232422,Kepa Arrizabalaga,kepa-arrizabalaga,2829,Real Madrid,7.03,0,,0,0,0,87.93
+966837,Martín Zubimendi,martin-zubimendi,2824,Real Sociedad,7.03,0,0.63,5,18,0,87.76
+875890,Chidera Ejuke,chidera-ejuke,2889,Royal Antwerp FC,7.03,0,0.24,18,2,0,92.21
+8959,Manuel Neuer,manuel-neuer,2672,FC Bayern München,7.02,0,,1,0,0,84.62
+101882,Fabian Schär,fabian-schar,39,Newcastle United,7.02,1,0.23,0,7,0,86.97
+825945,Simon Banza,simon-banza,2999,Sporting Braga,7.02,0,1.1,5,1,1,72.0
+16817,Joe Hart,joe-hart,2352,Celtic,7.02,0,,0,0,0,90.38
+186795,Andreas Christensen,andreas-christensen,2817,FC Barcelona,7.01,1,0.71,1,11,0,94.4
+1048888,Mathys Tel,mathys-tel,2672,FC Bayern München,7.01,2,0.46,11,1,1,80.95
+132645,Niclas Füllkrug,niclas-fullkrug,2673,Borussia Dortmund,7.01,3,5.4,2,2,3,67.52
+1123925,Georgiy Sudakov,georgiy-sudakov,3313,Shakhtar Donetsk,7.0,1,1.08,6,4,0,81.79
+1090458,David Datro Fofana,david-datro-fofana,2547,1. FC Union Berlin,7.0,1,0.9,5,2,0,72.73
+1103693,Gavi,gavi,2817,FC Barcelona,7.0,1,0.46,3,3,0,92.74
+825846,Jordan Teze,jordan-teze,2952,PSV Eindhoven,7.0,1,0.26,1,15,0,85.48
+1065216,Oscar Bobb,oscar-bobb,17,Manchester City,7.0,1,0.22,3,2,0,87.63
+989882,Ramiz Zerrouki,ramiz-zerrouki,2959,Feyenoord,7.0,1,0.15,5,10,0,86.61
+70797,Yaroslav Rakitskyi,yaroslav-rakitskyi,3313,Shakhtar Donetsk,7.0,1,0.05,0,3,0,85.78
+246999,Raphaël Guerreiro,raphael-guerreiro,2672,FC Bayern München,7.0,0,0.41,1,5,2,87.98
+975798,Malik Tillman,malik-tillman,2952,PSV Eindhoven,7.0,0,0.42,6,13,1,80.25
+1065154,Joël Monteiro,joel-monteiro,2445,BSC Young Boys,7.0,0,0.34,7,8,1,76.47
+847030,Noussair Mazraoui,noussair-mazraoui,2672,FC Bayern München,7.0,0,0.13,6,17,1,87.53
+146500,Jérôme Roussillon,jerome-roussillon,2547,1. FC Union Berlin,7.0,0,0.06,3,8,1,80.49
+839410,Aaron Ramsdale,aaron-ramsdale,42,Arsenal,7.0,0,,0,0,0,82.86
+910046,Sven Botman,sven-botman,39,Newcastle United,7.0,0,,0,0,0,87.23
+794949,Iñaki Peña,inaki-pena,2817,FC Barcelona,7.0,0,,0,0,0,87.69
+168897,Christopher Lenz,christopher-lenz,36360,RB Leipzig,7.0,0,,2,6,0,76.0
+1108441,Lucas Beraldo,lucas-beraldo,1644,Paris Saint-Germain,7.0,0,,2,11,0,88.32
+869792,Gabriel Magalhães,gabriel-magalhaes,42,Arsenal,7.0,0,0.43,0,9,0,90.91
+217784,Patric,patric,2699,Lazio,7.0,0,0.04,1,3,0,86.27
+788784,Olivier Boscagli,olivier-boscagli,2952,PSV Eindhoven,6.99,0,0.05,3,15,0,81.24
+352544,Sheraldo Becker,sheraldo-becker,2824,Real Sociedad,6.98,2,1.31,0,0,0,69.62
+959805,Quinten Timber,quinten-timber,2959,Feyenoord,6.98,0,0.6,7,6,0,80.99
+353272,Mykola Matvienko,mykola-matvienko,3313,Shakhtar Donetsk,6.98,1,0.45,0,11,0,85.83
+44575,Toby Alderweireld,toby-alderweireld,2889,Royal Antwerp FC,6.98,0,1.55,1,6,0,82.65
+45923,Ciro Immobile,ciro-immobile,2699,Lazio,6.98,4,3.06,6,2,0,79.13
+1400106,Yankuba Minteh,yankuba-minteh,2959,Feyenoord,6.98,1,1.32,11,9,0,72.92
+859025,Aurélien Tchouaméni,aurelien-tchouameni,2829,Real Madrid,6.98,0,0.17,0,9,0,92.96
+851671,João Félix,joao-felix,2817,FC Barcelona,6.97,3,1.61,7,4,1,77.12
+903324,Kerem Aktürkoğlu,kerem-akturkoglu,3061,Galatasaray,6.97,2,2.1,3,5,0,71.05
+787540,Angelo Fulgini,angelo-fulgini,1648,RC Lens,6.97,2,1.42,3,6,0,76.79
+949156,Luka Sučić,luka-sucic,2046,Red Bull Salzburg,6.97,1,0.3,9,6,0,75.76
+788921,Florian Sotoca,florian-sotoca,1648,RC Lens,6.97,0,0.51,2,10,1,66.15
+126816,Francesco Acerbi,francesco-acerbi,2697,Inter,6.97,0,0.22,1,3,1,86.62
+754794,Lucas Torreira,lucas-torreira,3061,Galatasaray,6.97,0,0.35,4,11,0,87.14
+859024,Yacine Adli,yacine-adli,2692,AC Milan,6.97,0,0.14,2,3,0,85.9
+15466,Luka Modrić,luka-modric,2829,Real Madrid,6.96,0,1.05,1,6,0,92.33
+155702,Lucas Ocampos,lucas-ocampos,2833,Sevilla,6.96,1,0.69,16,5,0,65.79
+146101,Eric Dier,eric-dier,2672,FC Bayern München,6.96,0,0.34,0,7,0,90.18
+822110,Deiver Machado,deiver-machado,1648,RC Lens,6.96,0,0.24,5,10,0,77.36
+909958,Yorbe Vertessen,yorbe-vertessen,2952,PSV Eindhoven,6.95,1,0.41,4,1,1,75.0
+928106,Ebrima Colley,colley-ebrima,2445,BSC Young Boys,6.95,1,0.79,1,3,0,57.58
+870762,Arthur Cabral,arthur-cabral,3006,Benfica,6.95,1,0.68,1,3,0,74.07
+1048889,Andy Diouf,andy-diouf,1648,RC Lens,6.95,0,,2,1,0,70.0
+831038,Cristián Borja,cristian-borja,2999,Sporting Braga,6.95,0,,2,13,0,89.85
+925097,Ronald Araújo,ronald-araujo,2817,FC Barcelona,6.95,0,0.9,2,12,0,86.65
+136710,Mateo Kovačić,mateo-kovacic,17,Manchester City,6.95,0,0.41,4,7,0,92.31
+847990,Liam Scales,liam-scales,2352,Celtic,6.95,0,0.12,1,8,0,89.33
+311696,Guélor Kanga,guelor-kanga,5149,FK Crvena zvezda,6.95,0,0.05,1,4,0,82.02
+132874,Jorginho,jorginho,42,Arsenal,6.94,1,0.81,0,16,0,88.79
+1142588,Pablo Barrios,pablo-barrios,2836,Atlético Madrid,6.94,1,0.32,4,5,1,88.64
+284361,Federico Dimarco,federico-dimarco,2697,Inter,6.94,1,0.47,1,0,0,79.77
+325355,José María Giménez,jose-maria-gimenez,2836,Atlético Madrid,6.94,0,0.16,0,1,1,88.19
+164171,Kevin Behrens,kevin-behrens,2547,1. FC Union Berlin,6.94,0,0.93,1,3,0,64.52
+1014286,Malick Thiaw,malick-thiaw,2692,AC Milan,6.94,0,0.1,0,8,0,90.68
+843115,Diogo Costa,diogo-costa,3002,FC Porto,6.94,0,,0,0,0,73.59
+807771,Dávid Hancko,david-hancko,2959,Feyenoord,6.93,1,1.3,2,3,0,91.44
+45604,Taras Stepanenko,taras-stepanenko,3313,Shakhtar Donetsk,6.93,0,0.46,0,14,1,85.46
+606530,Birger Meling,birger-meling,1284,FC København,6.93,0,0.05,3,7,1,78.31
+369650,Jonathan Gradit,jonathan-gradit,1648,RC Lens,6.93,0,,3,18,0,79.15
+893549,Tijjani Reijnders,tijjani-reijnders,2692,AC Milan,6.93,0,0.34,9,11,0,89.5
+5543,Andreas Ulmer,andreas-ulmer,2046,Red Bull Salzburg,6.93,0,0.06,0,7,0,76.06
+851100,Jadon Sancho,jadon-sancho,2673,Borussia Dortmund,6.93,1,0.17,26,9,0,82.11
+37092,Marco Reus,marco-reus,2673,Borussia Dortmund,6.93,2,2.02,3,12,1,80.89
+822470,Samuel Chukwueze,samuel-chukwueze,2692,AC Milan,6.93,2,0.94,5,2,0,79.17
+902031,João Mário,joao-mario,3002,FC Porto,6.93,0,0.06,16,21,1,80.0
+866191,Sean Longstaff,sean-longstaff,39,Newcastle United,6.92,1,0.13,3,7,0,82.48
+35612,Axel Witsel,axel-witsel,2836,Atlético Madrid,6.92,0,0.18,1,7,0,95.2
+846470,Youssef En-Nesyri,youssef-en-nesyri,2833,Sevilla,6.92,2,1.82,1,5,0,65.15
+377118,Robin Gosens,robin-gosens,2547,1. FC Union Berlin,6.92,1,0.4,1,6,0,74.5
+227864,Alessio Romagnoli,alessio-romagnoli,2699,Lazio,6.92,0,0.74,0,7,1,91.21
+558320,Ulisses Garcia,ulisses-garcia,2445,BSC Young Boys,6.92,0,0.37,11,14,0,77.82
+148155,André Ramalho,andre-ramalho,2952,PSV Eindhoven,6.92,0,0.21,0,8,0,88.97
+823622,Mikel Oyarzabal,mikel-oyarzabal,2824,Real Sociedad,6.91,2,1.99,2,8,0,82.64
+844234,Jerdy Schouten,jerdy-schouten,2952,PSV Eindhoven,6.91,0,,6,13,0,90.71
+826188,Alessandro Bastoni,alessandro-bastoni,2697,Inter,6.91,0,0.31,3,5,0,86.89
+843665,Alphonso Davies,alphonso-davies,2672,FC Bayern München,6.91,1,0.23,20,14,0,87.17
+353130,Mario Hermoso,mario-hermoso,2836,Atlético Madrid,6.91,1,0.1,6,7,0,86.71
+125407,Álvaro Morata,alvaro-morata,2836,Atlético Madrid,6.91,5,4.6,3,5,1,74.03
+34120,Alexis Sánchez,alexis-sanchez,2697,Inter,6.9,2,1.25,2,5,0,75.28
+1414933,Marc Guiu,guiu-marc,2817,FC Barcelona,6.9,1,0.37,0,1,0,33.33
+1390545,Eguinaldo,eguinaldo,3313,Shakhtar Donetsk,6.9,1,0.12,0,1,0,0.0
+804434,Takehiro Tomiyasu,takehiro-tomiyasu,42,Arsenal,6.9,0,0.33,2,4,2,85.17
+152276,Felipe Anderson,felipe-anderson,2699,Lazio,6.9,0,0.65,13,17,1,80.17
+846036,Ben White,ben-white,42,Arsenal,6.9,0,0.57,3,9,1,87.19
+852404,Mattéo Guendouzi,matteo-guendouzi,2699,Lazio,6.9,0,0.53,5,6,1,86.88
+66492,David Alaba,david-alaba,2829,Real Madrid,6.9,0,0.38,1,1,1,91.41
+228364,Fredrik Aursnes,fredrik-aursnes,3006,Benfica,6.9,0,0.07,1,13,1,79.3
+158233,Bouna Sarr,bouna-sarr,2672,FC Bayern München,6.9,0,,0,0,0,100.0
+176301,Marco Sportiello,marco-sportiello,2692,AC Milan,6.9,0,,0,0,0,80.0
+366592,Kieran Tierney,kieran-tierney,2824,Real Sociedad,6.9,0,,0,2,0,82.14
+795222,Frenkie de Jong,frenkie-de-jong,2817,FC Barcelona,6.9,0,,4,9,0,91.35
+37313,Aleksandar Dragović,aleksandar-dragovic,5149,FK Crvena zvezda,6.9,0,0.62,0,6,0,90.23
+190159,André Silva,andre-silva,2824,Real Sociedad,6.9,0,0.25,2,2,0,74.07
+97046,Callum McGregor,callum-mcgregor,2352,Celtic,6.9,0,0.24,2,4,0,89.39
+896569,Kim Min-jae,kim-min-jae,2672,FC Bayern München,6.9,0,0.13,0,10,0,93.01
+891153,Reo Hatate,reo-hatate,2352,Celtic,6.9,0,0.13,0,0,0,72.46
+822708,Amadou Haidara,amadou-haidara,36360,RB Leipzig,6.9,0,0.11,0,7,0,87.76
+825838,Armando Obispo,armando-obispo,2952,PSV Eindhoven,6.9,0,0.07,0,0,0,86.96
+16214,Fabian Lustenberger,fabian-lustenberger,2445,BSC Young Boys,6.9,0,0.06,1,2,0,86.21
+847125,Mikey Johnston,mikey-johnston,2352,Celtic,6.9,0,0.04,3,3,0,83.33
+906275,Yann Bisseck,yann-bisseck,2697,Inter,6.9,0,0.04,1,1,0,92.26
+951986,Iván Jaime,ivan-jaime,3002,FC Porto,6.9,0,0.03,0,6,0,87.1
+803028,Javairô Dilrosun,javairo-dilrosun,2959,Feyenoord,6.9,0,0.03,0,0,0,71.43
+965893,Strahinja Pavlović,strahinja-pavlovic,2046,Red Bull Salzburg,6.9,0,0.01,4,12,0,81.59
+791702,Marcus Thuram,marcus-thuram,2697,Inter,6.89,1,1.48,12,4,0,72.45
+255239,Lucas Vázquez,lucas-vazquez,2829,Real Madrid,6.89,0,0.13,2,5,1,89.53
+1155158,Oscar Gloukh,oscar-gloukh,2046,Red Bull Salzburg,6.88,2,1.24,6,6,1,82.76
+825740,Alex Král,alex-kral,2547,1. FC Union Berlin,6.88,1,0.06,1,7,1,80.95
+972523,Cheikh Niasse,cheikh-niasse,2445,BSC Young Boys,6.88,0,0.28,2,6,1,83.12
+980410,Beñat Turrientes,benat-turrientes,2824,Real Sociedad,6.88,0,0.54,5,4,0,81.82
+178963,Abdülkerim Bardakcı,abdulkerim-bardakc,3061,Galatasaray,6.88,0,0.53,3,19,0,81.65
+1392044,Quilindschy Hartman,quilindschy-hartman,2959,Feyenoord,6.88,0,0.26,1,15,0,81.25
+254119,Marius Wolf,marius-wolf,2673,Borussia Dortmund,6.88,0,0.25,1,13,0,67.57
+1102791,Amar Dedić,amar-dedic,2046,Red Bull Salzburg,6.88,0,0.23,12,12,0,80.3
+1160960,Álvaro Djaló,alvaro-djalo,2999,Sporting Braga,6.88,2,1.85,9,7,0,78.16
+826139,Reiss Nelson,reiss-nelson,42,Arsenal,6.88,0,0.39,7,6,2,96.51
+96832,Janis Blaswich,janis-blaswich,36360,RB Leipzig,6.88,0,,0,0,1,87.05
+67308,Loris Benito,loris-benito,2445,BSC Young Boys,6.88,0,0.27,0,6,0,88.07
+892141,Santiago Giménez,santiago-gimenez,2959,Feyenoord,6.88,2,2.29,4,0,1,70.21
+877918,Victor Gómez,victor-gomez,2999,Sporting Braga,6.88,0,,1,10,0,86.24
+851286,André Franco,andre-franco,3002,FC Porto,6.88,0,0.75,1,5,0,86.73
+69404,Nacho Fernández,nacho-fernandez,2829,Real Madrid,6.88,0,0.42,2,10,0,94.7
+121588,Gernot Trauner,gernot-trauner,2959,Feyenoord,6.88,0,0.24,0,5,0,94.39
+973564,Nicolás Capaldo,nicolas-capaldo,2046,Red Bull Salzburg,6.88,0,0.15,2,9,0,71.88
+787941,Frank Anguissa,frank-anguissa,2714,SSC Napoli,6.87,1,1.02,6,11,1,88.68
+979222,Francisco Conceição,francisco-conceicao,3002,FC Porto,6.87,1,0.92,5,2,1,86.57
+822471,Victor Osimhen,victor-osimhen,2714,SSC Napoli,6.87,2,2.35,5,0,0,74.67
+787498,André Onana,andre-onana,35,Manchester United,6.87,0,,0,0,0,69.95
+28381,Fernando Muslera,fernando-muslera,3061,Galatasaray,6.87,0,,0,2,0,78.87
+856739,Lutsharel Geertruida,lutsharel-geertruida,2959,Feyenoord,6.87,0,0.39,8,14,0,92.79
+805078,Mathías Olivera,mathias-olivera,2714,SSC Napoli,6.87,0,0.26,0,13,0,85.96
+867445,Emile Smith Rowe,emile-smith-rowe,42,Arsenal,6.87,0,0.16,0,1,0,87.18
+997035,Alejandro Balde,alejandro-balde,2817,FC Barcelona,6.87,0,0.1,10,6,0,89.2
+35428,Pedro,pedro,2699,Lazio,6.86,2,0.98,5,2,0,91.95
+249859,Walter Benítez,walter-benitez,2952,PSV Eindhoven,6.86,0,,0,0,0,73.66
+985086,Morato,morato,3006,Benfica,6.86,0,0.25,1,15,0,80.22
+940054,Karim Adeyemi,karim-adeyemi,2673,Borussia Dortmund,6.86,2,1.77,13,7,1,76.92
+835485,Brahim Díaz,brahim-diaz,2829,Real Madrid,6.86,2,1.53,12,8,1,85.07
+823984,Lautaro Martínez,lautaro-martinez,2697,Inter,6.85,2,4.67,4,5,0,75.7
+1153270,Fermín López,fermin-lopez,2817,FC Barcelona,6.85,2,2.16,4,10,0,84.33
+111850,Wilfried Zaha,wilfried-zaha,3061,Galatasaray,6.85,1,0.78,10,9,1,77.17
+352290,Cédric Itten,cedric-itten,2445,BSC Young Boys,6.85,1,1.27,0,2,0,63.83
+817957,Christian Pulišić,christian-pulisic,2692,AC Milan,6.85,1,1.09,6,6,0,83.45
+158615,Matías Vecino,matias-vecino,2699,Lazio,6.85,1,0.6,1,9,0,86.94
+1069159,Otávio,otavio,3002,FC Porto,6.85,0,,1,4,1,70.59
+231614,Jean-Pierre Nsame,jean-pierre-nsame,2445,BSC Young Boys,6.85,0,0.45,0,3,1,59.52
+318607,Davide Calabria,davide-calabria,2692,AC Milan,6.85,0,0.21,2,18,1,79.68
+11869,Jesús Navas,jesus-navas,2833,Sevilla,6.85,0,,0,8,0,73.86
+168937,Niklas Süle,niklas-sule,2673,Borussia Dortmund,6.85,0,,2,12,0,82.73
+914902,Anthony Gordon,anthony-gordon,39,Newcastle United,6.85,0,0.59,4,10,0,79.28
+47743,Juan Cuadrado,juan-cuadrado,2697,Inter,6.85,0,0.02,2,0,0,89.74
+1063767,Ismael Saibari,ismael-saibari,2952,PSV Eindhoven,6.84,1,1.8,9,4,0,77.36
+879346,Scott McTominay,scott-mctominay,35,Manchester United,6.84,1,1.38,3,2,1,89.92
+986395,Ricardo Pepi,ricardo-pepi,2952,PSV Eindhoven,6.84,1,0.79,0,1,1,81.08
+881038,Mohamed Camara,mohamed-camara,2445,BSC Young Boys,6.84,0,,5,8,1,80.66
+991493,Sérgio Oliveira,sergio-oliveira,3061,Galatasaray,6.84,0,0.12,4,4,1,75.28
+1012657,Lucas Gourna-Douath,lucas-gourna-douath,2046,Red Bull Salzburg,6.84,0,0.02,6,10,0,86.05
+187433,Serge Gnabry,serge-gnabry,2672,FC Bayern München,6.83,2,0.5,0,4,0,78.69
+863653,Aaron Wan-Bissaka,aaron-wan-bissaka,35,Manchester United,6.83,0,,2,7,1,90.91
+95443,Nicolai Boilesen,nicolai-boilesen,1284,FC København,6.83,0,,0,1,0,86.67
+361004,Marco Asensio,marco-asensio,1644,Paris Saint-Germain,6.83,0,0.43,2,2,0,86.21
+99546,Mário Rui,mario-rui,2714,SSC Napoli,6.83,0,0.02,0,3,0,86.03
+316152,Ángel Correa,angel-correa,2836,Atlético Madrid,6.83,1,2.07,9,1,0,84.21
+800951,Julian Ryerson,julian-ryerson,2673,Borussia Dortmund,6.83,0,0.19,14,27,0,85.85
+254491,Ederson,ederson,17,Manchester City,6.83,0,,0,0,0,94.09
+989113,Rodrigo Riquelme,rodrigo-riquelme,2836,Atlético Madrid,6.83,0,0.66,12,10,0,86.3
+19352,Matteo Darmian,matteo-darmian,2697,Inter,6.83,0,0.1,4,8,0,81.94
+341143,Giovanni Simeone,giovanni-simeone,2714,SSC Napoli,6.83,1,1.37,1,3,0,65.38
+1162107,Roony Bardghji,roony-bardghji,1284,FC København,6.83,1,0.45,6,0,0,90.0
+833562,Yehor Nazaryna,yehor-nazaryna,3313,Shakhtar Donetsk,6.83,0,0.23,0,4,1,88.12
+906021,Sergiño Dest,sergino-dest,2952,PSV Eindhoven,6.83,0,0.16,14,13,1,87.2
+825133,Javi Galán,javi-galan,2824,Real Sociedad,6.83,0,,4,9,0,76.25
+30420,Ritchie De Laet,ritchie-de-laet,2889,Royal Antwerp FC,6.83,0,0.05,1,4,0,78.26
+155449,Rade Krunić,rade-krunic,2692,AC Milan,6.83,0,0.03,0,4,0,90.7
+795005,Salih Özcan,salih-ozcan,2673,Borussia Dortmund,6.82,0,0.15,0,10,0,86.22
+123976,Sergi Roberto,sergi-roberto,2817,FC Barcelona,6.82,0,0.02,1,3,1,88.81
+153444,Jamaal Lascelles,jamaal-lascelles,39,Newcastle United,6.82,0,0.1,1,5,0,82.76
+76265,Stefan Savić,stefan-savic,2836,Atlético Madrid,6.82,0,0.05,0,5,0,89.24
+868268,Cherif Ndiaye,cherif-ndiaye,5149,FK Crvena zvezda,6.82,1,2.85,5,4,0,75.0
+51785,Emil Forsberg,emil-forsberg,36360,RB Leipzig,6.82,1,0.82,4,8,0,76.29
+152077,John Stones,john-stones,17,Manchester City,6.82,0,0.02,0,2,1,95.41
+385320,Hirving Lozano,hirving-lozano,2952,PSV Eindhoven,6.81,0,0.69,7,5,0,83.02
+787751,Robin Le Normand,robin-le-normand,2824,Real Sociedad,6.81,0,0.17,0,8,0,89.38
+352370,Lucas Hernández,lucas-hernandez,1644,Paris Saint-Germain,6.81,1,0.65,4,15,0,90.56
+138156,Emre Can,emre-can,2673,Borussia Dortmund,6.81,0,0.17,3,19,0,86.44
+339901,Vincent Janssen,vincent-janssen,2889,Royal Antwerp FC,6.8,1,0.96,2,4,0,88.24
+786028,Kalvin Phillips,kalvin-phillips,17,Manchester City,6.8,1,0.91,0,2,0,91.45
+868235,Sikou Niakaté,sikou-niakate,2999,Sporting Braga,6.8,1,0.86,0,6,0,87.65
+945063,Mohamed Simakan,mohamed-simakan,36360,RB Leipzig,6.8,1,0.7,1,12,0,82.24
+814590,Marcus Rashford,marcus-rashford,35,Manchester United,6.8,0,0.08,9,3,2,80.18
+828077,Aissa Laïdouni,aissa-laidouni,2547,1. FC Union Berlin,6.8,0,0.21,6,5,1,81.63
+355492,Konrad Laimer,konrad-laimer,2672,FC Bayern München,6.8,0,0.09,10,32,1,86.6
+190839,Luke Shaw,luke-shaw,35,Manchester United,6.8,0,0.06,0,2,1,71.7
+994053,Donat Rrudhani,donat-rrudhani,2445,BSC Young Boys,6.8,0,,0,0,0,100.0
+1135938,Leandro Morgalla,leandro-morgalla,2046,Red Bull Salzburg,6.8,0,,0,0,0,83.33
+1006489,Loïc Badé,loic-bade,2833,Sevilla,6.8,0,,0,4,0,82.98
+273405,Manuel Lazzari,manuel-lazzari,2699,Lazio,6.8,0,,5,10,0,82.3
+792073,Ferland Mendy,ferland-mendy,2829,Real Madrid,6.8,0,,5,14,0,91.67
+1066560,Alan Varela,alan-varela,3002,FC Porto,6.8,0,0.44,3,15,0,89.86
+887754,Vítor Carvalho,vitor-carvalho,2999,Sporting Braga,6.8,0,0.31,1,4,0,92.93
+822710,Sekou Koita,sekou-koita,2046,Red Bull Salzburg,6.8,0,0.12,1,2,0,72.73
+987510,Zaidu Sanusi,zaidu-sanusi,3002,FC Porto,6.8,0,0.1,2,7,0,84.51
+150383,Stanislav Lobotka,stanislav-lobotka,2714,SSC Napoli,6.8,0,0.07,1,11,0,92.01
+918429,Mads Bidstrup,mads-bidstrup,2046,Red Bull Salzburg,6.8,0,0.03,2,22,0,67.36
+904835,Fábio Vieira,fabio-vieira,42,Arsenal,6.8,0,0.02,1,0,0,87.76
+996952,Bradley Barcola,barcola-bradley,1644,Paris Saint-Germain,6.79,1,2.41,19,12,1,81.87
+865651,Giacomo Raspadori,giacomo-raspadori,2714,SSC Napoli,6.79,1,0.34,2,3,0,80.0
+979315,Elye Wahi,elye-wahi,1648,RC Lens,6.78,2,1.08,5,2,1,78.57
+21555,César Azpilicueta,cesar-azpilicueta,2836,Atlético Madrid,6.78,0,,1,6,0,89.76
+827668,Petar Musa,petar-musa,3006,Benfica,6.78,0,1.25,8,6,0,69.49
+138152,Kaan Ayhan,kaan-ayhan,3061,Galatasaray,6.78,0,0.37,2,8,0,76.81
+1066045,Arsen Zakharyan,arsen-zakharyan,2824,Real Sociedad,6.78,0,0.35,1,4,0,85.05
+941168,William Saliba,william-saliba,42,Arsenal,6.78,0,0.3,2,10,0,89.39
+149731,Sébastien Haller,sebastien-haller,2673,Borussia Dortmund,6.78,1,0.31,0,0,0,70.59
+851271,Fran García,fran-garcia,2829,Real Madrid,6.78,0,,1,1,1,94.27
+556696,Justin Bijlow,justin-bijlow,2959,Feyenoord,6.78,0,,1,0,0,86.59
+928796,Tommaso Pobega,tommaso-pobega,2692,AC Milan,6.78,0,0.65,1,3,0,62.5
+958923,Artem Bondarenko,artem-bondarenko,3313,Shakhtar Donetsk,6.78,0,0.49,1,4,0,90.91
+836705,Kai Havertz,kai-havertz,42,Arsenal,6.77,1,0.99,3,16,0,84.45
+865523,Noah Okafor,noah-okafor,2692,AC Milan,6.77,0,0.07,1,0,1,66.67
+856668,Paul Jaeckel,paul-jaeckel,2547,1. FC Union Berlin,6.77,0,,1,2,0,72.55
+1101942,Petar Ratkov,petar-ratkov,2046,Red Bull Salzburg,6.77,0,0.53,0,1,0,51.35
+929199,Carlos Augusto,carlos-augusto,2697,Inter,6.77,0,0.42,1,10,0,77.58
+1029788,Vladimir Lučić,vladimir-lucic,5149,FK Crvena zvezda,6.77,0,0.06,12,2,0,77.23
+110701,Aleksandar Katai,aleksandar-katai,5149,FK Crvena zvezda,6.76,1,0.37,3,2,0,71.43
+985823,Ayase Ueda,ueda-ayase,2959,Feyenoord,6.76,0,1.48,0,1,0,72.0
+785468,Aritz Elustondo,aritz-elustondo,2824,Real Sociedad,6.76,0,0.08,2,7,0,86.79
+965263,Gustaf Lagerbielke,gustaf-lagerbielke,2352,Celtic,6.75,1,0.79,0,2,0,91.18
+105734,Christian Eriksen,christian-eriksen,35,Manchester United,6.75,0,0.18,0,0,1,79.55
+1142175,Kobbie Mainoo,kobbie-mainoo,35,Manchester United,6.75,0,,1,2,0,95.0
+253875,Timon Wellenreuther,timon-wellenreuther,2959,Feyenoord,6.75,0,,0,0,0,89.06
+358108,Scott McKenna,scott-mckenna,1284,FC København,6.75,0,0.12,0,2,0,89.61
+96368,Juan Bernat,juan-bernat,3006,Benfica,6.75,0,0.11,1,3,0,96.55
+855663,Diogo Leite,diogo-leite,2547,1. FC Union Berlin,6.75,0,0.02,2,11,0,82.18
+1126433,Elias Jelert,elias-jelert,1284,FC København,6.74,0,,8,11,0,80.6
+267619,Adam Marušić,adam-marusic,2699,Lazio,6.74,0,0.04,2,9,0,84.33
+1099117,Samson Baidoo,samson-baidoo,2046,Red Bull Salzburg,6.74,0,0.16,2,9,0,81.12
+862078,Meschak Elia,meschak-elia,2445,BSC Young Boys,6.73,2,0.73,6,4,0,77.78
+943114,Alhassan Yusuf,alhassan-yusuf,2889,Royal Antwerp FC,6.73,1,0.23,3,9,1,85.63
+116955,Saúl Ñíguez,saul-niguez,2836,Atlético Madrid,6.73,1,0.39,0,8,0,81.78
+1400650,Lewis Miley,lewis-miley,39,Newcastle United,6.73,0,,0,3,1,80.3
+191176,Anthony Martial,anthony-martial,35,Manchester United,6.73,0,,2,0,1,86.67
+15444,Leonardo Bonucci,leonardo-bonucci,2547,1. FC Union Berlin,6.73,0,,0,1,0,71.95
+848355,Angeliño,angelino,3061,Galatasaray,6.73,0,,4,7,0,73.21
+993455,Salis Abdul Samed,salis-abdul-samed,1648,RC Lens,6.73,0,0.19,1,9,0,85.94
+287643,Oleksandr Zinchenko,oleksandr-zinchenko,42,Arsenal,6.73,0,0.06,0,6,0,89.32
+958380,Antony,antony,35,Manchester United,6.73,0,0.04,6,7,0,78.95
+113700,Peter Ankersen,peter-ankersen,1284,FC København,6.73,0,0.23,2,12,0,77.72
+21927,Marko Arnautović,marko-arnautovic,2697,Inter,6.73,2,2.85,2,0,0,74.19
+907463,Felix Nmecha,felix-nmecha,2673,Borussia Dortmund,6.73,1,0.48,4,8,0,75.42
+138310,Raphaël Varane,raphael-varane,35,Manchester United,6.73,0,,0,4,0,87.98
+94527,Marko Dmitrović,marko-dmitrovic,2833,Sevilla,6.73,0,,0,0,0,59.12
+823941,Alexander Isak,alexander-isak,39,Newcastle United,6.72,1,1.42,2,1,0,79.1
+278763,Mirko Ivanić,mirko-ivanic,5149,FK Crvena zvezda,6.72,0,0.47,1,7,1,75.86
+787889,Lucas Tousart,lucas-tousart,2547,1. FC Union Berlin,6.72,0,0.14,0,10,1,64.06
+996820,Kristjan Asllani,kristjan-asllani,2697,Inter,6.72,0,0.08,3,2,0,92.11
+252577,Rafa Silva,rafa-silva,3006,Benfica,6.72,2,2.34,4,7,0,81.18
+68332,Nemanja Gudelj,nemanja-gudelj,2833,Sevilla,6.72,2,0.44,0,12,0,87.94
+858194,Eddie Nketiah,eddie-nketiah,42,Arsenal,6.72,1,0.36,1,0,0,82.93
+826013,Abel Ruíz,abel-ruiz,2999,Sporting Braga,6.72,0,0.94,0,1,0,87.72
+954056,Nico González,nico-gonzalez,3002,FC Porto,6.72,0,0.11,2,4,0,77.01
+794338,Daichi Kamada,daichi-kamada,2699,Lazio,6.71,0,0.13,1,7,0,84.55
+905421,Luis Palma,luis-palma,2352,Celtic,6.7,2,1.06,3,5,0,76.7
+890695,Arbnor Muja,arbnor-muja,2889,Royal Antwerp FC,6.7,1,0.8,6,5,0,78.1
+923969,Michel Ange Balikwisha,michel-ange-balikwisha,2889,Royal Antwerp FC,6.7,1,0.68,6,9,0,83.7
+1140599,Jamie Gittens,jamie-bynoe-gittens,2673,Borussia Dortmund,6.7,1,0.53,5,2,0,64.81
+966670,Lewin Blum,lewin-blum,2445,BSC Young Boys,6.7,1,0.09,1,5,0,69.64
+135264,Yussuf Poulsen,yussuf-poulsen,36360,RB Leipzig,6.7,0,0.57,4,1,1,70.27
+945204,Elias Achouri,elias-achouri,1284,FC København,6.7,0,0.3,17,16,1,74.1
+904852,Yukhym Konoplya,yukhym-konoplya,3313,Shakhtar Donetsk,6.7,0,0.06,3,8,1,79.63
+1406639,Victor Froholdt,victor-froholdt,1284,FC København,6.7,0,,0,2,0,66.67
+1142249,Frans Krätzig,frans-kratzig,2672,FC Bayern München,6.7,0,,0,0,0,87.5
+1000483,Marc Casadó,marc-casado,2817,FC Barcelona,6.7,0,,0,0,0,77.27
+1009386,Hannibal Mejbri,hannibal-mejbri,35,Manchester United,6.7,0,,2,2,0,79.17
+1126692,Antoni Milambo,antoni-milambo,2959,Feyenoord,6.7,0,,1,0,0,96.0
+822519,Éder Militão,eder-militao,2829,Real Madrid,6.7,0,,0,1,0,75.0
+942335,Kamil Piątkowski,kamil-piatkowski,2046,Red Bull Salzburg,6.7,0,,0,5,0,71.76
+887581,Boubakary Soumaré,boubakary-soumare,2833,Sevilla,6.7,0,,3,5,0,93.38
+137661,Viktor Claesson,viktor-claesson,1284,FC København,6.7,0,0.77,3,7,0,71.67
+794953,Kevin Danso,kevin-danso,1648,RC Lens,6.7,0,0.55,2,4,0,87.16
+989803,Facundo Pellistri,facundo-pellistri,35,Manchester United,6.7,0,0.36,2,3,0,90.48
+911195,Fernando,fernando,2046,Red Bull Salzburg,6.7,0,0.26,1,0,0,71.43
+1149113,Oscar Højlund,oscar-hojlund,1284,FC København,6.7,0,0.24,2,3,0,80.0
+227862,Wesley Saïd,wesley-said,1648,RC Lens,6.7,0,0.16,1,1,0,62.5
+289181,Peter Olayinka,peter-olayinka,5149,FK Crvena zvezda,6.7,0,0.14,1,6,0,59.52
+359272,Sofyan Amrabat,sofyan-amrabat,35,Manchester United,6.7,0,0.05,0,8,0,87.95
+48557,Christopher Trimmel,christopher-trimmel,2547,1. FC Union Berlin,6.7,0,0.05,0,4,0,72.73
+945233,Thomas Van den Belt,thomas-van-den-belt,2959,Feyenoord,6.7,0,0.05,1,1,0,86.67
+1402913,Pau Cubarsí,pau-cubarsi,2817,FC Barcelona,6.7,0,0.04,0,6,0,86.21
+876860,Aleksa Terzić,aleksa-terzic,2046,Red Bull Salzburg,6.7,0,0.02,0,3,0,65.57
+317301,Danilo Cataldi,danilo-cataldi,2699,Lazio,6.7,0,0.02,2,2,0,86.67
+976421,Castello Lukeba,castello-lukeba,36360,RB Leipzig,6.69,0,0.09,1,7,0,90.27
+838232,Eljif Elmas,eljif-elmas,36360,RB Leipzig,6.69,0,0.09,9,1,0,85.53
+39070,Olivier Giroud,olivier-giroud,2692,AC Milan,6.68,1,2.58,0,3,1,64.71
+976037,Jakub Kiwior,jakub-kiwior,42,Arsenal,6.68,0,0.51,3,8,0,82.84
+860307,Facundo Medina,facundo-medina,1648,RC Lens,6.68,0,0.36,2,9,0,85.98
+871706,Randal Kolo Muani,randal-kolo-muani,1644,Paris Saint-Germain,6.68,1,1.9,7,7,0,70.8
+231946,Adrien Thomasson,adrien-thomasson,1648,RC Lens,6.68,1,0.37,0,0,0,78.57
+791642,Josip Juranović,josip-juranovic,2547,1. FC Union Berlin,6.68,0,0.2,2,6,0,75.0
+988277,Darian Maleš,darian-males,2445,BSC Young Boys,6.68,0,0.2,3,3,0,73.81
+21626,Eric Maxim Choupo-Moting,eric-maxim-choupo-moting,2672,FC Bayern München,6.68,0,0.33,1,1,0,82.35
+823631,Dodi Lukebakio,dodi-lukebakio,2833,Sevilla,6.68,0,0.19,5,2,0,82.54
+1462434,George Ilenikhena,george-ilenikhena,2889,Royal Antwerp FC,6.67,1,0.78,1,1,0,75.0
+987818,Maurits Kjaergaard,maurits-kjaergaard,2046,Red Bull Salzburg,6.67,0,0.12,0,2,1,78.31
+125274,Stefan Ortega,stefan-ortega,17,Manchester City,6.67,0,,1,0,0,81.17
+26768,Sven Ulreich,sven-ulreich,2672,FC Bayern München,6.67,0,,0,0,0,77.24
+37096,Péter Gulácsi,peter-gulacsi,36360,RB Leipzig,6.67,0,,0,0,0,83.87
+1110136,Mandela Keita,mandela-keita,2889,Royal Antwerp FC,6.67,0,,4,8,0,87.62
+175753,Mariano Díaz,mariano-diaz,2833,Sevilla,6.67,0,0.21,0,1,0,50.0
+850993,David Neres,david-neres,3006,Benfica,6.67,0,0.15,2,2,0,85.96
+845486,Tanguy Ndombélé,tanguy-ndombele,3061,Galatasaray,6.67,0,0.06,2,3,0,92.68
+937324,Nicolò Rovella,nicolo-rovella,2699,Lazio,6.67,0,0.03,0,5,0,88.46
+759520,Denzel Dumfries,denzel-dumfries,2697,Inter,6.66,0,0.9,4,3,1,75.0
+907461,Orkun Kökçü,orkun-kokcu,3006,Benfica,6.66,0,0.18,4,6,0,81.56
+877013,Valentín Castellanos,valentin-castellanos,2699,Lazio,6.66,0,1.37,0,2,0,63.04
+1002620,Marko Stamenić,marko-stamenic,5149,FK Crvena zvezda,6.65,1,0.53,1,5,0,74.36
+957937,Casper Tengstedt,casper-tengstedt,3006,Benfica,6.65,0,0.14,0,1,1,63.64
+30144,Jonny Evans,jonny-evans,35,Manchester United,6.65,0,,0,1,0,82.61
+920393,Nathaniel Phillips,nathaniel-phillips,2352,Celtic,6.65,0,,0,0,0,90.72
+579576,Ruben Aguilar,ruben-aguilar,1648,RC Lens,6.65,0,,0,4,0,76.0
+173883,Iñigo Martínez,inigo-martinez,2817,FC Barcelona,6.65,0,,0,2,0,86.89
+319853,Lukas Klostermann,lukas-klostermann,36360,RB Leipzig,6.65,0,,0,6,0,95.48
+1152923,Kosta Nedeljković,kosta-nedeljkovic,5149,FK Crvena zvezda,6.65,0,0.18,6,4,0,79.07
+96370,Suso,suso,2833,Sevilla,6.65,0,0.08,1,1,0,96.0
+934383,Jon Pacheco,jon-pacheco,2824,Real Sociedad,6.65,0,0.07,0,2,0,90.14
+1001858,Soumaila Coulibaly,soumaila-coulibaly,2889,Royal Antwerp FC,6.65,0,0.06,1,5,0,91.37
+934510,Gonçalo Ramos,goncalo-ramos,1644,Paris Saint-Germain,6.64,0,1.73,0,4,0,86.57
+1133258,Josafat Mendes,josafat-mendes,2999,Sporting Braga,6.64,0,,1,3,0,85.59
+983815,Yunus Musah,yunus-musah,2692,AC Milan,6.64,0,0.23,5,6,0,83.5
+877766,Kyogo Furuhashi,kyogo-furuhashi,2352,Celtic,6.63,2,1.5,1,0,0,70.73
+892979,Oumar Solet,oumar-solet,2046,Red Bull Salzburg,6.63,0,,0,3,0,86.49
+775699,André Horta,andre-horta,2999,Sporting Braga,6.63,0,,0,3,0,88.89
+232306,Timo Werner,timo-werner,36360,RB Leipzig,6.63,0,0.12,0,1,0,63.64
+843200,Diogo Dalot,diogo-dalot,35,Manchester United,6.63,0,0.11,7,7,0,78.85
+183483,Andreas Cornelius,andreas-cornelius,1284,FC København,6.63,0,0.09,0,1,0,63.64
+832868,Jorge Sánchez,jorge-sanchez,3002,FC Porto,6.63,0,0.08,2,7,0,80.0
+77678,Milan Rodić,milan-rodic,5149,FK Crvena zvezda,6.63,0,0.07,2,9,0,71.85
+130433,Robin Knoche,robin-knoche,2547,1. FC Union Berlin,6.63,0,0.03,0,6,0,85.71
+893499,Mauro Júnior,mauro-junior,2952,PSV Eindhoven,6.63,0,0.02,3,2,0,82.35
+799054,Djibril Sow,djibril-sow,2833,Sevilla,6.63,0,0.01,0,5,0,85.71
+986397,Benjamin Šeško,benjamin-sesko,36360,RB Leipzig,6.63,2,2.84,5,4,0,72.09
+143344,Massadio Haïdara,massadio-haidara,1648,RC Lens,6.63,0,,0,2,0,78.95
+1102788,Dorgeles Nene,nene-dorgeles,2046,Red Bull Salzburg,6.63,0,1.1,0,3,0,83.33
+27622,José Fonte,jose-fonte,2999,Sporting Braga,6.63,0,0.27,2,4,0,88.21
+795972,Cameron Carter-Vickers,cameron-carter-vickers,2352,Celtic,6.63,0,0.12,1,4,0,91.86
+976575,Nicolas Seiwald,nicolas-seiwald,36360,RB Leipzig,6.63,0,0.03,1,9,0,78.95
+117373,Kevin Volland,kevin-volland,2547,1. FC Union Berlin,6.62,1,0.68,1,5,0,60.0
+825956,Christoph Baumgartner,christoph-baumgartner,36360,RB Leipzig,6.62,0,0.83,1,3,0,75.0
+984419,Alistair Johnston,alistair-johnston,2352,Celtic,6.62,0,0.06,4,15,0,80.68
+983554,Paulo Bernardo,paulo-bernardo,2352,Celtic,6.62,0,0.03,8,2,0,79.83
+69416,Oriol Romeu,oriol-romeu,2817,FC Barcelona,6.61,0,0.14,2,7,0,90.04
+980327,Tetê,tete,3061,Galatasaray,6.6,1,0.15,4,7,0,68.37
+1026015,Orri Óskarsson,orri-steinn-oskarsson,1284,FC København,6.6,0,,0,2,1,63.64
+1010655,Juanlu Sánchez,juanlu-sanchez,2833,Sevilla,6.6,0,,4,15,1,79.84
+940328,Jean-Philippe Krasso,jean-philippe-krasso,5149,FK Crvena zvezda,6.6,0,0.47,2,3,1,48.48
+904096,Barış Alper Yılmaz,baris-alper-yilmaz,3061,Galatasaray,6.6,0,0.07,0,2,1,79.41
+880229,Olexiy Kashchuk,olexiy-kashchuk,3313,Shakhtar Donetsk,6.6,0,,0,0,0,100.0
+1099371,Chaka Traorè,chaka-traore,2692,AC Milan,6.6,0,,0,0,0,83.33
+1001201,Łukasz Łakomy,lukasz-lakomy,2445,BSC Young Boys,6.6,0,,0,1,0,66.67
+989056,Giovanni Reyna,giovanni-reyna,2673,Borussia Dortmund,6.6,0,,1,1,0,88.89
+758608,Çağlar Söyüncü,caglar-soyuncu,2836,Atlético Madrid,6.6,0,,0,0,0,94.55
+892924,Hamed Junior Traorè,hamed-junior-traore,2714,SSC Napoli,6.6,0,,1,0,0,72.34
+862697,Nicolò Casale,nicolo-casale,2699,Lazio,6.6,0,,0,1,0,94.81
+979221,Gonçalo Borges,goncalo-borges,3002,FC Porto,6.6,0,,1,1,0,100.0
+122702,Erik Lamela,erik-lamela,2833,Sevilla,6.6,0,0.26,0,7,0,78.0
+77725,Pizzi,pizzi,2999,Sporting Braga,6.6,0,0.15,1,0,0,82.76
+947929,Jesper Lindstrøm,jesper-lindstrom,2714,SSC Napoli,6.6,0,0.13,2,6,0,78.13
+999276,Aurèle Amenda,aurele-amenda,2445,BSC Young Boys,6.6,0,0.07,1,7,0,87.94
+149479,Rani Khedira,rani-khedira,2547,1. FC Union Berlin,6.6,0,0.05,0,6,0,81.36
+1192550,Miguel Changa Chaiwa,miguel-changa-chaiwa,2445,BSC Young Boys,6.6,0,0.04,0,1,0,57.89
+584124,Chiquinho,chiquinho,3006,Benfica,6.6,0,0.04,0,1,0,92.68
+858195,Sergio Reguilón,sergio-reguilon,35,Manchester United,6.6,0,0.04,3,2,0,76.71
+902019,Gianluca Gaetano,gianluca-gaetano,2714,SSC Napoli,6.6,0,0.03,0,0,0,75.0
+159675,Mohamed Elneny,mohamed-elneny,42,Arsenal,6.6,0,0.02,0,0,0,84.0
+754710,Umar Sadiq,umar-sadiq,2824,Real Sociedad,6.6,0,0.01,4,2,0,84.21
+787448,Silvère Ganvoula,silvere-ganvoula,2445,BSC Young Boys,6.58,0,0.79,2,0,0,65.71
+108484,Juan Jesus,juan-jesus,2714,SSC Napoli,6.58,0,,0,11,0,85.71
+599114,Jean Butez,jean-butez,2889,Royal Antwerp FC,6.58,0,,0,0,0,74.21
+1139103,Karim Konaté,karim-konate,2046,Red Bull Salzburg,6.58,0,1.84,4,2,0,76.0
+1103531,Yang Hyun-Jun,yang-hyun-jun,2352,Celtic,6.58,0,,4,4,0,72.41
+1113141,Forson Amankwah,forson-amankwah,2046,Red Bull Salzburg,6.58,0,0.16,0,3,0,80.77
+353250,Álvaro Odriozola,alvaro-odriozola,2824,Real Sociedad,6.57,0,,0,1,0,91.11
+830803,Danilho Doekhi,danilho-doekhi,2547,1. FC Union Berlin,6.57,0,,0,5,0,78.16
+794520,Tomoki Iwata,tomoki-iwata,2352,Celtic,6.57,0,,0,3,0,78.26
+123166,Nampalys Mendy,nampalys-mendy,1648,RC Lens,6.57,0,,0,8,0,83.89
+822462,Luka Ivanušec,luka-ivanusec,2959,Feyenoord,6.56,0,0.08,2,3,1,84.62
+857671,Jens-Lys Cajuste,jens-lys-cajuste,2714,SSC Napoli,6.56,0,,1,7,0,79.73
+994546,Elliot Anderson,elliot-anderson,39,Newcastle United,6.55,0,,2,2,0,73.33
+780014,Nordi Mukiele,nordi-mukiele,1644,Paris Saint-Germain,6.55,0,,0,0,0,89.74
+997006,Youssoufa Moukoko,youssoufa-moukoko,2673,Borussia Dortmund,6.55,0,,1,1,0,80.0
+904850,Valerii Bondar,valerii-bondar,3313,Shakhtar Donetsk,6.55,0,,0,7,0,90.8
+1146136,Jovan Mijatović,jovan-mijatovic,5149,FK Crvena zvezda,6.55,0,0.9,2,0,0,94.74
+836694,Mason Mount,mason-mount,35,Manchester United,6.55,0,0.47,0,2,0,86.49
+74577,Patrick van Aanholt,patrick-van-aanholt,2952,PSV Eindhoven,6.55,0,0.16,0,4,0,87.5
+826186,Luca Pellegrini,luca-pellegrini,2699,Lazio,6.55,0,0.04,2,2,0,86.46
+976410,Tiago Gouveia,tiago-gouveia,3006,Benfica,6.55,0,0.02,1,0,0,66.67
+136322,Elseid Hysaj,elseid-hysaj,2699,Lazio,6.54,0,,1,8,0,83.51
+845798,Guus Til,guus-til,2952,PSV Eindhoven,6.54,0,0.22,1,2,0,81.58
+168985,Janik Haberer,janik-haberer,2547,1. FC Union Berlin,6.54,0,0.19,2,5,0,75.96
+1010634,Hyeon-gyu Oh,hyun-gyu-oh,2352,Celtic,6.54,0,0.15,2,1,0,75.0
+1135873,Alejandro Garnacho,alejandro-garnacho,35,Manchester United,6.53,1,1.0,4,4,0,82.19
+280835,Marko Grujić,marko-grujic,3002,FC Porto,6.53,0,,0,2,0,60.0
+1023091,David Pereira Da Costa,david-pereira-da-costa,1648,RC Lens,6.53,0,,2,2,0,87.72
+252815,Fábio Cardoso,fabio-cardoso,3002,FC Porto,6.53,0,,0,2,0,91.97
+137695,Christian Sørensen,christian-srensen,1284,FC København,6.53,0,,0,0,0,82.05
+1127169,Nasser Djiga,nasser-djiga,5149,FK Crvena zvezda,6.53,0,0.19,4,8,0,82.46
+794968,Ondrej Lingr,ondrej-lingr,2959,Feyenoord,6.53,0,0.07,1,0,0,85.71
+69408,Marcos Alonso,marcos-alonso,2817,FC Barcelona,6.53,0,0.04,0,1,0,88.46
+1035752,Giorgi Gocholeishvili,giorgi-gocholeishvili,3313,Shakhtar Donetsk,6.53,0,0.2,4,12,1,73.64
+1485599,Newerton Palmares,newerton-palmares,3313,Shakhtar Donetsk,6.53,0,0.66,6,5,0,75.0
+990743,Morgan Guilavogui,morgan-guilavogui,1648,RC Lens,6.53,0,0.57,0,0,0,64.29
+316148,Thomas Partey,thomas-partey,42,Arsenal,6.5,0,,0,0,0,80.0
+318603,Emil Audero,emil-audero,2697,Inter,6.5,0,,0,0,0,93.55
+986253,Kings Kangwa,kings-kangwa,5149,FK Crvena zvezda,6.5,0,,0,1,0,88.89
+914772,Fran Navarro,fran-navarro,3002,FC Porto,6.5,0,,0,0,0,100.0
+155961,Miloš Degenek,milos-degenek,5149,FK Crvena zvezda,6.5,0,,0,0,0,0.0
+1087489,Uroš Kabić,uros-kabic,5149,FK Crvena zvezda,6.5,0,,0,1,0,66.67
+1129551,Dijon Kameri,dijon-kameri,2046,Red Bull Salzburg,6.5,0,,0,0,0,100.0
+831253,Toni Martínez,toni-martinez,3002,FC Porto,6.5,0,,0,0,0,20.0
+1097719,Kike Salas,kike-salas,2833,Sevilla,6.5,0,,1,4,0,70.79
+591750,Joan Jordán,joan-jordan,2833,Sevilla,6.5,0,,0,5,0,74.19
+231776,Óliver Torres,oliver-torres,2833,Sevilla,6.5,0,,0,1,0,73.33
+1103765,Zeno Van Den Bosch,zeno-van-den-bosch,2889,Royal Antwerp FC,6.5,0,,0,1,0,83.33
+143334,Victor Lindelöf,victor-lindelof,35,Manchester United,6.5,0,,0,0,0,87.01
+1084880,Serdar Saatçı,serdar-saatci,2999,Sporting Braga,6.5,0,0.29,1,7,0,89.73
+91744,James Forrest,james-forrest,2352,Celtic,6.5,0,0.14,0,2,0,80.65
+1134396,Jon Magunazelaia,jon-magunazelaia,2824,Real Sociedad,6.5,0,0.12,0,0,0,50.0
+1010383,Jon Ander Olasagasti,jon-ander-olasagasti,2824,Real Sociedad,6.5,0,0.11,0,0,0,50.0
+98436,Srđan Mijailović,srdan-mijailovic,5149,FK Crvena zvezda,6.5,0,0.1,2,14,0,73.1
+976025,Armel Bella-Kotchap,armel-bella-kotchap,2952,PSV Eindhoven,6.5,0,0.04,0,3,0,86.0
+1128560,Roger Fernandes,roger-fernandes,2999,Sporting Braga,6.5,0,0.02,1,0,0,33.33
+839097,Greg Taylor,greg-taylor,2352,Celtic,6.5,0,0.02,3,11,0,84.65
+1150938,Leo Sauer,sauer-leo,2959,Feyenoord,6.5,0,0.02,1,0,0,100.0
+889387,Jelle Bataille,jelle-bataille,2889,Royal Antwerp FC,6.48,0,,3,9,1,77.78
+904859,Dmytro Kryskiv,dmytro-kryskiv,3313,Shakhtar Donetsk,6.48,0,0.08,3,7,0,79.65
+928672,Adrià Pedrosa,adria-pedrosa,2833,Sevilla,6.48,0,0.08,2,6,0,77.08
+846425,Manuel Ugarte,manuel-ugarte,1644,Paris Saint-Germain,6.48,0,0.07,1,8,0,91.63
+1030711,David Jurásek,david-jurasek,3006,Benfica,6.47,0,,1,6,0,47.46
+1019892,Stefan Mitrović,stefan-mitrovic,5149,FK Crvena zvezda,6.47,0,0.13,3,0,0,76.19
+1188972,Kevin Kelsy,kelsy-kevin,3313,Shakhtar Donetsk,6.45,1,0.25,0,2,0,66.67
+280979,Gonçalo Guedes,goncalo-guedes,3006,Benfica,6.45,0,,1,0,0,90.0
+867440,Danny Namaso,danny-namaso,3002,FC Porto,6.45,0,,0,0,0,100.0
+973431,Brenden Aaronson,brenden-aaronson,2547,1. FC Union Berlin,6.45,0,0.48,1,1,0,72.5
+782396,Carlos Fernández,carlos-fernandez,2824,Real Sociedad,6.45,0,0.13,0,1,0,57.69
+1128530,Neil El Aynaoui,neil-el-aynaoui,1648,RC Lens,6.43,0,,1,5,0,87.8
+1020197,Anthony Valencia,anthony-valencia,2889,Royal Antwerp FC,6.43,0,,0,0,0,72.73
+892673,Sandro Tonali,sandro-tonali,39,Newcastle United,6.43,0,0.1,0,1,0,63.41
+1103597,Novatus Miroshi,novatus-miroshi,3313,Shakhtar Donetsk,6.4,0,,0,1,0,90.7
+44760,Cédric Soares,cedric-soares,42,Arsenal,6.4,0,,0,0,0,69.23
+1127916,Thomas Beelen,thomas-beelen,2959,Feyenoord,6.4,0,,0,2,0,92.86
+242883,David von Ballmoos,david-von-ballmoos,2445,BSC Young Boys,6.4,0,,0,0,0,74.19
+832427,Carlos Soler,carlos-soler,1644,Paris Saint-Germain,6.4,0,,0,0,0,100.0
+142619,Kerem Demirbay,kerem-demirbay,3061,Galatasaray,6.4,0,,0,2,0,83.33
+791170,Maryan Shved,maryan-shved,3313,Shakhtar Donetsk,6.4,0,,0,0,0,100.0
+1463869,Kobe Corbanie,corbanie-kobe,2889,Royal Antwerp FC,6.4,0,,0,1,0,84.62
+1120035,Diogo Fonseca,fonseca-diogo,2999,Sporting Braga,6.4,0,0.35,0,0,0,56.25
+825754,Rafa Mir,rafa-mir,2833,Sevilla,6.4,0,0.09,0,0,0,16.67
+888550,Joe Willock,joe-willock,39,Newcastle United,6.4,0,0.05,0,2,0,85.0
+991604,Fabio Carvalho,fabio-carvalho,36360,RB Leipzig,6.37,0,0.11,1,6,0,85.0
+1063235,Mohamed Ali Cho,mohamed-ali-cho,2824,Real Sociedad,6.37,0,0.04,0,0,0,84.0
+547242,Adrián Marín,adrian-marin,2999,Sporting Braga,6.35,0,,0,0,0,80.0
+113956,Callum Wilson,callum-wilson,39,Newcastle United,6.35,0,0.81,0,0,0,81.82
+348362,Saidy Janko,saidy-janko,2445,BSC Young Boys,6.34,0,,8,4,0,76.29
+1104199,Noah Persson,noah-persson,2445,BSC Young Boys,6.33,0,,0,0,0,68.18
+836673,Owen Wijndal,owen-wijndal,2889,Royal Antwerp FC,6.32,0,0.01,0,13,0,84.34
+578560,Marcos Acuña,marcos-acuna,2833,Sevilla,6.3,0,0.15,1,2,1,73.13
+859999,Lisandro Martínez,lisandro-martinez,35,Manchester United,6.3,0,,2,0,0,97.87
+831424,Reinildo Mandava,reinildo-mandava,2836,Atlético Madrid,6.3,0,,0,1,0,78.57
+1008884,Kazımcan Karataş,kazimcan-karatas,3061,Galatasaray,6.3,0,,1,4,0,81.82
+1198074,Aljoscha Kemlein,aljoscha-kemlein,2547,1. FC Union Berlin,6.3,0,,0,0,0,100.0
+1424163,Mitchel Frame,frame-mitchel,2352,Celtic,6.3,0,,0,2,0,66.67
+1084268,David Turnbull,david-turnbull,2352,Celtic,6.3,0,,0,1,0,62.5
+797279,Bart Nieuwkoop,bart-nieuwkoop,2959,Feyenoord,6.3,0,,0,3,0,88.57
+1083413,William Clem,william-clem,1284,FC København,6.3,0,0.05,0,1,0,88.24
+1003007,Tanguy Nianzou,tanguy-nianzou,2833,Sevilla,6.3,0,0.01,0,0,0,75.0
+386950,Gyrano Kerk,gyrano-kerk,2889,Royal Antwerp FC,6.28,0,0.22,3,3,0,64.44
+1100830,Valdemar Lund,valdemar-lund,1284,FC København,6.25,0,,0,0,0,100.0
+578380,Jordan Larsson,jordan-larsson,1284,FC København,6.25,0,1.04,0,0,0,76.92
+801072,Sandro Lauper,sandro-lauper,2445,BSC Young Boys,6.25,0,0.14,1,4,0,82.14
+1402908,Hector Fort,fort-hector,2817,FC Barcelona,6.2,0,,0,0,0,96.77
+1136730,Lewis Hall,lewis-hall,39,Newcastle United,6.2,0,,0,1,0,73.68
+42209,Martin Dúbravka,martin-dubravka,39,Newcastle United,6.2,0,,0,0,0,75.86
+1156644,Mahamadou Susoho,susoho-mahamadou,17,Manchester City,6.2,0,,0,0,0,93.33
+97410,Davy Klaassen,davy-klaassen,2697,Inter,6.2,0,,0,1,0,82.35
+922928,Alessandro Zanoli,alessandro-zanoli,2714,SSC Napoli,6.2,0,0.03,1,0,0,100.0
+965330,Pierre Kalulu,pierre-kalulu,2692,AC Milan,6.1,0,,1,0,0,80.56
+883745,Marcos López,marcos-lopez,2959,Feyenoord,6.1,0,,0,0,0,80.95
+855845,Florentino Luís,florentino-luis,3006,Benfica,6.1,0,,0,3,0,81.97
+904887,Jürgen Ekkelenkamp,jurgen-ekkelenkamp,2889,Royal Antwerp FC,6.1,0,0.15,1,0,0,84.75
+832420,Daizen Maeda,daizen-maeda,2352,Celtic,6.08,0,0.42,8,2,1,81.69
+892224,Romário Baró,romario-baro,3002,FC Porto,6.0,0,,1,0,0,88.24
+111752,Uroš Spajić,uros-spajic,5149,FK Crvena zvezda,6.0,0,,0,0,0,85.71
+1091923,Stav Lemkin,stav-lemkin,3313,Shakhtar Donetsk,6.0,0,,0,1,0,92.86
+1194333,Abdukodir Khusanov,abdukodir-khusanov,1648,RC Lens,5.9,0,,0,2,0,66.67
+846148,Victor Nelsson,victor-nelsson,3061,Galatasaray,5.87,0,0.01,0,3,0,86.96
+1006069,António Silva,antonio-silva,3006,Benfica,5.8,0,,2,8,0,88.71
+1120701,Isaac Babadi,isaac-babadi,2952,PSV Eindhoven,5.5,0,,0,1,0,86.67
+975575,Odin Thiago Holm,odin-thiago-holm,2352,Celtic,5.5,0,,2,0,0,84.62
+1116388,Jon Aramburu,jon-aramburu,2824,Real Sociedad,0.0,0,,0,0,0,66.67
+855647,Harvey Barnes,harvey-barnes,39,Newcastle United,0.0,0,,0,0,0,0.0
+1390489,Davide Bartesaghi,davide-bartesaghi,2692,AC Milan,0.0,0,,0,0,0,100.0
+877037,Cyril Ngonge,cyril-ngonge,2714,SSC Napoli,0.0,0,,0,0,0,0.0
+21535,Simon Kjær,simon-kjaer,2692,AC Milan,0.0,0,,0,0,0,100.0
+1402922,Jacob Wright,wright-jacob,17,Manchester City,0.0,0,,0,0,0,100.0
+1145621,Ilias Kostis,ilias-kostis,2836,Atlético Madrid,0.0,0,,0,0,0,0.0
+1005648,Fredrik Oppegård,fredrik-oppegard,2952,PSV Eindhoven,0.0,0,,0,1,0,0.0
+190147,Rony Lopes,rony-lopes,2999,Sporting Braga,0.0,0,0.11,0,0,0,80.0
