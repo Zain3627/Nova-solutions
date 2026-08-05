@@ -42,7 +42,7 @@ export function FanView({
       </header>
 
       <main className="card">
-        <h1>LEAGUE STATISTICS</h1>
+        <h1>PLAYERS STATISTICS</h1>
         <p className="subtitle">
           Switch between leagues to see their statistics.
         </p>
