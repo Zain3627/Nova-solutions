@@ -8,7 +8,12 @@ export type LeagueValue =
   | "algerian_ligue_1"
   | "botola_pro"
   | "saudi_pro_league"
-  | "turkish_super_lig";
+  | "turkish_super_lig"
+  | "uefa_champions_league"
+  | "uefa_europa_league"
+  | "uefa_conference_league"
+  | "caf_champions_league"
+  | "caf_confederation_cup";
 
 export const LEAGUES: {
   value: LeagueValue;
@@ -75,6 +80,36 @@ export const LEAGUES: {
     label: "Turkish Süper Lig",
     icon: "/league-icons/turkey_super-lig.football-logos.cc.svg",
     tablePrefix: "turkish",
+  },
+  {
+    value: "uefa_champions_league",
+    label: "UEFA Champions League",
+    icon: "/league-icons/tournaments_uefa-champions-league.football-logos.cc.svg",
+    tablePrefix: "uefa_champions",
+  },
+  {
+    value: "uefa_europa_league",
+    label: "UEFA Europa League",
+    icon: "/league-icons/tournaments_uefa-europa-league.football-logos.cc.svg",
+    tablePrefix: "uefa_europa",
+  },
+  {
+    value: "uefa_conference_league",
+    label: "UEFA Conference League",
+    icon: "/league-icons/tournaments_uefa-conference-league.football-logos.cc.svg",
+    tablePrefix: "uefa_conference",
+  },
+  {
+    value: "caf_champions_league",
+    label: "CAF Champions League",
+    icon: "/league-icons/tournaments_caf-champions-league.football-logos.cc.svg",
+    tablePrefix: "caf_champions",
+  },
+  {
+    value: "caf_confederation_cup",
+    label: "CAF Confederation Cup",
+    icon: "/league-icons/toppng.com-caf-confederation-cup-logo-vector-512x512.svg",
+    tablePrefix: "caf_conf",
   },
 ];
 
