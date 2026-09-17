@@ -1,12 +1,35 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createServerClient } from "@supabase/ssr";
 
-// Routes that should never be visited by an already-logged-in user.
-const authOnlyRoutes = ["/login", "/signup"];
 // Routes that require a logged-in user. The authoritative check still
 // happens in the page itself (via lib/dal.ts's verifySession) — this is
 // just an optimistic redirect to avoid a render-then-bounce flash.
-const protectedRoutes = ["/fan"];
+const protectedRoutes = ["/fan", "/coach"];
+
+function matchesRoute(path: string, route: string) {
+  return path === route || path.startsWith(`${route}/`);
+}
+
+function redirectWithSessionCookies(
+  destination: string,
+  request: NextRequest,
+  sessionResponse: NextResponse
+) {
+  const redirectResponse = NextResponse.redirect(
+    new URL(destination, request.url)
+  );
+
+  sessionResponse.cookies.getAll().forEach((cookie) =>
+    redirectResponse.cookies.set(cookie)
+  );
+
+  for (const header of ["cache-control", "expires", "pragma"]) {
+    const value = sessionResponse.headers.get(header);
+    if (value) redirectResponse.headers.set(header, value);
+  }
+
+  return redirectResponse;
+}
 
 export async function proxy(request: NextRequest) {
   let response = NextResponse.next({ request });
@@ -32,28 +55,25 @@ export async function proxy(request: NextRequest) {
     }
   );
 
-  // Deliberately calling getUser() (a network round-trip to Supabase Auth)
-  // rather than trusting the cookie: this is what silently refreshes an
-  // expired access token on every request. It's an intentional exception to
-  // the generic "Proxy should stay cookie-only" advice, specific to
-  // Supabase's SSR session pattern.
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
+  // Verifies the JWT and refreshes an expired token when needed. Never trust
+  // getSession() here because it only reads the user-controlled cookie.
+  const { data } = await supabase.auth.getClaims();
+  const isAuthenticated = Boolean(data?.claims?.sub);
 
   const path = request.nextUrl.pathname;
 
-  if (!user && protectedRoutes.some((route) => path.startsWith(route))) {
-    return NextResponse.redirect(new URL("/login", request.url));
-  }
-
-  if (user && authOnlyRoutes.includes(path)) {
-    return NextResponse.redirect(new URL("/", request.url));
+  if (
+    !isAuthenticated &&
+    protectedRoutes.some((route) => matchesRoute(path, route))
+  ) {
+    return redirectWithSessionCookies("/login", request, response);
   }
 
   return response;
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|.*\\.png$).*)"],
+  matcher: [
+    "/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)",
+  ],
 };

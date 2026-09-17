@@ -115,6 +115,27 @@ export const LEAGUES: {
 
 export const LEAGUE_VALUES = LEAGUES.map((l) => l.value);
 
+// Domestic competitions currently available to coach accounts. International
+// competitions remain available in the fan statistics area.
+export const COACH_LEAGUES = LEAGUES.filter((league) =>
+  [
+    "premier_league",
+    "la_liga",
+    "bundesliga",
+    "serie_a",
+    "ligue_1",
+    "turkish_super_lig",
+    "saudi_pro_league",
+    "egyptian_premier_league",
+    "botola_pro",
+    "algerian_ligue_1",
+  ].includes(league.value)
+);
+
+export const COACH_LEAGUE_VALUES = COACH_LEAGUES.map(
+  (league) => league.value
+);
+
 export type SeasonValue = "23_24" | "24_25" | "25_26";
 
 export const SEASONS: { value: SeasonValue; label: string }[] = [

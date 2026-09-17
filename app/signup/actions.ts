@@ -2,9 +2,15 @@
 
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
-import { LEAGUE_VALUES } from "@/lib/leagues";
+import {
+  COACH_LEAGUE_VALUES,
+  type LeagueValue,
+} from "@/lib/leagues";
+import { getClubsForLeague } from "@/lib/clubs";
 
-export type SignupState = { error?: string } | undefined;
+export type SignupState =
+  | { error?: string; success?: string }
+  | undefined;
 
 export async function signupAction(
   _prevState: SignupState,
@@ -14,29 +20,50 @@ export async function signupAction(
   const password = String(formData.get("password") ?? "");
   const confirm = String(formData.get("confirm") ?? "");
   const role = formData.get("role") === "pro" ? "pro" : "fan";
-  const clubName = String(formData.get("club_name") ?? "").trim();
   const league = String(formData.get("league") ?? "");
+  const clubId = String(formData.get("club_id") ?? "");
 
   if (!email) return { error: "Please enter your email." };
-  if (password.length < 6) {
-    return { error: "Password must be at least 6 characters." };
+  if (password.length < 8) {
+    return { error: "Password must be at least 8 characters." };
   }
   if (password !== confirm) return { error: "Passwords do not match." };
 
   if (role === "pro") {
-    if (!clubName) return { error: "Please enter your club name." };
-    if (!LEAGUE_VALUES.includes(league as (typeof LEAGUE_VALUES)[number])) {
+    if (
+      !COACH_LEAGUE_VALUES.includes(
+        league as (typeof COACH_LEAGUE_VALUES)[number]
+      )
+    ) {
       return { error: "Please select a league." };
     }
+    const club = getClubsForLeague(league as LeagueValue).find(
+      (entry) => entry.id === clubId
+    );
+    if (!club) return { error: "Please select your club." };
   }
 
   const supabase = await createClient();
-  const { error } = await supabase.auth.signUp({
+  const selectedClub =
+    role === "pro"
+      ? getClubsForLeague(league as LeagueValue).find(
+          (entry) => entry.id === clubId
+        )
+      : undefined;
+
+  const { data, error } = await supabase.auth.signUp({
     email,
     password,
     options: {
       data:
-        role === "pro" ? { role, club_name: clubName, league } : { role },
+        role === "pro"
+          ? {
+              role,
+              club_id: selectedClub!.id,
+              club_name: selectedClub!.name,
+              league,
+            }
+          : { role },
     },
   });
 
@@ -44,5 +71,12 @@ export async function signupAction(
     return { error: error.message };
   }
 
-  redirect(role === "fan" ? "/fan" : "/");
+  if (!data.session) {
+    return {
+      success:
+        "Account created. Check your email to confirm it, then sign in.",
+    };
+  }
+
+  redirect(role === "fan" ? "/fan" : "/coach");
 }

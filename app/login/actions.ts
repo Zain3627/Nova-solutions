@@ -16,6 +16,11 @@ export async function loginAction(
   if (!password) return { error: "Please enter your password." };
 
   const supabase = await createClient();
+
+  // A user may intentionally revisit /login to switch accounts. End only the
+  // browser's current session before issuing the replacement session.
+  await supabase.auth.signOut({ scope: "local" });
+
   const { data, error } = await supabase.auth.signInWithPassword({
     email,
     password,
@@ -31,5 +36,6 @@ export async function loginAction(
     .eq("id", data.user.id)
     .single();
 
-  redirect(profile?.role === "fan" ? "/fan" : "/");
+  const role = profile?.role ?? data.user.user_metadata.role;
+  redirect(role === "fan" ? "/fan" : "/coach");
 }
