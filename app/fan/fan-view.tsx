@@ -4,15 +4,26 @@ import { signOutAction } from "@/lib/auth-actions";
 import { LeagueSwitcher } from "./league-switcher";
 import type { LeagueValue, SeasonValue } from "@/lib/leagues";
 import type { PlayerStatRow } from "@/lib/stats";
+import { AccountSettings } from "@/app/account-settings/account-settings";
 
 export function FanView({
   league,
   season,
   players,
+  email,
+  displayName,
+  jobTitle,
+  language,
+  matchAlerts,
 }: {
   league: LeagueValue;
   season: SeasonValue;
   players: PlayerStatRow[];
+  email: string;
+  displayName: string;
+  jobTitle: string;
+  language: string;
+  matchAlerts: boolean;
 }) {
   return (
     <div className="fan-root">
@@ -34,11 +45,19 @@ export function FanView({
           <span className="brand-name">NOVA SOLUTION</span>
         </div>
 
-        <form action={signOutAction}>
-          <button className="signout" type="submit">
-            Sign Out
-          </button>
-        </form>
+        <div className="account-actions">
+          <AccountSettings
+            compact
+            email={email}
+            displayName={displayName}
+            jobTitle={jobTitle}
+            language={language}
+            matchAlerts={matchAlerts}
+          />
+          <form action={signOutAction}>
+            <button className="signout" type="submit">Sign out</button>
+          </form>
+        </div>
       </header>
 
       <main className="card">
@@ -58,15 +77,16 @@ export function FanView({
         .fan-root {
           --green: #1a6b2e;
           --lime: #a8e063;
-          --white: #f5f5f0;
-          --dark: #0b0e0c;
-          --glass-bg: rgba(10, 20, 13, 0.62);
-          --glass-border: rgba(168, 224, 99, 0.18);
-          --input-bg: rgba(255, 255, 255, 0.07);
-          --input-border: rgba(168, 224, 99, 0.25);
-          --accent: #a8e063;
+          --white: var(--ui-text);
+          --dark: var(--ui-bg);
+          --glass-bg: color-mix(in srgb, var(--ui-panel) 92%, transparent);
+          --glass-border: var(--ui-border);
+          --input-bg: var(--ui-subtle);
+          --input-border: var(--ui-border);
+          --accent: var(--ui-accent);
 
-          font-family: "DM Sans", sans-serif;
+          font-family: var(--font-body);
+          color: var(--ui-text);
           min-height: 100vh;
           width: 100%;
           background: var(--dark);
@@ -78,10 +98,7 @@ export function FanView({
           position: fixed;
           inset: 0;
           z-index: 0;
-          background:
-            radial-gradient(ellipse at 30% 20%, rgba(26, 107, 46, 0.35) 0%, transparent 55%),
-            radial-gradient(ellipse at 75% 80%, rgba(168, 224, 99, 0.14) 0%, transparent 50%),
-            linear-gradient(160deg, #0b0e0c 0%, #0e1a10 55%, #0b0e0c 100%);
+          background: radial-gradient(ellipse at 30% 20%, var(--ui-accent-soft) 0%, transparent 55%), var(--ui-bg);
         }
 
         .bg-pattern {
@@ -135,17 +152,20 @@ export function FanView({
         }
 
         .brand-name {
-          font-family: "Bebas Neue", sans-serif;
-          font-size: 22px;
-          letter-spacing: 2px;
+          font-family: var(--font-display);
+          font-size: 18px;
+          font-weight: 800;
+          letter-spacing: 0.4px;
           color: var(--white);
         }
+
+        .account-actions { display: flex; align-items: center; gap: 9px; }
 
         .signout {
           background: var(--input-bg);
           border: 1px solid var(--input-border);
-          color: rgba(245, 245, 240, 0.75);
-          font-family: "DM Sans", sans-serif;
+          color: var(--ui-muted);
+          font-family: var(--font-body);
           font-size: 12.5px;
           font-weight: 600;
           padding: 9px 16px;
@@ -187,19 +207,27 @@ export function FanView({
         }
 
         h1 {
-          font-family: "Bebas Neue", sans-serif;
-          font-size: 34px;
-          letter-spacing: 1.5px;
+          font-family: var(--font-display);
+          font-size: 30px;
+          font-weight: 800;
+          letter-spacing: -0.6px;
           color: var(--white);
           line-height: 1;
           margin-bottom: 6px;
         }
 
         .subtitle {
-          font-size: 13px;
-          color: rgba(245, 245, 240, 0.45);
+          font-size: 14px;
+          color: var(--ui-muted);
           margin-bottom: 28px;
           font-weight: 300;
+        }
+
+        @media (max-width: 640px) {
+          .topbar { padding: 18px; }
+          .card { margin: 8px 12px 36px; width: calc(100% - 24px); padding: 22px 16px; }
+          .brand-name { display: none; }
+          .signout { padding-inline: 11px; }
         }
       `}</style>
     </div>

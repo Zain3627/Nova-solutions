@@ -26,6 +26,10 @@ export default async function CoachLayout({
         email={user.email ?? "Coach"}
         clubName={String(metadata.club_name ?? "Your club")}
         clubId={String(metadata.club_id ?? "")}
+        displayName={String(metadata.display_name ?? user.email?.split("@")[0] ?? "Coach")}
+        jobTitle={String(metadata.job_title ?? "Head coach")}
+        language={String(metadata.language ?? "English")}
+        matchAlerts={metadata.match_alerts !== false}
       />
       <main className={styles.main}>{children}</main>
     </div>

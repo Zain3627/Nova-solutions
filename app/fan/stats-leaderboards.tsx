@@ -49,8 +49,8 @@ export function StatsLeaderboards({ players }: { players: PlayerStatRow[] }) {
         .tab {
           border: 1px solid var(--input-border);
           background: var(--input-bg);
-          color: rgba(245, 245, 240, 0.6);
-          font-family: "DM Sans", sans-serif;
+          color: var(--ui-muted);
+          font-family: var(--font-body);
           font-size: 12px;
           font-weight: 600;
           padding: 8px 16px;
@@ -142,7 +142,7 @@ function StatLeaderboard({
       <style jsx>{`
         .leaderboard {
           border: 1px solid var(--input-border);
-          background: rgba(255, 255, 255, 0.03);
+          background: var(--ui-panel);
           border-radius: 12px;
           padding: 16px;
           display: flex;
@@ -150,9 +150,10 @@ function StatLeaderboard({
         }
 
         h3 {
-          font-family: "Bebas Neue", sans-serif;
-          font-size: 16px;
-          letter-spacing: 0.5px;
+          font-family: var(--font-display);
+          font-size: 17px;
+          font-weight: 800;
+          letter-spacing: -0.15px;
           color: var(--accent);
           margin-bottom: 10px;
         }
@@ -160,14 +161,14 @@ function StatLeaderboard({
         table {
           width: 100%;
           border-collapse: collapse;
-          font-family: "DM Sans", sans-serif;
+          font-family: var(--font-body);
         }
 
         th {
           font-size: 10.5px;
           text-transform: uppercase;
           letter-spacing: 0.5px;
-          color: rgba(245, 245, 240, 0.4);
+          color: var(--ui-muted);
           text-align: left;
           padding: 4px 6px;
           font-weight: 600;
@@ -175,18 +176,18 @@ function StatLeaderboard({
 
         td {
           font-size: 12.5px;
-          color: rgba(245, 245, 240, 0.85);
+          color: var(--ui-text);
           padding: 5px 6px;
-          border-top: 1px solid rgba(255, 255, 255, 0.06);
+          border-top: 1px solid var(--ui-border);
         }
 
         .rank {
           width: 24px;
-          color: rgba(245, 245, 240, 0.4);
+          color: var(--ui-muted);
         }
 
         .team {
-          color: rgba(245, 245, 240, 0.5);
+          color: var(--ui-muted);
           font-size: 11.5px;
         }
 

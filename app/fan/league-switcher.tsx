@@ -1,6 +1,7 @@
 "use client";
 
 import { useTransition } from "react";
+import Image from "next/image";
 import { useRouter, usePathname, useSearchParams } from "next/navigation";
 import { LEAGUES, SEASONS, type LeagueValue, type SeasonValue } from "@/lib/leagues";
 import type { PlayerStatRow } from "@/lib/stats";
@@ -41,8 +42,9 @@ export function LeagueSwitcher({
             className={`league-card ${selectedLeague === l.value ? "active" : ""}`}
             onClick={() => updateParams({ league: l.value })}
           >
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={l.icon} alt={l.label} />
+            <span className="logo-wrap">
+              <Image src={l.icon} alt="" width={48} height={48} />
+            </span>
             <span>{l.label}</span>
           </button>
         ))}
@@ -99,14 +101,24 @@ export function LeagueSwitcher({
           padding: 18px 12px;
           cursor: pointer;
           transition: all 0.25s ease;
-          color: rgba(245, 245, 240, 0.6);
-          font-family: "DM Sans", sans-serif;
+          color: var(--ui-muted);
+          font-family: var(--font-body);
         }
 
-        .league-card img {
-          width: 44px;
-          height: 44px;
+        .logo-wrap {
+          width: 60px;
+          height: 60px;
+          display: grid;
+          place-items: center;
+          border: 1px solid #dfe5df;
+          border-radius: 12px;
+          background: #ffffff;
+          box-shadow: 0 5px 16px rgba(0, 0, 0, 0.16);
+        }
+
+        .logo-wrap img {
           object-fit: contain;
+          filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.18));
         }
 
         .league-card span {
@@ -140,8 +152,8 @@ export function LeagueSwitcher({
         .season-pill {
           border: 1px solid var(--input-border);
           background: var(--input-bg);
-          color: rgba(245, 245, 240, 0.6);
-          font-family: "DM Sans", sans-serif;
+          color: var(--ui-muted);
+          font-family: var(--font-body);
           font-size: 12.5px;
           font-weight: 600;
           padding: 9px 18px;
@@ -174,9 +186,10 @@ export function LeagueSwitcher({
         }
 
         .stats-panel h2 {
-          font-family: "Bebas Neue", sans-serif;
-          font-size: 24px;
-          letter-spacing: 1px;
+          font-family: var(--font-display);
+          font-size: 23px;
+          font-weight: 800;
+          letter-spacing: -0.35px;
           color: var(--white);
           margin-bottom: 2px;
           text-align: center;
@@ -184,14 +197,14 @@ export function LeagueSwitcher({
 
         .season-label {
           font-size: 12.5px;
-          color: rgba(245, 245, 240, 0.4);
+          color: var(--ui-muted);
           text-align: center;
           margin-bottom: 24px;
         }
 
         .empty {
           font-size: 13px;
-          color: rgba(245, 245, 240, 0.4);
+          color: var(--ui-muted);
           text-align: center;
           padding: 20px 0;
         }

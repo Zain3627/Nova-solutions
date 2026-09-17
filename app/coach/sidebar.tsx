@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { signOutAction } from "@/lib/auth-actions";
+import { AccountSettings } from "@/app/account-settings/account-settings";
 import styles from "./coach.module.css";
 
 const navigation = [
@@ -16,10 +17,18 @@ export function CoachSidebar({
   email,
   clubName,
   clubId,
+  displayName,
+  jobTitle,
+  language,
+  matchAlerts,
 }: {
   email: string;
   clubName: string;
   clubId: string;
+  displayName: string;
+  jobTitle: string;
+  language: string;
+  matchAlerts: boolean;
 }) {
   const pathname = usePathname();
 
@@ -62,9 +71,17 @@ export function CoachSidebar({
 
       <div className={styles.sidebarBottom}>
         <div className={styles.userBlock}>
-          <span>{email.slice(0, 1).toUpperCase()}</span>
-          <div><b>Head coach</b><small>{email}</small></div>
+          <span>{displayName.slice(0, 1).toUpperCase()}</span>
+          <div><b>{displayName}</b><small>{email}</small></div>
         </div>
+        <AccountSettings
+          email={email}
+          displayName={displayName}
+          jobTitle={jobTitle}
+          clubName={clubName}
+          language={language}
+          matchAlerts={matchAlerts}
+        />
         <form action={signOutAction}>
           <button type="submit" className={styles.signOut}>Sign out ↗</button>
         </form>
