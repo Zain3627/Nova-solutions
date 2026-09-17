@@ -54,9 +54,7 @@ export default async function FanPage({
       players={players ?? []}
       email={user.email ?? "Fan"}
       displayName={String(user.user_metadata?.display_name ?? user.email?.split("@")[0] ?? "Fan")}
-      jobTitle={String(user.user_metadata?.job_title ?? "Football fan")}
-      language={String(user.user_metadata?.language ?? "English")}
-      matchAlerts={user.user_metadata?.match_alerts !== false}
+      initialTheme={user.user_metadata?.theme === "light" || user.user_metadata?.theme === "dark" ? user.user_metadata.theme : undefined}
     />
   );
 }

@@ -2,9 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nova Solution — AI Football Tactical Analysis",
-  description:
-    "Nova Solution transforms raw broadcast video and player databases into real-time tactical intelligence.",
+  title: "Nova Solution — Football Data Workspace",
+  description: "Explore player statistics or access your club workspace.",
 };
 
 export default function RootLayout({
@@ -17,7 +16,7 @@ export default function RootLayout({
       <head>
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem('nova-theme');t=t==='light'?'light':'dark';document.documentElement.dataset.theme=t;document.documentElement.style.colorScheme=t}catch(e){}})()`,
+            __html: `(function(){try{var m=document.cookie.match(/(?:^|; )nova-theme=(dark|light)/);var t=m?m[1]:'dark';document.documentElement.dataset.theme=t;document.documentElement.style.colorScheme=t}catch(e){}})()`,
           }}
         />
       </head>

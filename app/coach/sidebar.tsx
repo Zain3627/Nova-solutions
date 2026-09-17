@@ -18,17 +18,13 @@ export function CoachSidebar({
   clubName,
   clubId,
   displayName,
-  jobTitle,
-  language,
-  matchAlerts,
+  initialTheme,
 }: {
   email: string;
   clubName: string;
   clubId: string;
   displayName: string;
-  jobTitle: string;
-  language: string;
-  matchAlerts: boolean;
+  initialTheme?: "dark" | "light";
 }) {
   const pathname = usePathname();
 
@@ -77,10 +73,8 @@ export function CoachSidebar({
         <AccountSettings
           email={email}
           displayName={displayName}
-          jobTitle={jobTitle}
           clubName={clubName}
-          language={language}
-          matchAlerts={matchAlerts}
+          initialTheme={initialTheme}
         />
         <form action={signOutAction}>
           <button type="submit" className={styles.signOut}>Sign out ↗</button>

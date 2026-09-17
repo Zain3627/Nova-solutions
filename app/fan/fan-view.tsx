@@ -12,18 +12,14 @@ export function FanView({
   players,
   email,
   displayName,
-  jobTitle,
-  language,
-  matchAlerts,
+  initialTheme,
 }: {
   league: LeagueValue;
   season: SeasonValue;
   players: PlayerStatRow[];
   email: string;
   displayName: string;
-  jobTitle: string;
-  language: string;
-  matchAlerts: boolean;
+  initialTheme?: "dark" | "light";
 }) {
   return (
     <div className="fan-root">
@@ -50,9 +46,7 @@ export function FanView({
             compact
             email={email}
             displayName={displayName}
-            jobTitle={jobTitle}
-            language={language}
-            matchAlerts={matchAlerts}
+            initialTheme={initialTheme}
           />
           <form action={signOutAction}>
             <button className="signout" type="submit">Sign out</button>
