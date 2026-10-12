@@ -1,5 +1,6 @@
 import Link from "next/link";
 import styles from "../coach.module.css";
+import { ScoutingSearchForm } from "./search-form";
 
 const positions = ["Goalkeeper", "Centre back", "Full back", "Midfielder", "Winger", "Striker"];
 
@@ -15,11 +16,7 @@ export default function ScoutingPage() {
         <span className={styles.kicker}>PLAYER DISCOVERY · DATA-LED RECRUITMENT</span>
         <h2>FIND THE PLAYER<br />YOUR SYSTEM <em>NEEDS.</em></h2>
         <p>Describe a profile, set the football constraints, and search across our covered competitions.</p>
-        <div className={styles.searchBox}>
-          <span>⌕</span>
-          <input placeholder="Try “progressive left-footed centre back under 24”" />
-          <button type="button">SEARCH PLAYERS →</button>
-        </div>
+        <ScoutingSearchForm />
       </section>
 
       <div className={styles.sectionTitle}>
