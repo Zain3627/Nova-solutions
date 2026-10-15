@@ -11,6 +11,12 @@
 import { createClient } from "@supabase/supabase-js";
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { setDefaultResultOrder } from "node:dns";
+
+// Without this, Node's fetch sometimes resolves Supabase's host to an IPv6
+// address first; on networks where that route is blackholed, requests die
+// with a generic "TypeError: fetch failed" that retries alone don't fix.
+setDefaultResultOrder("ipv4first");
 
 function loadEnvFile(path) {
   if (!existsSync(path)) return;
@@ -139,39 +145,89 @@ async function importOne(league, season) {
 
   if (!existsSync(filePath)) {
     console.warn(`  skip ${tableName} (no ${fileName})`);
-    return;
+    return true;
   }
 
   const [header, ...dataRows] = parseCsv(readFileSync(filePath, "utf8"));
   const records = toRecords(header, dataRows);
 
-  const { error: deleteError } = await supabase
-    .from(tableName)
-    .delete()
-    .not("player_id", "is", null);
-
+  const deleteError = await withRetry(() =>
+    supabase.from(tableName).delete().not("player_id", "is", null)
+  );
   if (deleteError) {
     console.error(`  ${tableName}: could not clear existing rows -- ${deleteError.message}`);
-    return;
+    return false;
   }
 
   for (let i = 0; i < records.length; i += BATCH_SIZE) {
     const batch = records.slice(i, i + BATCH_SIZE);
-    const { error } = await supabase.from(tableName).insert(batch);
+    const error = await withRetry(() => supabase.from(tableName).insert(batch));
     if (error) {
       console.error(`  ${tableName}: insert failed at row ${i} -- ${error.message}`);
-      return;
+      return false;
     }
   }
 
   console.log(`  ${tableName}: ${records.length} rows`);
+  return true;
 }
 
-for (const league of LEAGUES) {
-  console.log(league.dir);
-  for (const season of SEASONS) {
-    await importOne(league, season);
+const MAX_ATTEMPTS = 4;
+
+// Supabase requests occasionally fail with a plain network error (not an API
+// error) under back-to-back load -- retry those a few times with backoff
+// before giving up on the table.
+async function withRetry(run) {
+  let lastError;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const { error } = await run();
+      if (!error) return null;
+      lastError = error;
+    } catch (err) {
+      lastError = err;
+    }
+    if (attempt < MAX_ATTEMPTS) {
+      await new Promise((resolve) => setTimeout(resolve, attempt * 1000));
+    }
   }
+  return lastError;
 }
 
-console.log("Done.");
+const MAX_PASSES = 5;
+const PASS_COOLDOWN_MS = 8000;
+
+let pending = LEAGUES.flatMap((league) =>
+  SEASONS.map((season) => ({ league, season }))
+);
+
+for (let pass = 1; pass <= MAX_PASSES && pending.length > 0; pass++) {
+  if (pass > 1) {
+    console.log(
+      `\nPass ${pass}: retrying ${pending.length} table(s) after a ${PASS_COOLDOWN_MS / 1000}s cooldown...`
+    );
+    await new Promise((resolve) => setTimeout(resolve, PASS_COOLDOWN_MS));
+  }
+
+  const stillFailing = [];
+  let lastDir;
+  for (const job of pending) {
+    if (job.league.dir !== lastDir) {
+      console.log(job.league.dir);
+      lastDir = job.league.dir;
+    }
+    const ok = await importOne(job.league, job.season);
+    if (!ok) stillFailing.push(job);
+  }
+  pending = stillFailing;
+}
+
+if (pending.length > 0) {
+  console.error(
+    `\n${pending.length} table(s) never succeeded after ${MAX_PASSES} passes:\n` +
+      pending.map((j) => `  ${j.league.prefix}_${j.season}_players`).join("\n")
+  );
+  process.exitCode = 1;
+} else {
+  console.log("\nDone -- every table loaded.");
+}
