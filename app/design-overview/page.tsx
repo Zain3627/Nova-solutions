@@ -10,9 +10,12 @@ const PAGES = [
   { id: "profile", index: "01", title: "Player Profile" },
   { id: "results", index: "02", title: "Scouting Results" },
   { id: "shortlist", index: "03", title: "Shortlist" },
-  { id: "match-report", index: "04", title: "Match Report" },
-  { id: "squad", index: "05", title: "Squad" },
-  { id: "compare", index: "06", title: "Compare Players" },
+  { id: "match-projects", index: "04", title: "Match Projects" },
+  { id: "match-report", index: "05", title: "Match Report" },
+  { id: "squad", index: "06", title: "Squad" },
+  { id: "compare", index: "07", title: "Compare Players" },
+  { id: "fan-club", index: "08", title: "Club (Fan)" },
+  { id: "fan-compare", index: "09", title: "Compare Players (Fan)" },
 ];
 
 function WBox({ label, className = "" }: { label: string; className?: string }) {
@@ -54,7 +57,7 @@ export default function DesignOverviewPage() {
         <span>INTERNAL · NOT LINKED IN NAVIGATION</span>
         <h1>Page layout overview</h1>
         <p>
-          Low-fidelity wireframes for the six planned pages — a stand-in for a Figma file so we can
+          Low-fidelity wireframes for the nine planned pages — a stand-in for a Figma file so we can
           agree on structure before building each one for real. Dashed boxes are placeholder
           content, not final components.
         </p>
@@ -139,8 +142,29 @@ export default function DesignOverviewPage() {
       </Frame>
 
       <Frame
-        id="match-report"
+        id="match-projects"
         index="04"
+        title="Match Projects"
+        route="/coach/tactical-analysis/projects"
+        note={
+          "Landing spot after upload — every match a coach has sent in, with its processing state, so projects/[id] has somewhere to link from."
+        }
+      >
+        <div className={styles.row}>
+          <WBox label="New project" className={styles.btnBox} />
+          <WBox label="Filter — All / Processing / Ready" className={styles.lineBox} />
+        </div>
+        <div className={styles.col}>
+          <WBox label="Match row — teams, date, status badge: Processing" className={styles.lineBox} />
+          <WBox label="Match row — teams, date, status badge: Ready → opens report" className={styles.lineBox} />
+          <WBox label="Match row — teams, date, status badge: Ready → opens report" className={styles.lineBox} />
+          <WBox label="Match row — teams, date, status badge: Failed, retry" className={styles.lineBox} />
+        </div>
+      </Frame>
+
+      <Frame
+        id="match-report"
+        index="05"
         title="Match Report"
         route="/coach/tactical-analysis/projects/[id]"
         note={
@@ -158,7 +182,7 @@ export default function DesignOverviewPage() {
 
       <Frame
         id="squad"
-        index="05"
+        index="06"
         title="Squad"
         route="/coach/squad"
         note={
@@ -180,7 +204,7 @@ export default function DesignOverviewPage() {
 
       <Frame
         id="compare"
-        index="06"
+        index="07"
         title="Compare Players"
         route="/coach/scouting/compare"
         note={
@@ -188,6 +212,46 @@ export default function DesignOverviewPage() {
         }
       >
         <WBox label='Player selector chips (2–4) + "add player"' className={styles.lineBox} />
+        <WBox label="Overlaid radar chart" className={styles.bigBox} />
+        <WBox label="Side-by-side stat table — rows = metrics, columns = players, best value highlighted" className={styles.tallBox} />
+      </Frame>
+
+      <Frame
+        id="fan-club"
+        index="08"
+        title="Club (Fan)"
+        route="/fan/club/[clubId]"
+        note={
+          "Opened from a team name in the leaderboard. Aggregates the same league/season stats the fan page already loads — no new data source, just grouped by club instead of ranked individually."
+        }
+      >
+        <WBox label="Club header — crest, name, league, season" className={styles.lineBox} />
+        <div className={styles.grid4}>
+          {Array.from({ length: 4 }).map((_, i) => (
+            <WBox key={i} label="Team stat tile — e.g. goals scored, avg rating, clean sheets" />
+          ))}
+        </div>
+        <div className={styles.grid4}>
+          {["GK", "DEF", "MID", "FWD"].map((pos) => (
+            <div key={pos} className={styles.col}>
+              <span className={styles.kanbanHead}>{pos}</span>
+              <WBox label="Player row — name + headline stat" className={styles.lineBox} />
+              <WBox label="Player row — name + headline stat" className={styles.lineBox} />
+            </div>
+          ))}
+        </div>
+      </Frame>
+
+      <Frame
+        id="fan-compare"
+        index="09"
+        title="Compare Players (Fan)"
+        route="/fan/compare"
+        note={
+          "Same layout as the coach Compare page, opened from checkboxes on the leaderboard instead of a shortlist — public, read-only, no recruitment framing."
+        }
+      >
+        <WBox label='Player selector chips (2–4), picked from the leaderboard' className={styles.lineBox} />
         <WBox label="Overlaid radar chart" className={styles.bigBox} />
         <WBox label="Side-by-side stat table — rows = metrics, columns = players, best value highlighted" className={styles.tallBox} />
       </Frame>
