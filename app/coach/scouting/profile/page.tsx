@@ -48,7 +48,7 @@ export default async function PlayerProfilePage({
           <span>RECRUITMENT LAB</span>
           <h1>{player ? player.player_name : "Player profile"}</h1>
         </div>
-        <Link href="/coach/scouting" className={styles.backLink}>← SCOUTING</Link>
+        <Link href="/coach/scouting" className={styles.backLink} aria-label="Back to scouting">←</Link>
       </header>
 
       {!name && (

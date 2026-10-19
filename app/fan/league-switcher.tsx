@@ -1,6 +1,6 @@
 "use client";
 
-import { useTransition } from "react";
+import { useRef, useTransition } from "react";
 import Image from "next/image";
 import { useRouter, usePathname, useSearchParams } from "next/navigation";
 import { LEAGUES, SEASONS, type LeagueValue, type SeasonValue } from "@/lib/leagues";
@@ -20,6 +20,7 @@ export function LeagueSwitcher({
   const pathname = usePathname();
   const searchParams = useSearchParams();
   const [isPending, startTransition] = useTransition();
+  const statsPanelRef = useRef<HTMLDivElement>(null);
 
   const league = LEAGUES.find((l) => l.value === selectedLeague)!;
 
@@ -28,8 +29,19 @@ export function LeagueSwitcher({
     if (next.league) params.set("league", next.league);
     if (next.season) params.set("season", next.season);
     startTransition(() => {
-      router.push(`${pathname}?${params.toString()}`);
+      // scroll: false — otherwise Next resets scroll to top once the
+      // navigation resolves, overriding selectLeague's manual scroll below.
+      router.push(`${pathname}?${params.toString()}`, { scroll: false });
     });
+  }
+
+  function selectLeague(value: LeagueValue) {
+    updateParams({ league: value });
+    // Give the panel a moment to render the new league's data before
+    // scrolling, so the jump lands on the full leaderboard, not a stale one.
+    setTimeout(() => {
+      statsPanelRef.current?.scrollIntoView({ behavior: "smooth", block: "end" });
+    }, 150);
   }
 
   return (
@@ -40,7 +52,7 @@ export function LeagueSwitcher({
             type="button"
             key={l.value}
             className={`league-card ${selectedLeague === l.value ? "active" : ""}`}
-            onClick={() => updateParams({ league: l.value })}
+            onClick={() => selectLeague(l.value)}
           >
             <span className="logo-wrap">
               <Image src={l.icon} alt="" width={48} height={48} />
@@ -63,7 +75,7 @@ export function LeagueSwitcher({
         ))}
       </div>
 
-      <div className={`stats-panel ${isPending ? "pending" : ""}`}>
+      <div ref={statsPanelRef} className={`stats-panel ${isPending ? "pending" : ""}`}>
         <h2>{league.label}</h2>
         <p className="season-label">
           {SEASONS.find((s) => s.value === selectedSeason)?.label} Season
@@ -72,7 +84,7 @@ export function LeagueSwitcher({
         {players.length === 0 ? (
           <p className="empty">No stats available for this season yet.</p>
         ) : (
-          <StatsLeaderboards players={players} />
+          <StatsLeaderboards players={players} league={selectedLeague} season={selectedSeason} />
         )}
       </div>
 
@@ -177,7 +189,8 @@ export function LeagueSwitcher({
           border: 1px solid var(--input-border);
           background: var(--input-bg);
           border-radius: 14px;
-          padding: 28px;
+          padding: 40px;
+          min-height: 70vh;
           transition: opacity 0.15s ease;
         }
 
@@ -187,7 +200,7 @@ export function LeagueSwitcher({
 
         .stats-panel h2 {
           font-family: var(--font-display);
-          font-size: 23px;
+          font-size: 28px;
           font-weight: 800;
           letter-spacing: -0.35px;
           color: var(--white);

@@ -138,10 +138,28 @@ export const STAT_COLUMNS: { key: StatKey; label: string; category: StatCategory
 export type PlayerStatRow = {
   player_name: string;
   team_name: string;
+  team_id: number;
 } & Record<StatKey, number | null>;
 
 export const PLAYER_STATS_SELECT = [
   "player_name",
   "team_name",
+  "team_id",
   ...STAT_COLUMNS.map((c) => c.key),
 ].join(",");
+
+// Metrics where a lower number is the better outcome — used to decide which
+// side wins a stat row on the compare page.
+export const LOWER_IS_BETTER: ReadonlySet<StatKey> = new Set([
+  "yellowCards",
+  "redCards",
+  "fouls",
+  "dispossessed",
+  "possessionLost",
+  "ownGoals",
+  "errorLeadToGoal",
+  "dribbledPast",
+  "goalsConcededInsideTheBox",
+  "goalsConcededOutsideTheBox",
+  "bigChancesMissed",
+]);

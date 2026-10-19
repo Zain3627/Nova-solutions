@@ -9,9 +9,9 @@ import {
   getPlayersTableName,
 } from "@/lib/leagues";
 import { PLAYER_STATS_SELECT, type PlayerStatRow } from "@/lib/stats";
-import { FanView } from "./fan-view";
+import { FanView } from "../fan-view";
 
-export default async function FanPage({
+export default async function LeaderboardPage({
   searchParams,
 }: {
   searchParams: Promise<{ league?: string; season?: string }>;

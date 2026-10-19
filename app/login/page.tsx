@@ -14,7 +14,7 @@ export default function LoginPage() {
       <div className="bg-pattern" />
 
       <div className="card">
-        <div className="brand">
+        <Link href="/" className="brand" aria-label="Nova Solution home">
           <div className="brand-icon">
             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <circle cx="12" cy="12" r="9" stroke="#0b0e0c" strokeWidth="1.8" />
@@ -26,7 +26,7 @@ export default function LoginPage() {
             </svg>
           </div>
           <span className="brand-name">NOVA SOLUTION</span>
-        </div>
+        </Link>
 
         <h1>WELCOME BACK</h1>
         <p className="subtitle">Sign in to your tactical command center.</p>
@@ -160,6 +160,7 @@ export default function LoginPage() {
           align-items: center;
           gap: 10px;
           margin-bottom: 28px;
+          text-decoration: none;
         }
 
         .brand-icon {

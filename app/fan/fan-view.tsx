@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { signOutAction } from "@/lib/auth-actions";
 import { LeagueSwitcher } from "./league-switcher";
 import type { LeagueValue, SeasonValue } from "@/lib/leagues";
@@ -27,18 +28,21 @@ export function FanView({
       <div className="bg-pattern" />
 
       <header className="topbar">
-        <div className="brand">
-          <div className="brand-icon">
-            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <circle cx="12" cy="12" r="9" stroke="#0b0e0c" strokeWidth="1.8" />
-              <path d="M12 3 L14.5 8H9.5Z" fill="#0b0e0c" />
-              <path d="M12 21 L9.5 16H14.5Z" fill="#0b0e0c" />
-              <path d="M3 12 L8 9.5V14.5Z" fill="#0b0e0c" />
-              <path d="M21 12 L16 14.5V9.5Z" fill="#0b0e0c" />
-              <polygon points="12,9 14,12 12,15 10,12" fill="#0b0e0c" />
-            </svg>
+        <div className="brand-block">
+          <div className="brand">
+            <div className="brand-icon">
+              <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="12" cy="12" r="9" stroke="#0b0e0c" strokeWidth="1.8" />
+                <path d="M12 3 L14.5 8H9.5Z" fill="#0b0e0c" />
+                <path d="M12 21 L9.5 16H14.5Z" fill="#0b0e0c" />
+                <path d="M3 12 L8 9.5V14.5Z" fill="#0b0e0c" />
+                <path d="M21 12 L16 14.5V9.5Z" fill="#0b0e0c" />
+                <polygon points="12,9 14,12 12,15 10,12" fill="#0b0e0c" />
+              </svg>
+            </div>
+            <span className="brand-name">NOVA SOLUTION</span>
           </div>
-          <span className="brand-name">NOVA SOLUTION</span>
+          <Link href="/fan" className="backArrow" aria-label="Back to fan home">←</Link>
         </div>
 
         <div className="account-actions">
@@ -124,10 +128,37 @@ export function FanView({
           padding: 24px 40px;
         }
 
+        .brand-block {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 6px;
+        }
+
         .brand {
           display: flex;
           align-items: center;
           gap: 10px;
+        }
+
+        .backArrow {
+          width: 36px;
+          height: 36px;
+          display: grid;
+          place-items: center;
+          background: var(--accent);
+          border-radius: 8px;
+          color: #0b0e0c;
+          font-size: 17px;
+          font-weight: 700;
+          line-height: 1;
+          text-decoration: none;
+          transition: filter 0.2s, transform 0.2s;
+        }
+
+        .backArrow:hover {
+          filter: brightness(1.08);
+          transform: translateY(-1px);
         }
 
         .brand-icon {

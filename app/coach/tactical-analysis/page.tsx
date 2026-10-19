@@ -6,7 +6,7 @@ export default function TacticalAnalysisPage() {
     <div className={styles.page}>
       <header className={styles.topbar}>
         <div><span>MATCH LAB</span><h1>Tactical analysis</h1></div>
-        <Link href="/coach" className={styles.backLink}>← OVERVIEW</Link>
+        <Link href="/coach" className={styles.backLink} aria-label="Back to overview">←</Link>
       </header>
 
       <section className={`${styles.moduleHero} ${styles.tacticalHero}`}>

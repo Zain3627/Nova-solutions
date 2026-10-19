@@ -1,18 +1,29 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Link from "next/link";
 import { STAT_CATEGORIES, STAT_COLUMNS, type PlayerStatRow, type StatKey } from "@/lib/stats";
+import type { LeagueValue, SeasonValue } from "@/lib/leagues";
 
-const PAGE_SIZE = 10;
+const PAGE_SIZE = 15;
 const MAX_VISIBLE = 50;
 
 type Entry = {
   player_name: string;
   team_name: string;
+  team_id: number;
   value: number;
 };
 
-export function StatsLeaderboards({ players }: { players: PlayerStatRow[] }) {
+export function StatsLeaderboards({
+  players,
+  league,
+  season,
+}: {
+  players: PlayerStatRow[];
+  league: LeagueValue;
+  season: SeasonValue;
+}) {
   const [category, setCategory] = useState(STAT_CATEGORIES[0].id);
 
   const columns = STAT_COLUMNS.filter((c) => c.category === category);
@@ -34,7 +45,14 @@ export function StatsLeaderboards({ players }: { players: PlayerStatRow[] }) {
 
       <div className="grid">
         {columns.map((col) => (
-          <StatLeaderboard key={col.key} label={col.label} statKey={col.key} players={players} />
+          <StatLeaderboard
+            key={col.key}
+            label={col.label}
+            statKey={col.key}
+            players={players}
+            league={league}
+            season={season}
+          />
         ))}
       </div>
 
@@ -72,8 +90,8 @@ export function StatsLeaderboards({ players }: { players: PlayerStatRow[] }) {
 
         .grid {
           display: grid;
-          grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-          gap: 16px;
+          grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+          gap: 20px;
         }
       `}</style>
     </div>
@@ -84,10 +102,14 @@ function StatLeaderboard({
   label,
   statKey,
   players,
+  league,
+  season,
 }: {
   label: string;
   statKey: StatKey;
   players: PlayerStatRow[];
+  league: LeagueValue;
+  season: SeasonValue;
 }) {
   const [expanded, setExpanded] = useState(false);
 
@@ -96,6 +118,7 @@ function StatLeaderboard({
       .map((p) => ({
         player_name: p.player_name,
         team_name: p.team_name,
+        team_id: p.team_id,
         value: p[statKey],
       }))
       .filter((e): e is Entry => typeof e.value === "number" && e.value > 0)
@@ -124,7 +147,11 @@ function StatLeaderboard({
             <tr key={`${entry.player_name}-${entry.team_name}`}>
               <td className="rank">{i + 1}</td>
               <td className="player">{entry.player_name}</td>
-              <td className="team">{entry.team_name}</td>
+              <td className="team">
+                <Link href={`/fan/club/${entry.team_id}?league=${league}&season=${season}`}>
+                  {entry.team_name}
+                </Link>
+              </td>
               <td className="value">{formatValue(entry.value)}</td>
             </tr>
           ))}
@@ -144,18 +171,18 @@ function StatLeaderboard({
           border: 1px solid var(--input-border);
           background: var(--ui-panel);
           border-radius: 12px;
-          padding: 16px;
+          padding: 22px;
           display: flex;
           flex-direction: column;
         }
 
         h3 {
           font-family: var(--font-display);
-          font-size: 17px;
+          font-size: 20px;
           font-weight: 800;
           letter-spacing: -0.15px;
           color: var(--accent);
-          margin-bottom: 10px;
+          margin-bottom: 12px;
         }
 
         table {
@@ -165,19 +192,19 @@ function StatLeaderboard({
         }
 
         th {
-          font-size: 10.5px;
+          font-size: 11.5px;
           text-transform: uppercase;
           letter-spacing: 0.5px;
           color: var(--ui-muted);
           text-align: left;
-          padding: 4px 6px;
+          padding: 6px 8px;
           font-weight: 600;
         }
 
         td {
-          font-size: 12.5px;
+          font-size: 13.5px;
           color: var(--ui-text);
-          padding: 5px 6px;
+          padding: 7px 8px;
           border-top: 1px solid var(--ui-border);
         }
 
@@ -189,6 +216,16 @@ function StatLeaderboard({
         .team {
           color: var(--ui-muted);
           font-size: 11.5px;
+        }
+
+        .team a {
+          color: inherit;
+          text-decoration: none;
+        }
+
+        .team a:hover {
+          color: var(--ui-accent);
+          text-decoration: underline;
         }
 
         .value {

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import styles from "./overview.module.css";
 
 export const metadata: Metadata = {
@@ -54,6 +55,7 @@ export default function DesignOverviewPage() {
   return (
     <div className={styles.page}>
       <div className={styles.intro}>
+        <Link href="/" className={styles.backLink} aria-label="Back to site">←</Link>
         <span>INTERNAL · NOT LINKED IN NAVIGATION</span>
         <h1>Page layout overview</h1>
         <p>
