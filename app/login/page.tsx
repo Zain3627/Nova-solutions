@@ -161,6 +161,11 @@ export default function LoginPage() {
           gap: 10px;
           margin-bottom: 28px;
           text-decoration: none;
+          transition: opacity 0.18s;
+        }
+
+        .brand:hover {
+          opacity: 0.8;
         }
 
         .brand-icon {

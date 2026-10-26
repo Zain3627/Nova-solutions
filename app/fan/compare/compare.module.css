@@ -81,6 +81,12 @@
   font-size: 11.5px;
   letter-spacing: 0.4px;
   cursor: pointer;
+  transition: filter 0.18s, transform 0.18s;
+}
+
+.addForm button:hover:not(:disabled) {
+  filter: brightness(1.08);
+  transform: translateY(-1px);
 }
 
 .addForm button:disabled {

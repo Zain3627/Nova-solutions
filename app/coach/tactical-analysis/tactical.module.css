@@ -313,6 +313,12 @@ a.projectRow:hover {
   font: 700 10px var(--font-body);
   letter-spacing: 0.5px;
   cursor: pointer;
+  transition: 0.18s;
+}
+
+.tabRow button:hover {
+  color: var(--ui-text);
+  border-color: var(--ui-accent);
 }
 
 .tabRow button.tabActive {

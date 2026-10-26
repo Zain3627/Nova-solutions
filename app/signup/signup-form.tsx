@@ -216,7 +216,8 @@ export function SignupForm({ leagues }: { leagues: LeagueOption[] }) {
         .pitch-glow { position:fixed; width:650px; height:650px; border-radius:50%; background:#31883b; filter:blur(190px); opacity:.18; left:-260px; top:-220px; }
         .signup-shell { width:min(1320px,100%); min-height:calc(100vh - 56px); margin:auto; display:grid; grid-template-columns:minmax(330px,.76fr) minmax(560px,1.34fr); background:#0b1510; border:1px solid rgba(178,239,104,.15); border-radius:24px; overflow:hidden; position:relative; box-shadow:0 35px 100px rgba(0,0,0,.48); }
         .signup-story { min-height:760px; padding:42px; display:flex; flex-direction:column; background:radial-gradient(circle at 10% 80%,rgba(111,181,56,.26),transparent 42%),linear-gradient(155deg,rgba(25,69,34,.72),rgba(7,16,11,.92)); border-right:1px solid rgba(178,239,104,.13); position:sticky; top:0; height:calc(100vh - 56px); }
-        .brand,.mobile-brand { display:flex; align-items:center; gap:11px; font-family:"Bebas Neue",sans-serif; font-size:24px; letter-spacing:1.7px; text-decoration:none; }
+        .brand,.mobile-brand { display:flex; align-items:center; gap:11px; font-family:"Bebas Neue",sans-serif; font-size:24px; letter-spacing:1.7px; text-decoration:none; transition:opacity .18s; }
+        .brand:hover,.mobile-brand:hover { opacity:.8; }
         .brand b { color:#aee86e; font-weight:400; }
         .brand-mark { width:38px; height:38px; display:grid; place-items:center; background:#aee86e; color:#07100b; border-radius:10px; font-weight:900; font-family:"Syne",sans-serif; }
         .story-copy { margin:auto 0; }
@@ -280,7 +281,8 @@ export function SignupForm({ leagues }: { leagues: LeagueOption[] }) {
         .submit:hover { background:#c2f28b; transform:translateY(-1px); }
         .submit:disabled { opacity:.55; cursor:wait; }
         .login-link { text-align:center; margin-top:20px; color:rgba(244,246,241,.38); font-size:11px; }
-        .login-link a { color:#aee86e; font-weight:600; }
+        .login-link a { color:#aee86e; font-weight:600; transition:text-decoration-color .18s; }
+        .login-link a:hover { text-decoration:underline; }
         @media(max-width:1000px) { .signup-page{padding:0}.signup-shell{display:block;border-radius:0;min-height:100vh}.signup-story{display:none}.mobile-brand{display:flex;margin-bottom:35px}.form-panel{max-width:760px;margin:auto}.league-grid{grid-template-columns:repeat(5,1fr)} }
         @media(max-width:650px) { .form-panel{padding:28px 18px}.role-grid,.password-row{grid-template-columns:1fr}.league-grid{grid-template-columns:repeat(2,1fr)}.league-card{flex-direction:row;justify-content:flex-start;text-align:left;padding:10px}.club-grid{grid-template-columns:1fr 1fr}.form-heading h2{font-size:29px} }
         @media(max-width:420px) { .club-grid{grid-template-columns:1fr} }
