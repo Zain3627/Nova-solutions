@@ -42,7 +42,9 @@ export function FanView({
             </div>
             <span className="brand-name">NOVA SOLUTION</span>
           </div>
-          <Link href="/fan" className="backArrow" aria-label="Back to fan home">←</Link>
+          <Link href="/fan" aria-label="Back to fan home" style={{ textDecoration: "none" }}>
+            <span className="backArrow">←</span>
+          </Link>
         </div>
 
         <div className="account-actions">

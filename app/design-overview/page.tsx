@@ -8,15 +8,15 @@ export const metadata: Metadata = {
 };
 
 const PAGES = [
-  { id: "profile", index: "01", title: "Player Profile" },
-  { id: "results", index: "02", title: "Scouting Results" },
-  { id: "shortlist", index: "03", title: "Shortlist" },
-  { id: "match-projects", index: "04", title: "Match Projects" },
-  { id: "match-report", index: "05", title: "Match Report" },
-  { id: "squad", index: "06", title: "Squad" },
-  { id: "compare", index: "07", title: "Compare Players" },
-  { id: "fan-club", index: "08", title: "Club (Fan)" },
-  { id: "fan-compare", index: "09", title: "Compare Players (Fan)" },
+  { id: "profile", index: "01", title: "Player Profile", live: true },
+  { id: "results", index: "02", title: "Scouting Results", live: false },
+  { id: "shortlist", index: "03", title: "Shortlist", live: false },
+  { id: "match-projects", index: "04", title: "Match Projects", live: false },
+  { id: "match-report", index: "05", title: "Match Report", live: false },
+  { id: "squad", index: "06", title: "Squad", live: false },
+  { id: "compare", index: "07", title: "Compare Players", live: false },
+  { id: "fan-club", index: "08", title: "Club (Fan)", live: true },
+  { id: "fan-compare", index: "09", title: "Compare Players (Fan)", live: true },
 ];
 
 function WBox({ label, className = "" }: { label: string; className?: string }) {
@@ -29,6 +29,7 @@ function Frame({
   title,
   route,
   note,
+  live = false,
   children,
 }: {
   id: string;
@@ -36,6 +37,7 @@ function Frame({
   title: string;
   route: string;
   note: string;
+  live?: boolean;
   children: React.ReactNode;
 }) {
   return (
@@ -44,6 +46,9 @@ function Frame({
         <span className={styles.index}>{index}</span>
         <h2>{title}</h2>
         <code>{route}</code>
+        <span className={live ? styles.liveBadge : styles.plannedBadge}>
+          {live ? "✓ Live" : "Planned"}
+        </span>
       </div>
       <p className={styles.frameNote}>{note}</p>
       <div className={styles.frameBody}>{children}</div>
@@ -61,13 +66,17 @@ export default function DesignOverviewPage() {
         <p>
           Low-fidelity wireframes for the nine planned pages — a stand-in for a Figma file so we can
           agree on structure before building each one for real. Dashed boxes are placeholder
-          content, not final components.
+          content, not final components. Pages marked <strong>✓ Live</strong> have shipped with real
+          data; the rest are still wireframes.
         </p>
       </div>
 
       <nav className={styles.jumpNav} aria-label="Jump to page">
         {PAGES.map((p) => (
-          <a key={p.id} href={`#${p.id}`}>{p.index} · {p.title}</a>
+          <a key={p.id} href={`#${p.id}`}>
+            {p.index} · {p.title}
+            {p.live ? " ✓" : ""}
+          </a>
         ))}
       </nav>
 
@@ -76,6 +85,7 @@ export default function DesignOverviewPage() {
         index="01"
         title="Player Profile"
         route="/coach/scouting/profile"
+        live
         note={
           "Single-player deep dive — reuses the stat categories already built for the fan leaderboards. This is the first page being built for real, wired to live Supabase data."
         }
@@ -223,6 +233,7 @@ export default function DesignOverviewPage() {
         index="08"
         title="Club (Fan)"
         route="/fan/club/[clubId]"
+        live
         note={
           "Opened from a team name in the leaderboard. Aggregates the same league/season stats the fan page already loads — no new data source, just grouped by club instead of ranked individually."
         }
@@ -249,6 +260,7 @@ export default function DesignOverviewPage() {
         index="09"
         title="Compare Players (Fan)"
         route="/fan/compare"
+        live
         note={
           "Same layout as the coach Compare page, opened from checkboxes on the leaderboard instead of a shortlist — public, read-only, no recruitment framing."
         }

@@ -17,7 +17,9 @@
       "Bash(grep -o '.\\\\{0,20\\\\}backLink.\\\\{0,80\\\\}' app/coach/coach.module.css)",
       "Bash(python3 -)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/design-overview)",
-      "Bash(pkill -f \"next build\")"
+      "Bash(pkill -f \"next build\")",
+      "Bash(lsof -nP -iTCP:3000 -sTCP:LISTEN)",
+      "Bash(git add *)"
     ]
   }
 }
