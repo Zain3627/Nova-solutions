@@ -1,0 +1,362 @@
+.hiddenFileInput {
+  display: none;
+}
+
+.opponentInput {
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto 14px;
+  padding: 10px 12px;
+  border: 1px solid var(--ui-border);
+  border-radius: 7px;
+  background: var(--ui-input);
+  color: var(--ui-text);
+  font: 500 12px var(--font-body);
+  text-align: center;
+  outline: none;
+}
+
+.opponentInput::placeholder {
+  color: var(--ui-muted);
+}
+
+.filterRow {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.filterRow button {
+  padding: 9px 14px;
+  border: 1px solid var(--ui-border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ui-muted);
+  font: 700 10px var(--font-body);
+  letter-spacing: 0.6px;
+  cursor: pointer;
+  transition: 0.18s;
+}
+
+.filterRow button:hover {
+  color: var(--ui-text);
+  border-color: var(--ui-accent);
+}
+
+.filterRow button.filterActive {
+  color: var(--ui-accent-ink);
+  background: var(--ui-accent);
+  border-color: var(--ui-accent);
+}
+
+.projectList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.projectRow {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 20px;
+  border: 1px solid var(--ui-border);
+  border-radius: 12px;
+  background: var(--ui-subtle);
+  text-decoration: none;
+  color: inherit;
+  transition: 0.18s;
+}
+
+a.projectRow:hover {
+  border-color: var(--ui-accent);
+  transform: translateY(-1px);
+}
+
+.projectTeams {
+  flex: 1;
+  min-width: 0;
+}
+
+.projectTeams b {
+  display: block;
+  font: 750 16px var(--font-display);
+  letter-spacing: -0.2px;
+}
+
+.projectTeams small {
+  display: block;
+  margin-top: 3px;
+  font: 600 10px "JetBrains Mono", monospace;
+  color: var(--ui-muted);
+  letter-spacing: 0.4px;
+}
+
+.badge {
+  flex: 0 0 auto;
+  padding: 6px 11px;
+  border-radius: 999px;
+  font: 700 9px "JetBrains Mono", monospace;
+  letter-spacing: 0.6px;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.badge i {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.badgeReady {
+  background: var(--ui-accent-soft);
+  color: var(--ui-accent);
+}
+.badgeReady i {
+  background: var(--ui-accent);
+  box-shadow: 0 0 6px var(--ui-accent);
+}
+
+.badgeProcessing {
+  background: color-mix(in srgb, #e8b94a 18%, transparent);
+  color: #e8b94a;
+}
+.badgeProcessing i {
+  background: #e8b94a;
+  animation: pulse 1.2s infinite;
+}
+
+.badgeFailed {
+  background: color-mix(in srgb, #ff7a7a 18%, transparent);
+  color: #ff7a7a;
+}
+.badgeFailed i {
+  background: #ff7a7a;
+}
+
+.openArrow {
+  flex: 0 0 auto;
+  color: var(--ui-muted);
+  font-size: 15px;
+}
+
+.emptyState {
+  padding: 60px 20px;
+  text-align: center;
+  color: var(--ui-muted);
+  border: 1px dashed var(--ui-border);
+  border-radius: 14px;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+/* --- Match report --- */
+
+.reportHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 24px 28px;
+  border: 1px solid var(--ui-border);
+  border-radius: 16px;
+  background: var(--ui-panel);
+  margin-bottom: 22px;
+  flex-wrap: wrap;
+}
+
+.reportHeader h2 {
+  font: 800 clamp(24px, 3vw, 34px) var(--font-display);
+  letter-spacing: -0.5px;
+}
+
+.reportMeta {
+  font: 600 10px "JetBrains Mono", monospace;
+  color: var(--ui-muted);
+  letter-spacing: 0.6px;
+  margin-top: 6px;
+  display: block;
+}
+
+.processingNotice {
+  padding: 70px 24px;
+  text-align: center;
+  border: 1px dashed var(--ui-border);
+  border-radius: 16px;
+  color: var(--ui-muted);
+}
+
+.processingNotice h2 {
+  font: 800 24px var(--font-display);
+  color: var(--ui-text);
+  margin-bottom: 10px;
+}
+
+.reportGrid {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 16px;
+  margin-bottom: 22px;
+}
+
+@media (max-width: 760px) {
+  .reportGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.panel {
+  padding: 22px 24px;
+  border: 1px solid var(--ui-border);
+  border-radius: 14px;
+  background: var(--ui-subtle);
+}
+
+.panel h3 {
+  font: 750 16px var(--font-display);
+  letter-spacing: -0.2px;
+  margin-bottom: 14px;
+}
+
+.pitch {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  border: 1px solid var(--ui-border);
+  border-radius: 10px;
+  position: relative;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--ui-accent) 6%, transparent), transparent);
+}
+
+.pitch::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  border-left: 1px dashed var(--ui-border);
+}
+
+.pitch::after {
+  content: "";
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border: 1px dashed var(--ui-border);
+  border-radius: 50%;
+  left: calc(50% - 35px);
+  top: calc(50% - 35px);
+}
+
+.dot {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: -10px;
+  margin-top: -10px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font: 700 9px var(--font-body);
+}
+
+.dotHome {
+  background: var(--ui-accent);
+  color: var(--ui-accent-ink);
+}
+
+.dotAway {
+  background: #3a4a56;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.summaryList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.summaryList li {
+  display: flex;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--ui-text);
+}
+
+.summaryList li::before {
+  content: "▸";
+  color: var(--ui-accent);
+  flex: 0 0 auto;
+}
+
+.tabRow {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.tabRow button {
+  padding: 9px 14px;
+  border: 1px solid var(--ui-border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ui-muted);
+  font: 700 10px var(--font-body);
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
+
+.tabRow button.tabActive {
+  color: var(--ui-accent-ink);
+  background: var(--ui-accent);
+  border-color: var(--ui-accent);
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.timelineRow {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 4px;
+  border-bottom: 1px solid var(--ui-border);
+  font-size: 12.5px;
+}
+
+.timelineRow:last-child {
+  border-bottom: none;
+}
+
+.timelineMinute {
+  flex: 0 0 40px;
+  font: 700 11px "JetBrains Mono", monospace;
+  color: var(--ui-accent);
+}
+
+.timelineTeam {
+  flex: 0 0 auto;
+  color: var(--ui-muted);
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+.placeholderTab {
+  padding: 50px 20px;
+  text-align: center;
+  color: var(--ui-muted);
+  font-size: 12.5px;
+}

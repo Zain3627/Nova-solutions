@@ -132,6 +132,7 @@
 }
 
 .liveBadge,
+.mockedBadge,
 .plannedBadge {
   font: 800 10px var(--font-body);
   letter-spacing: 0.5px;
@@ -144,6 +145,12 @@
 .liveBadge {
   background: var(--ui-accent);
   color: var(--ui-accent-ink);
+}
+
+.mockedBadge {
+  background: color-mix(in srgb, #e8b94a 18%, transparent);
+  color: #e8b94a;
+  border: 1px solid color-mix(in srgb, #e8b94a 35%, transparent);
 }
 
 .plannedBadge {

@@ -7,16 +7,24 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
 };
 
-const PAGES = [
-  { id: "profile", index: "01", title: "Player Profile", live: true },
-  { id: "results", index: "02", title: "Scouting Results", live: false },
-  { id: "shortlist", index: "03", title: "Shortlist", live: false },
-  { id: "match-projects", index: "04", title: "Match Projects", live: false },
-  { id: "match-report", index: "05", title: "Match Report", live: false },
-  { id: "squad", index: "06", title: "Squad", live: false },
-  { id: "compare", index: "07", title: "Compare Players", live: false },
-  { id: "fan-club", index: "08", title: "Club (Fan)", live: true },
-  { id: "fan-compare", index: "09", title: "Compare Players (Fan)", live: true },
+type Status = "live" | "mocked" | "planned";
+
+const STATUS_LABEL: Record<Status, string> = {
+  live: "✓ Live",
+  mocked: "◐ Built · mocked data",
+  planned: "Planned",
+};
+
+const PAGES: { id: string; index: string; title: string; status: Status }[] = [
+  { id: "profile", index: "01", title: "Player Profile", status: "live" },
+  { id: "results", index: "02", title: "Scouting Results", status: "planned" },
+  { id: "shortlist", index: "03", title: "Shortlist", status: "planned" },
+  { id: "match-projects", index: "04", title: "Match Projects", status: "mocked" },
+  { id: "match-report", index: "05", title: "Match Report", status: "mocked" },
+  { id: "squad", index: "06", title: "Squad", status: "planned" },
+  { id: "compare", index: "07", title: "Compare Players", status: "planned" },
+  { id: "fan-club", index: "08", title: "Club (Fan)", status: "live" },
+  { id: "fan-compare", index: "09", title: "Compare Players (Fan)", status: "live" },
 ];
 
 function WBox({ label, className = "" }: { label: string; className?: string }) {
@@ -29,7 +37,7 @@ function Frame({
   title,
   route,
   note,
-  live = false,
+  status = "planned",
   children,
 }: {
   id: string;
@@ -37,18 +45,17 @@ function Frame({
   title: string;
   route: string;
   note: string;
-  live?: boolean;
+  status?: Status;
   children: React.ReactNode;
 }) {
+  const badgeClass = status === "live" ? styles.liveBadge : status === "mocked" ? styles.mockedBadge : styles.plannedBadge;
   return (
     <section id={id} className={styles.frame}>
       <div className={styles.frameHead}>
         <span className={styles.index}>{index}</span>
         <h2>{title}</h2>
         <code>{route}</code>
-        <span className={live ? styles.liveBadge : styles.plannedBadge}>
-          {live ? "✓ Live" : "Planned"}
-        </span>
+        <span className={badgeClass}>{STATUS_LABEL[status]}</span>
       </div>
       <p className={styles.frameNote}>{note}</p>
       <div className={styles.frameBody}>{children}</div>
@@ -67,7 +74,9 @@ export default function DesignOverviewPage() {
           Low-fidelity wireframes for the nine planned pages — a stand-in for a Figma file so we can
           agree on structure before building each one for real. Dashed boxes are placeholder
           content, not final components. Pages marked <strong>✓ Live</strong> have shipped with real
-          data; the rest are still wireframes.
+          data; <strong>◐ Built · mocked data</strong> pages have their real UI wired up but are
+          showing placeholder content pending another piece (e.g. the tactical-analysis video
+          pipeline); the rest are still wireframes.
         </p>
       </div>
 
@@ -75,7 +84,7 @@ export default function DesignOverviewPage() {
         {PAGES.map((p) => (
           <a key={p.id} href={`#${p.id}`}>
             {p.index} · {p.title}
-            {p.live ? " ✓" : ""}
+            {p.status === "live" ? " ✓" : p.status === "mocked" ? " ◐" : ""}
           </a>
         ))}
       </nav>
@@ -85,7 +94,7 @@ export default function DesignOverviewPage() {
         index="01"
         title="Player Profile"
         route="/coach/scouting/profile"
-        live
+        status="live"
         note={
           "Single-player deep dive — reuses the stat categories already built for the fan leaderboards. This is the first page being built for real, wired to live Supabase data."
         }
@@ -158,8 +167,9 @@ export default function DesignOverviewPage() {
         index="04"
         title="Match Projects"
         route="/coach/tactical-analysis/projects"
+        status="mocked"
         note={
-          "Landing spot after upload — every match a coach has sent in, with its processing state, so projects/[id] has somewhere to link from."
+          "Landing spot after upload — every match a coach has sent in, with its processing state, so projects/[id] has somewhere to link from. Built and working against mock data (localStorage) while a teammate builds the real video-analysis pipeline."
         }
       >
         <div className={styles.row}>
@@ -179,8 +189,9 @@ export default function DesignOverviewPage() {
         index="05"
         title="Match Report"
         route="/coach/tactical-analysis/projects/[id]"
+        status="mocked"
         note={
-          "The output of the upload-and-process flow — formation map, AI-written summary, and an event timeline. Can ship with mocked data before the real video pipeline is ready."
+          "The output of the upload-and-process flow — formation map, AI-written summary, and an event timeline. Shipped with mocked data; swap in the real pipeline's output once it's ready."
         }
       >
         <WBox label="Match header — teams, score, date, processing status badge" className={styles.lineBox} />
@@ -233,7 +244,7 @@ export default function DesignOverviewPage() {
         index="08"
         title="Club (Fan)"
         route="/fan/club/[clubId]"
-        live
+        status="live"
         note={
           "Opened from a team name in the leaderboard. Aggregates the same league/season stats the fan page already loads — no new data source, just grouped by club instead of ranked individually."
         }
@@ -260,7 +271,7 @@ export default function DesignOverviewPage() {
         index="09"
         title="Compare Players (Fan)"
         route="/fan/compare"
-        live
+        status="live"
         note={
           "Same layout as the coach Compare page, opened from checkboxes on the leaderboard instead of a shortlist — public, read-only, no recruitment framing."
         }

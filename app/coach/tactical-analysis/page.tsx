@@ -1,5 +1,6 @@
 import Link from "next/link";
 import styles from "../coach.module.css";
+import { UploadPanel } from "./upload-panel";
 
 export default function TacticalAnalysisPage() {
   return (
@@ -20,17 +21,17 @@ export default function TacticalAnalysisPage() {
         </div>
       </section>
 
-      <section className={styles.uploadPanel}>
-        <div className={styles.uploadIcon}>↑</div>
-        <span className={styles.kicker}>NEW MATCH PROJECT</span>
-        <h3>Upload match footage</h3>
-        <p>Drop an MP4, MOV or match link here to begin automated processing.</p>
-        <button type="button">SELECT VIDEO FILE</button>
-        <small>MAXIMUM FILE SIZE 8 GB · 1080P RECOMMENDED</small>
-      </section>
+      <UploadPanel />
 
       <div className={styles.sectionTitle}>
-        <div><span>02</span><h3>Analysis pipeline</h3></div>
+        <div><span>02</span><h3>Match projects</h3></div>
+        <Link href="/coach/tactical-analysis/projects" className={styles.openLink} style={{ position: "static" }}>
+          VIEW ALL PROJECTS <i>→</i>
+        </Link>
+      </div>
+
+      <div className={styles.sectionTitle}>
+        <div><span>03</span><h3>Analysis pipeline</h3></div>
         <small>FROM VIDEO TO GAME PLAN</small>
       </div>
       <section className={styles.pipeline}>
