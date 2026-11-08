@@ -19,7 +19,8 @@
       "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/design-overview)",
       "Bash(pkill -f \"next build\")",
       "Bash(lsof -nP -iTCP:3000 -sTCP:LISTEN)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
