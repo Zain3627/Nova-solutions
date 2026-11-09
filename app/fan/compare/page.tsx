@@ -73,17 +73,15 @@ export default async function ComparePage({
   return (
     <div className={shared.shell}>
       <header className={shared.topbar}>
-        <Link href="/fan" className={shared.brand}>
-          <span className={shared.brandMark}>N</span>
-          <span>NOVA SOLUTION</span>
-        </Link>
-        <Link
-          href={`/fan/leaderboard?league=${league}&season=${season}`}
-          className={shared.backLink}
-          aria-label="Back to leaderboard"
-        >
-          ←
-        </Link>
+        <div className={shared.brandBlock}>
+          <Link href="/fan" className={shared.brand}>
+            <span className={shared.brandMark}>N</span>
+            <span>NOVA SOLUTION</span>
+          </Link>
+          <Link href="/fan" className={shared.backLink} aria-label="Back to fan home">
+            ←
+          </Link>
+        </div>
       </header>
       <main className={shared.main}>
         <div className={styles.intro}>
