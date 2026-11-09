@@ -17,7 +17,7 @@ const STATUS_LABEL: Record<Status, string> = {
 
 const PAGES: { id: string; index: string; title: string; status: Status }[] = [
   { id: "profile", index: "01", title: "Player Profile", status: "live" },
-  { id: "results", index: "02", title: "Scouting Results", status: "planned" },
+  { id: "results", index: "02", title: "Scouting Results", status: "live" },
   { id: "shortlist", index: "03", title: "Shortlist", status: "planned" },
   { id: "match-projects", index: "04", title: "Match Projects", status: "mocked" },
   { id: "match-report", index: "05", title: "Match Report", status: "mocked" },
@@ -120,8 +120,9 @@ export default function DesignOverviewPage() {
         index="02"
         title="Scouting Results"
         route="/coach/scouting/results"
+        status="live"
         note={
-          "What the current search box on the Scouting page should lead to — a filtered grid of player cards, each linking to its Player Profile."
+          "A real, filterable player-card grid — league, position, preferred foot, age range, and minimum rating, each card linking to its Player Profile. Backed by a new players_bio table (position/DOB/foot data the per-season stat tables never carried) joined against the live stats."
         }
       >
         <div className={styles.row}>
