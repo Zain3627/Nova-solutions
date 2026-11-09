@@ -4,6 +4,36 @@ import Link from "next/link";
 import { signOutAction } from "@/lib/auth-actions";
 import { AccountSettings } from "@/app/account-settings/account-settings";
 
+const CARDS = [
+  {
+    href: "/fan/leaderboard",
+    index: "01 / STATISTICS",
+    icon: "◎",
+    title: "LEADERBOARDS",
+    desc: "Switch between every covered league and season, then compare stat-category rankings.",
+    tags: ["LEAGUES", "SEASONS", "RANKINGS"],
+    cta: "OPEN LEADERBOARDS",
+  },
+  {
+    href: "/fan/leaderboard",
+    index: "02 / TEAMS",
+    icon: "▣",
+    title: "CLUB PAGES",
+    desc: "Click any team name on the leaderboard to see its squad and aggregated team stats.",
+    tags: ["SQUADS", "TEAM STATS"],
+    cta: "BROWSE VIA LEADERBOARDS",
+  },
+  {
+    href: "/fan/compare",
+    index: "03 / ANALYSIS",
+    icon: "⇄",
+    title: "COMPARE PLAYERS",
+    desc: "Pick 2–4 players and see them side by side — a radar chart plus a full stat table.",
+    tags: ["RADAR CHART", "HEAD-TO-HEAD"],
+    cta: "OPEN COMPARE",
+  },
+] as const;
+
 export function FanOverviewView({
   firstName,
   email,
@@ -48,39 +78,41 @@ export function FanOverviewView({
         </div>
       </header>
 
-      <main className="hero">
-        <span className="kicker">FAN WORKSPACE</span>
-        <h1>Welcome back, {firstName}.</h1>
-        <p className="subtitle">Here&apos;s what you can do from here.</p>
+      <main className="page">
+        <section className="hero">
+          <div>
+            <span className="kicker">FAN WORKSPACE</span>
+            <h1>Welcome back,<br /><em>{firstName}.</em></h1>
+            <p>Here&apos;s what you can do from here — browse live stats, dig into a club, or line players up side by side.</p>
+          </div>
+          <div className="hero-graphic" aria-hidden="true">
+            <div className="orbit" />
+            <div className="orbit-ring" />
+            <span className="orbit-badge">N</span>
+          </div>
+        </section>
 
-        <div className="card-grid">
-          <Link href="/fan/leaderboard" style={{ display: "block", textDecoration: "none", color: "inherit" }}>
-            <div className="card">
-              <i className="card-icon">◎</i>
-              <h2>Leaderboards</h2>
-              <p>Switch between every covered league and season, then compare stat-category rankings.</p>
-              <b className="open-link">OPEN LEADERBOARDS →</b>
-            </div>
-          </Link>
-
-          <Link href="/fan/leaderboard" style={{ display: "block", textDecoration: "none", color: "inherit" }}>
-            <div className="card">
-              <i className="card-icon">▣</i>
-              <h2>Club pages</h2>
-              <p>Click any team name on the leaderboard to see its squad and aggregated team stats.</p>
-              <b className="open-link">BROWSE VIA LEADERBOARDS →</b>
-            </div>
-          </Link>
-
-          <Link href="/fan/compare" style={{ display: "block", textDecoration: "none", color: "inherit" }}>
-            <div className="card">
-              <i className="card-icon">⇄</i>
-              <h2>Compare players</h2>
-              <p>Pick 2–4 players and see them side by side — a radar chart plus a full stat table.</p>
-              <b className="open-link">OPEN COMPARE →</b>
-            </div>
-          </Link>
+        <div className="section-title">
+          <div><span>01</span><h3>Your tools</h3></div>
+          <small>SELECT A WORKSPACE TO BEGIN</small>
         </div>
+
+        <section className="card-grid">
+          {CARDS.map((card) => (
+            <Link key={card.title} href={card.href} style={{ display: "block", textDecoration: "none", color: "inherit" }}>
+              <div className="card">
+                <div className="card-icon">{card.icon}</div>
+                <span className="card-index">{card.index}</span>
+                <h2>{card.title}</h2>
+                <p>{card.desc}</p>
+                <div className="card-tags">
+                  {card.tags.map((tag) => <span key={tag}>{tag}</span>)}
+                </div>
+                <b className="open-link">{card.cta} <i>→</i></b>
+              </div>
+            </Link>
+          ))}
+        </section>
       </main>
 
       <style jsx>{`
@@ -186,12 +218,12 @@ export function FanOverviewView({
           background: rgba(224, 80, 80, 0.08);
         }
 
-        .hero {
+        .page {
           position: relative;
           z-index: 10;
           width: 100%;
-          max-width: 1100px;
-          margin: 24px auto 60px;
+          max-width: 1180px;
+          margin: 12px auto 60px;
           padding: 0 40px;
         }
 
@@ -200,23 +232,146 @@ export function FanOverviewView({
           font: 700 11px var(--font-body);
           letter-spacing: 1.8px;
           color: var(--accent);
-          margin-bottom: 10px;
+          margin-bottom: 12px;
         }
 
-        h1 {
+        .hero {
+          min-height: 240px;
+          padding: 40px 46px;
+          border: 1px solid var(--glass-border);
+          border-radius: 18px;
+          background: radial-gradient(circle at 85% 30%, var(--ui-accent-soft), transparent 32%), var(--ui-panel);
+          display: grid;
+          grid-template-columns: 1.3fr 0.7fr;
+          align-items: center;
+          gap: 24px;
+          margin-bottom: 30px;
+          overflow: hidden;
+        }
+
+        .hero h1 {
           font-family: var(--font-display);
-          font-size: clamp(32px, 5vw, 46px);
+          font-size: clamp(34px, 4.6vw, 52px);
           font-weight: 800;
-          letter-spacing: -0.8px;
+          letter-spacing: -1px;
+          line-height: 1;
           color: var(--white);
-          line-height: 1.05;
-          margin-bottom: 10px;
+          margin-bottom: 14px;
         }
 
-        .subtitle {
-          font-size: 14px;
+        .hero h1 em {
+          font-style: normal;
+          color: var(--accent);
+        }
+
+        .hero p {
+          max-width: 440px;
+          font-size: 13.5px;
+          line-height: 1.65;
           color: var(--ui-muted);
-          margin-bottom: 32px;
+        }
+
+        .hero-graphic {
+          position: relative;
+          height: 170px;
+          justify-self: end;
+          display: grid;
+          place-items: center;
+        }
+
+        .orbit {
+          position: absolute;
+          width: 170px;
+          height: 170px;
+          border-radius: 50%;
+          background: radial-gradient(circle, var(--ui-accent-soft), transparent 70%);
+        }
+
+        .orbit-ring {
+          position: absolute;
+          width: 130px;
+          height: 130px;
+          border: 1px dashed rgba(172, 233, 107, 0.3);
+          border-radius: 50%;
+          animation: spin 18s linear infinite;
+        }
+
+        .orbit-ring::before,
+        .orbit-ring::after {
+          content: "";
+          position: absolute;
+          width: 7px;
+          height: 7px;
+          border-radius: 50%;
+          background: var(--accent);
+          box-shadow: 0 0 10px var(--accent);
+        }
+
+        .orbit-ring::before {
+          top: -3.5px;
+          left: calc(50% - 3.5px);
+        }
+
+        .orbit-ring::after {
+          bottom: -3.5px;
+          left: calc(50% - 3.5px);
+        }
+
+        .orbit-badge {
+          width: 64px;
+          height: 64px;
+          display: grid;
+          place-items: center;
+          border-radius: 50%;
+          background: var(--ui-panel);
+          border: 1px solid var(--glass-border);
+          color: var(--accent);
+          font-family: var(--font-display);
+          font-size: 26px;
+          font-weight: 800;
+        }
+
+        @keyframes spin {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(360deg); }
+        }
+
+        .section-title {
+          margin: 0 0 14px;
+          display: flex;
+          align-items: end;
+          justify-content: space-between;
+        }
+
+        .section-title > div {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+
+        .section-title > div > span {
+          width: 26px;
+          height: 26px;
+          display: grid;
+          place-items: center;
+          background: var(--accent);
+          color: var(--ui-accent-ink);
+          border-radius: 7px;
+          font: 800 10px var(--font-body);
+        }
+
+        .section-title h3 {
+          font-family: var(--font-display);
+          font-size: 20px;
+          font-weight: 750;
+          letter-spacing: -0.25px;
+          color: var(--white);
+        }
+
+        .section-title small {
+          font: 700 10px var(--font-body);
+          color: var(--ui-muted);
+          letter-spacing: 0.8px;
         }
 
         .card-grid {
@@ -226,19 +381,27 @@ export function FanOverviewView({
         }
 
         .card {
+          min-height: 260px;
+          padding: 26px;
           display: flex;
           flex-direction: column;
-          gap: 10px;
-          min-height: 190px;
-          padding: 24px;
           border: 1px solid var(--glass-border);
-          border-radius: 16px;
-          background: var(--glass-bg);
-          backdrop-filter: blur(22px) saturate(1.4);
-          text-decoration: none;
-          color: inherit;
-          transition: border-color 0.2s, transform 0.2s;
+          border-radius: 15px;
+          background: linear-gradient(145deg, var(--ui-accent-soft), var(--ui-panel));
           position: relative;
+          overflow: hidden;
+          transition: border-color 0.2s, transform 0.2s;
+        }
+
+        .card::after {
+          content: "";
+          position: absolute;
+          width: 160px;
+          height: 160px;
+          right: -70px;
+          top: -60px;
+          border: 1px solid rgba(172, 233, 107, 0.12);
+          border-radius: 50%;
         }
 
         .card:hover {
@@ -252,35 +415,73 @@ export function FanOverviewView({
           display: grid;
           place-items: center;
           border-radius: 10px;
-          background: var(--ui-accent-soft);
+          background: rgba(172, 233, 107, 0.1);
           color: var(--accent);
-          font-size: 20px;
+          font-size: 19px;
           font-style: normal;
+          margin-bottom: 18px;
+        }
+
+        .card-index {
+          font: 700 9px var(--font-body);
+          letter-spacing: 1px;
+          color: var(--accent);
         }
 
         .card h2 {
           font-family: var(--font-display);
-          font-size: 19px;
+          font-size: 24px;
           font-weight: 800;
-          letter-spacing: -0.3px;
+          letter-spacing: -0.6px;
+          line-height: 1.05;
           color: var(--white);
+          margin: 8px 0 10px;
         }
 
         .card p {
-          font-size: 12.5px;
-          line-height: 1.6;
+          font-size: 12px;
+          line-height: 1.55;
           color: var(--ui-muted);
+          max-width: 300px;
           flex: 1;
         }
 
+        .card-tags {
+          display: flex;
+          gap: 5px;
+          flex-wrap: wrap;
+          margin-top: 14px;
+        }
+
+        .card-tags span {
+          padding: 5px 7px;
+          border: 1px solid var(--glass-border);
+          border-radius: 5px;
+          font: 700 8.5px var(--font-body);
+          color: var(--ui-muted);
+        }
+
         .open-link {
-          font-size: 10px;
-          font-weight: 700;
-          letter-spacing: 0.6px;
+          display: block;
+          margin-top: 16px;
+          font: 750 10px var(--font-body);
+          color: var(--white);
+          letter-spacing: 0.4px;
+        }
+
+        .open-link i {
           color: var(--accent);
+          font-style: normal;
+          margin-left: 6px;
         }
 
         @media (max-width: 860px) {
+          .hero {
+            grid-template-columns: 1fr;
+          }
+          .hero-graphic {
+            display: none;
+          }
           .card-grid {
             grid-template-columns: 1fr;
           }
@@ -288,7 +489,7 @@ export function FanOverviewView({
 
         @media (max-width: 640px) {
           .topbar { padding: 18px; }
-          .hero { padding: 0 18px; margin: 8px auto 36px; }
+          .page { padding: 0 18px; margin: 8px auto 36px; }
           .brand-name { display: none; }
         }
       `}</style>
