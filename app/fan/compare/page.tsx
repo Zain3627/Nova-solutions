@@ -64,9 +64,28 @@ export default async function ComparePage({
   const players = lookups.map((l) => l.player).filter((p): p is PlayerStatRow => p !== null);
   const notFound = lookups.filter((l) => !l.player).map((l) => l.name);
 
+  let suggestions: { player_name: string; team_name: string; rating: number | null }[] = [];
+  if (players.length < MAX_PLAYERS) {
+    const added = new Set(requestedNames.map((n) => n.toLowerCase()));
+    const { data } = await supabase
+      .from(tableName)
+      .select("player_name,team_name,rating")
+      .order("rating", { ascending: false, nullsFirst: false })
+      .limit(MAX_PLAYERS - players.length + requestedNames.length + 6);
+    suggestions = (data ?? [])
+      .filter((p) => !added.has(p.player_name.toLowerCase()))
+      .slice(0, 6);
+  }
+
   function removeHref(name: string) {
     const remaining = requestedNames.filter((n) => n !== name);
     const params = new URLSearchParams({ league, season, players: remaining.join(",") });
+    return `/fan/compare?${params.toString()}`;
+  }
+
+  function addSuggestionHref(name: string) {
+    const next = [...requestedNames, name];
+    const params = new URLSearchParams({ league, season, players: next.join(",") });
     return `/fan/compare?${params.toString()}`;
   }
 
@@ -113,7 +132,19 @@ export default async function ComparePage({
           <section className={styles.empty}>
             <span className={styles.kicker}>NOT ENOUGH PLAYERS</span>
             <h2>Add at least 2 players to compare</h2>
-            <p>Use exact player names from the {season.replace("_", "/")} leaderboard.</p>
+            <p>Search above, or quick-add one of this season&apos;s top-rated players below.</p>
+            {suggestions.length > 0 && (
+              <div className={styles.quickAdd}>
+                <span>TOP RATED THIS SEASON</span>
+                <div className={styles.quickAddChips}>
+                  {suggestions.map((s) => (
+                    <Link key={s.player_name} href={addSuggestionHref(s.player_name)} className={styles.quickAddChip}>
+                      {s.player_name} <b>{s.rating?.toFixed(1) ?? "—"}</b>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
           </section>
         ) : (
           <CompareView players={players} />
