@@ -54,25 +54,31 @@ export function FanOverviewView({
         <p className="subtitle">Here&apos;s what you can do from here.</p>
 
         <div className="card-grid">
-          <Link href="/fan/leaderboard" className="card">
-            <i className="card-icon">◎</i>
-            <h2>Leaderboards</h2>
-            <p>Switch between every covered league and season, then compare stat-category rankings.</p>
-            <b className="open-link">OPEN LEADERBOARDS →</b>
+          <Link href="/fan/leaderboard" style={{ display: "block", textDecoration: "none", color: "inherit" }}>
+            <div className="card">
+              <i className="card-icon">◎</i>
+              <h2>Leaderboards</h2>
+              <p>Switch between every covered league and season, then compare stat-category rankings.</p>
+              <b className="open-link">OPEN LEADERBOARDS →</b>
+            </div>
           </Link>
 
-          <Link href="/fan/leaderboard" className="card">
-            <i className="card-icon">▣</i>
-            <h2>Club pages</h2>
-            <p>Click any team name on the leaderboard to see its squad and aggregated team stats.</p>
-            <b className="open-link">BROWSE VIA LEADERBOARDS →</b>
+          <Link href="/fan/leaderboard" style={{ display: "block", textDecoration: "none", color: "inherit" }}>
+            <div className="card">
+              <i className="card-icon">▣</i>
+              <h2>Club pages</h2>
+              <p>Click any team name on the leaderboard to see its squad and aggregated team stats.</p>
+              <b className="open-link">BROWSE VIA LEADERBOARDS →</b>
+            </div>
           </Link>
 
-          <Link href="/fan/compare" className="card">
-            <i className="card-icon">⇄</i>
-            <h2>Compare players</h2>
-            <p>Pick 2–4 players and see them side by side — a radar chart plus a full stat table.</p>
-            <b className="open-link">OPEN COMPARE →</b>
+          <Link href="/fan/compare" style={{ display: "block", textDecoration: "none", color: "inherit" }}>
+            <div className="card">
+              <i className="card-icon">⇄</i>
+              <h2>Compare players</h2>
+              <p>Pick 2–4 players and see them side by side — a radar chart plus a full stat table.</p>
+              <b className="open-link">OPEN COMPARE →</b>
+            </div>
           </Link>
         </div>
       </main>
