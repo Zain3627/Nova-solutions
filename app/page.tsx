@@ -45,18 +45,18 @@ export default function LandingPage() {
           <h2>Choose your workspace</h2>
         </div>
         <div className={styles.cards}>
-          <article>
+          <Link href="/signup" className={styles.cardLink}>
             <span>FOR FANS</span>
             <h3>Explore player statistics</h3>
             <p>Switch between supported leagues and seasons, then compare category leaderboards.</p>
-            <Link href="/signup">Create a fan account <b>→</b></Link>
-          </article>
-          <article>
+            <span className={styles.cardCta}>Create a fan account <b>→</b></span>
+          </Link>
+          <Link href="/signup" className={styles.cardLink}>
             <span>FOR COACHES</span>
             <h3>Access your club workspace</h3>
             <p>Use a focused dashboard for the scouting and tactical sections available to your club.</p>
-            <Link href="/signup">Create a coach account <b>→</b></Link>
-          </article>
+            <span className={styles.cardCta}>Create a coach account <b>→</b></span>
+          </Link>
         </div>
       </section>
 
