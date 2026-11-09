@@ -1,8 +1,8 @@
 import Link from "next/link";
 import styles from "../coach.module.css";
 import { ScoutingSearchForm } from "./search-form";
-
-const positions = ["Goalkeeper", "Centre back", "Full back", "Midfielder", "Winger", "Striker"];
+import { COACH_LEAGUES } from "@/lib/leagues";
+import { POSITIONS, FEET } from "@/lib/players-bio";
 
 export default function ScoutingPage() {
   return (
@@ -24,18 +24,48 @@ export default function ScoutingPage() {
         <small>REFINE YOUR SEARCH</small>
       </div>
 
-      <section className={styles.filterPanel}>
+      <form method="get" action="/coach/scouting/results" className={styles.filterPanel}>
         <div className={styles.positionPicker}>
           <label>POSITION</label>
-          <div>{positions.map((position, index) => <button type="button" className={index === 3 ? styles.selectedFilter : undefined} key={position}>{position}</button>)}</div>
+          <div>
+            <button type="submit" name="position" value="">Any</button>
+            {POSITIONS.map((p) => (
+              <button type="submit" name="position" value={p.value} key={p.value}>{p.label}</button>
+            ))}
+          </div>
         </div>
         <div className={styles.filterGrid}>
-          <label><span>AGE RANGE</span><div className={styles.rangeValues}><b>18</b><span>—</span><b>27</b></div></label>
-          <label><span>PREFERRED FOOT</span><select defaultValue="any"><option value="any">Any foot</option><option>Right</option><option>Left</option></select></label>
-          <label><span>LEAGUE</span><select defaultValue="all"><option value="all">All covered leagues</option><option>Premier League</option><option>La Liga</option><option>Bundesliga</option></select></label>
-          <label><span>PLAY STYLE</span><select defaultValue="progressive"><option value="progressive">Progressive</option><option>Possession</option><option>Direct</option><option>Defensive</option></select></label>
+          <label>
+            <span>AGE RANGE</span>
+            <div className={styles.rangeValues}>
+              <input type="number" name="ageMin" min={14} max={45} placeholder="18" />
+              <span>—</span>
+              <input type="number" name="ageMax" min={14} max={45} placeholder="27" />
+            </div>
+          </label>
+          <label>
+            <span>PREFERRED FOOT</span>
+            <select name="foot" defaultValue="">
+              <option value="">Any foot</option>
+              {FEET.map((f) => <option key={f} value={f}>{f}</option>)}
+            </select>
+          </label>
+          <label>
+            <span>LEAGUE</span>
+            <select name="league" defaultValue="premier_league">
+              {COACH_LEAGUES.map((l) => <option key={l.value} value={l.value}>{l.label}</option>)}
+            </select>
+          </label>
+          <label>
+            <span>SORT BY</span>
+            <select name="sort" defaultValue="rating">
+              <option value="rating">Rating (highest)</option>
+              <option value="age">Age (youngest)</option>
+            </select>
+          </label>
         </div>
-      </section>
+        <button type="submit" className={styles.searchResultsBtn}>SEARCH PLAYERS →</button>
+      </form>
 
       <section className={styles.workflowGrid}>
         <article><span>01</span><i>⌕</i><h3>Discover</h3><p>Search with football language or detailed statistical constraints.</p></article>
