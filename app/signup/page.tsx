@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { COACH_LEAGUES } from "@/lib/leagues";
 import { getClubsForLeague } from "@/lib/clubs";
 import { SignupForm } from "./signup-form";
@@ -10,5 +11,9 @@ export default function SignupPage() {
     clubs: getClubsForLeague(league.value),
   }));
 
-  return <SignupForm leagues={leagues} />;
+  return (
+    <Suspense>
+      <SignupForm leagues={leagues} />
+    </Suspense>
+  );
 }

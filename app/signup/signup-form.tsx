@@ -3,6 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useActionState, useMemo, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import type { Club } from "@/lib/clubs";
 import type { LeagueValue } from "@/lib/leagues";
 import { signupAction } from "./actions";
@@ -17,7 +18,8 @@ type LeagueOption = {
 
 export function SignupForm({ leagues }: { leagues: LeagueOption[] }) {
   const [state, formAction, pending] = useActionState(signupAction, undefined);
-  const [role, setRole] = useState<Role>("fan");
+  const searchParams = useSearchParams();
+  const [role, setRole] = useState<Role>(searchParams.get("role") === "pro" ? "pro" : "fan");
   const [league, setLeague] = useState<LeagueValue | "">("");
   const [clubId, setClubId] = useState("");
   const [clubSearch, setClubSearch] = useState("");
